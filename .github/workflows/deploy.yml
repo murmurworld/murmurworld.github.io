@@ -1,4 +1,4 @@
-name: Deploy Murmurland to GitHub Pages
+name: Deploy Murmurworld to GitHub Pages
 
 on:
   push:
@@ -20,7 +20,7 @@ jobs:
         with:
           persist-credentials: false
       - name: Extract uploaded site files
-        run: python3 -m zipfile -e murmurland-source.zip site
+        run: python3 -m zipfile -e murmurworld-source.zip site
       - uses: withastro/action@v6
         with:
           path: site
