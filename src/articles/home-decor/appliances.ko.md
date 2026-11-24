@@ -64,9 +64,9 @@ description: "온라인에서 따로 고르던 신혼 가전을 백화점에서 
     <tbody>
       <tr><th scope="row"><a href="/blog/home/decor/refrigerator/">냉장고</a></th><td>LG 834L 양문형<br>넉넉한 냉동실</td><td>삼성 609L 키친핏 Max<br>본체 깊이 23cm 감소</td></tr>
       <tr><th scope="row"><a href="/blog/home/decor/washer-dryer/">세탁·건조기</a></th><td>직렬 설치를 보다가 삼성 콤보 WD80H25BHS<br>세탁 25kg · 건조 18kg</td><td>삼성 콤보 WD90H25AHY<br>세탁 25kg · 건조 20kg, 자동 문 열림</td></tr>
-      <tr><th scope="row">정수기</th><td>얼음 모델을 빼고 삼성 RWP70F15ANB와 LG WD523AWB 비교</td><td>삼성 RWP70F15ANW<br>냉수·온수·정수, 사틴 그레이지</td></tr>
-      <tr><th scope="row">로봇청소기</th><td>에코백스 T50 Pro Omni<br>본체 높이 81mm</td><td>삼성 스팀 울트라 VR90F01AAG<br>본체 높이 100mm</td></tr>
-      <tr><th scope="row">공기청정기</th><td>LG 퓨리케어 Hit 62㎡<br>삼성 블루스카이 5500 60㎡</td><td>삼성 Infinite AI AP90H03163UGD<br>표준사용면적 33㎡</td></tr>
+      <tr><th scope="row"><a href="/blog/home/decor/water-purifier/">정수기</a></th><td>얼음 모델을 빼고 삼성 RWP70F15ANB와 LG WD523AWB 비교</td><td>삼성 RWP70F15ANW<br>냉수·온수·정수, 사틴 그레이지</td></tr>
+      <tr><th scope="row"><a href="/blog/home/decor/robot-vacuum/">로봇청소기</a></th><td>에코백스 T50 Pro Omni<br>본체 높이 81mm</td><td>삼성 스팀 울트라 VR90F01AAG<br>본체 높이 100mm</td></tr>
+      <tr><th scope="row"><a href="/blog/home/decor/air-purifier/">공기청정기</a></th><td>LG 퓨리케어 Hit 62㎡<br>삼성 블루스카이 5500 60㎡</td><td>삼성 Infinite AI AP90H03163UGD<br>표준사용면적 33㎡</td></tr>
     </tbody>
   </table>
   <p class="guide-note">정수기는 얼음 기능과 필터 관리, 로봇청소기는 가구 아래로 들어갈 높이, 공기청정기는 사용할 공간의 면적과 필터를 비교했다. 에어컨은 기존 천장형 두 대를 쓰기로 해 표에서 뺐다.</p>
