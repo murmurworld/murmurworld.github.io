@@ -22,13 +22,12 @@ jobs:
       - name: Extract the site template
         run: python3 -m zipfile -e murmurworld-source.zip site
       - name: Add the latest article files
+        shell: bash
         run: |
-          for article in appliances refrigerator washer-dryer sofa; do
-            for language in ko en; do
-              source="src/articles/home-decor/$article.$language.md"
-              test -f "$source"
-              cp "$source" "site/$source"
-            done
+          for template in site/src/articles/home-decor/*.{ko,en}.md; do
+            source="${template#site/}"
+            test -f "$source"
+            cp -- "$source" "$template"
           done
       - uses: withastro/action@v6
         env:
