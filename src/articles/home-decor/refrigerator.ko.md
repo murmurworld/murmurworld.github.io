@@ -1,7 +1,9 @@
 ---
-title: "냉장고, 834L로 정했다가 609L 키친핏이 됐다"
-description: "이사하면 김치냉장고를 옆에 두고 싶어서 609L 키친핏을 골랐다. 폭과 깊이, 냉동실 용량, 한 달 전력량을 두 모델로 비교해 봤다."
+title: "냉장고는 삼성 609L 키친핏으로"
+description: "묶음 견적이 더 저렴해 삼성 609L 키친핏 Max를 계약했다. LG 834L 후보와 깊이, 냉동실 용량, 한 달 소비전력량을 비교했다."
 ---
+
+LG 냉장고는 별로 아쉽지 않았다. 묶어서 싼 쪽으로 갔다. 키친핏은 나보다 예비신부가 마음에 들어 했다.
 
 <figure class="guide-photo">
   <img src="/media/newsroom/samsung-kfm-showcase-closed.jpg" width="1000" height="719" fetchpriority="high" decoding="async" alt="흰 수납장 사이에 설치된 4도어 키친핏 Max 냉장고">
@@ -11,23 +13,13 @@ description: "이사하면 김치냉장고를 옆에 두고 싶어서 609L 키�
 <aside class="guide-panel guide-summary" aria-labelledby="fridge-summary">
   <h2 id="fridge-summary">한눈에 보기</h2>
   <dl>
-    <div><dt>고른 것</dt><dd>LG 834L를 알아보다 삼성 609L 키친핏 Max를 샀다.</dd></div>
-    <div><dt>고른 이유</dt><dd>이사하면 옆에 김치냉장고를 두고 싶었다. 본체 깊이가 얕은 쪽이 좋았다.</dd></div>
-    <div><dt>달라진 것</dt><dd>깊이는 23cm, 냉동실은 75L 줄었다. 한 달 전력량 차이는 2&nbsp;kWh 미만이다.</dd></div>
+    <div><dt>계약 모델</dt><dd>삼성 609L 키친핏 Max RM80H64S2A</dd></div>
+    <div><dt>고른 이유</dt><dd>묶음 견적이 더 쌌고, 예비신부가 키친핏을 마음에 들어 했다.</dd></div>
+    <div><dt>주요 사양</dt><dd>깊이 68.3cm, 냉동실 233L.</dd></div>
   </dl>
 </aside>
 
-## 어떻게 바뀌었나
-
-처음에 골라 둔 건 LG 834L 양문형이었다. 밝은색에 냉동실이 넉넉했고, 에너지효율 1등급이었다.
-
-백화점 삼성 매장에서 가전 다섯 가지를 한 번에 계약하면서 냉장고도 다시 봤다. 그때 생각난 게 김치냉장고였다. 이사하면 두 대를 나란히 두고 싶어서 냉장고가 장 밖으로 얼마나 나올지 살폈다. 그렇게 고른 게 삼성 609L 키친핏 Max다.
-
-<p class="guide-label">크기</p>
-
-## 깊이 23cm가 줄었다
-
-키친핏은 냉장고장 밖으로 덜 나오도록 본체 깊이를 줄인 삼성 제품군이다. 두 모델의 폭은 1mm 차이인데, 깊이는 23cm 차이가 났다.
+## 크기
 
 <figure class="guide-panel">
   <div class="fridge-profile" aria-hidden="true">
@@ -54,13 +46,9 @@ description: "이사하면 김치냉장고를 옆에 두고 싶어서 609L 키�
   <p class="guide-note">제조사 사양 기준. 삼성 치수는 후면 손잡이 제외.</p>
 </div>
 
-<p class="guide-point"><strong>정리</strong><span>폭은 거의 같고, 삼성 제품이 23cm 얕아 주방 쪽으로 덜 나온다.</span></p>
+삼성의 한 대 설치 예시는 양옆에 4mm씩, 위에 20mm를 비운다. 본체 폭까지 더하면 냉장고장 안쪽이 920mm다. [삼성 설치 예시](https://www.samsung.com/sec/refrigerators/french-door-rm80h64s2a-d2c/RM80H64S2A/)
 
-<p class="guide-label">용량</p>
-
-## 냉동실이 75L 작아졌다
-
-냉장실에서 148L, 냉동실에서 75L가 줄었다. 두 칸을 합치면 223L, 처음 골라 둔 냉장고의 4분의 1 정도다.
+## 용량
 
 <figure class="guide-photo">
   <img src="/media/newsroom/samsung-kfm-showcase-inside.jpg" width="1000" height="690" loading="lazy" decoding="async" alt="삼성 키친핏 Max의 열린 냉장실과 문 쪽 수납칸">
@@ -77,16 +65,12 @@ description: "이사하면 김치냉장고를 옆에 두고 싶어서 609L 키�
       <tr><th scope="row">냉동실</th><td style="--share: 34.22%">308L</td><td style="--share: 25.89%">233L</td></tr>
     </tbody>
   </table>
-  <p class="guide-note">막대는 제조사 용량을 같은 눈금으로 비교했다. 한국에너지공단에는 같은 모델이 각각 834L와 611.5L로 나와 모델명으로 대조했다.</p>
+  <p class="guide-note">표는 제조사 사양 기준이다. 공단 신고 용량은 LG 834L, 삼성 611.5L로 다르다.</p>
 </div>
 
-<p class="guide-point"><strong>정리</strong><span>얕은 모델로 바꾸면서 냉동실은 308L에서 233L가 됐다.</span></p>
+## 전기
 
-<p class="guide-label">전기</p>
-
-## 한 달 전력량 차이는 2kWh 미만
-
-효율등급과 월 소비전력량을 따로 봤다. 달마다 냉장고가 쓸 전기가 궁금하면 라벨의 kWh 숫자를 보면 된다.
+LG는 1등급, 삼성은 2등급이었다. 제조사 사양끼리 보면 삼성의 한 달 소비전력량이 1.7kWh 적었다.
 
 <div class="guide-panel">
   <h3 id="fridge-electricity">월 소비전력량</h3>
@@ -97,66 +81,37 @@ description: "이사하면 김치냉장고를 옆에 두고 싶어서 609L 키�
       <tr><th scope="row">공단 신고</th><td style="--share: 84.33%">37.95&nbsp;kWh</td><td style="--share: 80.29%">36.13&nbsp;kWh</td></tr>
     </tbody>
   </table>
-  <p class="guide-note">제조사 사양과 한국에너지공단 신고값은 각각 같은 기준끼리 비교했다.</p>
+  <p class="guide-note">한국에너지공단 신고 정보는 <a href="https://eep.energy.or.kr/certification/certi_view_252.aspx?no=252250342&amp;page=1">LG</a>와 <a href="https://eep.energy.or.kr/certification/certi_view_252.aspx?no=252260150&amp;page=1">삼성</a>에서 확인할 수 있다.</p>
 </div>
 
-[신혼집 가전 전력 계산기](/blog/home/decor/power/)에는 제조사 표기인 38.5&nbsp;kWh를 넣었다.
+[신혼 가전 전력 계산기](/blog/home/decor/power/)에는 삼성 사양에 나온 38.5kWh를 넣었다.
 
-<p class="guide-point"><strong>정리</strong><span>공단과 제조사 수치 모두 삼성 쪽이 한 달에 약 1.8&nbsp;kWh 적었다.</span></p>
-
-<p class="guide-label">설치</p>
-
-## 냉장고장에는 여유가 필요하다
-
-삼성의 설치 예시에는 본체 옆과 위에 틈이 있다. 본체 폭에 양쪽 틈을 더하면 장 안쪽 폭은 920mm다.
+## AI로 찾아 둔 후보
 
 <div class="guide-panel">
-  <h3 id="fridge-clearances">삼성 냉장고 한 대 설치 예시</h3>
-  <table aria-labelledby="fridge-clearances">
+  <table aria-label="냉장고 후보와 계약 모델" aria-describedby="fridge-candidate-note">
+    <colgroup><col style="width: 38%"><col style="width: 24%"><col></colgroup>
+    <thead><tr><th scope="col">모델</th><th scope="col">용량<br>깊이</th><th scope="col">특징</th></tr></thead>
     <tbody>
-      <tr><th scope="row">본체 폭</th><td>912mm</td></tr>
-      <tr><th scope="row">옆쪽 간격</th><td>좌우 각 4mm</td></tr>
-      <tr><th scope="row">위쪽 간격</th><td>20mm</td></tr>
+      <tr><th scope="row">삼성<br><a href="https://www.samsung.com/sec/support/model/RS84DB5002CW/">RS84DB<wbr>5002CW</a></th><td>852L<br>892mm</td><td>양문형. 손으로 돌려 얼음을 빼는 방식.</td></tr>
+      <tr><th scope="row">LG<br><a href="https://www.lge.co.kr/product/refrigerators/s834mqq111">S834MQQ111</a></th><td>832L<br>913mm</td><td>화이트 1등급 양문형. 냉동실 308L.</td></tr>
+      <tr><th scope="row">LG<br><a href="https://www.lge.co.kr/product/refrigerators/m616mqq0m1">M616MQQ0M1</a></th><td>609L<br>698mm</td><td>1등급 Fit &amp; Max.</td></tr>
+      <tr><th scope="row">삼성<br><a href="https://www.samsung.com/sec/support/model/RM70F64Q1A/">RM70F64Q1A</a></th><td>623L<br>683mm</td><td>1등급 키친핏 Max.</td></tr>
+      <tr><th scope="row">삼성<br><a href="https://www.samsung.com/sec/support/model/RM80H64S2A/">RM80H64S2A</a></th><td>609L<br>683mm</td><td><strong>계약 모델.</strong> 키친핏 Max.</td></tr>
     </tbody>
   </table>
+  <p class="guide-note" id="fridge-candidate-note">제조사 사양 기준. 삼성 키친핏 Max 두 모델의 깊이는 후면 손잡이 제외.</p>
 </div>
-
-<p class="guide-point"><strong>정리</strong><span>920mm는 삼성 냉장고 한 대를 설치하는 예시다. 두 대를 놓을 때는 모델을 정하고 설치 간격을 다시 확인할 생각이다.</span></p>
 
 ## 이사 가면 할 일
 
 <figure class="guide-photo">
   <img src="/media/newsroom/samsung-kimchi-kfm.jpg" width="1000" height="561" loading="lazy" decoding="async" alt="흰 수납장 안에 들어간 삼성 키친핏 Max 김치냉장고">
-  <figcaption>이사 후 참고하고 싶은 키친핏 Max 김치냉장고. 2025년 보도 사진. <a href="https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%ED%82%A4%EC%B9%9C%ED%95%8F-%EB%A7%A5%EC%8A%A4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%A0%81%EC%9A%A9%ED%95%9C-%EA%B9%80%EC%B9%98%EB%83%89%EC%9E%A5%EA%B3%A0-%EC%8B%A0">삼성전자 뉴스룸</a></figcaption>
+  <figcaption>키친핏 Max 김치냉장고의 2025년 보도 사진. <a href="https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%ED%82%A4%EC%B9%9C%ED%95%8F-%EB%A7%A5%EC%8A%A4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%A0%81%EC%9A%A9%ED%95%9C-%EA%B9%80%EC%B9%98%EB%83%89%EC%9E%A5%EA%B3%A0-%EC%8B%A0">삼성전자 뉴스룸</a></figcaption>
 </figure>
 
 - 냉장고와 김치냉장고가 나란히 들어갈 폭 재기
-- 지금 냉장고와 색, 크기, 디자인이 비슷한 김치냉장고 고르기
-- 두 대의 문을 활짝 열고 서랍을 끝까지 뺄 자리가 있는지 보기
+- 지금 냉장고와 색과 크기가 비슷한 김치냉장고 고르기
+- 두 대의 문을 열고 서랍을 꺼낼 공간 확인하기
 
-## 살 때 비교했던 냉장고
-
-처음엔 화이트 양문형을 기준으로 봤다. 장 밖으로 덜 나오는 제품을 찾으면서 600L급도 같이 알아봤다.
-
-<div class="guide-panel">
-  <table aria-label="구매할 때 비교한 냉장고 다섯 모델" aria-describedby="fridge-candidate-note">
-    <colgroup><col style="width: 38%"><col style="width: 24%"><col></colgroup>
-    <thead><tr><th scope="col">모델</th><th scope="col">용량<br>깊이</th><th scope="col">눈여겨본 점</th></tr></thead>
-    <tbody>
-      <tr><th scope="row">삼성<br><a href="https://www.samsung.com/sec/support/model/RS84DB5002CW/">RS84DB<wbr>5002CW</a></th><td>852L<br>892mm</td><td>처음 예산을 잡을 때 참고한 양문형. 손으로 돌려 얼음을 빼는 방식.</td></tr>
-      <tr><th scope="row">LG<br><a href="https://www.lge.co.kr/product/refrigerators/s834mqq111">S834MQQ111</a></th><td>832L<br>913mm</td><td>묶음 견적 전에 골랐다. 화이트 1등급에 냉동실이 308L였다.</td></tr>
-      <tr><th scope="row">LG<br><a href="https://www.lge.co.kr/product/refrigerators/m616mqq0m1">M616MQQ0M1</a></th><td>609L<br>698mm</td><td>깊이를 줄이면서 1등급을 유지할 수 있는 Fit &amp; Max 후보.</td></tr>
-      <tr><th scope="row">삼성<br><a href="https://www.samsung.com/sec/support/model/RM70F64Q1A/">RM70F64Q1A</a></th><td>623L<br>683mm</td><td>깊이가 얕은 삼성 후보. 600L급 키친핏 Max에도 1등급이 있었다.</td></tr>
-      <tr><th scope="row">삼성<br><a href="https://www.samsung.com/sec/support/model/RM80H64S2A/">RM80H64S2A</a></th><td>609L<br>683mm</td><td><strong>최종 계약</strong><br>가전 묶음에 넣은 모델. 이사 후 김치냉장고 옆에 둘 자리까지 생각했다.</td></tr>
-    </tbody>
-  </table>
-  <p class="guide-note" id="fridge-candidate-note">용량과 깊이는 제조사 사양 기준이다. 삼성 키친핏 Max 두 모델의 깊이는 후면 손잡이를 뺀 값이다.</p>
-</div>
-
-## 확인한 곳
-
-- 제조사 사양 [LG S834MQQ111](https://www.lge.co.kr/product/refrigerators/s834mqq111) · [삼성 RM80H64S2A](https://www.samsung.com/sec/support/model/RM80H64S2A/)
-- [삼성 키친핏 Max 한 대 설치 예시](https://www.samsung.com/sec/refrigerators/french-door-rm80h64s2a-d2c/RM80H64S2A/)
-- 한국에너지공단 효율등급 신고 정보 [LG](https://eep.energy.or.kr/certification/certi_view_252.aspx?no=252250342&page=1) · [삼성](https://eep.energy.or.kr/certification/certi_view_252.aspx?no=252260150&page=1)
-
-[이전 글 · 신혼 가전, 결국 백화점에서 샀다](/blog/home/decor/appliances/)
+[신혼 가전 다섯 가지를 한꺼번에 고른 이야기](/blog/home/decor/appliances/)
