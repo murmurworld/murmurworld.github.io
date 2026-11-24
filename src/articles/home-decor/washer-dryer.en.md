@@ -40,4 +40,4 @@ We bought the Samsung Bespoke AI Combo WD90H25AHY. It holds up to 25 kg for wash
   </table>
 </div>
 
-[How we bought five appliances at once](/en/blog/home/decor/appliances/) · [Home appliance electricity calculator](/en/blog/home/decor/power/)
+[How we bought five appliances at once](/en/blog/home/decor/appliances/) · [Monthly energy use for the five appliances](/en/blog/home/decor/energy/#our-appliances)
