@@ -84,7 +84,7 @@ The LG has a grade 1 energy rating and the Samsung a grade 2 rating. On the manu
   <p class="guide-note">Korea Energy Agency listings for the <a href="https://eep.energy.or.kr/certification/certi_view_252.aspx?no=252250342&amp;page=1">LG</a> and <a href="https://eep.energy.or.kr/certification/certi_view_252.aspx?no=252260150&amp;page=1">Samsung</a>.</p>
 </div>
 
-I used Samsung’s 38.5 kWh figure in our [home appliance electricity calculator](/en/blog/home/decor/power/).
+The refrigerator figure in [our five-appliance energy estimate](/en/blog/home/decor/energy/#our-appliances) is Samsung’s listed 38.5 kWh.
 
 ## Options We Found with AI
 

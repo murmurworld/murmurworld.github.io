@@ -35,4 +35,4 @@ description: "쓰던 삼성 AX40 계열과 같이 쓸 삼성 인피니트 AI 33�
   <p class="guide-note" id="air-purifier-specs">청정면적과 필터는 각 모델의 제조사 표기다.</p>
 </div>
 
-[우리가 고른 가전의 월 전력 사용량](/blog/home/decor/power/)
+[우리가 고른 가전의 월 전력 사용량](/blog/home/decor/energy/#our-appliances)

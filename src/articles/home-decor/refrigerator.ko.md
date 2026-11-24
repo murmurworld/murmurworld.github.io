@@ -84,7 +84,7 @@ LG는 1등급, 삼성은 2등급이었다. 제조사 사양끼리 보면 삼성�
   <p class="guide-note">한국에너지공단 신고 정보는 <a href="https://eep.energy.or.kr/certification/certi_view_252.aspx?no=252250342&amp;page=1">LG</a>와 <a href="https://eep.energy.or.kr/certification/certi_view_252.aspx?no=252260150&amp;page=1">삼성</a>에서 확인할 수 있다.</p>
 </div>
 
-[신혼 가전 전력 계산기](/blog/home/decor/power/)에는 삼성 사양에 나온 38.5kWh를 넣었다.
+[신혼 가전 5종의 전력 사용량](/blog/home/decor/energy/#our-appliances)에서 냉장고 값은 삼성 사양에 나온 38.5kWh다.
 
 ## AI로 찾아 둔 후보
 

@@ -40,4 +40,4 @@ description: "빨래를 옮기지 않고 세탁부터 건조까지 한 번에 �
   </table>
 </div>
 
-[신혼 가전 다섯 가지를 한꺼번에 고른 이야기](/blog/home/decor/appliances/) · [신혼 가전 전력 계산기](/blog/home/decor/power/)
+[신혼 가전 다섯 가지를 한꺼번에 고른 이야기](/blog/home/decor/appliances/) · [신혼 가전 5종의 전력 사용량](/blog/home/decor/energy/#our-appliances)

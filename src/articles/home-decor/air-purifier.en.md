@@ -35,4 +35,4 @@ Samsung says to dry the 100 m² reusable model’s particle filter for at least 
   <p class="guide-note" id="air-purifier-specs">Coverage and filter types come from the manufacturers’ specs.</p>
 </div>
 
-[Monthly electricity use for the appliances we chose](/en/blog/home/decor/power/)
+[Monthly electricity use for the appliances we chose](/en/blog/home/decor/energy/#our-appliances)
