@@ -1,18 +1,18 @@
 ---
 title: "침대 밑 12cm부터 시작한 로봇청소기 고르기"
-description: "처음엔 8.1cm 에코백스를 봤고, 백화점에서 가전을 함께 계약하며 삼성 비스포크 AI 스팀 울트라를 골랐다. 가구 밑 높이와 물걸레 도크를 비교한 기록."
+description: "8.1cm 에코백스부터 알아보다 삼성 비스포크 AI 스팀 울트라를 삼성 AI 구독으로 계약했다. 가구 밑 높이와 물걸레 도크를 비교한 기록."
 ---
 
 <aside class="guide-panel guide-summary" aria-labelledby="robot-summary">
   <h2 id="robot-summary">한눈에 보기</h2>
   <dl>
-    <div><dt>최종 계약</dt><dd>삼성 비스포크 AI 스팀 울트라 VR90F01AAG</dd></div>
+    <div><dt>최종 계약</dt><dd>삼성 비스포크 AI 스팀 울트라 VR90F01AAG · 삼성 AI 구독</dd></div>
     <div><dt>처음 본 모델</dt><dd>에코백스 디봇 T50 PRO OMNI</dd></div>
     <div><dt>고른 기준</dt><dd>침대와 소파 밑에 들어갈 높이 · 도크에서 직접 할 일</dd></div>
   </dl>
 </aside>
 
-백화점에서 신혼 가전 다섯 가지를 함께 계약하면서 로봇청소기는 삼성 비스포크 AI 스팀 울트라로 정했다. 처음 찾아볼 때는 에코백스 디봇 T50 PRO OMNI를 기준으로 봤다. 상세 페이지를 펼치기 전에 먼저 궁금했던 건 따로 있었다. 침대 밑까지 들어갈 수 있을까?
+백화점에서 신혼 가전 다섯 가지를 함께 고를 때 로봇청소기는 삼성 비스포크 AI 스팀 울트라로 정했다. 계약은 삼성 AI 구독으로 했다. 처음 찾아볼 때는 에코백스 디봇 T50 PRO OMNI를 기준으로 봤다. 상세 페이지를 펼치기 전에 먼저 궁금했던 건 따로 있었다. 침대 밑까지 들어갈 수 있을까?
 
 <section class="guide-section">
   <p class="guide-label">본체 높이</p>
@@ -44,7 +44,7 @@ description: "처음엔 8.1cm 에코백스를 봤고, 백화점에서 가전을 
       <tr><th scope="row">에코백스<br><a href="https://www.ecovacs.com/us/shop/deebot-robotic-vacuum-cleaner/deebot-t50-pro-omni">디봇 T50 PRO OMNI</a></th><td>81mm</td><td><strong>처음 본 모델</strong><br>몸체 안에 거리 센서가 있다. 도크는 물걸레를 온수로 씻고 열풍으로 말린다.</td></tr>
       <tr><th scope="row">로보락<br><a href="https://kr.roborock.com/pages/roborock-s10-maxv-slim">S10 MaxV Slim</a></th><td>79.8mm</td><td>낮은 본체와 문턱을 지날 때 몸체를 들어 올리는 기능을 같이 봤다.</td></tr>
       <tr><th scope="row">드리미<br><a href="https://global.dreametech.com/products/x60-ultra">X60 Ultra</a></th><td>79.5mm 내림<br>102.8mm 올림</td><td>센서가 위아래로 움직여 두 상태의 높이가 다르다.</td></tr>
-      <tr><th scope="row">삼성 비스포크 AI 스팀 울트라<br><a href="https://www.samsung.com/sec/support/model/VR90F01AAG/">VR90F<wbr>01AAG</a></th><td>100mm</td><td><strong>최종 계약</strong><br>스팀으로 물걸레를 관리하는 물통형 도크. 백화점 가전 묶음에 넣었다.</td></tr>
+      <tr><th scope="row">삼성 비스포크 AI 스팀 울트라<br><a href="https://www.samsung.com/sec/support/model/VR90F01AAG/">VR90F<wbr>01AAG</a></th><td>100mm</td><td><strong>삼성 AI 구독으로 계약</strong><br>스팀으로 물걸레를 관리하는 물통형 도크.</td></tr>
     </tbody>
   </table>
   <p class="guide-note" id="robot-candidate-note">높이는 제조사 사양 기준이다. 움직이는 센서가 있는 모델은 두 상태를 함께 적었다.</p>

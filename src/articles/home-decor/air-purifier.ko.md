@@ -7,12 +7,12 @@ description: "신혼 가전을 한꺼번에 고르면서 공기청정기도 바�
   <h2 id="air-purifier-summary">한눈에 보기</h2>
   <dl>
     <div><dt>처음 후보</dt><dd>거실에 둘 LG 퓨리케어 360° Hit 62㎡</dd></div>
-    <div><dt>최종 선택</dt><dd>삼성 인피니트 AI 33㎡, S 필터 모델</dd></div>
+    <div><dt>최종 선택</dt><dd>삼성 인피니트 AI 33㎡ S 필터 모델, 삼성 AI 구독</dd></div>
     <div><dt>비교 기준</dt><dd>실제로 사용할 공간의 크기와 필터 관리 방식</dd></div>
   </dl>
 </aside>
 
-처음엔 LG 퓨리케어 Hit 62㎡로 거의 정해 두었다. 거실에 한 대만 새로 두고, 방에서는 쓰던 소형 공기청정기를 계속 쓸 생각이었다. 그러다 백화점에서 냉장고랑 세탁기까지 신혼 가전 다섯 가지를 삼성으로 묶어 사면서 공기청정기도 바뀌었다. 최종으로 고른 건 삼성 인피니트 AI 33㎡ S 필터 모델이었다.
+처음엔 LG 퓨리케어 Hit 62㎡로 거의 정해 두었다. 거실에 한 대만 새로 두고, 방에서는 쓰던 소형 공기청정기를 계속 쓸 생각이었다. 그러다 백화점에서 냉장고랑 세탁기까지 신혼 가전 다섯 가지를 삼성으로 묶어 고르면서 공기청정기도 바뀌었다. 최종으로 고른 삼성 인피니트 AI 33㎡ S 필터 모델은 삼성 AI 구독으로 계약했다.
 
 <section class="guide-section">
   <p class="guide-label">공간</p>
@@ -65,7 +65,7 @@ description: "신혼 가전을 한꺼번에 고르면서 공기청정기도 바�
     <thead><tr><th scope="col">제품</th><th scope="col">면적</th><th scope="col">필터와 비교 기준</th></tr></thead>
     <tbody>
       <tr><th scope="row">LG 퓨리케어 Hit<br><a href="https://www.lge.co.kr/product/air-purifier/as186hwwl"><small>AS186HWWL</small></a></th><td>62&nbsp;㎡</td><td>V2 교체형. 처음 거실용으로 골라 둔 후보.</td></tr>
-      <tr><th scope="row">삼성 인피니트 AI<br><a href="https://www.samsung.com/sec/air-cleaner/air-purifier-ap90h03163gd-d2c/AP90H03163UGD/"><small>AP90H<wbr>03163UGD</small></a></th><td>33&nbsp;㎡</td><td><strong>최종 선택.</strong> 가전 묶음에 들어간 S 필터 교체형.</td></tr>
+      <tr><th scope="row">삼성 인피니트 AI<br><a href="https://www.samsung.com/sec/air-cleaner/air-purifier-ap90h03163gd-d2c/AP90H03163UGD/"><small>AP90H<wbr>03163UGD</small></a></th><td>33&nbsp;㎡</td><td><strong>최종 선택.</strong> 삼성 AI 구독으로 계약한 S 필터 교체형.</td></tr>
       <tr><th scope="row">삼성 블루스카이 5500<br><a href="https://www.samsung.com/sec/support/model/AX060CG500GED/"><small>AX060<wbr>CG500GED</small></a></th><td>60&nbsp;㎡</td><td>집진·숯 탈취 필터 교체형. 삼성으로 맞출 때 비교한 거실용 후보.</td></tr>
       <tr><th scope="row">삼성 인피니트 AI<br><a href="https://www.samsung.com/sec/support/model/AP90H03193EGD/"><small>AP90H<wbr>03193EGD</small></a></th><td>33&nbsp;㎡</td><td>리유저블. 같은 면적에서 집진부를 씻어 쓰는 후보.</td></tr>
       <tr><th scope="row">삼성 인피니트 AI<br><a href="https://www.samsung.com/sec/air-cleaner/air-purifier-ap90h10198dd-d2c/AP90H10198EDD/"><small>AP90H<wbr>10198EDD</small></a></th><td>100&nbsp;㎡</td><td>리유저블. 넓은 공간용으로 봤고 세척·건조가 필요했다.</td></tr>

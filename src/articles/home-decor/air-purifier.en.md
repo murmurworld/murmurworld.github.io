@@ -7,12 +7,12 @@ description: "Our air purifier changed when we bought our appliances together. H
   <h2 id="air-purifier-summary">At a glance</h2>
   <dl>
     <div><dt>First pick</dt><dd>LG PuriCare 360° Hit, rated for 62 m², for the living room</dd></div>
-    <div><dt>What we chose</dt><dd>Samsung Infinite AI, rated for 33 m², with an S filter</dd></div>
+    <div><dt>What we chose</dt><dd>33 m² Samsung Infinite AI with an S filter, through Samsung AI Subscription</dd></div>
     <div><dt>What we compared</dt><dd>The space where we’d run it and how we’d look after the filter</dd></div>
   </dl>
 </aside>
 
-I’d almost settled on the LG PuriCare Hit rated for 62 m². We planned to buy one unit for the living room and keep the small purifiers we already had for the other rooms. Then we decided to get five Samsung appliances together at a department store, including the fridge and washer-dryer. The air purifier changed too. We ended up choosing the 33 m² Samsung Infinite AI with an S filter.
+I’d almost settled on the LG PuriCare Hit rated for 62 m². We planned to get one unit for the living room and keep the small purifiers we already had for the other rooms. Then we chose five Samsung appliances together at a department store, including the fridge and washer-dryer. The air purifier changed too. We chose the 33 m² Samsung Infinite AI with an S filter and signed up for it through Samsung AI Subscription.
 
 <section class="guide-section">
   <p class="guide-label">Room</p>
@@ -65,7 +65,7 @@ I’d almost settled on the LG PuriCare Hit rated for 62 m². We planned to buy 
     <thead><tr><th scope="col">Model</th><th scope="col">Area</th><th scope="col">Filter and why we looked at it</th></tr></thead>
     <tbody>
       <tr><th scope="row">LG PuriCare Hit<br><a href="https://www.lge.co.kr/product/air-purifier/as186hwwl"><small>AS186HWWL</small></a></th><td>62&nbsp;m²</td><td>Replaceable V2 filter. Our first choice for the living room.</td></tr>
-      <tr><th scope="row">Samsung Infinite AI<br><a href="https://www.samsung.com/sec/air-cleaner/air-purifier-ap90h03163gd-d2c/AP90H03163UGD/"><small>AP90H<wbr>03163UGD</small></a></th><td>33&nbsp;m²</td><td><strong>Our pick.</strong> The model with a replaceable S filter in our appliance bundle.</td></tr>
+      <tr><th scope="row">Samsung Infinite AI<br><a href="https://www.samsung.com/sec/air-cleaner/air-purifier-ap90h03163gd-d2c/AP90H03163UGD/"><small>AP90H<wbr>03163UGD</small></a></th><td>33&nbsp;m²</td><td><strong>Our pick.</strong> Replaceable S filter. We got this model through Samsung AI Subscription.</td></tr>
       <tr><th scope="row">Samsung Blue Sky 5500<br><a href="https://www.samsung.com/sec/support/model/AX060CG500GED/"><small>AX060<wbr>CG500GED</small></a></th><td>60&nbsp;m²</td><td>Replaceable particle and charcoal filters. A living room option we looked at in the all-Samsung lineup.</td></tr>
       <tr><th scope="row">Samsung Infinite AI<br><a href="https://www.samsung.com/sec/support/model/AP90H03193EGD/"><small>AP90H<wbr>03193EGD</small></a></th><td>33&nbsp;m²</td><td>Reusable filter. Same room rating as our pick, with a washable particle filter.</td></tr>
       <tr><th scope="row">Samsung Infinite AI<br><a href="https://www.samsung.com/sec/air-cleaner/air-purifier-ap90h10198dd-d2c/AP90H10198EDD/"><small>AP90H<wbr>10198EDD</small></a></th><td>100&nbsp;m²</td><td>Reusable filter. We looked at it for more coverage, with washing and drying as part of upkeep.</td></tr>

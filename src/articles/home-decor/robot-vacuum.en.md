@@ -1,18 +1,18 @@
 ---
 title: "Choosing a Robot Vacuum for the Space Under Our Bed"
-description: "I started with the 8.1 cm Ecovacs and ordered Samsung’s Bespoke AI Steam Ultra with our other appliances. Here’s how I compared clearance and dock maintenance."
+description: "I started with the 8.1 cm Ecovacs and chose the Bespoke AI Steam Ultra through Samsung AI Subscription. Here’s how I compared clearance and dock maintenance."
 ---
 
 <aside class="guide-panel guide-summary" aria-labelledby="robot-summary">
   <h2 id="robot-summary">At a glance</h2>
   <dl>
-    <div><dt>What we ordered</dt><dd>Samsung Bespoke AI Steam Ultra VR90F01AAG</dd></div>
+    <div><dt>What we chose</dt><dd>Samsung Bespoke AI Steam Ultra VR90F01AAG · Samsung AI Subscription</dd></div>
     <div><dt>First on my list</dt><dd>Ecovacs DEEBOT T50 PRO OMNI</dd></div>
     <div><dt>What I checked</dt><dd>Clearance under the bed and sofa, and the chores the dock leaves to me</dd></div>
   </dl>
 </aside>
 
-We ordered the Samsung Bespoke AI Steam Ultra with four other appliances at the department store. The Ecovacs DEEBOT T50 PRO OMNI was the first one I looked into. Before I opened any spec sheets, I had a question: would it get under the bed?
+We picked out five appliances together at the department store, including the Samsung Bespoke AI Steam Ultra. We got the robot vacuum through Samsung AI Subscription. The Ecovacs DEEBOT T50 PRO OMNI was the first one I looked into. Before I opened any spec sheets, I had a question: would it get under the bed?
 
 <section class="guide-section">
   <p class="guide-label">Robot height</p>
@@ -44,7 +44,7 @@ We ordered the Samsung Bespoke AI Steam Ultra with four other appliances at the 
       <tr><th scope="row">Ecovacs<br><a href="https://www.ecovacs.com/us/shop/deebot-robotic-vacuum-cleaner/deebot-t50-pro-omni">DEEBOT T50 PRO OMNI</a></th><td>81 mm</td><td><strong>First on my list</strong><br>Built-in distance sensor. The dock washes the mop pads with hot water and dries them with warm air.</td></tr>
       <tr><th scope="row">Roborock<br><a href="https://kr.roborock.com/pages/roborock-s10-maxv-slim">S10 MaxV Slim</a></th><td>79.8 mm</td><td>Low body with a chassis that lifts to get over thresholds.</td></tr>
       <tr><th scope="row">Dreame<br><a href="https://global.dreametech.com/products/x60-ultra">X60 Ultra</a></th><td>79.5 mm down<br>102.8 mm up</td><td>The sensor moves up and down, so I checked both heights.</td></tr>
-      <tr><th scope="row">Samsung Bespoke AI Steam Ultra<br><a href="https://www.samsung.com/sec/support/model/VR90F01AAG/">VR90F<wbr>01AAG</a></th><td>100 mm</td><td><strong>What we ordered</strong><br>A tank-fed dock that steams the pads. We ordered it with the department-store package.</td></tr>
+      <tr><th scope="row">Samsung Bespoke AI Steam Ultra<br><a href="https://www.samsung.com/sec/support/model/VR90F01AAG/">VR90F<wbr>01AAG</a></th><td>100 mm</td><td><strong>Chosen through Samsung AI Subscription</strong><br>A tank-fed dock that steams the pads.</td></tr>
     </tbody>
   </table>
   <p class="guide-note" id="robot-candidate-note">Heights are from manufacturer specs. Both positions are listed for the retractable sensor.</p>
