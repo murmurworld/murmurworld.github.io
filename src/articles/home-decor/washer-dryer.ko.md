@@ -1,14 +1,82 @@
 ---
 title: "세탁기 위에 건조기를 올리려다, 한 대로 바꿨다"
-description: "다용도실에 두 대를 쌓으려다 세탁과 건조를 한 통에서 하는 콤보를 골랐다."
+description: "다용도실 높이 때문에 두 대 대신 삼성 콤보를 골랐다. 세탁·건조 용량과 자동 문 열림, 들여놓을 자리까지 살펴본 기록."
 ---
 
-처음엔 세탁기 위에 건조기를 올리려고 했다. 다용도실에서 두 대를 쌓기엔 높이가 빠듯했다. 백화점에서 가전 다섯 가지를 함께 계약할 때는 세탁하고 건조까지 한 통에서 하는 **삼성 비스포크 AI 콤보 WD90H25AHY**를 골랐다.
+<figure class="guide-photo">
+  <img src="/media/newsroom/samsung-ai-combo-utility-2024.jpg" width="1000" height="563" alt="다용도실 수납장 옆에 놓인 삼성 비스포크 AI 콤보" fetchpriority="high" decoding="async">
+  <figcaption>비스포크 AI 콤보의 2024년 출시 사진. 우리가 계약한 2026년형보다 앞선 모델이라 색과 세부가 다를 수 있다. <a href="https://news.samsung.com/kr/삼성전자-올인원-세탁∙건조기-비스포크-ai-콤보-출">삼성전자 뉴스룸</a></figcaption>
+</figure>
 
-건조가 끝나면 문이 저절로 열리는 게 마음에 들었다. 이 모델은 코스가 끝나자마자 문을 열거나 5분 뒤에 열도록 설정할 수 있다. 자동 열림을 끄는 옵션도 있다. [삼성 오토 오픈 도어 안내](https://www.samsung.com/sec/laundry-combo/combo-wd90h25ahy-d2c/WD90H25AHY/)
+<aside class="guide-panel guide-summary" aria-labelledby="washer-summary">
+  <h2 id="washer-summary">한눈에 보기</h2>
+  <dl>
+    <div><dt>선택</dt><dd>삼성 비스포크 AI 콤보 WD90H25AHY</dd></div>
+    <div><dt>용량</dt><dd>세탁 25kg · 건조 20kg</dd></div>
+    <div><dt>이유</dt><dd>다용도실에 한 대만 두고, 건조가 끝나면 문이 자동으로 열리는 모델</dd></div>
+  </dl>
+</aside>
 
-## 다용도실에 들어갈 한 대
+처음엔 세탁기 위에 건조기를 올리는 것부터 생각했다. 다용도실에 두 대를 쌓기엔 높이가 빠듯해서 한 통에서 세탁과 건조를 하는 콤보로 눈을 돌렸다. 백화점에서 가전 견적을 받을 때 건조가 끝나면 문이 저절로 열리는 모델이 마음에 들었다. 다섯 가지를 함께 계약하면서 세탁·건조기는 이 모델로 정했다.
 
-골라둔 모델은 세탁 **25kg**, 건조 **20kg**이다. 같은 통이라도 용량은 따로였다. 본체는 **폭 686 × 높이 1,110 × 깊이 875mm**에 145kg이다. 두 대를 쌓는 문제는 풀렸고, 남은 건 다용도실 문과 문턱을 지나 안쪽까지 들이는 일이다. [삼성 WD90H25AHY 사양](https://www.samsung.com/sec/support/model/WD90H25AHY/)
+<section class="guide-section">
+  <p class="guide-label">용량</p>
+  <h2>한 통에 다른 두&nbsp;숫자</h2>
+  <p>콤보는 같은 통에서 빨고 말린다. 우리가 고른 모델은 세탁 25kg, 건조 20kg까지다. 한 번에 세탁부터 건조까지 돌릴 양을 가늠할 때는 둘 중 작은 건조 용량을 보면 된다.</p>
+  <div class="guide-panel">
+    <h3>같은 이름, 다른 건조 용량</h3>
+    <p>사진 속 2024년형은 건조 15kg, 계약한 2026년형은 건조 20kg이다. 둘 다 비스포크 AI 콤보라는 이름으로 나와 제품 페이지에서 모델 번호와 용량을 함께 봤다.</p>
+  </div>
+  <p class="guide-point"><strong>정리</strong><span>세탁부터 건조까지 한 번에 돌릴 때는 건조 용량이 기준이다.</span></p>
+</section>
 
-[신혼 가전 한꺼번에 고른 이야기](/blog/home/decor/appliances/) · [월 전력 사용량 계산기](/blog/home/decor/power/)
+<section class="guide-section">
+  <p class="guide-label">자동 문 열림</p>
+  <h2>건조가 끝나면 문이&nbsp;열린다</h2>
+  <p>세탁물을 다른 기계로 옮길 필요가 없는 것도 좋았지만, 매장에서 특히 마음에 들었던 건 문이 열리는 기능이었다. 건조가 끝났을 때 언제 문을 열지 본체에서 고를 수 있다.</p>
+  <div class="guide-panel">
+    <h3>자동 문 열림에서 고를 수 있는 것</h3>
+    <ul>
+      <li>코스가 끝나면 바로 열기</li>
+      <li>코스가 끝나고 5분 뒤 열기</li>
+      <li>자동으로 열리지 않도록 끄기</li>
+    </ul>
+    <p class="guide-note">삼성 제품 안내의 WD90H25AHY 설정 기준.</p>
+  </div>
+  <p class="guide-point"><strong>정리</strong><span>자동 문 열림 기능과 선택지는 모델별로 확인할 수 있다.</span></p>
+</section>
+
+<section class="guide-section">
+  <p class="guide-label">설치</p>
+  <h2>놓을 자리와 들여오는&nbsp;길</h2>
+  <p>한 대로 정하고 나니 살펴볼 게 바뀌었다. 다용도실 안에는 들어갈 자리가 있어야 하고, 그 전에 폭 686mm, 무게 145kg인 본체가 문과 문턱을 지나야 한다.</p>
+  <div class="guide-panel">
+    <h3>본체 크기와 집에서 비교할 숫자</h3>
+    <table aria-label="세탁건조기 본체 크기와 반입 여유">
+      <thead><tr><th scope="col">항목</th><th scope="col">본체</th><th scope="col">우리 기준</th></tr></thead>
+      <tbody>
+        <tr><th scope="row">폭</th><td>686&nbsp;mm</td><td>문 706&nbsp;mm</td></tr>
+        <tr><th scope="row">높이</th><td>1,110&nbsp;mm</td><td>천장 1,150&nbsp;mm</td></tr>
+        <tr><th scope="row">깊이</th><td>875&nbsp;mm</td><td>문을 열 앞 공간</td></tr>
+      </tbody>
+    </table>
+    <p class="guide-note">가운데는 삼성 공식 본체 치수다. 오른쪽 문 폭과 천장 높이는 우리가 여유를 더해 적어 둔 값이다. 실제 반입은 설치 장소의 문과 문턱, 배관 위치에 따라 달라진다.</p>
+  </div>
+  <p class="guide-point"><strong>정리</strong><span>본체가 놓일 공간과 문을 통과할 폭은 따로 봤다.</span></p>
+</section>
+
+<div class="guide-panel">
+  <h2>같이 읽기</h2>
+  <ul>
+    <li><a href="/blog/home/decor/appliances/">신혼 가전 다섯 가지를 한꺼번에 고른 이야기</a></li>
+    <li><a href="/blog/home/decor/power/">월 전력 사용량 계산기</a></li>
+  </ul>
+</div>
+
+<div class="guide-panel">
+  <h2>참고 자료</h2>
+  <ul>
+    <li><a href="https://www.samsung.com/sec/support/model/WD90H25AHY/">삼성 WD90H25AHY 사양과 매뉴얼</a></li>
+    <li><a href="https://www.samsung.com/sec/laundry-combo/combo-wd90h25ahy-d2c/WD90H25AHY/">삼성 오토 오픈 도어 설정 안내</a></li>
+  </ul>
+</div>
