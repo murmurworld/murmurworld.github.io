@@ -37,7 +37,7 @@ description: "AI로 찾아 둔 조합보다 백화점에서 삼성 가전 다섯
 </div>
 
 <h2>전기 사용량</h2>
-<p><a href="/blog/home/decor/power/">계약한 가전 다섯 가지의 월 전력량</a>을 모아 뒀다. 집 전체 전기요금은 <a href="/blog/home/decor/electricity-bill/">월 전기요금 계산기</a>에서 추정할 수 있다.</p>
+<p><a href="/blog/home/decor/power/">계약한 가전 다섯 가지의 월 전력량</a>을 모아 뒀다. 집 전체 전기요금은 <a href="/blog/home/decor/energy/">한 달 전기요금 계산기</a>에서 추정할 수 있다.</p>
 
 <h2>참고 자료</h2>
 <ul>
