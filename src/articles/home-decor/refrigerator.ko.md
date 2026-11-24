@@ -6,7 +6,7 @@ description: "묶음 견적이 더 저렴해 삼성 609L 키친핏 Max를 계약
 LG 냉장고는 별로 아쉽지 않았다. 묶어서 싼 쪽으로 갔다. 키친핏은 나보다 예비신부가 마음에 들어 했다.
 
 <figure class="guide-photo">
-  <img src="/media/newsroom/samsung-kfm-showcase-closed.jpg" width="1000" height="719" fetchpriority="high" decoding="async" alt="흰 수납장 사이에 설치된 4도어 키친핏 Max 냉장고">
+  <img src="/media/newsroom/samsung-kfm-showcase-closed.jpg" width="1000" height="719" fetchpriority="high" decoding="async" alt="흰 수납장 사이에 들어간 삼성 4도어 키친핏 맥스 냉장고 양옆에 두 사람이 서 있다">
   <figcaption>같은 제품군의 2025년 보도 사진. <a href="https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%ED%91%B8%EB%93%9C-%EC%87%BC%EC%BC%80%EC%9D%B4%EC%8A%A4-%EC%A0%81%EC%9A%A9%ED%95%9C-%ED%82%A4%EC%B9%9C%ED%95%8F-%EB%A7%A5%EC%8A%A4-%EB%83%89">삼성전자 뉴스룸</a></figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ LG 냉장고는 별로 아쉽지 않았다. 묶어서 싼 쪽으로 갔다. 키�
     <tbody>
       <tr><th scope="row">폭</th><td>913mm</td><td>912mm</td></tr>
       <tr><th scope="row">높이</th><td>1,790mm</td><td>1,853mm</td></tr>
-      <tr><th scope="row">깊이</th><td>913mm</td><td>683mm</td></tr>
+      <tr class="key"><th scope="row">깊이</th><td>913mm</td><td>683mm</td></tr>
     </tbody>
   </table>
   <p class="guide-note">제조사 사양 기준. 삼성 치수는 후면 손잡이 제외.</p>

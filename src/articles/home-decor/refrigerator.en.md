@@ -6,7 +6,7 @@ description: "We chose a Samsung 609 L Kitchen Fit Max because the bundle cost l
 I wasn’t particularly sorry to let the LG fridge go. We went with the cheaper bundle. My fiancée liked the Kitchen Fit more than I did.
 
 <figure class="guide-photo">
-  <img src="/media/newsroom/samsung-kfm-showcase-closed.jpg" width="1000" height="719" fetchpriority="high" decoding="async" alt="A four-door Samsung Kitchen Fit Max fridge fitted between white kitchen cabinets">
+  <img src="/media/newsroom/samsung-kfm-showcase-closed.jpg" width="1000" height="719" fetchpriority="high" decoding="async" alt="Two people stand beside a white Samsung four-door Kitchen Fit Max refrigerator fitted between cabinets">
   <figcaption>A 2025 press photo of the same product line. <a href="https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%ED%91%B8%EB%93%9C-%EC%87%BC%EC%BC%80%EC%9D%B4%EC%8A%A4-%EC%A0%81%EC%9A%A9%ED%95%9C-%ED%82%A4%EC%B9%9C%ED%95%8F-%EB%A7%A5%EC%8A%A4-%EB%83%89">Samsung Newsroom</a></figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ I wasn’t particularly sorry to let the LG fridge go. We went with the cheaper 
     <tbody>
       <tr><th scope="row">Width</th><td>913&nbsp;mm</td><td>912&nbsp;mm</td></tr>
       <tr><th scope="row">Height</th><td>1,790&nbsp;mm</td><td>1,853&nbsp;mm</td></tr>
-      <tr><th scope="row">Depth</th><td>913&nbsp;mm</td><td>683&nbsp;mm</td></tr>
+      <tr class="key"><th scope="row">Depth</th><td>913&nbsp;mm</td><td>683&nbsp;mm</td></tr>
     </tbody>
   </table>
   <p class="guide-note">Manufacturer specifications. Samsung’s measurements exclude the rear handle.</p>

@@ -37,7 +37,7 @@ I’d used AI to put together a list of appliances. Then a department store offe
 </div>
 
 <h2>Electricity use</h2>
-<p>See the <a href="/en/blog/home/decor/power/">monthly electricity use for all five appliances</a>, or estimate your household bill with the <a href="/en/blog/home/decor/electricity-bill/">monthly electricity bill calculator</a>.</p>
+<p>See the <a href="/en/blog/home/decor/power/">monthly electricity use for all five appliances</a>, or estimate your household bill with the <a href="/en/blog/home/decor/energy/">monthly electricity bill calculator</a>.</p>
 
 <h2>Sources</h2>
 <ul>
