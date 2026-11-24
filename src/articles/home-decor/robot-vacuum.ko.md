@@ -1,59 +1,40 @@
 ---
-title: "침대 밑 12cm부터 시작한 로봇청소기 고르기"
-description: "8.1cm 에코백스부터 알아보다 삼성 비스포크 AI 스팀 울트라를 삼성 AI 구독으로 계약했다. 가구 밑 높이와 물걸레 도크를 비교한 기록."
+title: "끝까지 망설인 로봇청소기"
+description: "있던 청소기로도 되는데 로봇청소기가 필요할까 싶었다. 결국 삼성 비스포크 AI 스팀 울트라를 구독으로 계약했다."
 ---
 
-<aside class="guide-panel guide-summary" aria-labelledby="robot-summary">
-  <h2 id="robot-summary">한눈에 보기</h2>
-  <dl>
-    <div><dt>최종 계약</dt><dd>삼성 비스포크 AI 스팀 울트라 VR90F01AAG · 삼성 AI 구독</dd></div>
-    <div><dt>처음 본 모델</dt><dd>에코백스 디봇 T50 PRO OMNI</dd></div>
-    <div><dt>고른 기준</dt><dd>침대와 소파 밑에 들어갈 높이 · 도크에서 직접 할 일</dd></div>
-  </dl>
-</aside>
+<figure class="guide-photo">
+  <img src="/media/newsroom/samsung-robot-steam-kitchen-2026.jpg" width="1000" height="750" alt="주방 수납장 아래 도크에 놓인 비스포크 AI 스팀 로봇청소기" fetchpriority="high" decoding="async">
+  <figcaption>사진: <a href="https://news.samsung.com/kr/삼성전자-비스포크-ai-스팀-라인업-확대k-로봇청소">삼성전자 뉴스룸</a>. 2026년 6월 보도 사진이다. 사진 속 제품은 같은 비스포크 AI 스팀의 일반형이고, 우리가 계약한 건 울트라다.</figcaption>
+</figure>
 
-백화점에서 신혼 가전 다섯 가지를 함께 고를 때 로봇청소기는 삼성 비스포크 AI 스팀 울트라로 정했다. 계약은 삼성 AI 구독으로 했다. 처음 찾아볼 때는 에코백스 디봇 T50 PRO OMNI를 기준으로 봤다. 상세 페이지를 펼치기 전에 먼저 궁금했던 건 따로 있었다. 침대 밑까지 들어갈 수 있을까?
+로봇청소기는 끝까지 망설였다. 굳이 필요한가. 있던 청소기로 하면 되니까. 침대 프레임은 값을 아끼려고 오늘의집에서 샀는데, 그 밑으로는 로봇청소기가 들어가지 않는다. 결국 구독으로 했다. 그쪽이 더 경제적이었다.
 
-<section class="guide-section">
-  <p class="guide-label">본체 높이</p>
-  <h2>침대 밑을 12cm로 잡아 봤다</h2>
-  <p>침대랑 소파 밑을 청소해 줬으면 해서 본체 높이부터 적어 뒀다. 바닥에서 가구 밑까지 120mm가 쭉 비어 있다고 가정하면, 81mm인 에코백스 위로 39mm, 100mm인 삼성 위로 20mm가 남는다. 실제로 가구를 놓으면 프레임과 가운데 받침대를 살펴서 바닥에서 가장 낮은 곳까지 재 볼 생각이다. 들어가는 길에 러그가 깔리면 그 자리도 다시 재야 한다.</p>
-  <p>센서가 어디 달렸는지도 봤다. T50 PRO OMNI는 거리를 재는 센서가 몸체 안에 있고, 드리미 X60 Ultra는 위쪽 센서가 올라갔다 내려간다. 드리미는 센서를 내리면 79.5mm, 올리면 102.8mm다. 센서 하나로 높이가 2cm 넘게 달라져서 비교표에 두 숫자를 다 적었다.</p>
-</section>
+## 도크
 
-<section class="guide-section">
-  <p class="guide-label">도크</p>
-  <h2>걸레는 도크가 빨고, 물통은 내가 비운다</h2>
-  <p>고른 삼성 모델은 도크에서 먼지통을 자동으로 비우고, 물걸레를 씻고 스팀으로 관리한 뒤 말린다. 깨끗한 물통을 채우고 오수통을 비우는 일은 내가 한다. 비슷한 이름의 제품 중에는 수도와 배수관에 연결하는 모델도 있어서, 도크 방식까지 보려면 제품 이름 옆 모델 번호를 확인하는 게 편했다.</p>
-  <p>삼성 사양표에는 로봇과 도크가 함께 있을 때 폭 444mm, 높이 520mm, 깊이 510mm로 나와 있다. 도크를 수납장 옆에 둘 땐 크기만큼이나 물통을 위로 꺼내기 편한지, 콘센트에 닿는지, 로봇이 앞에서 방향을 바꿀 자리가 있는지 보고 싶다.</p>
-</section>
+삼성 AI 구독으로 계약한 건 비스포크 AI 스팀 울트라(VR90F01AAG)다. 도크가 먼지통을 비우고 물걸레를 씻는다. 물걸레에 스팀을 쏜 뒤 말리는 것까지 한다. 깨끗한 물을 채우고 오수통을 비우는 건 내가 한다.
 
-## 가구를 들인 뒤에 다시 볼 곳
+로봇을 도크에 댄 상태로 폭 444mm, 높이 520mm, 깊이 510mm다. 비슷한 이름으로 수도와 배수관에 연결하는 모델도 있다. [삼성 도크 설명](https://www.samsung.com/sec/vacuum-cleaners/jetbot-vr90f01aa-d2c/VR90F01AAG/) · [자동 급배수 모델 사양](https://www.samsung.com/sec/support/model/VR90F01SAG/)
 
-- 침대와 소파 아래 가운데 받침대까지, 청소기가 지날 곳 중 가장 낮은 높이
-- 러그 끝과 방 문턱의 높이, 바닥에 늘어진 충전선
-- 도크 앞에 로봇이 드나들 자리와 위쪽에 물통을 들어 올릴 자리
-
-## 살 때 비교했던 로봇청소기
+## AI로 찾아 둔 후보
 
 <div class="guide-panel">
-  <table aria-label="구매할 때 비교한 로봇청소기 네 모델" aria-describedby="robot-candidate-note">
-    <colgroup><col style="width: 39%"><col style="width: 23%"><col></colgroup>
-    <thead><tr><th scope="col">모델</th><th scope="col">본체 높이</th><th scope="col">눈여겨본 점</th></tr></thead>
+  <table aria-label="AI로 찾아 둔 로봇청소기 후보와 최종 모델" aria-describedby="robot-candidate-note">
+    <colgroup><col style="width: 39%"><col style="width: 24%"><col></colgroup>
+    <thead><tr><th scope="col">모델</th><th scope="col">본체 높이</th><th scope="col">특징</th></tr></thead>
     <tbody>
-      <tr><th scope="row">에코백스<br><a href="https://www.ecovacs.com/us/shop/deebot-robotic-vacuum-cleaner/deebot-t50-pro-omni">디봇 T50 PRO OMNI</a></th><td>81mm</td><td><strong>처음 본 모델</strong><br>몸체 안에 거리 센서가 있다. 도크는 물걸레를 온수로 씻고 열풍으로 말린다.</td></tr>
-      <tr><th scope="row">로보락<br><a href="https://kr.roborock.com/pages/roborock-s10-maxv-slim">S10 MaxV Slim</a></th><td>79.8mm</td><td>낮은 본체와 문턱을 지날 때 몸체를 들어 올리는 기능을 같이 봤다.</td></tr>
-      <tr><th scope="row">드리미<br><a href="https://global.dreametech.com/products/x60-ultra">X60 Ultra</a></th><td>79.5mm 내림<br>102.8mm 올림</td><td>센서가 위아래로 움직여 두 상태의 높이가 다르다.</td></tr>
-      <tr><th scope="row">삼성 비스포크 AI 스팀 울트라<br><a href="https://www.samsung.com/sec/support/model/VR90F01AAG/">VR90F<wbr>01AAG</a></th><td>100mm</td><td><strong>삼성 AI 구독으로 계약</strong><br>스팀으로 물걸레를 관리하는 물통형 도크.</td></tr>
+      <tr><th scope="row">에코백스<br><a href="https://www.ecovacs.com/us/shop/deebot-robotic-vacuum-cleaner/deebot-t50-pro-omni">디봇 T50 PRO OMNI</a></th><td>81mm</td><td>본체 안에 거리 센서. 온수로 물걸레를 세척하고 열풍으로 건조.</td></tr>
+      <tr><th scope="row">로보락<br><a href="https://kr.roborock.com/pages/roborock-s10-maxv-slim">S10 MaxV Slim</a></th><td>79.8mm</td><td>문턱을 넘을 때 본체를 들어 올린다.</td></tr>
+      <tr><th scope="row">드리미<br><a href="https://global.dreametech.com/products/x60-ultra">X60 Ultra</a></th><td>79.5mm 내림<br>102.8mm 올림</td><td>상단 거리 센서가 오르내린다.</td></tr>
+      <tr><th scope="row">삼성 비스포크 AI 스팀 울트라<br><a href="https://www.samsung.com/sec/support/model/VR90F01AAG/">VR90F<wbr>01AAG</a></th><td>100mm</td><td><strong>계약 모델.</strong> 스팀으로 물걸레를 관리하는 물통형 도크.</td></tr>
     </tbody>
   </table>
-  <p class="guide-note" id="robot-candidate-note">높이는 제조사 사양 기준이다. 움직이는 센서가 있는 모델은 두 상태를 함께 적었다.</p>
+  <p class="guide-note" id="robot-candidate-note">AI는 침대 밑에 12cm가 비어 있다고 놓고 제조사가 표기한 높이로 후보를 추렸다. 주문한 소파 밑으로도 로봇청소기는 들어가지 않는다.</p>
 </div>
 
-## 확인한 곳
+## 설치할 때 확인할 것
 
-- 삼성 비스포크 AI 스팀 울트라 [도크 기능](https://www.samsung.com/sec/vacuum-cleaners/jetbot-vr90f01aa-d2c/VR90F01AAG/) · [자동 급배수 모델 사양](https://www.samsung.com/sec/support/model/VR90F01SAG/)
+- 러그 끝과 방 문턱 높이, 바닥에 닿는 충전선
+- 도크 앞에서 로봇이 돌아 나올 자리와 위로 물통을 꺼낼 공간
 
-[이전 글 · 신혼 가전, 결국 백화점에서 샀다](/blog/home/decor/appliances/)
-
-[관련 글 · 로봇청소기가 들어갈 소파를 찾아본 이야기](/blog/home/decor/sofa/)
+[신혼 가전을 같이 고른 이야기](/blog/home/decor/appliances/) · [아이보리 소파를 주문한 이야기](/blog/home/decor/sofa/)

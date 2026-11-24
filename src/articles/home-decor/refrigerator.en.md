@@ -1,7 +1,9 @@
 ---
-title: "How We Went from an 834 L Fridge to a 609 L Kitchen Fit Max"
-description: "We chose a shallower fridge with a future kimchi refrigerator in mind. See how the two models compare in size, capacity and electricity use."
+title: "The Samsung 609 L Kitchen Fit Fridge We Bought"
+description: "We chose a Samsung 609 L Kitchen Fit Max because the bundle cost less. Here’s how it compared with the 834 L LG in depth, freezer space, and rated electricity use."
 ---
+
+I wasn’t particularly sorry to let the LG fridge go. We went with the cheaper bundle. My fiancée liked the Kitchen Fit more than I did.
 
 <figure class="guide-photo">
   <img src="/media/newsroom/samsung-kfm-showcase-closed.jpg" width="1000" height="719" fetchpriority="high" decoding="async" alt="A four-door Samsung Kitchen Fit Max fridge fitted between white kitchen cabinets">
@@ -11,23 +13,13 @@ description: "We chose a shallower fridge with a future kimchi refrigerator in m
 <aside class="guide-panel guide-summary" aria-labelledby="fridge-summary">
   <h2 id="fridge-summary">At a glance</h2>
   <dl>
-    <div><dt>What we chose</dt><dd>We considered an 834 L LG and bought a 609 L Samsung Kitchen Fit Max.</dd></div>
-    <div><dt>Why it fit</dt><dd>I want to put a kimchi fridge beside it when we move. The shallower body helped.</dd></div>
-    <div><dt>What changed</dt><dd>The body is 23 cm shallower and the freezer holds 75 L less. Rated use differs by less than 2 kWh per month.</dd></div>
+    <div><dt>Our fridge</dt><dd>Samsung 609 L Kitchen Fit Max RM80H64S2A</dd></div>
+    <div><dt>Why this one</dt><dd>The bundle cost less, and my fiancée liked the Kitchen Fit.</dd></div>
+    <div><dt>Specs</dt><dd>68.3 cm deep, with a 233 L freezer.</dd></div>
   </dl>
 </aside>
 
-## How the plan changed
-
-We had picked a light-colored, 834&nbsp;L side-by-side from LG. The roomy freezer and grade 1 energy rating were part of the appeal.
-
-When we bought five appliances together at a Samsung shop in a department store, we took another look at the fridge. I kept thinking about the kimchi fridge I want to add after our next move. With both in a row, I wanted to know how far the main fridge would stick out. We went with Samsung’s 609&nbsp;L Kitchen Fit Max.
-
-<p class="guide-label">Size</p>
-
-## The body is 23 cm shallower
-
-Kitchen Fit is Samsung’s name for a shallower design that sits closer to the front of the cabinets. These two models are only 1&nbsp;mm apart in width. Depth is where the difference shows.
+## Size
 
 <figure class="guide-panel">
   <div class="fridge-profile" aria-hidden="true">
@@ -54,13 +46,9 @@ Kitchen Fit is Samsung’s name for a shallower design that sits closer to the f
   <p class="guide-note">Manufacturer specifications. Samsung’s measurements exclude the rear handle.</p>
 </div>
 
-<p class="guide-point"><strong>Takeaway</strong><span>The two models are nearly the same width, and the Samsung extends 23&nbsp;cm less into the kitchen.</span></p>
+Samsung’s example for one fridge leaves 4 mm on each side and 20 mm above. With the width of the fridge, the opening in that example comes to 920 mm. [Samsung’s installation example](https://www.samsung.com/sec/refrigerators/french-door-rm80h64s2a-d2c/RM80H64S2A/)
 
-<p class="guide-label">Capacity</p>
-
-## The freezer holds 75 L less
-
-We gave up 148&nbsp;L in the fridge and 75&nbsp;L in the freezer. Together that’s 223&nbsp;L, about a quarter of the capacity we’d originally picked.
+## Capacity
 
 <figure class="guide-photo">
   <img src="/media/newsroom/samsung-kfm-showcase-inside.jpg" width="1000" height="690" loading="lazy" decoding="async" alt="Open Samsung Kitchen Fit Max fridge showing its shelves and door storage">
@@ -77,16 +65,12 @@ We gave up 148&nbsp;L in the fridge and 75&nbsp;L in the freezer. Together that�
       <tr><th scope="row">Freezer</th><td style="--share: 34.22%">308&nbsp;L</td><td style="--share: 25.89%">233&nbsp;L</td></tr>
     </tbody>
   </table>
-  <p class="guide-note">The bars use manufacturer figures on the same scale. The Korea Energy Agency lists 834 L and 611.5 L for the same models, so I matched them by model number.</p>
+  <p class="guide-note">The table uses manufacturer figures. The Korea Energy Agency lists 834 L for the LG and 611.5 L for the Samsung.</p>
 </div>
 
-<p class="guide-point"><strong>Takeaway</strong><span>The freezer went from 308&nbsp;L to 233&nbsp;L.</span></p>
+## Electricity
 
-<p class="guide-label">Electricity</p>
-
-## Less than 2 kWh a month apart
-
-I checked the efficiency grade and rated monthly use separately. The number in kWh is the one I used to compare how much electricity each fridge draws over a month.
+The LG has a grade 1 energy rating and the Samsung a grade 2 rating. On the manufacturers’ figures, the Samsung uses 1.7 kWh less per month.
 
 <div class="guide-panel">
   <h3 id="fridge-electricity">Rated electricity use per month</h3>
@@ -97,66 +81,37 @@ I checked the efficiency grade and rated monthly use separately. The number in k
       <tr><th scope="row">Agency listing</th><td style="--share: 84.33%">37.95&nbsp;kWh</td><td style="--share: 80.29%">36.13&nbsp;kWh</td></tr>
     </tbody>
   </table>
-  <p class="guide-note">The agency listings and the manufacturers’ figures are shown separately.</p>
+  <p class="guide-note">Korea Energy Agency listings for the <a href="https://eep.energy.or.kr/certification/certi_view_252.aspx?no=252250342&amp;page=1">LG</a> and <a href="https://eep.energy.or.kr/certification/certi_view_252.aspx?no=252260150&amp;page=1">Samsung</a>.</p>
 </div>
 
-I used Samsung’s 38.5&nbsp;kWh figure in our [home appliance electricity calculator](/en/blog/home/decor/power/).
+I used Samsung’s 38.5 kWh figure in our [home appliance electricity calculator](/en/blog/home/decor/power/).
 
-<p class="guide-point"><strong>Takeaway</strong><span>Samsung comes in about 1.8&nbsp;kWh a month lower in both sets of figures.</span></p>
-
-<p class="guide-label">Installation</p>
-
-## Leave a little room inside the cabinet
-
-Samsung’s installation example leaves a small gap on either side and above the fridge. Add the side gaps to the body width and the opening in that example is 920&nbsp;mm wide.
+## Options We Found with AI
 
 <div class="guide-panel">
-  <h3 id="fridge-clearances">Samsung’s single-fridge example</h3>
-  <table aria-labelledby="fridge-clearances">
+  <table aria-label="Fridge options and the model we bought" aria-describedby="fridge-candidate-note">
+    <colgroup><col style="width: 38%"><col style="width: 24%"><col></colgroup>
+    <thead><tr><th scope="col">Model</th><th scope="col">Capacity<br>Depth</th><th scope="col">Features</th></tr></thead>
     <tbody>
-      <tr><th scope="row">Body width</th><td>912&nbsp;mm</td></tr>
-      <tr><th scope="row">Side gap</th><td>4&nbsp;mm per side</td></tr>
-      <tr><th scope="row">Top gap</th><td>20&nbsp;mm</td></tr>
+      <tr><th scope="row">Samsung<br><a href="https://www.samsung.com/sec/support/model/RS84DB5002CW/">RS84DB<wbr>5002CW</a></th><td>852&nbsp;L<br>892&nbsp;mm</td><td>Side-by-side fridge with a manual twist ice tray.</td></tr>
+      <tr><th scope="row">LG<br><a href="https://www.lge.co.kr/product/refrigerators/s834mqq111">S834MQQ111</a></th><td>832&nbsp;L<br>913&nbsp;mm</td><td>White, grade 1 side-by-side with a 308&nbsp;L freezer.</td></tr>
+      <tr><th scope="row">LG<br><a href="https://www.lge.co.kr/product/refrigerators/m616mqq0m1">M616MQQ0M1</a></th><td>609&nbsp;L<br>698&nbsp;mm</td><td>Grade 1 Fit &amp; Max.</td></tr>
+      <tr><th scope="row">Samsung<br><a href="https://www.samsung.com/sec/support/model/RM70F64Q1A/">RM70F64Q1A</a></th><td>623&nbsp;L<br>683&nbsp;mm</td><td>Grade 1 Kitchen Fit Max.</td></tr>
+      <tr><th scope="row">Samsung<br><a href="https://www.samsung.com/sec/support/model/RM80H64S2A/">RM80H64S2A</a></th><td>609&nbsp;L<br>683&nbsp;mm</td><td><strong>Our fridge.</strong> Kitchen Fit Max.</td></tr>
     </tbody>
   </table>
+  <p class="guide-note" id="fridge-candidate-note">Manufacturer figures. Depth excludes the rear handle on both Samsung Kitchen Fit Max models.</p>
 </div>
-
-<p class="guide-point"><strong>Takeaway</strong><span>The 920&nbsp;mm opening is for one fridge. I’ll check the clearances again once I know which two models will be side by side.</span></p>
 
 ## After the move
 
 <figure class="guide-photo">
   <img src="/media/newsroom/samsung-kimchi-kfm.jpg" width="1000" height="561" loading="lazy" decoding="async" alt="Samsung Kitchen Fit Max kimchi refrigerator fitted between white cabinets">
-  <figcaption>A Kitchen Fit Max kimchi fridge I’d use as a reference after the move. 2025 press photo. <a href="https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%ED%82%A4%EC%B9%9C%ED%95%8F-%EB%A7%A5%EC%8A%A4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%A0%81%EC%9A%A9%ED%95%9C-%EA%B9%80%EC%B9%98%EB%83%89%EC%9E%A5%EA%B3%A0-%EC%8B%A0">Samsung Newsroom</a></figcaption>
+  <figcaption>A 2025 press photo of a Kitchen Fit Max kimchi fridge. <a href="https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%ED%82%A4%EC%B9%9C%ED%95%8F-%EB%A7%A5%EC%8A%A4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%A0%81%EC%9A%A9%ED%95%9C-%EA%B9%80%EC%B9%98%EB%83%89%EC%9E%A5%EA%B3%A0-%EC%8B%A0">Samsung Newsroom</a></figcaption>
 </figure>
 
 - Measure the space for both fridges side by side.
-- Look for a kimchi fridge with a similar finish, size and design.
-- Check that both sets of doors can swing open and the drawers can slide all the way out.
+- Look for a kimchi fridge with a similar finish and size.
+- Check the space for opening both sets of doors and drawers.
 
-## The fridges we compared
-
-We started with white side-by-side models. When we looked for something that would sit closer to the cabinets, we added a few models in the 600&nbsp;L range.
-
-<div class="guide-panel">
-  <table aria-label="Five refrigerators we compared" aria-describedby="fridge-candidate-note">
-    <colgroup><col style="width: 38%"><col style="width: 24%"><col></colgroup>
-    <thead><tr><th scope="col">Model</th><th scope="col">Capacity<br>Depth</th><th scope="col">What stood out</th></tr></thead>
-    <tbody>
-      <tr><th scope="row">Samsung<br><a href="https://www.samsung.com/sec/support/model/RS84DB5002CW/">RS84DB<wbr>5002CW</a></th><td>852&nbsp;L<br>892&nbsp;mm</td><td>The side-by-side we used to set our budget. Its twist tray releases ice by hand.</td></tr>
-      <tr><th scope="row">LG<br><a href="https://www.lge.co.kr/product/refrigerators/s834mqq111">S834MQQ111</a></th><td>832&nbsp;L<br>913&nbsp;mm</td><td>Our pick before the bundle quote. A white, grade 1 model with a 308&nbsp;L freezer.</td></tr>
-      <tr><th scope="row">LG<br><a href="https://www.lge.co.kr/product/refrigerators/m616mqq0m1">M616MQQ0M1</a></th><td>609&nbsp;L<br>698&nbsp;mm</td><td>A shallower Fit &amp; Max option with a grade 1 energy rating.</td></tr>
-      <tr><th scope="row">Samsung<br><a href="https://www.samsung.com/sec/support/model/RM70F64Q1A/">RM70F64Q1A</a></th><td>623&nbsp;L<br>683&nbsp;mm</td><td>A Kitchen Fit Max option with a grade 1 energy rating.</td></tr>
-      <tr><th scope="row">Samsung<br><a href="https://www.samsung.com/sec/support/model/RM80H64S2A/">RM80H64S2A</a></th><td>609&nbsp;L<br>683&nbsp;mm</td><td><strong>What we bought</strong><br>This was the fridge in our appliance bundle. We chose it with space for a future kimchi fridge in mind.</td></tr>
-    </tbody>
-  </table>
-  <p class="guide-note" id="fridge-candidate-note">Capacity and depth are from the manufacturers. Depth excludes the rear handle on both Samsung Kitchen Fit Max models.</p>
-</div>
-
-## Sources
-
-- Manufacturer specs [LG S834MQQ111](https://www.lge.co.kr/product/refrigerators/s834mqq111) · [Samsung RM80H64S2A](https://www.samsung.com/sec/support/model/RM80H64S2A/)
-- [Samsung’s example for installing one Kitchen Fit Max](https://www.samsung.com/sec/refrigerators/french-door-rm80h64s2a-d2c/RM80H64S2A/)
-- Korea Energy Agency listings [LG](https://eep.energy.or.kr/certification/certi_view_252.aspx?no=252250342&page=1) · [Samsung](https://eep.energy.or.kr/certification/certi_view_252.aspx?no=252260150&page=1)
-
-[Previous post · Why We Bought Our Appliances at a Department Store](/en/blog/home/decor/appliances/)
+[How we bought five appliances at once](/en/blog/home/decor/appliances/)
