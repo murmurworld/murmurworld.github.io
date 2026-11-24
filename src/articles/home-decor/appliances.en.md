@@ -64,9 +64,9 @@ We started out shopping online, picking from a mix of brands. I’d settled on a
     <tbody>
       <tr><th scope="row"><a href="/en/blog/home/decor/refrigerator/">Fridge</a></th><td>834 L LG side-by-side<br>More freezer space</td><td>609 L Samsung Kitchen Fit Max<br>23 cm shallower</td></tr>
       <tr><th scope="row"><a href="/en/blog/home/decor/washer-dryer/">Laundry</a></th><td>A stacked pair, then Samsung combo WD80H25BHS<br>25 kg wash · 18 kg dry</td><td>Samsung combo WD90H25AHY<br>25 kg wash · 20 kg dry, with auto-open door</td></tr>
-      <tr><th scope="row">Water purifier</th><td>After ruling out ice dispensers, we compared the Samsung RWP70F15ANB and LG WD523AWB</td><td>Samsung RWP70F15ANW<br>Cold, hot and ambient water, in Satin Greige</td></tr>
-      <tr><th scope="row">Robot vacuum</th><td>Ecovacs T50 Pro Omni<br>81 mm tall</td><td>Samsung Steam Ultra VR90F01AAG<br>100 mm tall</td></tr>
-      <tr><th scope="row">Air purifier</th><td>LG PuriCare Hit · 62 m²<br>Samsung Blue Sky 5500 · 60 m²</td><td>Samsung Infinite AI AP90H03163UGD<br>Rated for 33 m²</td></tr>
+      <tr><th scope="row"><a href="/en/blog/home/decor/water-purifier/">Water purifier</a></th><td>After ruling out ice dispensers, we compared the Samsung RWP70F15ANB and LG WD523AWB</td><td>Samsung RWP70F15ANW<br>Cold, hot and ambient water, in Satin Greige</td></tr>
+      <tr><th scope="row"><a href="/en/blog/home/decor/robot-vacuum/">Robot vacuum</a></th><td>Ecovacs T50 Pro Omni<br>81 mm tall</td><td>Samsung Steam Ultra VR90F01AAG<br>100 mm tall</td></tr>
+      <tr><th scope="row"><a href="/en/blog/home/decor/air-purifier/">Air purifier</a></th><td>LG PuriCare Hit · 62 m²<br>Samsung Blue Sky 5500 · 60 m²</td><td>Samsung Infinite AI AP90H03163UGD<br>Rated for 33 m²</td></tr>
     </tbody>
   </table>
   <p class="guide-note">For the water purifier, we looked at ice and filter upkeep. For the vacuum, we checked the clearance under our furniture. For the air purifier, we compared room coverage and filters. We kept the two ceiling-mounted AC units that came with the apartment.</p>
