@@ -65,6 +65,23 @@ description: "다용도실 높이 때문에 두 대 대신 삼성 콤보를 골�
   <p class="guide-point"><strong>정리</strong><span>본체가 놓일 공간과 문을 통과할 폭은 따로 봤다.</span></p>
 </section>
 
+<section class="guide-section">
+  <h2 id="washer-comparison">알아본 세탁·건조기 비교</h2>
+  <p>처음 알아본 2단 세트부터 백화점에서 계약한 콤보까지, 세탁·건조 용량과 다용도실에 놓을 때 달라지는 점을 모았다.</p>
+  <div class="guide-panel">
+    <table aria-labelledby="washer-comparison">
+      <thead><tr><th scope="col">제품</th><th scope="col">세탁 / 건조</th><th scope="col">비교한 점</th></tr></thead>
+      <tbody>
+        <tr><th scope="row">삼성 2단 세트<br><a href="https://www.samsung.com/sec/washing-machines/package-wf21dg6650bv2t-d2c/WF21DG6650BV2T/">WF21DG<wbr>6650BV2T</a></th><td>21 / 21kg</td><td>처음 알아본 구성. 두 대를 따로 돌릴 수 있고, 쌓으려면 상단 키트까지 들어갈 높이가 필요했다.</td></tr>
+        <tr><th scope="row">LG 워시콤보<br><a href="https://www.lge.co.kr/product/all-in-one-laundry/fh25ka">FH25KA</a></th><td>25 / 15kg</td><td>높이 990mm. 상부장 아래에 놓을 때 여유가 더 생기는 후보였다.</td></tr>
+        <tr><th scope="row">삼성 AI 콤보<br><a href="https://www.samsung.com/sec/support/model/WD80H25BHS/">WD80H25<wbr>BHS</a></th><td>25 / 18kg</td><td>높이 1,110mm. 건조가 끝나면 문을 직접 연다.</td></tr>
+        <tr><th scope="row">삼성 AI 콤보<br><a href="https://www.samsung.com/sec/support/model/WD90H25AHY/">WD90H25<wbr>AHY</a></th><td>25 / 20kg</td><td><strong>백화점에서 계약.</strong> 높이 1,110mm. 건조가 끝나면 문이 자동으로 열리게 설정할 수 있다.</td></tr>
+      </tbody>
+    </table>
+    <p class="guide-note">용량과 콤보 본체 높이는 제조사 표기 기준이다. 실제 설치 높이에는 위쪽 여유 공간도 들어간다.</p>
+  </div>
+</section>
+
 <div class="guide-panel">
   <h2>같이 읽기</h2>
   <ul>

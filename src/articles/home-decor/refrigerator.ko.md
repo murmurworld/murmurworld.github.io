@@ -134,6 +134,25 @@ description: "이사하면 김치냉장고를 옆에 두고 싶어서 609L 키�
 - 지금 냉장고와 색, 크기, 디자인이 비슷한 김치냉장고 고르기
 - 두 대의 문을 활짝 열고 서랍을 끝까지 뺄 자리가 있는지 보기
 
+## 살 때 비교했던 냉장고
+
+처음엔 화이트 양문형을 기준으로 봤다. 장 밖으로 덜 나오는 제품을 찾으면서 600L급도 같이 알아봤다.
+
+<div class="guide-panel">
+  <table aria-label="구매할 때 비교한 냉장고 다섯 모델" aria-describedby="fridge-candidate-note">
+    <colgroup><col style="width: 38%"><col style="width: 24%"><col></colgroup>
+    <thead><tr><th scope="col">모델</th><th scope="col">용량<br>깊이</th><th scope="col">눈여겨본 점</th></tr></thead>
+    <tbody>
+      <tr><th scope="row">삼성<br><a href="https://www.samsung.com/sec/support/model/RS84DB5002CW/">RS84DB<wbr>5002CW</a></th><td>852L<br>892mm</td><td>처음 예산을 잡을 때 참고한 양문형. 손으로 돌려 얼음을 빼는 방식.</td></tr>
+      <tr><th scope="row">LG<br><a href="https://www.lge.co.kr/product/refrigerators/s834mqq111">S834MQQ111</a></th><td>832L<br>913mm</td><td>묶음 견적 전에 골랐다. 화이트 1등급에 냉동실이 308L였다.</td></tr>
+      <tr><th scope="row">LG<br><a href="https://www.lge.co.kr/product/refrigerators/m616mqq0m1">M616MQQ0M1</a></th><td>609L<br>698mm</td><td>깊이를 줄이면서 1등급을 유지할 수 있는 Fit &amp; Max 후보.</td></tr>
+      <tr><th scope="row">삼성<br><a href="https://www.samsung.com/sec/support/model/RM70F64Q1A/">RM70F64Q1A</a></th><td>623L<br>683mm</td><td>깊이가 얕은 삼성 후보. 600L급 키친핏 Max에도 1등급이 있었다.</td></tr>
+      <tr><th scope="row">삼성<br><a href="https://www.samsung.com/sec/support/model/RM80H64S2A/">RM80H64S2A</a></th><td>609L<br>683mm</td><td><strong>최종 계약</strong><br>가전 묶음에 넣은 모델. 이사 후 김치냉장고 옆에 둘 자리까지 생각했다.</td></tr>
+    </tbody>
+  </table>
+  <p class="guide-note" id="fridge-candidate-note">용량과 깊이는 제조사 사양 기준이다. 삼성 키친핏 Max 두 모델의 깊이는 후면 손잡이를 뺀 값이다.</p>
+</div>
+
 ## 확인한 곳
 
 - 제조사 사양 [LG S834MQQ111](https://www.lge.co.kr/product/refrigerators/s834mqq111) · [삼성 RM80H64S2A](https://www.samsung.com/sec/support/model/RM80H64S2A/)

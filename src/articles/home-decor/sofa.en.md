@@ -1,31 +1,31 @@
 ---
-title: "How We Chose a Custom Sofa for Our First Home"
-description: "A showroom visit changed the materials we wanted. The space for our dining chairs and robot vacuum helped us decide to go custom."
+title: "Why We Chose a Faux-Leather Sofa for Our First Home"
+description: "We started by looking for a sofa our robot vacuum could get under. After seeing genuine leather in the showroom, I preferred the faux-leather one."
 ---
 
 <aside class="guide-panel guide-summary" aria-labelledby="sofa-summary">
   <h2 id="sofa-summary">At a glance</h2>
   <dl>
-    <div><dt>Materials</dt><dd>We started with light fabric, then found a leather sofa with goose-filled cushions.</dd></div>
+    <div><dt>Material</dt><dd>We looked at genuine leather and picked the faux leather I liked.</dd></div>
     <div><dt>Width</dt><dd>About two meters, with room left for our dining table and chairs.</dd></div>
-    <div><dt>Order</dt><dd>We went custom to choose the width and the clearance underneath.</dd></div>
+    <div><dt>Clearance</dt><dd>Enough space for the robot vacuum was on our list from the start.</dd></div>
   </dl>
 </aside>
 
-I started out looking for a light-colored modular sofa in fabric. IKEA’s JÄTTEBO caught my eye because I could take off the off-white bouclé cover and wash it. Then we sat on the Monocus Leel at the I’Park Mall showroom. I still wanted a light color, but after sitting down I was leaning toward leather and goose-filled cushions. We planned to keep our dining table, which gave us only so much room to work with. We ordered a custom sofa so we could choose the width and the leg height together.
+We started out looking for a sofa our robot vacuum could get under. Among the light fabric options, IKEA’s JÄTTEBO caught my eye. Then we tried the Monocus Leel at the I’Park Mall showroom. I still liked light colors, and of all the materials we looked at, my favorite was faux leather. We placed a custom order with the space beside our dining table in mind.
 
 <section class="guide-section">
   <p class="guide-label">Materials</p>
-  <h2>What I noticed in the&nbsp;showroom</h2>
-  <p>With the JÄTTEBO, what caught my eye was being able to take the cover off a light sofa and wash it. The Leel made the shortlist after I got to sit back on it. Its cushions use soft goose fill.</p>
+  <h2>What drew me to faux&nbsp;leather</h2>
+  <p>I liked that the JÄTTEBO cover came off for washing. When we looked at leather options, I liked the faux leather we picked more than the genuine leather we’d seen. It looked sturdy enough to stand up to a scratch or two from a cat or dog.</p>
   <div class="guide-panel guide-summary">
     <h3>What stood out about each sofa</h3>
     <dl>
       <div><dt>IKEA JÄTTEBO</dt><dd>Off-white bouclé with a looped texture. This cover comes off and can go in the washing machine.</dd></div>
-      <div><dt>Monocus Leel</dt><dd>The leather and goose-filled cushion combination we tried in the showroom.</dd></div>
+      <div><dt>Monocus Leel</dt><dd>The leather sofa we sat on in the showroom.</dd></div>
     </dl>
   </div>
-  <p class="guide-point"><strong>Takeaway</strong><span>We kept looking for a light color and switched from fabric to leather and goose fill.</span></p>
+  <p class="guide-point"><strong>Takeaway</strong><span>We ended up ordering the faux-leather sofa I liked best.</span></p>
 </section>
 
 <section class="guide-section">
@@ -48,14 +48,14 @@ I started out looking for a light-colored modular sofa in fabric. IKEA’s JÄTT
   <h2>Space for the robot vacuum to get&nbsp;underneath</h2>
   <p>I wanted the robot vacuum to reach under the sofa. What mattered was the gap between the floor and the lowest part of the sofa. Even a standard sofa in the right width could have a different gap underneath.</p>
   <div class="guide-panel guide-summary">
-    <h3>The two measurements we wanted to choose</h3>
+    <h3>The measurements we had in mind</h3>
     <dl>
       <div><dt>Overall width</dt><dd>Leave room for our existing table and the chairs to move.</dd></div>
       <div><dt>Clearance</dt><dd>We aimed for roughly 12&nbsp;cm to leave room above the robot vacuum.</dd></div>
     </dl>
-    <p class="guide-note">The 12 cm figure was our target while comparing options. The final dimensions, leather type, lead time, and cancellation and return terms belong on the custom order.</p>
+    <p class="guide-note">The 12 cm figure was our target while comparing options.</p>
   </div>
-  <p class="guide-point"><strong>Takeaway</strong><span>We went custom so we could choose both the width and the gap underneath.</span></p>
+  <p class="guide-point"><strong>Takeaway</strong><span>The measurement that mattered for the robot vacuum was the clear space from the floor to the underside.</span></p>
 </section>
 
 <div class="guide-panel">

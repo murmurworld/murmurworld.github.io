@@ -54,6 +54,24 @@ We started out shopping online, picking from a mix of brands. I’d settled on a
   <p class="guide-point"><strong>Takeaway</strong><span>One machine saved us having to fit two units vertically.</span></p>
 </section>
 
+<section class="guide-panel" aria-labelledby="appliance-comparison">
+  <h2 id="appliance-comparison">What we considered and what we ordered</h2>
+  <p>We looked at lineups built around Samsung or LG, as well as mixing brands. Here’s how the shortlist compared with the models we ordered at the department store.</p>
+  <table aria-labelledby="appliance-comparison">
+    <thead>
+      <tr><th scope="col" style="width: 21%">Appliance</th><th scope="col">On our shortlist</th><th scope="col">What we ordered</th></tr>
+    </thead>
+    <tbody>
+      <tr><th scope="row"><a href="/en/blog/home/decor/refrigerator/">Fridge</a></th><td>834 L LG side-by-side<br>More freezer space</td><td>609 L Samsung Kitchen Fit Max<br>23 cm shallower</td></tr>
+      <tr><th scope="row"><a href="/en/blog/home/decor/washer-dryer/">Laundry</a></th><td>A stacked pair, then Samsung combo WD80H25BHS<br>25 kg wash · 18 kg dry</td><td>Samsung combo WD90H25AHY<br>25 kg wash · 20 kg dry, with auto-open door</td></tr>
+      <tr><th scope="row">Water purifier</th><td>After ruling out ice dispensers, we compared the Samsung RWP70F15ANB and LG WD523AWB</td><td>Samsung RWP70F15ANW<br>Cold, hot and ambient water, in Satin Greige</td></tr>
+      <tr><th scope="row">Robot vacuum</th><td>Ecovacs T50 Pro Omni<br>81 mm tall</td><td>Samsung Steam Ultra VR90F01AAG<br>100 mm tall</td></tr>
+      <tr><th scope="row">Air purifier</th><td>LG PuriCare Hit · 62 m²<br>Samsung Blue Sky 5500 · 60 m²</td><td>Samsung Infinite AI AP90H03163UGD<br>Rated for 33 m²</td></tr>
+    </tbody>
+  </table>
+  <p class="guide-note">For the water purifier, we looked at ice and filter upkeep. For the vacuum, we checked the clearance under our furniture. For the air purifier, we compared room coverage and filters. We kept the two ceiling-mounted AC units that came with the apartment.</p>
+</section>
+
 <div class="guide-panel">
   <h2>Monthly electricity use</h2>
   <p>We broke down how much electricity the five appliances might use in a month. The calculator lets you adjust estimates based on how often you run them.</p>
@@ -66,5 +84,8 @@ We started out shopping online, picking from a mix of brands. I’d settled on a
     <li><a href="https://www.lge.co.kr/product/refrigerators/s834mqq111">LG 834 L refrigerator specifications</a> · <a href="https://www.samsung.com/sec/support/model/RM80H64S2A/">Samsung 609 L refrigerator specifications</a></li>
     <li><a href="https://eep.energy.or.kr/certification/certi_view_252.aspx?no=252250342&amp;page=1">Korea Energy Agency listing for LG</a> · <a href="https://eep.energy.or.kr/certification/certi_view_252.aspx?no=252260150&amp;page=1">Listing for Samsung</a></li>
     <li><a href="https://www.samsung.com/sec/laundry-combo/combo-wd90h25ahy-d2c/WD90H25AHY/">Samsung’s capacity and auto-open door guide</a></li>
+    <li><a href="https://www.samsung.com/sec/support/model/RWP70F15ANW/">Samsung water purifier</a> · <a href="https://www.lge.co.kr/support/product-WD523AWB">LG water purifier</a></li>
+    <li><a href="https://www.ecovacs.com/global/deebot-robotic-vacuum-cleaner/t50-pro-omni-white">Ecovacs T50</a> · <a href="https://www.samsung.com/sec/support/model/VR90F01AAG/">Samsung robot vacuum</a></li>
+    <li><a href="https://www.lge.co.kr/product/upappliance-list/as186hwwl">LG PuriCare Hit</a> · <a href="https://www.samsung.com/sec/support/model/AX060CG500GED/">Samsung Blue Sky 5500</a> · <a href="https://www.samsung.com/sec/air-cleaner/air-purifier-ap90h03163gd-d2c/AP90H03163UGD/">Samsung Infinite AI</a></li>
   </ul>
 </div>

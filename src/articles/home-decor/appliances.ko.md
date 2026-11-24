@@ -37,7 +37,7 @@ description: "온라인에서 따로 고르던 신혼 가전을 백화점에서 
   <div class="guide-panel">
     <h3>같은 기준으로 본 한 달 전력량</h3>
     <p>한국에너지공단 신고값은 LG 월 37.95kWh, 삼성 월 36.13kWh였다. 이 두 모델의 차이는 월 2kWh가 채 안 됐다.</p>
-    <p><a href="/blog/home/decor/refrigerator/">834L를 알아보다 609L 키친핏을 고른 이유</a></p>
+    <p><a href="/blog/home/decor/refrigerator/">냉장고 편 · 834L에서 609L 키친핏으로</a></p>
   </div>
   <p class="guide-point"><strong>정리</strong><span>최종 모델은 용량이 작아진 대신 본체가 얕았다.</span></p>
 </section>
@@ -54,6 +54,24 @@ description: "온라인에서 따로 고르던 신혼 가전을 백화점에서 
   <p class="guide-point"><strong>정리</strong><span>한 대로 줄이니 두 대를 쌓을 높이가 필요 없어졌다.</span></p>
 </section>
 
+<section class="guide-panel" aria-labelledby="appliance-comparison">
+  <h2 id="appliance-comparison">계약 전 후보와 최종 모델</h2>
+  <p>구매 전에는 삼성 위주로 묶는 안, LG 위주로 묶는 안, 품목마다 골라 담는 안을 비교했다. 그때 적어 둔 후보를 백화점에서 실제로 계약한 모델과 나란히 놓아 봤다.</p>
+  <table aria-labelledby="appliance-comparison">
+    <thead>
+      <tr><th scope="col" style="width: 21%">품목</th><th scope="col">계약 전 후보</th><th scope="col">실제 계약</th></tr>
+    </thead>
+    <tbody>
+      <tr><th scope="row"><a href="/blog/home/decor/refrigerator/">냉장고</a></th><td>LG 834L 양문형<br>넉넉한 냉동실</td><td>삼성 609L 키친핏 Max<br>본체 깊이 23cm 감소</td></tr>
+      <tr><th scope="row"><a href="/blog/home/decor/washer-dryer/">세탁·건조기</a></th><td>직렬 설치를 보다가 삼성 콤보 WD80H25BHS<br>세탁 25kg · 건조 18kg</td><td>삼성 콤보 WD90H25AHY<br>세탁 25kg · 건조 20kg, 자동 문 열림</td></tr>
+      <tr><th scope="row">정수기</th><td>얼음 모델을 빼고 삼성 RWP70F15ANB와 LG WD523AWB 비교</td><td>삼성 RWP70F15ANW<br>냉수·온수·정수, 사틴 그레이지</td></tr>
+      <tr><th scope="row">로봇청소기</th><td>에코백스 T50 Pro Omni<br>본체 높이 81mm</td><td>삼성 스팀 울트라 VR90F01AAG<br>본체 높이 100mm</td></tr>
+      <tr><th scope="row">공기청정기</th><td>LG 퓨리케어 Hit 62㎡<br>삼성 블루스카이 5500 60㎡</td><td>삼성 Infinite AI AP90H03163UGD<br>표준사용면적 33㎡</td></tr>
+    </tbody>
+  </table>
+  <p class="guide-note">정수기는 얼음 기능과 필터 관리, 로봇청소기는 가구 아래로 들어갈 높이, 공기청정기는 사용할 공간의 면적과 필터를 비교했다. 에어컨은 기존 천장형 두 대를 쓰기로 해 표에서 뺐다.</p>
+</section>
+
 <div class="guide-panel">
   <h2>전력 사용량 계산</h2>
   <p>가전 다섯 가지의 한 달 전력 사용량을 품목별로 정리했다. 사용 횟수에 따라 달라지는 값은 계산기에서 바꿔 볼 수 있다.</p>
@@ -66,5 +84,8 @@ description: "온라인에서 따로 고르던 신혼 가전을 백화점에서 
     <li><a href="https://www.lge.co.kr/product/refrigerators/s834mqq111">LG 834L 냉장고 사양</a> · <a href="https://www.samsung.com/sec/support/model/RM80H64S2A/">삼성 609L 냉장고 사양</a></li>
     <li><a href="https://eep.energy.or.kr/certification/certi_view_252.aspx?no=252250342&amp;page=1">한국에너지공단 LG 신고값</a> · <a href="https://eep.energy.or.kr/certification/certi_view_252.aspx?no=252260150&amp;page=1">삼성 신고값</a></li>
     <li><a href="https://www.samsung.com/sec/laundry-combo/combo-wd90h25ahy-d2c/WD90H25AHY/">삼성 콤보 용량과 자동 문 열림 안내</a></li>
+    <li><a href="https://www.samsung.com/sec/support/model/RWP70F15ANW/">삼성 정수기</a> · <a href="https://www.lge.co.kr/support/product-WD523AWB">LG 정수기</a></li>
+    <li><a href="https://www.ecovacs.com/global/deebot-robotic-vacuum-cleaner/t50-pro-omni-white">에코백스 T50</a> · <a href="https://www.samsung.com/sec/support/model/VR90F01AAG/">삼성 로봇청소기</a></li>
+    <li><a href="https://www.lge.co.kr/product/upappliance-list/as186hwwl">LG 퓨리케어 Hit</a> · <a href="https://www.samsung.com/sec/support/model/AX060CG500GED/">삼성 블루스카이 5500</a> · <a href="https://www.samsung.com/sec/air-cleaner/air-purifier-ap90h03163gd-d2c/AP90H03163UGD/">삼성 Infinite AI</a></li>
   </ul>
 </div>

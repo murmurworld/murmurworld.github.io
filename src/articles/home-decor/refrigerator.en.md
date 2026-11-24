@@ -134,6 +134,25 @@ Samsung’s installation example leaves a small gap on either side and above the
 - Look for a kimchi fridge with a similar finish, size and design.
 - Check that both sets of doors can swing open and the drawers can slide all the way out.
 
+## The fridges we compared
+
+We started with white side-by-side models. When we looked for something that would sit closer to the cabinets, we added a few models in the 600&nbsp;L range.
+
+<div class="guide-panel">
+  <table aria-label="Five refrigerators we compared" aria-describedby="fridge-candidate-note">
+    <colgroup><col style="width: 38%"><col style="width: 24%"><col></colgroup>
+    <thead><tr><th scope="col">Model</th><th scope="col">Capacity<br>Depth</th><th scope="col">What stood out</th></tr></thead>
+    <tbody>
+      <tr><th scope="row">Samsung<br><a href="https://www.samsung.com/sec/support/model/RS84DB5002CW/">RS84DB<wbr>5002CW</a></th><td>852&nbsp;L<br>892&nbsp;mm</td><td>The side-by-side we used to set our budget. Its twist tray releases ice by hand.</td></tr>
+      <tr><th scope="row">LG<br><a href="https://www.lge.co.kr/product/refrigerators/s834mqq111">S834MQQ111</a></th><td>832&nbsp;L<br>913&nbsp;mm</td><td>Our pick before the bundle quote. A white, grade 1 model with a 308&nbsp;L freezer.</td></tr>
+      <tr><th scope="row">LG<br><a href="https://www.lge.co.kr/product/refrigerators/m616mqq0m1">M616MQQ0M1</a></th><td>609&nbsp;L<br>698&nbsp;mm</td><td>A shallower Fit &amp; Max option with a grade 1 energy rating.</td></tr>
+      <tr><th scope="row">Samsung<br><a href="https://www.samsung.com/sec/support/model/RM70F64Q1A/">RM70F64Q1A</a></th><td>623&nbsp;L<br>683&nbsp;mm</td><td>A Kitchen Fit Max option with a grade 1 energy rating.</td></tr>
+      <tr><th scope="row">Samsung<br><a href="https://www.samsung.com/sec/support/model/RM80H64S2A/">RM80H64S2A</a></th><td>609&nbsp;L<br>683&nbsp;mm</td><td><strong>What we bought</strong><br>This was the fridge in our appliance bundle. We chose it with space for a future kimchi fridge in mind.</td></tr>
+    </tbody>
+  </table>
+  <p class="guide-note" id="fridge-candidate-note">Capacity and depth are from the manufacturers. Depth excludes the rear handle on both Samsung Kitchen Fit Max models.</p>
+</div>
+
 ## Sources
 
 - Manufacturer specs [LG S834MQQ111](https://www.lge.co.kr/product/refrigerators/s834mqq111) · [Samsung RM80H64S2A](https://www.samsung.com/sec/support/model/RM80H64S2A/)

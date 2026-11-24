@@ -65,6 +65,23 @@ I started with the idea of putting a dryer on top of the washer. Our laundry roo
   <p class="guide-point"><strong>Takeaway</strong><span>We looked separately at the space for the machine and the route it would take to get there.</span></p>
 </section>
 
+<section class="guide-section">
+  <h2 id="washer-comparison">The washer-dryers we compared</h2>
+  <p>Here’s how the stacked pair we looked at first and the combos we considered compared on capacity, height, and day-to-day use.</p>
+  <div class="guide-panel">
+    <table aria-labelledby="washer-comparison">
+      <thead><tr><th scope="col">Model</th><th scope="col">Wash / dry</th><th scope="col">What mattered</th></tr></thead>
+      <tbody>
+        <tr><th scope="row">Samsung stacked pair<br><a href="https://www.samsung.com/sec/washing-machines/package-wf21dg6650bv2t-d2c/WF21DG6650BV2T/">WF21DG<wbr>6650BV2T</a></th><td>21 / 21 kg</td><td>Our first option. Each machine can run separately. Stacking requires room for both machines and the stacking kit.</td></tr>
+        <tr><th scope="row">LG WashCombo<br><a href="https://www.lge.co.kr/product/all-in-one-laundry/fh25ka">FH25KA</a></th><td>25 / 15 kg</td><td>990 mm tall. It would leave more room under an overhead cabinet.</td></tr>
+        <tr><th scope="row">Samsung AI Combo<br><a href="https://www.samsung.com/sec/support/model/WD80H25BHS/">WD80H25<wbr>BHS</a></th><td>25 / 18 kg</td><td>1,110 mm tall. You open the door by hand when drying finishes.</td></tr>
+        <tr><th scope="row">Samsung AI Combo<br><a href="https://www.samsung.com/sec/support/model/WD90H25AHY/">WD90H25<wbr>AHY</a></th><td>25 / 20 kg</td><td><strong>Ordered at the department store.</strong> 1,110 mm tall, with an auto-open setting for the end of the drying cycle.</td></tr>
+      </tbody>
+    </table>
+    <p class="guide-note">Capacities and combo heights are from the manufacturers’ specifications. Allow extra clearance above the machine for installation.</p>
+  </div>
+</section>
+
 <div class="guide-panel">
   <h2>Related reading</h2>
   <ul>
