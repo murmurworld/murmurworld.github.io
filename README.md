@@ -21,6 +21,10 @@ pnpm dev
 
 ## GitHub Pages 배포
 
-`murmurworld/murmurworld.github.io` 저장소의 **Settings → Pages → Source**는 **GitHub Actions**를 사용합니다. 사이트 소스를 수정한 뒤 `main`의 `murmurworld-source.zip`을 새 파일로 교체하면 Actions가 빌드해 배포합니다.
+집꾸미기 글의 제목·요약·본문은 [블로그 관리 화면](https://murmurworld.github.io/admin/)에서 선택한 뒤 GitHub에 로그인해 고칠 수 있습니다. 저장소의 쓰기 권한이 있는 계정이 `src/articles/home-decor/`의 한·영 원고를 `main`에 저장하면 GitHub Actions가 공개 사이트를 다시 배포합니다. 검토가 필요하면 새 브랜치에 저장한 뒤 검토하고 `main`에 합칩니다.
+
+디자인이나 기능을 바꿀 때는 `murmurworld/murmurworld.github.io` 저장소의 `murmurworld-source.zip`을 교체합니다. 새 ZIP을 풀고 나면 Actions가 저장소에 있는 집꾸미기 원고를 빌드 폴더에 복사합니다. 이후 원고 수정은 관리 화면에서 연결한 Markdown에 반영합니다.
+
+방문 통계는 Cloudflare Web Analytics 사이트 토큰을 GitHub Actions 저장소 변수 `PUBLIC_CLOUDFLARE_WEB_ANALYTICS_TOKEN`에 등록하고 워크플로를 다시 실행하면 집계됩니다.
 
 [Astro GitHub Pages 공식 안내](https://docs.astro.build/en/guides/deploy/github/)
