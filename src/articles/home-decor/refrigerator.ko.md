@@ -1,6 +1,6 @@
 ---
 title: "냉장고는 삼성 609L 키친핏으로"
-description: "마음에 들었던 삼성 609L 키친핏 Max를 더 저렴한 가전 묶음으로 계약했다. LG 834L 후보와 깊이, 냉동실 용량, 한 달 소비전력량을 비교했다."
+description: "마음에 들었던 삼성 609L 키친핏 Max를 더 저렴한 가전 묶음으로 계약했다. LG 832L 후보와 깊이, 냉동실 용량, 한 달 소비전력량을 비교했다."
 ---
 
 나는 삼성 키친핏이 마음에 들었다. 짝꿍도 LG 냉장고 쪽에 크게 미련은 없었다. 가전 묶음 견적이 더 저렴해서 삼성으로 정했다.
@@ -36,7 +36,7 @@ description: "마음에 들었던 삼성 609L 키친핏 Max를 더 저렴한 가
 <div class="guide-panel">
   <h3 id="fridge-dimensions">본체 치수</h3>
   <table aria-labelledby="fridge-dimensions">
-    <thead><tr><th scope="col">치수</th><th scope="col">LG 834L</th><th scope="col">삼성 609L</th></tr></thead>
+    <thead><tr><th scope="col">치수</th><th scope="col">LG 832L</th><th scope="col">삼성 609L</th></tr></thead>
     <tbody>
       <tr><th scope="row">폭</th><td>913mm</td><td>912mm</td></tr>
       <tr><th scope="row">높이</th><td>1,790mm</td><td>1,853mm</td></tr>
@@ -58,7 +58,7 @@ description: "마음에 들었던 삼성 609L 키친핏 Max를 더 저렴한 가
 <div class="guide-panel">
   <h3 id="fridge-capacity">칸별 용량</h3>
   <table class="fridge-chart" aria-labelledby="fridge-capacity">
-    <thead><tr><th scope="col">용량</th><th scope="col">LG 834L</th><th scope="col">삼성 609L</th></tr></thead>
+    <thead><tr><th scope="col">용량</th><th scope="col">LG 832L</th><th scope="col">삼성 609L</th></tr></thead>
     <tbody>
       <tr><th scope="row">전체</th><td style="--share: 92.44%">832L</td><td style="--share: 67.67%">609L</td></tr>
       <tr><th scope="row">냉장실</th><td style="--share: 58.22%">524L</td><td style="--share: 41.78%">376L</td></tr>
@@ -88,19 +88,21 @@ LG는 1등급, 삼성은 2등급이었다. 제조사 사양끼리 보면 삼성�
 
 ## AI로 찾아 둔 후보
 
+800L급은 저장 공간이 넉넉했고, 얕은 600L급은 냉장고장 앞으로 덜 나온다. 조사 표에서 얕은 쪽은 당시 온라인 가격도 더 높았다.
+
 <div class="guide-panel">
   <table aria-label="냉장고 후보와 계약 모델" aria-describedby="fridge-candidate-note">
-    <colgroup><col style="width: 38%"><col style="width: 24%"><col></colgroup>
-    <thead><tr><th scope="col">모델</th><th scope="col">용량<br>깊이</th><th scope="col">특징</th></tr></thead>
+    <colgroup><col style="width: 32%"><col style="width: 24%"><col></colgroup>
+    <thead><tr><th scope="col">모델·크기</th><th scope="col">당시 단품가</th><th scope="col">장점과 고려할 점</th></tr></thead>
     <tbody>
-      <tr><th scope="row">삼성<br><a href="https://www.samsung.com/sec/support/model/RS84DB5002CW/">RS84DB<wbr>5002CW</a></th><td>852L<br>892mm</td><td>양문형. 손으로 돌려 얼음을 빼는 방식.</td></tr>
-      <tr><th scope="row">LG<br><a href="https://www.lge.co.kr/product/refrigerators/s834mqq111">S834MQQ111</a></th><td>832L<br>913mm</td><td>화이트 1등급 양문형. 냉동실 308L.</td></tr>
-      <tr><th scope="row">LG<br><a href="https://www.lge.co.kr/product/refrigerators/m616mqq0m1">M616MQQ0M1</a></th><td>609L<br>698mm</td><td>1등급 Fit &amp; Max.</td></tr>
-      <tr><th scope="row">삼성<br><a href="https://www.samsung.com/sec/support/model/RM70F64Q1A/">RM70F64Q1A</a></th><td>623L<br>683mm</td><td>1등급 키친핏 Max.</td></tr>
-      <tr><th scope="row">삼성<br><a href="https://www.samsung.com/sec/support/model/RM80H64S2A/">RM80H64S2A</a></th><td>609L<br>683mm</td><td><strong>계약 모델.</strong> 키친핏 Max.</td></tr>
+      <tr><th scope="row">삼성 양문형<br><a href="https://www.samsung.com/sec/support/model/RS84DB5002CW/">RS84DB<wbr>5002CW</a><br><small>852L · 깊이 89.2cm</small></th><td>약 110만~124만원</td><td>이 표에서 용량이 가장 컸고, 조사한 단품가 중 가장 저렴했다. 얼음은 트레이에 물을 채우고 손으로 돌려 뺀다.</td></tr>
+      <tr><th scope="row">LG 양문형<br><a href="https://www.lge.co.kr/product/refrigerators/s834mqq111">S834MQQ111</a><br><small>832L · 깊이 91.3cm</small></th><td>약 163만원</td><td>화이트 1등급에 냉동실이 308L다. 표에서 본체 깊이가 가장 길다.</td></tr>
+      <tr><th scope="row">LG Fit &amp; Max<br><a href="https://www.lge.co.kr/product/refrigerators/m616mqq0m1">M616<wbr>MQQ0M1</a><br><small>609L · 깊이 69.8cm</small></th><td>약 238만원</td><td>깊이 70cm 안쪽에 1등급이다. 같은 LG의 832L 양문형보다 223L 작고 조사가는 더 높았다.</td></tr>
+      <tr><th scope="row">삼성 키친핏 Max<br><a href="https://www.samsung.com/sec/support/model/RM70F64Q1A/">RM70F<wbr>64Q1A</a><br><small>623L · 깊이 68.3cm</small></th><td>약 266만원</td><td>얕은 4도어 1등급. 600L급 후보 가운데 조사한 단품가가 가장 높았다.</td></tr>
+      <tr class="key"><th scope="row">삼성 키친핏 Max<br><a href="https://www.samsung.com/sec/support/model/RM80H64S2A/">RM80H<wbr>64S2A</a><br><small>609L · 깊이 68.3cm</small></th><td>묶음 계약<br><small>당시 단품가 미확인</small></td><td><strong>우리가 고른 모델.</strong> 문 쪽 식품을 꺼내는 푸드 쇼케이스가 있다. 냉동실은 233L로 LG 양문형보다 75L 작다.</td></tr>
     </tbody>
   </table>
-  <p class="guide-note" id="fridge-candidate-note">제조사 사양 기준. 삼성 키친핏 Max 두 모델의 깊이는 후면 손잡이 제외.</p>
+  <p class="guide-note" id="fridge-candidate-note">가격은 2026년 7~8월 국내 온라인에서 조사한 단품 판매가의 근사치다. 크기와 용량은 제조사 기준이며, 삼성 키친핏 Max 두 모델의 깊이는 후면 손잡이를 뺀 값이다.</p>
 </div>
 
 ## 이사 가면 할 일

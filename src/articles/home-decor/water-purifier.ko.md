@@ -24,19 +24,20 @@ description: "얼음 기능을 뺀 삼성 비스포크 AI 정수기를 주문했
 
 <section>
   <h2 id="purifier-comparison">AI로 찾아 둔 후보</h2>
+  <p>얼음정수기는 폭도 가격도 차이가 컸다. 일반 정수기 중에는 렌탈 후보도 있어서 일시불 가격과 월 납입액을 따로 표시했다.</p>
   <div class="guide-panel">
     <table aria-labelledby="purifier-comparison" aria-describedby="purifier-size-note">
-      <colgroup><col style="width: 37%"><col style="width: 24%"><col></colgroup>
-      <thead><tr><th scope="col">모델</th><th scope="col">폭 × 깊이</th><th scope="col">특징</th></tr></thead>
+      <colgroup><col style="width: 32%"><col style="width: 25%"><col></colgroup>
+      <thead><tr><th scope="col">모델·크기</th><th scope="col">가격 기준</th><th scope="col">장점과 고려할 점</th></tr></thead>
       <tbody>
-        <tr><th scope="row">삼성 얼음정수기<br><a href="https://www.samsung.com/sec/support/model/RWP90H15ANW/">RWP90<wbr>H15ANW</a></th><td>24 × 49.5cm</td><td>버튼으로 얼음을 받는 모델.</td></tr>
-        <tr><th scope="row">코웨이 아이콘 3<br><a href="https://www.coway.com/product/detail?prdno=1384">CHP-7220N</a></th><td>16 × 36.8cm</td><td>이 표의 후보 중 폭과 깊이가 가장 작았다.</td></tr>
-        <tr><th scope="row">SK매직 초소형 플러스<br><a href="https://www.sknetworks.com/pr/news-room/f3r5K6sIoyweWnCy">WPU-<wbr>JAC115S</a></th><td>16.4 × 39.5cm</td><td>높이 34.5cm인 작은 본체와 약 100℃ 고온수 설정.</td></tr>
-        <tr><th scope="row">LG 퓨리케어<br><a href="https://www.lge.co.kr/water-purifiers/wd523awb">WD523AWB</a></th><td>16.8 × 40cm</td><td>직수관을 일주일에 한 번 자동으로 고온살균한다.</td></tr>
-        <tr><th scope="row">삼성 비스포크 AI<br><a href="https://www.samsung.com/sec/support/model/RWP70F15ANW/">RWP70<wbr>F15ANW</a></th><td>17 × 48cm</td><td><strong>최종 계약.</strong> 냉수·온수·정수. 필터 자가교체와 출수구 분리세척이 가능하다.</td></tr>
+        <tr><th scope="row">삼성 얼음정수기<br><a href="https://www.samsung.com/sec/support/model/RWP90H15ANW/">RWP90<wbr>H15ANW</a><br><small>24 × 49.5cm</small></th><td>239만원<br><small><a href="https://news.samsung.com/kr/삼성전자-하루-최대-8kg의-강력한-제빙-성능-갖춘-비스">2026년 2월 출고가</a></small></td><td>버튼으로 바로 얼음을 받을 수 있다. 고른 냉온정수기보다 폭이 7cm 넓고 얼음이 나오는 곳도 관리해야 한다.</td></tr>
+        <tr><th scope="row">코웨이 아이콘 3<br><a href="https://www.coway.com/product/detail?prdno=1384">CHP-7220N</a><br><small>16 × 36.8cm</small></th><td>월 약 3.1만원<br><small>6년 렌탈 사례</small></td><td>이 표에서 폭과 깊이가 가장 작고, 필터에 앞쪽으로 접근할 수 있다. 렌탈 총액은 약정과 관리 방식에 따라 달라진다.</td></tr>
+        <tr><th scope="row">SK매직 초소형 플러스<br><a href="https://www.sknetworks.com/pr/news-room/f3r5K6sIoyweWnCy">WPU-<wbr>JAC115S</a><br><small>16.4 × 39.5cm</small></th><td>월 약 3.2만원<br><small>6년 렌탈 사례</small></td><td>높이가 34.5cm이고 약 100℃ 고온수 설정이 있다. 조사 때는 초기 할인이 끝나면 월 납입액이 올라가는 조건이었다.</td></tr>
+        <tr><th scope="row">LG 퓨리케어<br><a href="https://www.lge.co.kr/water-purifiers/wd523awb">WD523AWB</a><br><small>16.8 × 40cm</small></th><td>월 약 3.5만원<br><small>6년 렌탈 사례</small></td><td>직수관을 주 1회 자동으로 고온살균한다. 당시 조사한 6년 렌탈 사례 중에는 월 납입액이 가장 높았다.</td></tr>
+        <tr class="key"><th scope="row">삼성 비스포크 AI<br><a href="https://www.samsung.com/sec/support/model/RWP70F15ANW/">RWP70<wbr>F15ANW</a><br><small>17 × 48cm</small></th><td>약 122만원<br><small>온라인 단품가</small></td><td><strong>우리가 고른 모델.</strong> 필터를 직접 바꾸고 출수구를 빼서 씻을 수 있다. 폭은 17cm지만 깊이는 48cm라 상판 앞뒤 공간이 더 든다.</td></tr>
       </tbody>
     </table>
-    <p class="guide-note" id="purifier-size-note">제조사 표기 본체 치수. 실제 설치에는 연결관과 주변 여유 공간이 필요하다.</p>
+    <p class="guide-note" id="purifier-size-note">크기는 제조사 표기 본체의 폭 × 깊이다. 설치할 때는 연결관 자리도 필요하다. 온라인 단품가와 렌탈 사례는 2026년 여름 조사 기준이다. 월 납입액은 정상 요금이며, 총액은 약정·관리 방식과 필터·이전 설치 비용에 따라 달라진다.</p>
   </div>
 </section>
 

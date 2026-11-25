@@ -1,6 +1,6 @@
 ---
 title: "The Samsung 609 L Kitchen Fit Fridge We Bought"
-description: "I liked the Samsung 609 L Kitchen Fit Max, and the bundle with it cost less. Here’s how it compared with the 834 L LG in depth, freezer space, and rated electricity use."
+description: "I liked the Samsung 609 L Kitchen Fit Max, and the bundle with it cost less. Here’s how it compared with the 832 L LG in depth, freezer space, and rated electricity use."
 ---
 
 I liked the Samsung Kitchen Fit. My fiancé wasn’t especially attached to the LG option. The Samsung was part of the less expensive bundle, so that’s what we went with.
@@ -36,7 +36,7 @@ I liked the Samsung Kitchen Fit. My fiancé wasn’t especially attached to the 
 <div class="guide-panel">
   <h3 id="fridge-dimensions">Body dimensions</h3>
   <table aria-labelledby="fridge-dimensions">
-    <thead><tr><th scope="col">Dimension</th><th scope="col">834 L LG</th><th scope="col">609 L Samsung</th></tr></thead>
+    <thead><tr><th scope="col">Dimension</th><th scope="col">832 L LG</th><th scope="col">609 L Samsung</th></tr></thead>
     <tbody>
       <tr><th scope="row">Width</th><td>913&nbsp;mm</td><td>912&nbsp;mm</td></tr>
       <tr><th scope="row">Height</th><td>1,790&nbsp;mm</td><td>1,853&nbsp;mm</td></tr>
@@ -58,7 +58,7 @@ Samsung’s example for one fridge leaves 4 mm on each side and 20 mm above. Wit
 <div class="guide-panel">
   <h3 id="fridge-capacity">Capacity by compartment</h3>
   <table class="fridge-chart" aria-labelledby="fridge-capacity">
-    <thead><tr><th scope="col">Capacity</th><th scope="col">834 L LG</th><th scope="col">609 L Samsung</th></tr></thead>
+    <thead><tr><th scope="col">Capacity</th><th scope="col">832 L LG</th><th scope="col">609 L Samsung</th></tr></thead>
     <tbody>
       <tr><th scope="row">Total</th><td style="--share: 92.44%">832&nbsp;L</td><td style="--share: 67.67%">609&nbsp;L</td></tr>
       <tr><th scope="row">Fridge</th><td style="--share: 58.22%">524&nbsp;L</td><td style="--share: 41.78%">376&nbsp;L</td></tr>
@@ -88,19 +88,21 @@ The refrigerator figure in [our five-appliance energy estimate](/en/blog/home/de
 
 ## Options We Found with AI
 
+The 800-liter models offered more storage. The shallower 600-liter models would stick out less from the cabinets. The two with recorded prices were also more expensive.
+
 <div class="guide-panel">
   <table aria-label="Fridge options and the model we bought" aria-describedby="fridge-candidate-note">
-    <colgroup><col style="width: 38%"><col style="width: 24%"><col></colgroup>
-    <thead><tr><th scope="col">Model</th><th scope="col">Capacity<br>Depth</th><th scope="col">Features</th></tr></thead>
+    <colgroup><col style="width: 32%"><col style="width: 24%"><col></colgroup>
+    <thead><tr><th scope="col">Model and size</th><th scope="col">Price then</th><th scope="col">What to weigh</th></tr></thead>
     <tbody>
-      <tr><th scope="row">Samsung<br><a href="https://www.samsung.com/sec/support/model/RS84DB5002CW/">RS84DB<wbr>5002CW</a></th><td>852&nbsp;L<br>892&nbsp;mm</td><td>Side-by-side fridge with a manual twist ice tray.</td></tr>
-      <tr><th scope="row">LG<br><a href="https://www.lge.co.kr/product/refrigerators/s834mqq111">S834MQQ111</a></th><td>832&nbsp;L<br>913&nbsp;mm</td><td>White, grade 1 side-by-side with a 308&nbsp;L freezer.</td></tr>
-      <tr><th scope="row">LG<br><a href="https://www.lge.co.kr/product/refrigerators/m616mqq0m1">M616MQQ0M1</a></th><td>609&nbsp;L<br>698&nbsp;mm</td><td>Grade 1 Fit &amp; Max.</td></tr>
-      <tr><th scope="row">Samsung<br><a href="https://www.samsung.com/sec/support/model/RM70F64Q1A/">RM70F64Q1A</a></th><td>623&nbsp;L<br>683&nbsp;mm</td><td>Grade 1 Kitchen Fit Max.</td></tr>
-      <tr><th scope="row">Samsung<br><a href="https://www.samsung.com/sec/support/model/RM80H64S2A/">RM80H64S2A</a></th><td>609&nbsp;L<br>683&nbsp;mm</td><td><strong>Our fridge.</strong> Kitchen Fit Max.</td></tr>
+      <tr><th scope="row">Samsung side-by-side<br><a href="https://www.samsung.com/sec/support/model/RS84DB5002CW/">RS84DB<wbr>5002CW</a><br><small>852 L · 89.2 cm deep</small></th><td>About ₩1.10–<wbr>1.24 million</td><td>Largest in the table and lowest of the recorded standalone prices. You fill and twist the ice tray by hand.</td></tr>
+      <tr><th scope="row">LG side-by-side<br><a href="https://www.lge.co.kr/product/refrigerators/s834mqq111">S834<wbr>MQQ111</a><br><small>832 L · 91.3 cm deep</small></th><td>About ₩1.63 million</td><td>White, grade 1, with a 308 L freezer. It’s the deepest model in the table.</td></tr>
+      <tr><th scope="row">LG Fit &amp; Max<br><a href="https://www.lge.co.kr/product/refrigerators/m616mqq0m1">M616<wbr>MQQ0M1</a><br><small>609 L · 69.8 cm deep</small></th><td>About ₩2.38 million</td><td>Grade 1 and under 70 cm deep. It held 223 L less than the larger LG and cost more in the search.</td></tr>
+      <tr><th scope="row">Samsung Kitchen Fit Max<br><a href="https://www.samsung.com/sec/support/model/RM70F64Q1A/">RM70F<wbr>64Q1A</a><br><small>623 L · 68.3 cm deep</small></th><td>About ₩2.66 million</td><td>Shallow four-door model with a grade 1 rating. It had the highest recorded standalone price among the 600 L options.</td></tr>
+      <tr class="key"><th scope="row">Samsung Kitchen Fit Max<br><a href="https://www.samsung.com/sec/support/model/RM80H64S2A/">RM80H<wbr>64S2A</a><br><small>609 L · 68.3 cm deep</small></th><td>Bundle purchase<br><small>Standalone price unconfirmed</small></td><td><strong>Our fridge.</strong> The Food Showcase door gives easy access to items stored in the door. Its 233 L freezer is 75 L smaller than the LG side-by-side’s.</td></tr>
     </tbody>
   </table>
-  <p class="guide-note" id="fridge-candidate-note">Manufacturer figures. Depth excludes the rear handle on both Samsung Kitchen Fit Max models.</p>
+  <p class="guide-note" id="fridge-candidate-note">Approximate standalone prices from Korean online listings recorded in July–August 2026. Capacity and size are manufacturer figures. Depth excludes the rear handle on both Samsung Kitchen Fit Max models.</p>
 </div>
 
 ## After the move

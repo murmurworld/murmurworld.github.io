@@ -24,19 +24,20 @@ The HAF-HIM replacement set has two filter cartridges. Samsung recommends a 12-m
 
 <section>
   <h2 id="purifier-comparison">Models we found with AI</h2>
+  <p>The ice-making model took up more counter space and cost more upfront. Some of the other models came up as rentals, so the table shows which figures are monthly and which are outright prices.</p>
   <div class="guide-panel">
     <table aria-labelledby="purifier-comparison" aria-describedby="purifier-size-note">
-      <colgroup><col style="width: 37%"><col style="width: 24%"><col></colgroup>
-      <thead><tr><th scope="col">Model</th><th scope="col">Width × depth</th><th scope="col">Features</th></tr></thead>
+      <colgroup><col style="width: 32%"><col style="width: 25%"><col></colgroup>
+      <thead><tr><th scope="col">Model and size</th><th scope="col">Price basis</th><th scope="col">What to weigh</th></tr></thead>
       <tbody>
-        <tr><th scope="row">Samsung Ice Purifier<br><a href="https://www.samsung.com/sec/support/model/RWP90H15ANW/">RWP90<wbr>H15ANW</a></th><td>24 × 49.5&nbsp;cm</td><td>Dispenses ice at the press of a button.</td></tr>
-        <tr><th scope="row">Coway Icon 3<br><a href="https://www.coway.com/product/detail?prdno=1384">CHP-7220N</a></th><td>16 × 36.8&nbsp;cm</td><td>The narrowest and shallowest of the models in this table.</td></tr>
-        <tr><th scope="row">SK Magic Compact Plus<br><a href="https://www.sknetworks.com/pr/news-room/f3r5K6sIoyweWnCy">WPU-<wbr>JAC115S</a></th><td>16.4 × 39.5&nbsp;cm</td><td>A 34.5&nbsp;cm-tall unit with a hot-water setting of about 100°C.</td></tr>
-        <tr><th scope="row">LG PuriCare<br><a href="https://www.lge.co.kr/water-purifiers/wd523awb">WD523AWB</a></th><td>16.8 × 40&nbsp;cm</td><td>Runs an automatic hot-water sanitizing cycle for the water line once a week.</td></tr>
-        <tr><th scope="row">Samsung Bespoke AI<br><a href="https://www.samsung.com/sec/support/model/RWP70F15ANW/">RWP70<wbr>F15ANW</a></th><td>17 × 48&nbsp;cm</td><td><strong>What we bought.</strong> Hot, cold, and room-temperature water, with user-replaceable filters and a removable spout.</td></tr>
+        <tr><th scope="row">Samsung Ice Purifier<br><a href="https://www.samsung.com/sec/support/model/RWP90H15ANW/">RWP90<wbr>H15ANW</a><br><small>24 × 49.5 cm</small></th><td>₩2.39 million<br><small><a href="https://news.samsung.com/kr/삼성전자-하루-최대-8kg의-강력한-제빙-성능-갖춘-비스">Feb. 2026 launch price</a></small></td><td>Ice at the press of a button. It’s 7 cm wider than the purifier we chose, and there’s an ice outlet to keep clean.</td></tr>
+        <tr><th scope="row">Coway Icon 3<br><a href="https://www.coway.com/product/detail?prdno=1384">CHP-7220N</a><br><small>16 × 36.8 cm</small></th><td>About ₩31,000/mo.<br><small>6-year rental example</small></td><td>The narrowest and shallowest in the table, with front access to the filter. The rental total depends on the term and care plan.</td></tr>
+        <tr><th scope="row">SK Magic Compact Plus<br><a href="https://www.sknetworks.com/pr/news-room/f3r5K6sIoyweWnCy">WPU-<wbr>JAC115S</a><br><small>16.4 × 39.5 cm</small></th><td>About ₩32,000/mo.<br><small>6-year rental example</small></td><td>34.5 cm tall, with a hot-water setting of about 100°C. The plan we found charged more per month after the introductory discount ended.</td></tr>
+        <tr><th scope="row">LG PuriCare<br><a href="https://www.lge.co.kr/water-purifiers/wd523awb">WD523<wbr>AWB</a><br><small>16.8 × 40 cm</small></th><td>About ₩35,000/mo.<br><small>6-year rental example</small></td><td>Automatically sanitizes the water line with hot water weekly. It had the highest monthly payment among the six-year rental examples in our search.</td></tr>
+        <tr class="key"><th scope="row">Samsung Bespoke AI<br><a href="https://www.samsung.com/sec/support/model/RWP70F15ANW/">RWP70<wbr>F15ANW</a><br><small>17 × 48 cm</small></th><td>About ₩1.22 million<br><small>Outright online price</small></td><td><strong>What we bought.</strong> The filters are user-replaceable, and the spout comes off for washing. At 48 cm deep, it needs more front-to-back counter space than most of the other options.</td></tr>
       </tbody>
     </table>
-    <p class="guide-note" id="purifier-size-note">Manufacturer dimensions show the unit itself. Installation also needs room for the lines and surrounding clearance.</p>
+    <p class="guide-note" id="purifier-size-note">Sizes are the manufacturer’s width × depth for the unit. Installation also needs room for the lines. Online purchase prices and rental examples are from summer 2026. Monthly figures exclude any introductory discounts. The total depends on the term, care plan, filters and reinstallation costs.</p>
   </div>
 </section>
 
