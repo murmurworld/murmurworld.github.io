@@ -1,11 +1,11 @@
 ---
 title: "Why We Chose a Water Purifier Without an Ice Maker"
-description: "I was used to the ice dispenser at work. We ended up choosing a Samsung purifier that dispenses water, in the color my fiancée picked."
+description: "We chose a Samsung Bespoke AI water purifier, and I picked Satin Greige. Here are the counter dimensions and filter details."
 ---
 
-I often used the water purifier with an ice dispenser at work. Having ice right there was handy. I hadn’t heard about mold concerns until my fiancée mentioned them. She picked the color, too.
+My fiancé often used a water purifier with an ice dispenser at work and found it handy. When we were choosing ours, I brought up concerns about mold in ice dispensers.
 
-We ordered the Samsung Bespoke AI Countertop Water Purifier RWP70F15ANW in Satin Greige. It dispenses hot, chilled and room-temperature filtered water.
+We ordered the Samsung Bespoke AI Countertop Water Purifier RWP70F15ANW. It dispenses hot, chilled and room-temperature filtered water. I picked Satin Greige.
 
 <figure class="guide-photo">
   <img src="/media/newsroom/samsung-water-purifier-countertop.jpg" width="1000" height="562" alt="A Samsung Bespoke AI Countertop Water Purifier on a kitchen counter" decoding="async">

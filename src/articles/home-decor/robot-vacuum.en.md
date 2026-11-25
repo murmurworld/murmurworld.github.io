@@ -1,6 +1,6 @@
 ---
-title: "The Robot Vacuum I Kept Going Back and Forth On"
-description: "Our old vacuum still worked, so I hesitated over getting a robot vacuum. In the end, we got Samsung’s Bespoke AI Steam Ultra on subscription."
+title: "The Robot Vacuum We Almost Skipped"
+description: "My fiancé thought our old vacuum did the job. We went over the cost and signed up for Samsung’s Bespoke AI Steam Ultra on subscription."
 ---
 
 <figure class="guide-photo">
@@ -8,11 +8,11 @@ description: "Our old vacuum still worked, so I hesitated over getting a robot v
   <figcaption>Photo from <a href="https://news.samsung.com/kr/삼성전자-비스포크-ai-스팀-라인업-확대k-로봇청소">Samsung Newsroom</a>, June 2026. It shows the standard Bespoke AI Steam. We signed up for the Ultra.</figcaption>
 </figure>
 
-Of all the appliances, the robot vacuum was the one I hesitated over right up to the end. Did we really need it? The vacuum we already had would do. We saved money by buying our bed frame on Ohouse, and the robot vacuum won’t fit underneath it. In the end, we went with a subscription. It worked out cheaper for us.
+Of all the appliances, the robot vacuum was the one my fiancé took the longest to decide on. The vacuum we already had did the job, so he wondered whether we needed another. We saved money on a bed frame from Ohouse, and the robot vacuum won’t fit underneath it. We went over the cost and chose the subscription because it worked out cheaper for us.
 
 ## The dock
 
-We signed up for the Bespoke AI Steam Ultra (VR90F01AAG) through Samsung AI Subscription. The dock empties the dustbin and washes the mop pads, then steams and dries them. I’ll fill the clean-water tank and empty the dirty one.
+We signed up for the Bespoke AI Steam Ultra (VR90F01AAG) through Samsung AI Subscription. The dock empties the dustbin and washes the mop pads, then steams and dries them. The clean-water and dirty-water tanks still need to be filled and emptied by hand.
 
 With the robot docked, it’s 444 mm wide, 520 mm high and 510 mm deep. Samsung also makes a similarly named version that hooks up to a water supply and drain. [Samsung dock features](https://www.samsung.com/sec/vacuum-cleaners/jetbot-vr90f01aa-d2c/VR90F01AAG/) · [Water hookup model specs](https://www.samsung.com/sec/support/model/VR90F01SAG/)
 
@@ -32,9 +32,9 @@ With the robot docked, it’s 444 mm wide, 520 mm high and 510 mm deep. Samsung 
   <p class="guide-note" id="robot-candidate-note">AI used the manufacturers’ heights to find models assuming 12 cm of space under the bed. The robot vacuum won’t fit under the sofa we ordered either.</p>
 </div>
 
-## What I’ll check at setup
+## What we’ll check at setup
 
 - Rug edges, door thresholds and charging cables that touch the floor
-- Room for the robot to turn in front of the dock and for me to lift out the tanks
+- Room for the robot to turn in front of the dock and enough space to lift out the tanks
 
 [How we chose our new-home appliances](/en/blog/home/decor/appliances/) · [The ivory sofa we ordered](/en/blog/home/decor/sofa/)

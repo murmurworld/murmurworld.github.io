@@ -1,9 +1,9 @@
 ---
 title: "The Samsung 609 L Kitchen Fit Fridge We Bought"
-description: "We chose a Samsung 609 L Kitchen Fit Max because the bundle cost less. Here’s how it compared with the 834 L LG in depth, freezer space, and rated electricity use."
+description: "I liked the Samsung 609 L Kitchen Fit Max, and the bundle with it cost less. Here’s how it compared with the 834 L LG in depth, freezer space, and rated electricity use."
 ---
 
-I wasn’t particularly sorry to let the LG fridge go. We went with the cheaper bundle. My fiancée liked the Kitchen Fit more than I did.
+I liked the Samsung Kitchen Fit. My fiancé wasn’t especially attached to the LG option. The Samsung was part of the less expensive bundle, so that’s what we went with.
 
 <figure class="guide-photo">
   <img src="/media/newsroom/samsung-kfm-showcase-closed.jpg" width="1000" height="719" fetchpriority="high" decoding="async" alt="Two people stand beside a white Samsung four-door Kitchen Fit Max refrigerator fitted between cabinets">
@@ -14,7 +14,7 @@ I wasn’t particularly sorry to let the LG fridge go. We went with the cheaper 
   <h2 id="fridge-summary">At a glance</h2>
   <dl>
     <div><dt>Our fridge</dt><dd>Samsung 609 L Kitchen Fit Max RM80H64S2A</dd></div>
-    <div><dt>Why this one</dt><dd>The bundle cost less, and my fiancée liked the Kitchen Fit.</dd></div>
+    <div><dt>Why this one</dt><dd>The bundle cost less and included the Kitchen Fit I liked.</dd></div>
     <div><dt>Specs</dt><dd>68.3 cm deep, with a 233 L freezer.</dd></div>
   </dl>
 </aside>

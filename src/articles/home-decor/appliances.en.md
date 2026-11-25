@@ -1,9 +1,9 @@
 ---
 title: "Why We Bought Our Appliances at a Department Store"
-description: "A department store offered us a better deal on five Samsung appliances than the lineup I’d found with AI. The robot vacuum was the one I hesitated over."
+description: "I liked the Kitchen Fit fridge. My partner was unsure about the robot vacuum. Here’s how we chose five appliances for our first home."
 ---
 
-I’d used AI to put together a list of appliances. Then a department store offered us a bundle of five for less than the lineup I’d found. The robot vacuum was the one I kept going back and forth on. Did we really need one? We already had a vacuum.
+My partner had used AI to put together a list of appliances. The department store quoted us less for a bundle of five. I liked the Kitchen Fit fridge. My partner was still on the fence about the robot vacuum. We already had a vacuum at home, after all.
 
 <figure class="guide-photo">
   <img src="/media/newsroom/samsung-kfm-showcase-couple.jpg" width="1000" height="735" alt="Two people stand beside a Kitchen Fit Max refrigerator with its Food Showcase door open" fetchpriority="high" decoding="async">

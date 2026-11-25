@@ -1,9 +1,9 @@
 ---
 title: "냉장고는 삼성 609L 키친핏으로"
-description: "묶음 견적이 더 저렴해 삼성 609L 키친핏 Max를 계약했다. LG 834L 후보와 깊이, 냉동실 용량, 한 달 소비전력량을 비교했다."
+description: "마음에 들었던 삼성 609L 키친핏 Max를 더 저렴한 가전 묶음으로 계약했다. LG 834L 후보와 깊이, 냉동실 용량, 한 달 소비전력량을 비교했다."
 ---
 
-LG 냉장고는 별로 아쉽지 않았다. 묶어서 싼 쪽으로 갔다. 키친핏은 나보다 예비신부가 마음에 들어 했다.
+나는 삼성 키친핏이 마음에 들었다. 짝꿍도 LG 냉장고 쪽에 크게 미련은 없었다. 가전 묶음 견적이 더 저렴해서 삼성으로 정했다.
 
 <figure class="guide-photo">
   <img src="/media/newsroom/samsung-kfm-showcase-closed.jpg" width="1000" height="719" fetchpriority="high" decoding="async" alt="흰 수납장 사이에 들어간 삼성 4도어 키친핏 맥스 냉장고 양옆에 두 사람이 서 있다">
@@ -14,7 +14,7 @@ LG 냉장고는 별로 아쉽지 않았다. 묶어서 싼 쪽으로 갔다. 키�
   <h2 id="fridge-summary">한눈에 보기</h2>
   <dl>
     <div><dt>계약 모델</dt><dd>삼성 609L 키친핏 Max RM80H64S2A</dd></div>
-    <div><dt>고른 이유</dt><dd>묶음 견적이 더 쌌고, 예비신부가 키친핏을 마음에 들어 했다.</dd></div>
+    <div><dt>고른 이유</dt><dd>묶음 견적이 더 쌌고, 내가 마음에 들어 한 키친핏이 포함돼 있었다.</dd></div>
     <div><dt>주요 사양</dt><dd>깊이 68.3cm, 냉동실 233L.</dd></div>
   </dl>
 </aside>
