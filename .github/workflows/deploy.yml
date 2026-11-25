@@ -24,7 +24,7 @@ jobs:
       - name: Add the latest article files
         shell: bash
         run: |
-          for template in site/src/articles/{home-decor,outside}/*.{ko,en}.md; do
+          for template in site/src/articles/{home-decor,outside,companies}/*.{ko,en}.md; do
             source="${template#site/}"
             test -f "$source"
             cp -- "$source" "$template"
