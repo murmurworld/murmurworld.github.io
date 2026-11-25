@@ -8,7 +8,7 @@ description: "My fiancé thought our old vacuum did the job. We went over the co
   <figcaption>Photo from <a href="https://news.samsung.com/kr/삼성전자-비스포크-ai-스팀-라인업-확대k-로봇청소">Samsung Newsroom</a>, June 2026. It shows the standard Bespoke AI Steam. We signed up for the Ultra.</figcaption>
 </figure>
 
-Of all the appliances, the robot vacuum was the one my fiancé took the longest to decide on. The vacuum we already had did the job, so he wondered whether we needed another. We saved money on a bed frame from Ohouse, and the robot vacuum won’t fit underneath it. We went over the cost and chose the subscription because it worked out cheaper for us.
+My fiancé took the longest to come around to the robot vacuum. The one we already owned did the job, so he wondered whether we needed another. We saved a little on the bed frame. The robot we chose won’t fit under it. Once we looked at the bundled quote, the subscription worked out cheaper for us.
 
 ## The dock
 
@@ -20,17 +20,19 @@ With the robot docked, it’s 444 mm wide, 520 mm high and 510 mm deep. Samsung 
 
 <div class="guide-panel">
   <table aria-label="Robot vacuums AI helped us find and the model we chose" aria-describedby="robot-candidate-note">
-    <colgroup><col style="width: 39%"><col style="width: 24%"><col></colgroup>
-    <thead><tr><th scope="col">Model</th><th scope="col">Robot height</th><th scope="col">Features</th></tr></thead>
+    <colgroup><col style="width: 35%"><col style="width: 22%"><col></colgroup>
+    <thead><tr><th scope="col">Model</th><th scope="col">Buy outright</th><th scope="col">Height and features</th></tr></thead>
     <tbody>
-      <tr><th scope="row">Ecovacs<br><a href="https://www.ecovacs.com/us/shop/deebot-robotic-vacuum-cleaner/deebot-t50-pro-omni">DEEBOT T50 PRO OMNI</a></th><td>81 mm</td><td>Built-in distance sensor. Hot-water pad washing and warm-air drying.</td></tr>
-      <tr><th scope="row">Roborock<br><a href="https://kr.roborock.com/pages/roborock-s10-maxv-slim">S10 MaxV Slim</a></th><td>79.8 mm</td><td>The chassis lifts to get over thresholds.</td></tr>
-      <tr><th scope="row">Dreame<br><a href="https://global.dreametech.com/products/x60-ultra">X60 Ultra</a></th><td>79.5 mm down<br>102.8 mm up</td><td>The distance sensor extends from the top.</td></tr>
-      <tr><th scope="row">Samsung Bespoke AI Steam Ultra<br><a href="https://www.samsung.com/sec/support/model/VR90F01AAG/">VR90F<wbr>01AAG</a></th><td>100 mm</td><td><strong>Our pick.</strong> A dock with water tanks that steams the pads.</td></tr>
+      <tr><th scope="row">Ecovacs<br><a href="https://www.ecovacs.com/us/shop/deebot-robotic-vacuum-cleaner/deebot-t50-pro-omni">DEEBOT T50 PRO OMNI</a></th><td><a href="https://prod.danawa.com/info/?pcode=96582521">About ₩600,000</a></td><td><strong>81 mm.</strong> The least expensive option here has hot-water pad washing and warm-air drying. The dock is 533 mm tall and takes a dust bag.</td></tr>
+      <tr><th scope="row">Dreame<br><a href="https://global.dreametech.com/products/x60-ultra">X60 Ultra</a></th><td><a href="https://prod.danawa.com/info/?pcode=107991857">About ₩1.29 million</a></td><td><strong>79.5–102.8 mm.</strong> Hot-water pad washing. Raising the navigation sensor adds 23.3 mm. The sensor has to stay down to clear low furniture.</td></tr>
+      <tr><th scope="row">Roborock<br><a href="https://kr.roborock.com/pages/roborock-s10-maxv-slim">S10 MaxV Slim</a></th><td><a href="https://prod.danawa.com/info/?pcode=122638233">About ₩1.54 million</a></td><td><strong>79.8 mm.</strong> The sensor stays inside the body and the chassis lifts at thresholds. Worth a look if you have both low furniture and raised doorways.</td></tr>
+      <tr><th scope="row">Samsung Bespoke AI Steam Ultra<br><a href="https://www.samsung.com/sec/support/model/VR90F01AAG/">VR90F<wbr>01AAG</a></th><td><a href="https://prod.danawa.com/info/?pcode=108229415">About ₩1.66 million</a></td><td><strong>100 mm. Our pick.</strong> The dock steams the pads. You fill and empty the water tanks yourself.</td></tr>
     </tbody>
   </table>
-  <p class="guide-note" id="robot-candidate-note">AI used the manufacturers’ heights to find models assuming 12 cm of space under the bed. The robot vacuum won’t fit under the sofa we ordered either.</p>
+  <p class="guide-note" id="robot-candidate-note">Prices are rounded public online prices for buying a single unit in Korea, recorded in July and August 2026. For a subscription, multiply the monthly payment by the term and check what care it includes.</p>
 </div>
+
+AI looked for models assuming 12 cm of space under a bed. The Samsung we chose won’t fit under the sofa we ordered, either. If you want yours to clean under furniture, measure the lowest point inside as well as the opening.
 
 ## What we’ll check at setup
 

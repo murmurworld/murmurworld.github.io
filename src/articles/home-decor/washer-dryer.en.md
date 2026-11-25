@@ -1,16 +1,34 @@
 ---
 title: "Why We Chose a Washer-Dryer Combo"
-description: "We chose a Samsung combo that washes and dries in one drum. Here’s how its auto-open door works and which other machines we considered."
+description: "We chose a Samsung combo that washes and dries in one drum. Compare prices, drying capacities, and door features for four machines and sets."
 ---
 
-Our first plan was to stack the dryer on top of the washer. We had enough height in the utility room. Washing and drying in the same drum sounded easier than moving every load across. The store explained that the door could open on its own after drying. That sounded handy for days when we couldn’t get to the laundry right away.
+There was enough room in the utility room to stack a dryer on top of the washer. That was our plan until we pictured lifting wet laundry into the upper drum every time. A single drum sounded easier. At the store, we were told the door could open on its own at the end of the cycle. That sounded handy for days when we couldn’t unload it right away.
 
 <figure class="guide-photo">
   <img src="/media/newsroom/samsung-ai-combo-utility-2024.jpg" width="1000" height="563" alt="A Samsung Bespoke AI Laundry Combo next to a laundry room cabinet" fetchpriority="high" decoding="async">
   <figcaption>Launch photo of the 2024 Bespoke AI Laundry Combo. It shows an earlier model, so the color and details may differ from the 2026 model we ordered. <a href="https://news.samsung.com/kr/삼성전자-올인원-세탁∙건조기-비스포크-ai-콤보-출">Samsung Newsroom</a></figcaption>
 </figure>
 
-We bought the Samsung Bespoke AI Combo WD90H25AHY. It holds up to 25 kg for washing and 20 kg for drying in the same drum. You can set the door to open as soon as the cycle ends or five minutes later, or turn the feature off. [Samsung’s Auto Open Door settings](https://www.samsung.com/sec/laundry-combo/combo-wd90h25ahy-d2c/WD90H25AHY/)
+We ordered the Samsung Bespoke AI Combo WD90H25AHY. It holds up to 25 kg for washing and 20 kg for drying. The door can open as soon as the cycle ends or five minutes later. You can switch the feature off as well. [Samsung’s Auto Open Door settings](https://www.samsung.com/sec/laundry-combo/combo-wd90h25ahy-d2c/WD90H25AHY/)
+
+## Options We Found with AI
+
+The AI shortlist gave us one stacked set and three combos to compare. All three combos could wash 25 kg, but their drying limits ranged from 15 to 20 kg. The drying limit is the one that matters if you want the whole load to go straight through.
+
+<div class="guide-panel">
+  <table aria-label="Washer-dryer options and the model we ordered" aria-describedby="washer-price-note">
+    <colgroup><col style="width: 34%"><col style="width: 25%"><col></colgroup>
+    <thead><tr><th scope="col">Model</th><th scope="col">Wash / dry<br>Price</th><th scope="col">Features</th></tr></thead>
+    <tbody>
+      <tr><th scope="row">Samsung stacked set<br><a href="https://www.samsung.com/sec/washing-machines/package-wf21dg6650bv2t-d2c/WF21DG6650BV2T/">WF21DG<wbr>6650BV2T</a></th><td>21 / 21 kg<br>₩1.77M</td><td>Kit included. You can start the next wash while the dryer runs. Loads still need moving by hand.</td></tr>
+      <tr><th scope="row">LG WashCombo<br><a href="https://www.lge.co.kr/product/wash-combo/fh25ka?modelId=MD10335844&amp;pdpType=PURCHASE">FH25KA</a></th><td>25 / 15 kg<br><a href="https://prod.danawa.com/info/?pcode=41264153">₩3.08M</a></td><td>Shortest at 990 mm. Also the smallest drying capacity of the three combos.</td></tr>
+      <tr><th scope="row">Samsung AI Combo<br><a href="https://www.samsung.com/sec/support/model/WD80H25BHS/">WD80H25<wbr>BHS</a></th><td>25 / 18 kg<br><a href="https://prod.danawa.com/info/?pcode=108693722">₩3.23M</a></td><td>Dial controls and automatic detergent dosing. Open the door by hand at the end.</td></tr>
+      <tr><th scope="row">Samsung AI Combo<br><a href="https://www.samsung.com/sec/support/model/WD90H25AHY/">WD90H25<wbr>AHY</a></th><td>25 / 20 kg<br><a href="https://prod.danawa.com/info/?pcode=108463688">₩3.83M</a></td><td><strong>Our pick.</strong> Door opens automatically. The highest listed price of the four.</td></tr>
+    </tbody>
+  </table>
+  <p class="guide-note" id="washer-price-note">Approximate public online prices from around July 2026. The stacked set includes both machines and the kit. Combo prices are for standalone units. Listings may change.</p>
+</div>
 
 ## Installation
 
@@ -23,21 +41,9 @@ We bought the Samsung Bespoke AI Combo WD90H25AHY. It holds up to 25 kg for wash
       <tr><th scope="row">Depth</th><td>875 mm</td><td>Room in front to open the door</td></tr>
     </tbody>
   </table>
-  <p class="guide-note">The space estimates add clearance to <a href="https://www.samsung.com/sec/support/model/WD90H25AHY/">Samsung’s dimensions</a> for planning.</p>
+  <p class="guide-note">The space estimates include extra clearance for planning. <a href="https://www.samsung.com/sec/support/model/WD90H25AHY/">Samsung’s machine dimensions</a></p>
 </div>
 
-## Options We Found with AI
-
-<div class="guide-panel">
-  <table aria-label="Washer-dryer options and the model we bought">
-    <thead><tr><th scope="col">Model</th><th scope="col">Wash / dry</th><th scope="col">Features</th></tr></thead>
-    <tbody>
-      <tr><th scope="row">Samsung stacked pair<br><a href="https://www.samsung.com/sec/washing-machines/package-wf21dg6650bv2t-d2c/WF21DG6650BV2T/">WF21DG<wbr>6650BV2T</a></th><td>21 / 21 kg</td><td>Separate machines can run independently. Stacking requires a kit.</td></tr>
-      <tr><th scope="row">LG WashCombo<br><a href="https://www.lge.co.kr/product/all-in-one-laundry/fh25ka">FH25KA</a></th><td>25 / 15 kg</td><td>990 mm tall.</td></tr>
-      <tr><th scope="row">Samsung AI Combo<br><a href="https://www.samsung.com/sec/support/model/WD80H25BHS/">WD80H25<wbr>BHS</a></th><td>25 / 18 kg</td><td>1,110 mm tall. Open the door by hand after drying.</td></tr>
-      <tr><th scope="row">Samsung AI Combo<br><a href="https://www.samsung.com/sec/support/model/WD90H25AHY/">WD90H25<wbr>AHY</a></th><td>25 / 20 kg</td><td><strong>Our model.</strong> 1,110 mm tall, with an auto-open door.</td></tr>
-    </tbody>
-  </table>
-</div>
+At 145 kg, getting it from the front door to the utility room mattered as much as the space where it would sit. A narrow doorway or a raised threshold along the way can make delivery tricky.
 
 [How we bought five appliances at once](/en/blog/home/decor/appliances/) · [Monthly energy use for the five appliances](/en/blog/home/decor/energy/#our-appliances)
