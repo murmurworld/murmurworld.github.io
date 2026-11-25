@@ -1,9 +1,9 @@
 ---
 title: "Why We Chose a Washer-Dryer Combo"
-description: "I wanted to wash and dry a load without moving it between machines. Here’s why we chose the Samsung combo and what the store specialist told me about its door."
+description: "We chose a Samsung combo that washes and dries in one drum. Here’s how its auto-open door works and which other machines we considered."
 ---
 
-I’d been thinking of stacking the dryer on top of the washer. There was enough height in the utility room. I thought it would be really convenient to wash and dry a load in one go. I didn’t see the door open at the end of drying myself. The store specialist told me about it. A bit of moisture can be left after drying, so I thought it would be handy if the door opened on its own.
+Our first plan was to stack the dryer on top of the washer. We had enough height in the utility room. Washing and drying in the same drum sounded easier than moving every load across. The store explained that the door could open on its own after drying. That sounded handy for days when we couldn’t get to the laundry right away.
 
 <figure class="guide-photo">
   <img src="/media/newsroom/samsung-ai-combo-utility-2024.jpg" width="1000" height="563" alt="A Samsung Bespoke AI Laundry Combo next to a laundry room cabinet" fetchpriority="high" decoding="async">

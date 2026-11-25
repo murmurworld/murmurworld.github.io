@@ -8,7 +8,7 @@ description: "We signed up for a 33 m² Samsung Infinite AI to use alongside our
   <figcaption>Photo from <a href="https://news.samsung.com/kr/삼성전자-ai-기능-프리미엄-공기청정기-비스포크-큐브">Samsung Newsroom</a>, from the Infinite Line’s 2024 launch. We signed up for the 2026 version of the smaller 33 m² model, so some details may differ.</figcaption>
 </figure>
 
-We already have an air purifier, a Samsung AX40-series model. I figured we could use it alongside the new one.
+We already have a Samsung AX40-series air purifier. We’re bringing it with us to use alongside the new one.
 
 The new one is a 33 m² Samsung Infinite AI (AP90H03163UGD). We got it through Samsung AI Subscription.
 
