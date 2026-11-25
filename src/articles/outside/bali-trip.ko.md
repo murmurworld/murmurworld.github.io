@@ -33,14 +33,14 @@ description: "파드마와 알릴라 사이를 지도에 찍어 봤어요. 바�
 
 <figure class="guide-photo bali-scene">
   <img src="/media/bali/batur-lake.webp" width="793" height="529" alt="페넬로칸 전망 지점에서 바라본 바투르산과 호수" loading="lazy" decoding="async">
-  <figcaption>페넬로칸에서 보는 바투르산과 호수 <span class="bali-photo-credit"><a href="https://commons.wikimedia.org/wiki/File:Mount_Batur_and_Lake_Batur.jpg">장소 사진 · Jos Dielis</a> · <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a></span></figcaption>
+  <figcaption>페넬로칸에서 보는 바투르산과 호수 <span class="bali-photo-credit"><a href="https://commons.wikimedia.org/wiki/File:Mount_Batur_and_Lake_Batur.jpg">장소 사진 · Jos Dielis</a> · <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a> · 형식 변환</span></figcaption>
 </figure>
 
 온천 후보 중 하나는 호숫가의 **토야 데바샤**였어요. 공항에서 곧장 이쪽으로 향하는 코스라면 짐을 실을 차량이 오는지, 투어가 끝나고 파양안 숙소까지 데려다줄 수 있는지도 같이 확인합니다. 지프 사진에 꽂혀 검색을 시작했는데, 캐리어가 어디에 있는지까지 따져보게 되는 코스였어요. [토야 데바샤 공식 안내](https://toyadevasya.com/home-hotspring/) · [구글 지도](https://www.google.com/maps/search/?api=1&query=Toya+Devasya+Bali)
 
 <h2 id="payangan">파양안, 숲 쪽에 잡은 첫 숙소</h2>
 
-파드마 리조트 우붓은 우붓 북쪽 파양안의 계곡을 끼고 있어요. 수영장이 숲 쪽을 향하고 있어서, 숙소를 중심으로 쉬는 날을 잡기에 어울렸어요. 저녁 후보로 문의해 둔 건 **정글 바비큐**. 수영장 옆 잔디에서 먹는 자리라 비 오는 날에는 어떻게 운영되는지까지 메모해 뒀어요. [파드마 리조트 우붓](https://padmaresortubud.com/) · [정글 바비큐](https://padmaresortubud.com/dining/jungle-bbq.php) · [구글 지도](https://www.google.com/maps/search/?api=1&query=Padma+Resort+Ubud+Payangan+Bali)
+파드마 리조트 우붓은 우붓 북쪽 파양안의 계곡을 끼고 있어요. 수영장이 숲 쪽을 향하고 있어서, 숙소를 중심으로 쉬는 날을 잡기에 어울렸어요. 저녁 후보로 **정글 바비큐**도 알아봤어요. 수영장 옆 잔디에서 먹는 자리라 비 오는 날에는 어떻게 운영되는지까지 메모해 뒀어요. [파드마 리조트 우붓](https://padmaresortubud.com/) · [정글 바비큐](https://padmaresortubud.com/dining/jungle-bbq.php) · [구글 지도](https://www.google.com/maps/search/?api=1&query=Padma+Resort+Ubud+Payangan+Bali)
 
 <figure class="guide-photo bali-scene bali-forest">
   <img src="/media/bali/ubud-forest.webp" width="1035" height="1380" alt="우붓 주변의 빽빽한 초록 숲" loading="lazy" decoding="async">

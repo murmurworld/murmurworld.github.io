@@ -33,14 +33,14 @@ We had three scenes in mind for Kintamani: the sky lighting up over the mountain
 
 <figure class="guide-photo bali-scene">
   <img src="/media/bali/batur-lake.webp" width="793" height="529" alt="Mount Batur overlooking its lake from a viewpoint in Penelokan" loading="lazy" decoding="async">
-  <figcaption>Mount Batur and Lake Batur from Penelokan <span class="bali-photo-credit"><a href="https://commons.wikimedia.org/wiki/File:Mount_Batur_and_Lake_Batur.jpg">Location photo by Jos Dielis</a> · <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a></span></figcaption>
+  <figcaption>Mount Batur and Lake Batur from Penelokan <span class="bali-photo-credit"><a href="https://commons.wikimedia.org/wiki/File:Mount_Batur_and_Lake_Batur.jpg">Location photo by Jos Dielis</a> · <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a> · format converted</span></figcaption>
 </figure>
 
 **Toya Devasya** was one lakeside hot spring we looked into. If you put this stretch between an airport arrival and hotel check-in, ask what vehicle can take your luggage and where the tour can drop you off. We started out looking at jeep photos and ended up working out where the suitcases would go. [Toya Devasya](https://toyadevasya.com/home-hotspring/) · [Google Maps](https://www.google.com/maps/search/?api=1&query=Toya+Devasya+Bali)
 
 <h2 id="payangan">Our first base in the forests of Payangan</h2>
 
-Padma Resort Ubud overlooks a valley north of Ubud. With its pool facing the forest, it suited the part of the trip we wanted to spend near the hotel. We asked about the **Jungle BBQ**, an outdoor dinner on the lawn by the pool, and noted what to check if it rained. [Padma Resort Ubud](https://padmaresortubud.com/) · [Jungle BBQ](https://padmaresortubud.com/dining/jungle-bbq.php) · [Google Maps](https://www.google.com/maps/search/?api=1&query=Padma+Resort+Ubud+Payangan+Bali)
+Padma Resort Ubud overlooks a valley north of Ubud. With its pool facing the forest, it suited the part of the trip we wanted to spend near the hotel. We looked into the **Jungle BBQ**, an outdoor dinner on the lawn by the pool, and noted what to check if it rained. [Padma Resort Ubud](https://padmaresortubud.com/) · [Jungle BBQ](https://padmaresortubud.com/dining/jungle-bbq.php) · [Google Maps](https://www.google.com/maps/search/?api=1&query=Padma+Resort+Ubud+Payangan+Bali)
 
 <figure class="guide-photo bali-scene bali-forest">
   <img src="/media/bali/ubud-forest.webp" width="1035" height="1380" alt="Dense green forest in the Ubud area" loading="lazy" decoding="async">
