@@ -41,7 +41,7 @@ publishedOn: '2026-11-26'
   </table>
 </div>
 
-휴미라의 바이오시밀러인 <strong>암제비타(Amjevita)</strong>는 2016년 9월 미국 FDA 허가를 받았다. 이듬해 암젠과 애브비는 특허 분쟁을 끝내는 데 합의했고, 암젠은 합의 발표에서 2023년 1월 미국 출시를 예정했다. 실제 미국 판매 시작일은 2023년 1월 31일이었다. [FDA 허가 기록](https://www.fda.gov/media/161123/download) · [암젠 2017년 합의 발표](https://investors.amgen.com/node/14666/pdf) · [암젠 미국 출시 발표](https://investors.amgen.com/news-releases/news-release-details/amjevitatm-adalimumab-atto-first-biosimilar-humirar-now)
+휴미라의 바이오시밀러인 <strong>암제비타(Amjevita)</strong>는 2016년 9월 미국 FDA 허가를 받았다. 이듬해 암젠과 애브비는 특허 분쟁을 끝내는 데 합의했고, 암젠은 합의 발표에서 2023년 1월 미국 출시를 예정했다. 실제 미국 판매 시작일은 2023년 1월 31일이었다. [FDA 허가 기록](https://www.accessdata.fda.gov/drugsatfda_docs/nda/2016/761024Orig1s000Approv.pdf) · [암젠 2017년 합의 발표](https://investors.amgen.com/node/14666/pdf) · [암젠 미국 출시 발표](https://investors.amgen.com/news-releases/news-release-details/amjevitatm-adalimumab-atto-first-biosimilar-humirar-now)
 
 삼성바이오에피스의 휴미라 바이오시밀러 <strong>하드리마(Hadlima)</strong>는 2019년 7월 처음 미국 허가를 받았다. 삼성바이오에피스와 판매 파트너 오가논은 2023년 7월에 미국 출시를 발표했다. [FDA 하드리마 최초 허가 기록](https://www.accessdata.fda.gov/scripts/purplebooksearch/index.cfm?blaNo=761059&event=productdetails) · [삼성바이오에피스·오가논 발표](https://www.organon.com/news/organon-samsung-bioepis-announce-us-launch-of-humira-biosimilar-hadlima-adalimumab-bwwd-in-multiple-presentations-consistent-with-originator/)
 
