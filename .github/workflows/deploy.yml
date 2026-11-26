@@ -24,7 +24,9 @@ jobs:
       - name: Add the latest article files
         shell: bash
         run: |
-          for template in site/src/articles/{home-decor,outside,companies}/*.{ko,en}.md; do
+          shopt -s nullglob
+          for template in site/src/articles/{home-decor,outside,companies,funds}/*.{ko,en}.md \
+                          site/src/articles/{companies,funds}/*/*.{ko,en}.md; do
             source="${template#site/}"
             test -f "$source"
             cp -- "$source" "$template"

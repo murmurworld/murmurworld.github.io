@@ -1,9 +1,9 @@
 ---
 title: "SOXL · Direxion Daily Semiconductor Bull 3X ETF"
-description: "SOXL targets three times the daily change in an index of U.S.-listed semiconductor businesses, including chip developers, manufacturers and equipment providers."
+description: "SOXL targets three times the daily change in an index of U.S.-listed chip developers, manufacturers and equipment providers. The manager can use contracts that exchange index returns with a financial institution to obtain that exposure."
 ---
 
-<p class="lead">SOXL targets three times the daily change in an index of U.S.-listed semiconductor businesses, including chip developers, manufacturers and equipment providers.</p>
+<p class="lead">SOXL targets three times the daily change in an index of U.S.-listed chip developers, manufacturers and equipment providers. The manager can use contracts that exchange index returns with a financial institution to obtain that exposure.</p>
 
 <dl class="facts"><dt>Manager or issuer</dt><dd>Rafferty Asset Management</dd><dt>Market and symbol</dt><dd>NYSE Arca · SOXL</dd><dt>Objective or underlying</dt><dd>NYSE Semiconductor Index · daily exposure 3×</dd><dt>Inception</dt><dd>2010-03-11</dd><dt>Trading currency</dt><dd>USD</dd><dt>Structure</dt><dd>Daily leveraged ETF</dd><dt>Fees and expenses</dt><dd>annual before waiver 0.91% / after waiver 0.75% · 2026-02-27</dd><dt>Governing document</dt><dd>Fund prospectus</dd></dl>
 

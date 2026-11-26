@@ -60,8 +60,44 @@ The funny thing is, sitting on the Leel made me think of our bed. The seat was s
 
 <h2 id="sofa-options">Before you visit the showroom</h2>
 
-When I checked in November 2026, the Leel product page listed **₩6,000,000**. The Yongsan I’Park Mall showroom was running a promotion when we visited. If you have a particular layout in mind, ask for a quote with your choice of upholstery and measurements. Our salesperson took the time to talk through each seat length and the upholstery with us, which helped me settle on what I wanted. [Official Monocus Leel product page](https://monocus.co.kr/product/?idx=3)
+The Leel product page listed ₩6,000,000 when I checked in November 2026. There was a promotion on at Yongsan I’Park Mall the day we went. With a custom order like ours, the price on the page only tells you so much about what two sections of different depths will cost. [Official Leel product page](https://monocus.co.kr/product/?idx=3)
 
-To see the same faux leather on a different shape, take a look at the [Loyce](https://monocus.co.kr/product/?idx=5). The [Stella](https://monocus.co.kr/product/?idx=4) has gently curved corners, while the [Lily](https://monocus.co.kr/product/?idx=6) has rounded modules shaped like petals.
+<figure class="guide-photo">
+  <img src="/media/monocus-sofa/yongsan-showroom.webp" width="1026" height="893" alt="A sofa and cushions in front of the pink curved Monocus sign in the Yongsan showroom" loading="lazy" decoding="async">
+  <figcaption><a href="https://monocus.co.kr/notice/?bmode=view&idx=171858101">The Yongsan I’Park Mall showroom, photographed for the Monocus opening announcement.</a></figcaption>
+</figure>
+
+If I went back for a quote, I’d take a photo of the living room with three notes on it. How much wall do we have? How far can the chaise come out and still leave a path past the table? Facing the sofa, do we want it on the left or the right? Our order was about 290 cm across, in ivory faux leather with three large matching back cushions. The salesperson talked us through the length of each seat. That helped turn “I’d like to lie down on it” into a layout we could actually order.
+
+## Three other Monocus designs in photos
+
+These are Monocus’s own product photos. Looking at the seats, backs and arms together helped me put a finger on which shapes suit the way I like to sit.
+
+### Loyce
+
+<figure class="guide-photo catalog-sofa">
+  <img src="/media/monocus-sofa/loyce-front.webp" width="750" height="750" alt="The black Loyce with two broad, smooth seats and bolster-like cushions at the arms" loading="lazy" decoding="async">
+  <figcaption><a href="https://monocus.co.kr/product/?idx=5">Official Monocus Loyce photo</a></figcaption>
+</figure>
+
+The showroom told us the faux leather we picked for our Leel is also available on the Loyce. Put the two black sofas side by side in photos and the upholstery looks quite different. The Leel has stitched squares, while the Loyce leaves a broad, smooth surface across each seat. If you tend to lean sideways, try the angled cushions at the ends and see where your elbow lands.
+
+### Stella
+
+<figure class="guide-photo catalog-sofa">
+  <img src="/media/monocus-sofa/stella-front.webp" width="750" height="750" alt="Three pale Stella seats with a small head cushion on the right and slim dark legs" loading="lazy" decoding="async">
+  <figcaption><a href="https://monocus.co.kr/product/?idx=4">Official Monocus Stella photo</a></figcaption>
+</figure>
+
+The first thing I notice on the Stella is the little head cushion above the right-hand seat. If I spent more time sitting up to watch TV than lying down, I’d sit as I normally do and check where that cushion meets my neck. The slim legs also leave the floor in view. For a robot vacuum, I’d measure the clearance at the lowest point under the frame.
+
+### Lily
+
+<figure class="guide-photo catalog-sofa">
+  <img src="/media/monocus-sofa/lily-front.webp" width="750" height="750" alt="Ivory Lily modules with flared arms and vertical channels running down the back and seat front" loading="lazy" decoding="async">
+  <figcaption><a href="https://monocus.co.kr/product/?idx=6">Official Monocus Lily photo</a></figcaption>
+</figure>
+
+Monocus took the shape of the Lily from its namesake flower. You can see it in the ends that open outward like petals and in the vertical channels that curve from the back down the front of the seat. Those flared arms make the outside width especially useful to know. If I were fitting it between two pieces of furniture, I’d ask for the measurement from one arm tip to the other.
 
 The owner of Monocus also runs a bed business, so we bought our bed there too.

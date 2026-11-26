@@ -1,9 +1,9 @@
 ---
 title: "KORU · Direxion Daily MSCI South Korea Bull 3X ETF"
-description: "KORU trades in U.S. dollars and targets three times the daily move in an index of large and mid-sized Korean companies."
+description: "KORU trades in U.S. dollars and targets three times the daily move in an index of large and mid-sized Korean companies. Those companies trade on the Korean market, so currency translation and the gap between the two market closes both matter."
 ---
 
-<p class="lead">KORU trades in U.S. dollars and targets three times the daily move in an index of large and mid-sized Korean companies.</p>
+<p class="lead">KORU trades in U.S. dollars and targets three times the daily move in an index of large and mid-sized Korean companies. Those companies trade on the Korean market, so currency translation and the gap between the two market closes both matter.</p>
 
 <dl class="facts"><dt>Manager or issuer</dt><dd>Rafferty Asset Management</dd><dt>Market and symbol</dt><dd>NYSE Arca · KORU</dd><dt>Objective or underlying</dt><dd>MSCI Korea 25/50 Index · daily exposure 3×</dd><dt>Inception</dt><dd>2013-04-10</dd><dt>Trading currency</dt><dd>USD</dd><dt>Structure</dt><dd>Daily leveraged ETF</dd><dt>Fees and expenses</dt><dd>annual 1.32% · 2026-02-27</dd><dt>Governing document</dt><dd>Fund prospectus</dd></dl>
 

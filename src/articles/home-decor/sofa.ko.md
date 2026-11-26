@@ -60,8 +60,44 @@ description: "빨아 쓰는 패브릭을 찾다가 용산 아이파크몰에서 
 
 <h2 id="sofa-options">매장에 가기 전 참고할 것</h2>
 
-2026년 11월에 확인한 르엘 공식 상세 페이지의 표시 가격은 600만 원이다. 우리가 간 날은 용산 아이파크몰 매장에서 프로모션도 하고 있었다. 우리처럼 한쪽을 늘릴 생각이라면 원하는 소재와 크기를 정해서 그 조합으로 견적을 받아보는 게 정확하다. 상담해 주신 분이 두 자리의 길이와 소재를 하나씩 짚어 주셔서 편하게 고를 수 있었다. [모노커스 르엘 제품 정보](https://monocus.co.kr/product/?idx=3)
+르엘 공식 페이지에서 확인한 표시 가격은 600만 원이다(2026년 11월). 우리가 간 날은 용산 아이파크몰 매장에서 프로모션 중이었다. 우리처럼 두 덩이의 깊이를 다르게 맞춘다면, 홈페이지 가격만 보고 최종 견적을 짐작하기는 어렵다. [르엘 공식 제품 정보](https://monocus.co.kr/product/?idx=3)
 
-같은 인조가죽을 다른 모양으로 보고 싶다면 [로이스](https://monocus.co.kr/product/?idx=5) 사진이 참고가 된다. 모서리가 부드럽게 휘는 모양을 좋아한다면 [스텔라](https://monocus.co.kr/product/?idx=4), 꽃잎처럼 둥근 모듈이 궁금하다면 [릴리](https://monocus.co.kr/product/?idx=6)도 있다.
+<figure class="guide-photo">
+  <img src="/media/monocus-sofa/yongsan-showroom.webp" width="1026" height="893" alt="분홍빛 반원 벽의 모노커스 간판 앞에 소파와 쿠션이 놓인 용산 쇼룸" loading="lazy" decoding="async">
+  <figcaption><a href="https://monocus.co.kr/notice/?bmode=view&idx=171858101">용산 아이파크몰 쇼룸. 모노커스가 입점 공지에 올린 사진이다.</a></figcaption>
+</figure>
+
+다시 상담받으러 간다면 거실 사진 한 장에 세 가지만 적어 갈 것 같다. 소파를 둘 벽의 가로 길이, 긴 좌석이 앞으로 나와도 테이블 앞을 지날 수 있는 깊이, 그리고 정면에서 봤을 때 누울 쪽이 왼쪽인지 오른쪽인지. 우리 주문은 전체 가로 약 290cm에 아이보리 인조가죽, 큰 등쿠션 세 개였다. 상담해 주신 분이 두 자리의 길이를 하나씩 짚어 주셔서, 막연히 ‘누울 수 있는 소파’라고 생각했던 걸 주문할 모양으로 정할 수 있었다.
+
+## 르엘 옆에 두고 본 세 가지 디자인
+
+아래는 모노커스 공식 제품 사진이다. 같은 브랜드 안에서도 등받이와 팔걸이 모양을 보면 어떤 자세로 앉고 싶은지가 꽤 선명해진다.
+
+### 로이스
+
+<figure class="guide-photo catalog-sofa">
+  <img src="/media/monocus-sofa/loyce-front.webp" width="750" height="750" alt="검은 로이스의 넓고 매끈한 두 좌석과 옆으로 기댈 수 있게 얹은 팔걸이 쿠션" loading="lazy" decoding="async">
+  <figcaption><a href="https://monocus.co.kr/product/?idx=5">모노커스 로이스 공식 사진</a></figcaption>
+</figure>
+
+우리 르엘에 고른 인조가죽은 로이스에도 쓰인다고 매장에서 들었다. 같은 검정이라도 인상이 꽤 다르다. 르엘의 방석엔 네모난 칸이 도드라지는데, 로이스는 널찍한 두 방석 위로 매끈한 면이 그대로 보인다. 옆으로 기대는 사람이라면 양끝에 비스듬히 놓인 팔걸이 쿠션이 팔을 어디쯤 받쳐 주는지도 살펴볼 만하다.
+
+### 스텔라
+
+<figure class="guide-photo catalog-sofa">
+  <img src="/media/monocus-sofa/stella-front.webp" width="750" height="750" alt="밝은색 스텔라의 세 좌석, 오른쪽 등쿠션 위의 작은 머리 받침과 가는 검은 다리" loading="lazy" decoding="async">
+  <figcaption><a href="https://monocus.co.kr/product/?idx=4">모노커스 스텔라 공식 사진</a></figcaption>
+</figure>
+
+스텔라 사진에서 내 눈에 먼저 들어온 건 오른쪽 등쿠션 위에 올라온 작은 머리 받침이다. 르엘처럼 낮고 깊은 자리에 눕는 것보다 등을 대고 TV를 보는 시간이 길다면, 매장에서는 평소 자세로 앉아 받침이 목에 닿는 위치부터 보고 싶다. 다리가 가늘어 바닥도 시원하게 보인다. 로봇청소기를 쓴다면 소파 밑 가장 낮은 곳의 높이는 따로 재보는 편이 좋다.
+
+### 릴리
+
+<figure class="guide-photo catalog-sofa">
+  <img src="/media/monocus-sofa/lily-front.webp" width="750" height="750" alt="아이보리 릴리의 둥근 팔걸이와 등에서 좌석 앞면까지 내려오는 세로 봉제선" loading="lazy" decoding="async">
+  <figcaption><a href="https://monocus.co.kr/product/?idx=6">모노커스 릴리 공식 사진</a></figcaption>
+</figure>
+
+릴리는 모노커스가 백합에서 모양을 따온 모듈 소파다. 사진을 보면 왜 꽃 이름인지 알 것 같다. 양끝이 꽃잎처럼 바깥으로 벌어지고, 등에서 시작한 세로선이 좌석 앞까지 둥글게 내려온다. 이런 모양은 앉는 자리의 폭과 팔걸이 끝에서 끝까지의 폭이 꽤 다르게 느껴진다. 거실 벽에 딱 맞춰 놓을 생각이라면 견적을 물을 때 바깥 폭도 함께 확인하고 싶다.
 
 모노커스 사장님이 침대 사업도 하신다고 해서, 침대도 함께 구매했다.

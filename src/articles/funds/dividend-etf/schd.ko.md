@@ -18,7 +18,7 @@ description: "미국에서 오랫동안 배당한 기업 중 재무 지표로 �
 <p>기업의 배당 선언과 펀드 분배는 다른 단계다. 보유 기업이 펀드에 지급한 현금에서 비용 등을 반영해 펀드가 주주에게 분배한다. 매 기간 지급액을 정해 둔 정기예금 구조가 아니다.</p></section>
 
 <section><h2>같은 분류 안에서</h2>
-<p><a href="/blog/funds/dividend-etf/ace-us-dividend-dow-jones/">ACE 미국배당다우존스</a>은 같은 미국 배당 100 계열을 국내 거래소에서 원화로 담는다. 거래 통화·운영비·배당 처리 시점이 달라진다.</p></section>
+<p><a href="/blog/funds/dividend-etf/ace-us-dividend-dow-jones/">ACE 미국배당다우존스</a>는 같은 미국 배당 100 계열을 국내 거래소에서 원화로 담는다. 거래 통화·운영비·배당 처리 시점이 달라진다.</p></section>
 
 <section><h2>설명서에서 볼 곳</h2>
 <p>Investment Objective에서 목표를, Fees and Expenses에서 비용과 보전 기간을 확인한다. Principal Investment Strategies는 지수 규칙과 실제 보유 수단을 설명한다. Principal Risks에 나오는 위험을 위의 구성표와 함께 읽으면 어느 자산에서 위험이 오는지 알 수 있다.</p></section>

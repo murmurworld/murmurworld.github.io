@@ -18,7 +18,7 @@ description: "나스닥 상장사 가운데 금융사를 제외한 대형 기업
 <p>일일 배수를 맞추는 계약을 쓰는 상품들과 달리 보통주 바스켓의 비중을 유지하는 것이 운용의 중심이다. 비금융주와 큰 기업에 편중되는 점은 지수 규칙에서 나온다.</p></section>
 
 <section><h2>같은 분류 안에서</h2>
-<p><a href="/blog/funds/index-etf/time-us-nasdaq100-active/">TIME 미국나스닥100액티브</a>은 나스닥100을 비교지수로 삼지만 운용자가 비중을 바꿀 수 있다. <a href="/blog/funds/leveraged/qld/">QLD</a>와 <a href="/blog/funds/leveraged/tqqq/">TQQQ</a>는 같은 지수의 하루 변동에 각각 두 배, 세 배를 목표로 삼는다.</p></section>
+<p><a href="/blog/funds/index-etf/time-us-nasdaq100-active/">TIME 미국나스닥100액티브</a>는 나스닥100을 비교지수로 삼지만 운용자가 비중을 바꿀 수 있다. <a href="/blog/funds/leveraged/qld/">QLD</a>와 <a href="/blog/funds/leveraged/tqqq/">TQQQ</a>는 같은 지수의 하루 변동에 각각 두 배, 세 배를 목표로 삼는다.</p></section>
 
 <section><h2>설명서에서 볼 곳</h2>
 <p>Investment Objective에서 목표를, Fees and Expenses에서 비용과 보전 기간을 확인한다. Principal Investment Strategies는 지수 규칙과 실제 보유 수단을 설명한다. Principal Risks에 나오는 위험을 위의 구성표와 함께 읽으면 어느 자산에서 위험이 오는지 알 수 있다.</p></section>
