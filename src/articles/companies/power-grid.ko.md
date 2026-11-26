@@ -29,7 +29,7 @@ video:
 
 가스 발전소에서는 압축한 공기에 연료를 태워 뜨거운 기체를 만들고, 그 힘으로 터빈과 발전기를 돌린다. 풍력 터빈은 바람의 힘으로 발전기를 돌린다. GE 버노바가 파는 가스터빈과 풍력 터빈은 둘 다 전기를 만드는 설비지만, 구매자는 연료를 어떻게 공급할지, 바람 조건이 어떤지, 출력이 시간에 따라 얼마나 달라지는지 각각 따진다. [미국 에너지정보청 · 전기를 만드는 방식](https://www.eia.gov/energyexplained/electricity/how-electricity-is-generated.php) · [GE 버노바 · 가스터빈의 원리](https://www.gevernova.com/gas-power/resources/education/what-is-a-gas-turbine)
 
-발전 사업자가 대형 가스 발전소를 검토할 때는 같은 60Hz 시장의 GE 버노바 7HA와 지멘스 에너지 SGT6-9000HL 같은 제품을 놓고 볼 수 있다. 제품 표의 출력은 총출력인지, 발전소가 자체적으로 쓰는 전기를 뺀 순출력인지 확인해야 나란히 비교할 수 있다. 설치 뒤 어느 주기로 정비하고, 정비 기간에 얼마나 오래 멈춰야 하는지도 계약에 영향을 준다. [GE 버노바 · 7HA](https://www.gevernova.com/gas-power/products/gas-turbines/7ha) · [지멘스 에너지 · HL 클래스](https://www.siemens-energy.com/global/en/home/products-services/product-offerings/gas-turbines/hl-class.html)
+발전 사업자가 대형 가스 발전소를 검토할 때는 같은 60Hz 시장의 GE 버노바 7HA와 지멘스 에너지 SGT6-9000HL 같은 제품을 놓고 볼 수 있다. 제품 표의 출력은 총출력인지, 발전소가 자체적으로 쓰는 전기를 뺀 순출력인지 확인해야 나란히 비교할 수 있다. 설치 뒤 어느 주기로 정비하고, 정비 기간에 얼마나 오래 멈춰야 하는지도 계약에 영향을 준다. [GE 버노바 · 7HA](https://www.gevernova.com/gas-power/products/gas-turbines/7ha) · [지멘스 에너지 · HL 클래스](https://assets.siemens-energy.com/dam/6a81abd9-6c46-42c9-9034-b036013f322b/210923-HL-ClassFactSheet-05-pdf_Original%20file.pdf)
 
 **복합 발전**이라고 적혀 있으면 가스터빈이 내보낸 열로 증기를 만들고 증기터빈을 한 번 더 돌리는 구성이다. 입찰 자료의 출력이 가스터빈 단독 기준인지, 증기터빈도 포함한 발전소 전체 기준인지 확인한다. [미쓰비시파워 · 가스터빈 복합 발전 구조](https://power.mhi.com/products/gtcc/)
 
