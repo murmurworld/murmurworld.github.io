@@ -20,7 +20,7 @@ publishedOn: '2026-11-26'
 
 스테이트스트리트에는 ETF를 포함한 자산운용 사업도 있다. 2025년 말 공시에는 수탁·관리자산 **53.80조 달러**와 운용자산 **5.67조 달러**가 각각 나온다. 수탁 사업을 볼 때는 서비스 수수료를, 운용 사업을 볼 때는 운용보수를 함께 본다. 공시에는 은행 업무에서 나오는 순이자이익도 따로 잡힌다. [스테이트스트리트 2025 10‑K](https://www.sec.gov/Archives/edgar/data/93751/000009375126000124/stt-20251231.htm)
 
-블랙록의 **IVV**와 스테이트스트리트의 **SPY**는 같은 S&P 500 지수를 따릅니다. 이 경우 두 회사는 운용 상품에서 직접 경쟁해요. 두 상품의 설명서를 나란히 놓으면 같은 지수를 얼마나 가깝게 따라가는지, 운영 비용과 거래 조건은 어떤지 비교할 수 있습니다. [iShares IVV](https://www.ishares.com/us/products/239726/ishares-core-sp-500-etf) · [State Street SPDR S&P 500 ETF Trust](https://www.ssga.com/us/en/intermediary/etfs/state-street-spdr-sp-500-etf-trust-spy)
+블랙록의 **IVV**와 스테이트스트리트의 **SPY**는 같은 S&P 500 지수를 따른다. 이 경우 두 회사는 운용 상품에서 직접 경쟁한다. 두 상품의 설명서를 나란히 놓으면 같은 지수를 얼마나 가깝게 따라가는지, 운영 비용과 거래 조건은 어떤지 비교할 수 있다. [iShares IVV](https://www.ishares.com/us/products/239726/ishares-core-sp-500-etf) · [State Street SPDR S&P 500 ETF Trust](https://www.ssga.com/us/en/intermediary/etfs/state-street-spdr-sp-500-etf-trust-spy)
 
 ## 서클은 USDC를 발행하고 준비금에서 수익을 낸다
 
