@@ -1,6 +1,10 @@
 ---
 title: "Visa"
 description: "Visa connects issuing and acquiring financial institutions and charges for network and related services. Financial institutions, processors, merchants and partners use the network. The cardholder usually borrows from the issuing bank rather than the network operator."
+study:
+  question: What changes if two purchases become one for the same total?
+  answer: Assume Visa would have processed both purchases. The combined payment preserves total dollar volume but removes one processed transaction, which matters because service revenue largely follows payment volume while data processing revenue also depends on the count.
+  source: https://www.sec.gov/Archives/edgar/data/1403161/000140316125000089/v-20250930.htm
 ---
 
 Visa connects issuing and acquiring financial institutions and charges for network and related services. Financial institutions, processors, merchants and partners use the network. The cardholder usually borrows from the issuing bank rather than the network operator.

@@ -1,6 +1,10 @@
 ---
 title: "Apple"
 description: "Apple sells iPhones, Macs and accessories, alongside services such as device support, digital content and cloud storage. Consumers, businesses, schools and governments buy from Apple, mobile carriers and resellers. Hardware sales and paid services monetize different parts of the same installed base."
+study:
+  question: Can an iPhone keep generating Apple revenue after the sale?
+  answer: The handset sale generates product revenue, while a subsequent iCloud+ storage subscription generates services revenue. Apple’s Services category also includes advertising and digital distribution, so treating the full amount as monthly subscription fees would overstate that business.
+  source: https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/aapl-20260926.htm
 ---
 
 Apple sells iPhones, Macs and accessories, alongside services such as device support, digital content and cloud storage. Consumers, businesses, schools and governments buy from Apple, mobile carriers and resellers. Hardware sales and paid services monetize different parts of the same installed base.

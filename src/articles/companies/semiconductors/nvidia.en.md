@@ -1,6 +1,10 @@
 ---
 title: "NVIDIA"
 description: "NVIDIA sells GPUs for training and running AI models, together with the networking needed to connect many accelerators. It also sells graphics products for games."
+study:
+  question: Does adding GPUs make an AI server proportionately faster?
+  answer: When several GPUs share a model, they spend time exchanging intermediate results. NVIDIA supplies NVLink interconnects and switches alongside the processors to reduce the time those chips spend waiting for data.
+  source: https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm
 ---
 
 NVIDIA sells GPUs for training and running AI models, together with the networking needed to connect many accelerators. It also sells graphics products for games.

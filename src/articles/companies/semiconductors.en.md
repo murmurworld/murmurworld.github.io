@@ -1,6 +1,31 @@
 ---
 title: "Semiconductors & Equipment"
 description: "Some semiconductor companies build the tools, others manufacture wafers, and others design processors without owning a fab. An AI server brings all three into one supply chain."
+studyCase:
+  featured: INTC
+  title: How one Intel chip passes through two sets of books
+  intro: Suppose a laptop maker buys one Intel processor. The team that designed it and the factory that made it have different customers and book different transactions.
+  lenses:
+  - label: Who gets paid by the laptop maker?
+    body: Intel’s PC business sells finished processors to device makers. If Intel Foundry makes the wafer, its customer for that manufacturing step is Intel’s own product business. A wafer is the thin disc on which many chips are made together.
+    source: https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm
+  - label: Where do process development, chip design and foundry work diverge?
+    body: Intel develops new manufacturing processes in Oregon before transferring them to other production sites. AMD designs processors and contracts out fabrication. TSMC makes wafers from customer designs. For a chip designer the choice of process affects performance and unit cost. For a foundry the question is who will bring enough wafers to fill its lines.
+    source: https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm
+  - label: How much foundry revenue came from outside Intel in 2025?
+    body: In fiscal 2025 Intel Foundry reported $17.826 billion of segment revenue. The note identifies $307 million from external foundry, assembly and test customers. Dividing 307 by 17,826, both in millions, puts the external share at about 1.7%. The note gives a much clearer picture of outside demand than the headline segment total.
+    source: https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm
+  - label: Which costs matter if factory orders fall?
+    body: Depreciation on installed equipment continues even when the line runs below capacity. If wafer volume drops, look for excess capacity charges in the foundry discussion. If a new process is ramping, also check start-up costs and yield, the share of functioning chips, before attributing the change to weak demand.
+    source: https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm
+  exercise:
+    question: How can Intel Products and Foundry together report more revenue than the entire company?
+    answer: The fiscal 2025 segment table reconciles in millions of dollars. Products 49,147 + Foundry 17,826 + All Other 3,563 − intersegment eliminations 17,683 = consolidated revenue of 52,853. Consolidation removes internal transactions so Intel’s payment to its own factory does not count as a second external sale.
+    source: https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm
+  peers:
+  - AMD
+  - TSM
+  - ASML
 ---
 
 <p class="lead">Some semiconductor companies build the tools, others manufacture wafers, and others design processors without owning a fab. An AI server brings all three into one supply chain.</p>

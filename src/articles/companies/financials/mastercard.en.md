@@ -1,6 +1,10 @@
 ---
 title: "Mastercard"
 description: "Mastercard processes payment messages between participating banks and supplies fraud, data and other value-added services. Issuers and acquirers connect consumers and merchants to the network. Banks, merchants and governments can also buy analytical or security services."
+study:
+  question: What might a merchant buy from Mastercard beyond payment processing?
+  answer: Mastercard sells security tools that help detect fraud and clear legitimate purchases. Its separate revenue category for value-added services and solutions captures business that a count of transactions on its network alone cannot explain.
+  source: https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/ma-20251231.htm
 ---
 
 Mastercard processes payment messages between participating banks and supplies fraud, data and other value-added services. Issuers and acquirers connect consumers and merchants to the network. Banks, merchants and governments can also buy analytical or security services.

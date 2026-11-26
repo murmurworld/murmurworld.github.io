@@ -1,6 +1,10 @@
 ---
 title: "Johnson & Johnson"
 description: "Innovative Medicine sells prescription products. MedTech sells devices used in settings such as surgery and cardiovascular care."
+study:
+  question: Where would demand show up first for a knee implant versus a medicine?
+  answer: Knee implants are used in surgery, so procedure volumes help explain the orthopaedics business. Within Innovative Medicine, product-level sales reveal the effects of different patent timelines and competing launches.
+  source: https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/jnj-20251228.htm
 ---
 
 Innovative Medicine sells prescription products. MedTech sells devices used in settings such as surgery and cardiovascular care.

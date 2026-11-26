@@ -1,6 +1,10 @@
 ---
 title: "ASML"
 description: "칩 회로를 웨이퍼에 빛으로 찍는 노광 장비를 만든다. 가장 가는 회로를 찍는 EUV 장비는 회사 설명으로 세계에서 이 회사만 만든다."
+study:
+  question: 새 노광 장비를 한 대도 들이지 않은 공장에서 ASML 매출이 생길까?
+  answer: 노광 장비는 빛으로 웨이퍼에 미세한 회로 무늬를 찍으며 공장은 설치한 장비를 수년간 유지하고 개량한다. ASML은 2025년에 서비스·업그레이드 등 설치 장비 관리 매출을 약 82억 유로로 발표해 새 장비 판매와 구분했다.
+  source: https://ourbrand.asml.com/m/1a5a2a9d0491701c/original/2026_01_28-Presentation-ASML-Press-Conference-Q4FY2025_FINAL.pdf
 ---
 
 칩 회로를 웨이퍼에 빛으로 찍는 노광 장비를 만든다. 가장 가는 회로를 찍는 EUV 장비는 회사 설명으로 세계에서 이 회사만 만든다.

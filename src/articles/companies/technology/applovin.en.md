@@ -1,6 +1,10 @@
 ---
 title: "AppLovin"
 description: "AppLovin sells technology for bidding on ad inventory and measuring campaigns, and helps publishers monetize available advertising space. App developers sell advertising space and advertisers pay to reach users. Measurement tools help customers link an ad placement to an outcome."
+study:
+  question: Why separate game publishing from advertising when reading AppLovin’s 2025 results?
+  answer: Running games earns money from players or ads inside those games, while an ad platform helps advertisers acquire users and publishers monetize ad slots. AppLovin sold its Apps business on June 30, 2025, so check continuing and discontinued operations before comparing years.
+  source: https://www.sec.gov/Archives/edgar/data/1751008/000175100826000010/app-20251231.htm
 ---
 
 AppLovin sells technology for bidding on ad inventory and measuring campaigns, and helps publishers monetize available advertising space. App developers sell advertising space and advertisers pay to reach users. Measurement tools help customers link an ad placement to an outcome.

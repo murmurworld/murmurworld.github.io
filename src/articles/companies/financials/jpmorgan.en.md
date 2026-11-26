@@ -1,6 +1,10 @@
 ---
 title: "JPMorgan Chase"
 description: "JPMorgan Chase collects deposits, makes loans, issues cards and processes payments. Its businesses also include investment banking and asset management."
+study:
+  question: Does a larger credit provision mean that much has already gone unpaid?
+  answer: JPMorganChase’s card credit provision reflects net charge-offs and changes to the allowance set aside for expected losses. Read the two components separately to distinguish losses recognized on loans from a change in the outlook for the remaining portfolio.
+  source: https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm
 ---
 
 JPMorgan Chase collects deposits, makes loans, issues cards and processes payments. Its businesses also include investment banking and asset management.

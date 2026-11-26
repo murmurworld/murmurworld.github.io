@@ -1,6 +1,31 @@
 ---
 title: "Consumer & Telecom"
 description: "One bottle at the grocery checkout produces different amounts of revenue for the retailer, bottler and brand owner. Buying a car or paying for a monthly streaming and wireless plan creates a different chain of payments."
+studyCase:
+  featured: PEP
+  title: Follow a bag of chips from PepsiCo to Walmart
+  intro: Buy a bag of Lay’s at Walmart and two companies record different sales. Following the bag onto the shelf helps explain why PepsiCo singles out Walmart in its annual report.
+  lenses:
+  - label: Who pays whom?
+    body: PepsiCo sells snacks into the retail trade. Walmart buys the goods and collects the shopper’s payment. Beverages can take an extra step. An independent bottler can buy concentrate from PepsiCo, make the finished drink and sell it to Walmart.
+    source: https://www.sec.gov/Archives/edgar/data/77476/000007747626000007/pep-20251227.htm
+  - label: Who gets the product onto the shelf?
+    body: With direct store delivery, PepsiCo or its partners can deliver and merchandise products in the store. That suits snacks that sell quickly or go on promotion. Shipping to a retailer’s warehouse typically costs less. Brand recognition and the ability to keep shelves stocked are two different competitive strengths.
+    source: https://www.sec.gov/Archives/edgar/data/77476/000007747626000007/pep-20251227.htm
+  - label: What does the 14% represent?
+    body: For the fiscal year ended December 27, 2025, PepsiCo recorded $93.925 billion in net revenue. Multiplying by the roughly 14% attributed to Walmart and affiliates gives about $13.15 billion. That includes Sam’s Club and concentrate sold through independent bottlers. It estimates PepsiCo revenue from a rounded share and cannot tell us shoppers’ total at the till.
+    source: https://www.sec.gov/Archives/edgar/data/77476/000007747626000007/pep-20251227.htm
+  - label: What if a retailer switches its display?
+    body: Suppose Walmart gives a display to a store brand. PepsiCo could lose that placement but sell more elsewhere. Walmart could retain the sale if shoppers switch snacks. In PepsiCo’s North American foods discussion, compare volume with the effect of pricing and product mix. That checks whether shipments and revenue moved together, although it cannot isolate one display.
+    source: https://www.sec.gov/Archives/edgar/data/77476/000007747626000007/pep-20251227.htm
+  exercise:
+    question: If Walmart still accounts for 14% the following year, did PepsiCo sell the same dollar amount through that channel?
+    answer: Apply each year’s share to that year’s consolidated net revenue. The dollar estimate can change even if the rounded share stays flat. Neither figure counts the bags shoppers took home.
+    source: https://www.sec.gov/Archives/edgar/data/77476/000007747626000007/pep-20251227.htm
+  peers:
+  - WMT
+  - KO
+  - COST
 ---
 
 <p class="lead">One bottle at the grocery checkout produces different amounts of revenue for the retailer, bottler and brand owner. Buying a car or paying for a monthly streaming and wireless plan creates a different chain of payments.</p>

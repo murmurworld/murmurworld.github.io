@@ -1,6 +1,10 @@
 ---
 title: "Oracle"
 description: "Licenses database software and sells cloud infrastructure and business applications, including support for existing installations. Corporate and public-sector customers may run applications on Oracle's infrastructure, license software on their own equipment, or buy support and consulting."
+study:
+  question: Do Oracle’s remaining performance obligations represent cash collected this quarter?
+  answer: Remaining performance obligations measure contracted work still to be recognized as revenue and may include both invoiced and unbilled amounts. The note on expected recognition shows how much of that balance Oracle expects to earn in a nearer period.
+  source: https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/orcl-20260531.htm
 ---
 
 Licenses database software and sells cloud infrastructure and business applications, including support for existing installations. Corporate and public-sector customers may run applications on Oracle's infrastructure, license software on their own equipment, or buy support and consulting.

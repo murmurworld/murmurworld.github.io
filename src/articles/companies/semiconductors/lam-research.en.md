@@ -1,6 +1,10 @@
 ---
 title: "Lam Research"
 description: "Lam Research supplies wafer-processing tools that remove material or add precisely controlled films, and supports tools already in fabs. Memory and logic manufacturers buy tools for their fabs and purchase support for systems already installed."
+study:
+  question: What makes etching harder as more layers are added to 3D NAND?
+  answer: Etching through a taller stack means making a deep, narrow hole that stays close to straight from top to bottom. Lam’s tools must reproduce that shape consistently, while demand for new tools also depends on fab expansion and what customers can do with the equipment they already own.
+  source: https://www.sec.gov/Archives/edgar/data/707549/000070754926000037/lrcx-20260628.htm
 ---
 
 Lam Research supplies wafer-processing tools that remove material or add precisely controlled films, and supports tools already in fabs. Memory and logic manufacturers buy tools for their fabs and purchase support for systems already installed.

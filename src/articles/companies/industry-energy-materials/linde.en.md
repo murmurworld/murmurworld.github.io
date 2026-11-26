@@ -1,6 +1,10 @@
 ---
 title: "Linde"
 description: "Linde supplies gases such as oxygen, nitrogen and hydrogen through on-site plants, pipelines or delivered containers. Steel mills, chemical and electronics plants, hospitals and smaller users buy gas through different delivery systems. Equipment customers can also buy complete plants."
+study:
+  question: Do higher gas sales at Linde always mean customers used more gas?
+  answer: Some Linde on-site contracts pass changes in energy costs through to customers. The sales bridge separates cost pass-through from volume growth, which helps when assessing whether customer plants actually consumed more gas.
+  source: https://www.sec.gov/Archives/edgar/data/1707925/000162828026011430/lin-20251231.htm
 ---
 
 Linde supplies gases such as oxygen, nitrogen and hydrogen through on-site plants, pipelines or delivered containers. Steel mills, chemical and electronics plants, hospitals and smaller users buy gas through different delivery systems. Equipment customers can also buy complete plants.

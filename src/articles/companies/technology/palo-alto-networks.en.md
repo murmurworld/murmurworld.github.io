@@ -1,6 +1,10 @@
 ---
 title: "Palo Alto Networks"
 description: "Palo Alto Networks sells network security appliances and software, cloud security and security operations tools. Its installed products can generate recurring subscriptions and support fees."
+study:
+  question: What happens when a customer prepays Palo Alto Networks for firewall support?
+  answer: Support billed in advance stays in deferred revenue until the service is delivered and the balance moves to revenue over time. If deferred revenue rises at quarter-end, check billing dates and contract terms before interpreting it as growth in services already delivered.
+  source: https://www.sec.gov/Archives/edgar/data/1327567/000132756726000023/panw-20260731.htm
 ---
 
 Palo Alto Networks sells network security appliances and software, cloud security and security operations tools. Its installed products can generate recurring subscriptions and support fees.

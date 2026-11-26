@@ -1,6 +1,10 @@
 ---
 title: "Cisco"
 description: "Cisco sells networking hardware and software that connect branch offices, enterprise campuses and data centers, alongside security tools and support. Enterprises, network operators and public agencies buy hardware and subscriptions directly and through channel partners."
+study:
+  question: When does Cisco recognize a switch sale bundled with support?
+  answer: If the hardware and the support service are distinct promises, Cisco allocates part of the transaction price to each. The hardware portion is generally recognized when control passes to the customer and support over the service period, so one invoice can generate revenue in several periods.
+  source: https://www.sec.gov/Archives/edgar/data/858877/000085887726000132/csco-20260725.htm
 ---
 
 Cisco sells networking hardware and software that connect branch offices, enterprise campuses and data centers, alongside security tools and support. Enterprises, network operators and public agencies buy hardware and subscriptions directly and through channel partners.

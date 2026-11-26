@@ -1,6 +1,10 @@
 ---
 title: "TotalEnergies"
 description: "TotalEnergies produces oil and gas, sells LNG, refines fuels and has an integrated power business. Industrial users, utilities, trading partners and consumers purchase hydrocarbons, refined products and electricity."
+study:
+  question: What can you calculate from a 16-year LNG contract?
+  answer: The Sembcorp contract calls for 0.8 million tonnes per year for 16 years from 2027, giving a nominal total of 12.8 million tonnes. Estimating revenue also requires delivery timing and applicable prices, which is why signing the contract does not book 16 years of sales.
+  source: https://totalenergies.com/newsroom/singapore-totalenergies-supply-sembcorp-08-mtpa-lng-16-years/?lang=eng
 ---
 
 TotalEnergies produces oil and gas, sells LNG, refines fuels and has an integrated power business. Industrial users, utilities, trading partners and consumers purchase hydrocarbons, refined products and electricity.

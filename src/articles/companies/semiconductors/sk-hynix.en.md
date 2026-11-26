@@ -1,6 +1,10 @@
 ---
 title: "SK hynix"
 description: "How working memory and storage reach device makers, what its largest customers buy and how to read SK hynix's consolidated financial statements."
+study:
+  question: Why would a memory maker work with a foundry on HBM?
+  answer: HBM has a base die underneath its stacked DRAM layers to handle their connection with the processor. SK hynix and TSMC’s HBM4 collaboration covers base-die technology and packaging, showing why developing the memory layers and building the interface beneath them call for different capabilities.
+  source: https://news.skhynix.com/sk-hynix-partners-with-tsmc-to-strengthen-hbm-technological-leadership/
 ---
 
 SK hynix makes memory chips. DRAM holds the data a computer or phone needs while it is running, while NAND keeps files after power is switched off. HBM, the memory placed next to an AI accelerator, is a type of DRAM. Consolidated revenue in the first nine months of 2026 exceeded twice the total for the whole of 2025.

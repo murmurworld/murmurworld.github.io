@@ -1,6 +1,10 @@
 ---
 title: "Costco"
 description: "Costco sells goods through membership warehouses. Merchandise sales and membership fees are reported separately."
+study:
+  question: When does an annual membership payment become revenue?
+  answer: Costco recognizes membership fees, net of refunds, evenly over the one-year membership term. A wave of late-year sign-ups brings in cash before much of the related fee revenue appears.
+  source: https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm
 ---
 
 Costco sells goods through membership warehouses. Merchandise sales and membership fees are reported separately.

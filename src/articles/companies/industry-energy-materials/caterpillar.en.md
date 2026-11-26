@@ -1,6 +1,10 @@
 ---
 title: "Caterpillar"
 description: "Caterpillar sells equipment such as excavators and mining trucks, engines, parts and services, primarily through dealers. Independent dealers supply contractors, mines, transport operators and energy customers. Financial services can help dealers and end users purchase machines."
+study:
+  question: Can Caterpillar ship more excavators before more machines show up on worksites?
+  answer: Caterpillar sells most equipment through dealers, so restocking can lift manufacturer shipments before builders take delivery. Read sales to end users alongside changes in dealer inventories to distinguish those two stages.
+  source: https://www.sec.gov/Archives/edgar/data/18230/000001823026000008/cat-20251231.htm
 ---
 
 Caterpillar sells equipment such as excavators and mining trucks, engines, parts and services, primarily through dealers. Independent dealers supply contractors, mines, transport operators and energy customers. Financial services can help dealers and end users purchase machines.

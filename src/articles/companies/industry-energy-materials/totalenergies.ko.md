@@ -1,6 +1,10 @@
 ---
 title: "토탈에너지스"
 description: "프랑스 에너지 회사다. 원유·가스 생산, LNG, 정유·화학, 주유소 판매에 더해 전력(재생에너지·가스 발전) 사업을 한다."
+study:
+  question: 16년짜리 LNG 공급계약에서 지금 계산할 수 있는 것은?
+  answer: 토탈에너지스가 싱가포르 셈브코프와 맺은 계약은 2027년부터 연 80만 톤씩 16년이어서 명목 공급량을 곱하면 1,280만 톤이다. 실제 매출을 추정하려면 인도 일정과 적용 가격이 더 필요하고, 계약을 발표한 해에 16년 치 매출이 생기지는 않는다.
+  source: https://totalenergies.com/newsroom/singapore-totalenergies-supply-sembcorp-08-mtpa-lng-16-years/?lang=eng
 ---
 
 프랑스 에너지 회사다. 원유·가스 생산, LNG, 정유·화학, 주유소 판매에 더해 전력(재생에너지·가스 발전) 사업을 한다.

@@ -1,6 +1,10 @@
 ---
 title: "SK하이닉스"
 description: "DRAM·HBM·낸드가 쓰이는 곳, 메모리를 사는 고객, 분기별 실적과 공장의 현금 지출을 연결 공시로 살펴본다."
+study:
+  question: HBM을 만드는 SK하이닉스가 왜 TSMC와 협력할까?
+  answer: HBM은 여러 층의 D램 아래에 신호가 오가는 통로를 맡는 베이스 다이를 둔다. SK하이닉스와 TSMC가 발표한 HBM4 협력은 이 바닥 칩의 공정과 패키징에 관한 것으로, 메모리 층을 쌓는 일과 맨 아래의 연결 칩을 만드는 일의 차이가 드러난다.
+  source: https://news.skhynix.com/sk-hynix-partners-with-tsmc-to-strengthen-hbm-technological-leadership/
 ---
 
 메모리 반도체 회사다. 컴퓨터와 휴대폰이 켜져 있는 동안 쓰는 DRAM과, 전원이 꺼져도 파일을 남기는 낸드 플래시를 만든다. AI 가속기 옆에 붙는 HBM도 DRAM의 한 종류다. 2026년 1~9월 매출이 2025년 한 해 매출의 두 배를 넘었다.

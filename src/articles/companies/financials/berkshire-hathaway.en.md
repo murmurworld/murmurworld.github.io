@@ -1,6 +1,10 @@
 ---
 title: "Berkshire Hathaway"
 description: "Its insurers receive premiums and invest funds pending claims. The group also owns rail, energy and industrial businesses."
+study:
+  question: What does Berkshire hold between collecting a premium and paying a claim?
+  answer: Berkshire can invest funds it holds between receiving premiums and settling claims, often called insurance float. Because those funds come with obligations, read float alongside underwriting earnings or losses to judge the cost of having them available.
+  source: https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/brka-20251231.htm
 ---
 
 Its insurers receive premiums and invest funds pending claims. The group also owns rail, energy and industrial businesses.

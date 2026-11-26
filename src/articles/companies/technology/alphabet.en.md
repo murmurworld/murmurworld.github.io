@@ -1,6 +1,10 @@
 ---
 title: "Alphabet"
 description: "Alphabet sells ad placements in Search and YouTube. Google Cloud charges for computing, data services and business applications."
+study:
+  question: Who uses Google Search and who pays for a search ad?
+  answer: A person runs a search and an advertiser pays for a placement associated with those results. Google Cloud instead earns money from businesses using computing, storage and workplace software, so search advertising metrics tell only part of Alphabet’s story.
+  source: https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm
 ---
 
 Alphabet sells ad placements in Search and YouTube. Google Cloud charges for computing, data services and business applications.

@@ -1,6 +1,10 @@
 ---
 title: "Samsung Electronics"
 description: "Samsung Electronics manufactures DRAM and NAND, offers foundry services and sells finished products including phones, TVs and appliances. Equipment distributors and consumers buy finished devices. Device companies also buy memory, displays or outsourced chip production."
+study:
+  question: Do Galaxy phone sales and server memory sales measure the same demand?
+  answer: Galaxy handsets in DX are finished devices that reach consumers through carriers and retailers, while server memory in DS is a component sold for use in computing systems. If the businesses move differently, check handset launches on one side and memory product mix and selling prices on the other.
+  source: https://news.samsung.com/global/samsung-electronics-announces-fourth-quarter-and-fy-2025-results
 ---
 
 Samsung Electronics manufactures DRAM and NAND, offers foundry services and sells finished products including phones, TVs and appliances. Equipment distributors and consumers buy finished devices. Device companies also buy memory, displays or outsourced chip production.

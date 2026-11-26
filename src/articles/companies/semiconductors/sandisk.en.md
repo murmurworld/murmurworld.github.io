@@ -1,6 +1,10 @@
 ---
 title: "Sandisk"
 description: "Turns flash memory into data-center SSDs, embedded storage and removable products such as memory cards. Enterprise storage buyers, device makers and retail customers buy products with different controllers, form factors and support requirements."
+study:
+  question: How can Sandisk and Kioxia share production and still compete?
+  answer: The companies operate joint ventures for NAND flash production in Japan and each takes a share of output. They use that flash in their respective storage products and market those products independently, so shared manufacturing does not imply shared customers.
+  source: https://www.sec.gov/Archives/edgar/data/2023554/000162828026057406/sndk-20260703.htm
 ---
 
 Turns flash memory into data-center SSDs, embedded storage and removable products such as memory cards. Enterprise storage buyers, device makers and retail customers buy products with different controllers, form factors and support requirements.

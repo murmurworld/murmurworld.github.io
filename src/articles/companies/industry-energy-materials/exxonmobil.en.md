@@ -1,6 +1,10 @@
 ---
 title: "ExxonMobil"
 description: "ExxonMobil produces crude oil and gas and operates refining and chemical businesses, which earn money at different points in the chain. Refineries, industrial companies, distributors and consumers buy different outputs along the chain from oil and gas production to finished materials."
+study:
+  question: Does higher crude oil automatically help ExxonMobil’s refining business?
+  answer: The production business sells crude, while a refinery buys crude and earns a spread on the fuels it sells. When the two move in different directions, the Upstream and Energy Products earnings bridges show the effects of upstream prices and refining margins separately.
+  source: https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm
 ---
 
 ExxonMobil produces crude oil and gas and operates refining and chemical businesses, which earn money at different points in the chain. Refineries, industrial companies, distributors and consumers buy different outputs along the chain from oil and gas production to finished materials.

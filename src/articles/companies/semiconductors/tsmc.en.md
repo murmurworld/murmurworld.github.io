@@ -1,6 +1,10 @@
 ---
 title: "TSMC"
 description: "TSMC produces and packages chips designed by customers. A foundry earns manufacturing revenue when those customers order production."
+study:
+  question: Why would rival chip designers use the same TSMC factory?
+  answer: TSMC manufactures chips to customers’ designs without marketing its own semiconductor products in competition with them. Designers gain access to manufacturing technology without building their own fabs, and TSMC can serve multiple customers with its production capacity.
+  source: https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm
 ---
 
 TSMC produces and packages chips designed by customers. A foundry earns manufacturing revenue when those customers order production.

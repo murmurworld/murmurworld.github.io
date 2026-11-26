@@ -1,6 +1,10 @@
 ---
 title: "Circle"
 description: "Circle issues USDC, handles issuance and redemption and earns income on reserves. Distribution and reserve-management arrangements affect what it retains."
+study:
+  question: Why can Circle’s income change even when one USDC stays at one dollar?
+  answer: Reserve income depends on USDC in circulation and the yield on the reserve assets backing it. Compare that income with distribution and other costs, including partner payments, to understand how much of it Circle retains.
+  source: https://www.sec.gov/Archives/edgar/data/1876042/000187604226000062/crcl-20251231.htm
 ---
 
 Circle issues USDC, handles issuance and redemption and earns income on reserves. Distribution and reserve-management arrangements affect what it retains.

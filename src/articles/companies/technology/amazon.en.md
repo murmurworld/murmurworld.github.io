@@ -1,6 +1,10 @@
 ---
 title: "Amazon"
 description: "AWS charges for computing, storage and database services. Retail sales, third-party seller fees and advertising are separate businesses."
+study:
+  question: Which denominator answers a question about AWS’s contribution?
+  answer: Divide AWS sales by consolidated sales to find its contribution to Amazon’s revenue. To see how much operating income AWS earns per dollar it sells, divide AWS operating income by AWS sales.
+  source: https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm
 ---
 
 AWS charges for computing, storage and database services. Retail sales, third-party seller fees and advertising are separate businesses.

@@ -1,6 +1,10 @@
 ---
 title: "KB Financial Group"
 description: "KB Financial Group combines banking with securities, insurance and card operations. The activities of the bank differ from those of the group as a whole."
+study:
+  question: How much of KB Financial can its bank’s net interest margin explain?
+  answer: The bank’s net interest margin measures the spread KB Kookmin Bank earns on interest-earning assets after funding costs. To understand KB Financial as a group, also trace contributions from its securities, card and insurance businesses through consolidated earnings.
+  source: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814004200
 ---
 
 KB Financial Group combines banking with securities, insurance and card operations. The activities of the bank differ from those of the group as a whole.

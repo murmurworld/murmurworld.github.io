@@ -1,6 +1,10 @@
 ---
 title: "셸"
 description: "회사 설명으로 상장사 가운데 가장 큰 LNG 공급자다. 원유·가스 생산, 주유소 판매, 정유·화학, 재생에너지 사업도 한다."
+study:
+  question: 셸은 어떻게 액화한 양보다 많은 LNG를 팔았을까?
+  answer: 2025년 셸의 LNG 판매량은 7,294만 톤, 액화 물량은 2,842만 톤이었다. 셸은 외부에서 조달한 LNG도 거래하므로 판매량을 전부 자체 액화설비의 생산량으로 잡으면 설비 규모를 과대평가하게 된다.
+  source: https://www.shell.com/investors/investor-presentations/_jcr_content/root/main/section_1529014047_c_540020954/tabs/tab_1774293805/text_copy_copy_16298/links/item1.stream/1770256401557/f1a8ad2e98a141f7a4ff0e5151d7014be79c4881/q4-2025-qra-document.pdf
 ---
 
 회사 설명으로 상장사 가운데 가장 큰 LNG 공급자다. 원유·가스 생산, 주유소 판매, 정유·화학, 재생에너지 사업도 한다.

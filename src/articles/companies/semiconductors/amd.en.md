@@ -1,6 +1,10 @@
 ---
 title: "AMD"
 description: "AMD designs CPUs for servers and PCs, graphics processors and AI accelerators. External foundries manufacture the chips."
+study:
+  question: Can AMD immediately make more EPYC processors when server orders rise?
+  answer: AMD designs and sells server CPUs but outsources wafer fabrication. To see whether orders can turn into shipments, look beyond chip performance to the wafer capacity, assembly and testing capacity available for that design.
+  source: https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm
 ---
 
 AMD designs CPUs for servers and PCs, graphics processors and AI accelerators. External foundries manufacture the chips.

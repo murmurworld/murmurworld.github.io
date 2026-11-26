@@ -1,6 +1,10 @@
 ---
 title: "KLA"
 description: "KLA supplies tools that find wafer defects and measure features during production so a fab can detect process problems. Semiconductor and electronics manufacturers buy tools to detect defects, measure features and manage yields."
+study:
+  question: How can finding defects help a fab make more usable chips?
+  answer: KLA’s inspection tools locate recurring defects and help characterize them across a wafer. Process engineers can use those patterns to correct the manufacturing step responsible, potentially increasing the number of good chips from the same number of wafers.
+  source: https://www.sec.gov/Archives/edgar/data/319201/000031920126000027/klac-20260630.htm
 ---
 
 KLA supplies tools that find wafer defects and measure features during production so a fab can detect process problems. Semiconductor and electronics manufacturers buy tools to detect defects, measure features and manage yields.

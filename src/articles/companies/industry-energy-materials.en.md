@@ -1,6 +1,31 @@
 ---
 title: "Industrials, Energy & Materials"
 description: "Factories need fuel, electricity, metals and equipment. A mine selling concentrate, an engine maker servicing equipment already in flight, and a supplier installing grid hardware recognize different kinds of business."
+studyCase:
+  featured: GE
+  title: How does GE earn money after a new engine takes flight?
+  intro: Follow an engine from the aircraft assembly line into airline service. The airline operates it, a shop eventually opens it, and parts suppliers provide replacements. The same engine creates revenue for different companies at different times.
+  lenses:
+  - label: The customer after delivery
+    body: Operators and lessors keep making purchasing decisions long after an engine is delivered. GE offers work billed for time and materials at a shop visit as well as agreements spanning years of maintenance. Two engines flying the same schedule can therefore generate invoices on different schedules.
+    source: https://www.geaerospace.com/commercial/services/true-choice
+  - label: When a rival workshop becomes a customer
+    body: CFM, the GE–Safran joint venture, supports independent shops that maintain LEAP engines. Winning an airline’s overhaul contract is one transaction. Selling replacement parts to the shop that won it is another. An aircraft’s location alone cannot identify which company gets paid for the whole visit.
+    source: https://www.geaerospace.com/news/press-releases/cfm-expands-strengthens-open-mro-ecosystem
+  - label: Two percentages with different denominators
+    body: Commercial Engines & Services (CES) represented about 73% of GE Aerospace revenue in 2025. Services accounted for 75% within CES. Multiplying 0.73 by 0.75 gives roughly $55 of commercial engine services for every $100 of group revenue. Segment profitability requires a separate look at costs.
+    source: https://www.sec.gov/Archives/edgar/data/40545/000004054526000008/ge-20251231.htm
+  - label: What to watch when shops get busy
+    body: In 2025, revenue from visits to GE’s own shops rose 24% and spare-parts revenue rose more than 25%. If shops become busier, outside providers may buy parts while GE’s own overhaul business grows at a different pace. Both figures measure dollars, so a change in the number of completed visits requires separate evidence.
+    source: https://www.geaerospace.com/sites/default/files/geaerospace_webcast_presentation_01222026.pdf
+  exercise:
+    question: Could you multiply 50,000 commercial engines by one overhaul price to estimate next year’s service revenue?
+    answer: The roughly 50,000-engine installed base includes engines on parked aircraft. Start with the operating fleet, estimate how many will need a shop visit that year, then consider the work required and GE’s share. When adding parts sold to outside shops, make sure parts already included in GE’s own overhaul bill appear only once.
+    source: https://www.sec.gov/Archives/edgar/data/40545/000004054526000008/ge-20251231.htm
+  peers:
+  - RTX
+  - GEV
+  - CAT
 ---
 
 <p class="lead">Factories need fuel, electricity, metals and equipment. A mine selling concentrate, an engine maker servicing equipment already in flight, and a supplier installing grid hardware recognize different kinds of business.</p>

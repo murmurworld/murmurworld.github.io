@@ -1,6 +1,10 @@
 ---
 title: "CrowdStrike"
 description: "CrowdStrike sells subscriptions to Falcon modules that collect and analyze security signals from endpoints, identities and cloud workloads. Organizations purchase subscriptions directly and through channel partners. Adding a module can expand revenue from an existing customer."
+study:
+  question: Can you divide CrowdStrike’s ARR by four to get quarterly revenue?
+  answer: ARR annualizes the subscription contracts in force at a particular date. A one-year subscription starting on the last day of a quarter can contribute to closing ARR even though little of its service has yet been delivered or recognized as quarterly revenue.
+  source: https://www.sec.gov/Archives/edgar/data/1535527/000153552726000010/crwd-20260131.htm
 ---
 
 CrowdStrike sells subscriptions to Falcon modules that collect and analyze security signals from endpoints, identities and cloud workloads. Organizations purchase subscriptions directly and through channel partners. Adding a module can expand revenue from an existing customer.

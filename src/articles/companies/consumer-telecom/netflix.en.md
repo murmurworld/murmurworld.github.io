@@ -1,6 +1,10 @@
 ---
 title: "Netflix"
 description: "Netflix earns revenue from streaming memberships and advertising. Content licensing or production precedes distribution to viewers."
+study:
+  question: When does spending on a Netflix series reach earnings?
+  answer: Netflix capitalizes qualifying produced and licensed content and amortizes it using expected viewing patterns. Compare additions to content assets in the cash flow statement with content amortization to see the timing gap.
+  source: https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/nflx-20251231.htm
 ---
 
 Netflix earns revenue from streaming memberships and advertising. Content licensing or production precedes distribution to viewers.

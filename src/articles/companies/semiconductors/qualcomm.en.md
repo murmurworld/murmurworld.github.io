@@ -1,6 +1,10 @@
 ---
 title: "Qualcomm"
 description: "Qualcomm sells application processors and cellular modems to device makers. A separate licensing business earns royalties on wireless patents."
+study:
+  question: Can a phone maker pay Qualcomm without buying a Snapdragon chip?
+  answer: QCT sells chipsets and related products, while QTL licenses rights to use Qualcomm’s wireless patents. Depending on a manufacturer’s license agreement, a handset with another supplier’s chip can still generate royalties.
+  source: https://www.sec.gov/Archives/edgar/data/804328/000080432826000128/qcom-20260927.htm
 ---
 
 Qualcomm sells application processors and cellular modems to device makers. A separate licensing business earns royalties on wireless patents.

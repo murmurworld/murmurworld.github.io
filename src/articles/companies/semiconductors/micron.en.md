@@ -1,6 +1,10 @@
 ---
 title: "Micron"
 description: "Micron sells DRAM, HBM and NAND, including solid-state drives built from NAND for data centers and other customers. Memory is sold to electronics and system manufacturers, hyperscalers and distributors. Direct end-market categories and reportable units can change between years."
+study:
+  question: What does an accelerator designer buy when it chooses HBM over conventional DRAM?
+  answer: Capacity measures how much data fits, while bandwidth measures how much can be moved in a given time. Micron stacks DRAM dies with vertical connections in HBM, so an accelerator designer considers both gigabytes available and how quickly the memory can feed the processor.
+  source: https://www.sec.gov/Archives/edgar/data/723125/000072312526000023/mu-20260903.htm
 ---
 
 Micron sells DRAM, HBM and NAND, including solid-state drives built from NAND for data centers and other customers. Memory is sold to electronics and system manufacturers, hyperscalers and distributors. Direct end-market categories and reportable units can change between years.

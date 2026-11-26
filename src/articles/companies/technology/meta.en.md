@@ -1,6 +1,10 @@
 ---
 title: "Meta"
 description: "Meta sells advertisers access to audiences on apps such as Facebook and Instagram. Advertisers can pay for impressions or other results."
+study:
+  question: If ad impressions rise 10% and average price falls 5%, what happens to ad revenue?
+  answer: For the same set of ads, multiplying the two factors gives 1.10 × 0.95 = 1.045, or about 4.5% more revenue in this example. Meta reports changes in impressions and average price per ad separately, making it possible to see how volume and price each contributed.
+  source: https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm
 ---
 
 Meta sells advertisers access to audiences on apps such as Facebook and Instagram. Advertisers can pay for impressions or other results.

@@ -1,6 +1,10 @@
 ---
 title: "T-Mobile US"
 description: "T-Mobile US sells wireless voice and data services and fixed wireless broadband, as well as devices used on its network. Individuals, families, businesses and wholesale partners pay for network access. Device sales and financing need to be separated from recurring service revenue."
+study:
+  question: Do new T-Mobile activations all become net additions?
+  answer: Postpaid phone net additions reflect new connections less disconnections, so more departures can erode the gain from the same number of sign-ups. Read phone net additions alongside phone churn to separate acquisition from retention.
+  source: https://www.sec.gov/Archives/edgar/data/1283699/000128369926000010/tmus-20251231.htm
 ---
 
 T-Mobile US sells wireless voice and data services and fixed wireless broadband, as well as devices used on its network. Individuals, families, businesses and wholesale partners pay for network access. Device sales and financing need to be separated from recurring service revenue.

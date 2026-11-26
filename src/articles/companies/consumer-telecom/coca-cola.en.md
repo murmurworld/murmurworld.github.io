@@ -1,6 +1,10 @@
 ---
 title: "Coca-Cola"
 description: "Coca-Cola supplies beverage concentrates and syrups to bottlers and also sells finished beverages in parts of its network. Bottlers, distributors and retail or food-service channels connect the company to consumers. Selling concentrate and selling a finished bottle generate different sale values."
+study:
+  question: Do concentrate sales and finished-drink volumes move in step?
+  answer: Coca-Cola tracks concentrate sales separately from unit case volume, a measure of finished drinks sold by its system to customers. Bottlers ordering ahead of a busy season can make the two measures peak in different quarters.
+  source: https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231.htm
 ---
 
 Coca-Cola supplies beverage concentrates and syrups to bottlers and also sells finished beverages in parts of its network. Bottlers, distributors and retail or food-service channels connect the company to consumers. Selling concentrate and selling a finished bottle generate different sale values.

@@ -1,6 +1,10 @@
 ---
 title: "Disney"
 description: "Disney produces and distributes filmed entertainment, runs streaming services and licenses brands. Its theme parks are a separate business."
+study:
+  question: Can theme park revenue grow with flat attendance?
+  answer: Disney divides ticket, food, beverage and merchandise revenue inside its theme parks by attendance to measure spending per guest. That figure can rise with flat attendance, while hotel performance calls for separate room spending and occupancy measures.
+  source: https://www.sec.gov/Archives/edgar/data/1744489/000174448926000066/dis-20261003.htm
 ---
 
 Disney produces and distributes filmed entertainment, runs streaming services and licenses brands. Its theme parks are a separate business.

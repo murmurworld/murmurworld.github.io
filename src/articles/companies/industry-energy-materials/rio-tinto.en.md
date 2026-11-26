@@ -1,6 +1,10 @@
 ---
 title: "Rio Tinto"
 description: "Rio Tinto mines iron ore and copper and operates across the aluminum chain, from bauxite to alumina and smelting. Steel, aluminum and copper supply chains buy ores, refined metals or intermediate materials. The same group can both extract and process a material."
+study:
+  question: Why do both a mine and a smelter appear at Kennecott in Utah?
+  answer: Rio Tinto’s Kennecott operation includes a concentrator, smelter and refinery as well as mines. Copper passes through successive stages, so adding tonnes of ore to tonnes of refined copper would double-count material and mix different units of output.
+  source: https://www.riotinto.com/en/operations/us/kennecott
 ---
 
 Rio Tinto mines iron ore and copper and operates across the aluminum chain, from bauxite to alumina and smelting. Steel, aluminum and copper supply chains buy ores, refined metals or intermediate materials. The same group can both extract and process a material.

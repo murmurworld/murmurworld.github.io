@@ -1,6 +1,10 @@
 ---
 title: "Alibaba"
 description: "Alibaba runs marketplaces that connect merchants with buyers and sells merchant services. Its operations also include cloud computing."
+study:
+  question: How does a Taobao merchant’s sale reach Alibaba’s accounts?
+  answer: Merchants can pay Alibaba for clicks, impressions or completed sales. In China commerce, separate customer management revenue from direct sales to distinguish fees for running the platform from revenue on goods Alibaba sells itself.
+  source: https://www.sec.gov/Archives/edgar/data/1577552/000119312526231755/baba-20260331.htm
 ---
 
 Alibaba runs marketplaces that connect merchants with buyers and sells merchant services. Its operations also include cloud computing.

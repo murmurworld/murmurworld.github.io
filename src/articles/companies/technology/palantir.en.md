@@ -1,6 +1,10 @@
 ---
 title: "Palantir"
 description: "Licenses platforms that combine data from separate systems and let government or commercial users act on it through applications. Government agencies and commercial customers contract for software platforms, implementation and support. Deployment and continued use can be distinct contract stages."
+study:
+  question: Does the ceiling on a multiyear government award count as Palantir revenue?
+  answer: A government award may include extension options or terms allowing termination for convenience. Separate the committed portion from optional periods, then look at revenue recognized for software and services actually provided.
+  source: https://www.sec.gov/Archives/edgar/data/1321655/000132165526000011/pltr-20251231.htm
 ---
 
 Licenses platforms that combine data from separate systems and let government or commercial users act on it through applications. Government agencies and commercial customers contract for software platforms, implementation and support. Deployment and continued use can be distinct contract stages.

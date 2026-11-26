@@ -1,6 +1,10 @@
 ---
 title: "Intel"
 description: "Intel designs PC and server CPUs and runs wafer factories. Intel Foundry also offers production services to external customers."
+study:
+  question: Why show Intel Foundry’s internal sales at all?
+  answer: Assigning revenue and costs to manufacturing lets readers see the economics of running the factories separately from designing and selling processors. For group sales use consolidated revenue after eliminations, and for third-party manufacturing business use the external customer amount in the segment note.
+  source: https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm
 ---
 
 Intel designs PC and server CPUs and runs wafer factories. Intel Foundry also offers production services to external customers.

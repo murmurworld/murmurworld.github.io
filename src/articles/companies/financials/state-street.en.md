@@ -1,6 +1,10 @@
 ---
 title: "State Street"
 description: "State Street provides institutional custody, fund accounting and administration. A separate investment management business operates funds."
+study:
+  question: Does State Street manage every security it safeguards?
+  answer: Assets under custody or administration measure servicing work such as safekeeping and recordkeeping, while assets under management measure investment mandates. An asset can use both services, so match each measure to its own fee line instead of adding the balances.
+  source: https://www.sec.gov/Archives/edgar/data/93751/000009375126000124/stt-20251231.htm
 ---
 
 State Street provides institutional custody, fund accounting and administration. A separate investment management business operates funds.

@@ -1,6 +1,10 @@
 ---
 title: "ConocoPhillips"
 description: "ConocoPhillips explores for, produces and sells oil, natural gas and natural gas liquids. Its business is concentrated upstream."
+study:
+  question: Does a barrel of oil equivalent also represent an equal dollar value?
+  answer: For its reserves, ConocoPhillips converts 6,000 cubic feet of natural gas to one barrel of oil equivalent (BOE). This matches energy content, so estimating proceeds calls for separate oil and gas volumes and their respective realised prices.
+  source: https://www.sec.gov/Archives/edgar/data/1163165/000116316526000009/cop-20251231.htm
 ---
 
 ConocoPhillips explores for, produces and sells oil, natural gas and natural gas liquids. Its business is concentrated upstream.

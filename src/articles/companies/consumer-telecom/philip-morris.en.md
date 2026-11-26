@@ -1,6 +1,10 @@
 ---
 title: "Philip Morris International"
 description: "Philip Morris International sells cigarettes and smoke-free products such as heated-tobacco devices and consumables and oral nicotine products. Distributors and retailers sell tobacco and nicotine products to adult consumers in markets where permitted. Devices and repeat consumables have different shipment measures."
+study:
+  question: How can you compare heated tobacco and nicotine pouch shipments?
+  answer: Philip Morris counts heated tobacco in units and reports oral product volume in cans. The total shipment table uses pouches or pouch equivalents, so compare each category with its own prior-year figure before combining volumes.
+  source: https://www.sec.gov/Archives/edgar/data/1413329/000162828026005939/pm-20251231.htm
 ---
 
 Philip Morris International sells cigarettes and smoke-free products such as heated-tobacco devices and consumables and oral nicotine products. Distributors and retailers sell tobacco and nicotine products to adult consumers in markets where permitted. Devices and repeat consumables have different shipment measures.

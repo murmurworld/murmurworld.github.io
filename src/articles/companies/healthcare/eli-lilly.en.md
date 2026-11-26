@@ -1,6 +1,10 @@
 ---
 title: "Eli Lilly"
 description: "Eli Lilly develops and sells prescription medicines including Mounjaro and Zepbound, as well as oncology and immunology products. Wholesalers, health systems and other distributors supply medicines to patients. Insurers, pharmacy benefit managers and public programs influence coverage and net prices."
+study:
+  question: Why estimate future discounts when a shipment leaves Lilly?
+  answer: Part of the invoiced amount can later go back to payers under rebate contracts. Lilly accounts for expected discounts and returns in its sales, so boxes shipped times list price can give a misleading revenue estimate.
+  source: https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm
 ---
 
 Eli Lilly develops and sells prescription medicines including Mounjaro and Zepbound, as well as oncology and immunology products. Wholesalers, health systems and other distributors supply medicines to patients. Insurers, pharmacy benefit managers and public programs influence coverage and net prices.

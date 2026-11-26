@@ -1,6 +1,10 @@
 ---
 title: "Chevron"
 description: "Chevron produces oil and natural gas and refines, transports and markets fuels and other products. The upstream business sells oil and gas, while downstream operations supply fuel, lubricants and related products to industrial and retail channels."
+study:
+  question: Who owns a filling station that carries the Chevron name?
+  answer: At year-end 2025, Chevron supplied about 8,600 Chevron- and Texaco-branded US stations directly or through distributors, of which it owned or leased about 380. Counting signs measures distribution reach, while store ownership and operating responsibilities require a closer look.
+  source: https://www.sec.gov/Archives/edgar/data/93410/000009341026000078/cvx-20251231.htm
 ---
 
 Chevron produces oil and natural gas and refines, transports and markets fuels and other products. The upstream business sells oil and gas, while downstream operations supply fuel, lubricants and related products to industrial and retail channels.

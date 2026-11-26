@@ -1,6 +1,10 @@
 ---
 title: "Tesla"
 description: "Tesla sells electric vehicles, energy storage systems and related services. Vehicle deliveries and energy deployments measure different activities."
+study:
+  question: What does a GWh count in Tesla’s storage business?
+  answer: Storage deployments in GWh measure the combined energy capacity of deployed systems. Converting that to units or dollars requires more information, and energy segment revenue also includes solar products.
+  source: https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm
 ---
 
 Tesla sells electric vehicles, energy storage systems and related services. Vehicle deliveries and energy deployments measure different activities.

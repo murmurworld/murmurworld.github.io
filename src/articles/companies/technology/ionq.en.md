@@ -1,6 +1,10 @@
 ---
 title: "IonQ"
 description: "IonQ sells quantum systems and access to quantum computing capacity, including through cloud marketplaces. Research groups, government customers and companies contract for quantum systems, cloud access or technical services. Foundry customers purchase chip manufacturing."
+study:
+  question: Can a researcher run an experiment on IonQ hardware without buying a machine?
+  answer: Amazon Braket lets researchers submit circuits to IonQ hardware that computes using trapped ions. Researchers choose an available device for their experiment and access it remotely without installing or operating the physical system.
+  source: https://aws.amazon.com/braket/quantum-computers/ionq/
 ---
 
 IonQ sells quantum systems and access to quantum computing capacity, including through cloud marketplaces. Research groups, government customers and companies contract for quantum systems, cloud access or technical services. Foundry customers purchase chip manufacturing.

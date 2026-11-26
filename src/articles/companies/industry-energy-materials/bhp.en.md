@@ -1,6 +1,10 @@
 ---
 title: "BHP"
 description: "BHP produces iron ore and copper among other commodities. Company output can include a share of production from jointly owned mines."
+study:
+  question: What does China mean in BHP’s revenue table?
+  answer: In the year ended June 2026, BHP attributed $34.206 billion of its $58.760 billion revenue to customers located in China, about 58%. This shows where customer exposure sits, while the asset list identifies where individual mines face operating risks.
+  source: https://www.sec.gov/Archives/edgar/data/811809/000119312526354647/bhp-20260630.htm
 ---
 
 BHP produces iron ore and copper among other commodities. Company output can include a share of production from jointly owned mines.

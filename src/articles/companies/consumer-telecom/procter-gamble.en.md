@@ -1,6 +1,10 @@
 ---
 title: "Procter & Gamble"
 description: "Procter & Gamble sells branded cleaning, grooming, hygiene and personal care products through retailers and other distribution channels. The group sells branded everyday goods through retailers, distributors and e-commerce. Consumers use the products while retailers often place the orders."
+study:
+  question: Did higher detergent sales mean more bottles sold?
+  answer: P&G breaks sales growth into volume, pricing, mix and currency effects. For the relevant segment, read volume alongside mix to see whether buyers shifted toward higher-priced products.
+  source: https://www.sec.gov/Archives/edgar/data/80424/000008042426000250/fy2627q1jas8-kexhibit991.htm
 ---
 
 Procter & Gamble sells branded cleaning, grooming, hygiene and personal care products through retailers and other distribution channels. The group sells branded everyday goods through retailers, distributors and e-commerce. Consumers use the products while retailers often place the orders.

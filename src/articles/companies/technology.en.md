@@ -1,6 +1,31 @@
 ---
 title: "Big Tech, Software & IT"
 description: "An online order touches storage, networking, rented computing and often a security subscription. The advertisement that brought the shopper to the store was sold in a different market."
+studyCase:
+  featured: AMZN
+  title: What a book and an hour of computing earn Amazon
+  intro: Shoppers pay for merchandise. Cloud customers pay for computing time and other services. Following those payments into Amazon’s accounts explains why a business can contribute a modest share of sales and a much larger share of profit.
+  lenses:
+  - label: Why can the same book produce two different revenue figures?
+    body: When Amazon sells a book from its own inventory, it records the sale price as revenue. When an independent bookseller sells through Amazon, Amazon records its seller fees and payments for services such as fulfillment. The amount the shopper spends can be larger than the revenue Amazon books.
+    source: https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm
+  - label: What do a fulfillment center and a data center each supply?
+    body: Fulfillment centers store merchandise and pick and pack it when an order arrives. AWS data centers house servers and supply computing and storage to businesses. A useful cloud comparison starts with a particular workload and asks which competing services can actually run it.
+    source: https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm
+  - label: How did AWS’s share of sales compare with its share of operating income?
+    body: Using millions of dollars for 2025, AWS contributed 128,725 ÷ 716,924, or about 18.0% of sales. It generated 45,606 ÷ 79,975, or about 57.0% of Amazon’s operating income. AWS’s own operating margin has a different denominator, AWS sales, giving 45,606 ÷ 128,725, or about 35.4%.
+    source: https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm
+  - label: What if servers arrive before customer demand?
+    body: Cash spent building capacity appears in investing activities. Servers are depreciated over time once in use, and customer consumption generates revenue. Compare capital spending in the cash flow statement with AWS sales and operating income, bearing in mind that Amazon’s company-wide investment figure also includes its logistics network.
+    source: https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm
+  exercise:
+    question: An independent bookseller sells a $100 book through Amazon and owes only a hypothetical $15 fee. How much revenue does Amazon book?
+    answer: As the marketplace operator, Amazon records $15 in this example. If it sold the book from its own inventory for the same amount, it would record $100 of revenue and expense the cost of the book. The sales figures alone do not tell us which transaction is more profitable.
+    source: https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm
+  peers:
+  - MSFT
+  - GOOGL
+  - ORCL
 ---
 
 <p class="lead">An online order touches storage, networking, rented computing and often a security subscription. The advertisement that brought the shopper to the store was sold in a different market.</p>

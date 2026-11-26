@@ -1,6 +1,10 @@
 ---
 title: "Bank of America"
 description: "Bank of America earns interest on lending funded partly by deposits and charges fees for payments, securities services and wealth management. Individuals use retail branches and digital accounts, affluent clients use advisers, and companies or institutions buy wholesale banking and market services."
+study:
+  question: How quickly does a rate increase feed through to Bank of America?
+  answer: Assets and deposits can reprice on different schedules. In the average balance and rate tables, compare earning asset yields with interest-bearing deposit costs and the balances on each side to explain the movement in net interest income.
+  source: https://www.sec.gov/Archives/edgar/data/70858/000007085826000157/bac-20251231.htm
 ---
 
 Bank of America earns interest on lending funded partly by deposits and charges fees for payments, securities services and wealth management. Individuals use retail branches and digital accounts, affluent clients use advisers, and companies or institutions buy wholesale banking and market services.

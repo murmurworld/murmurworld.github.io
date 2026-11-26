@@ -1,6 +1,10 @@
 ---
 title: "GE Vernova"
 description: "GE Vernova supplies power-generation equipment and services, wind turbines and grid equipment used to transmit and distribute electricity. Utilities, grid operators, industrial users and project developers buy capital equipment and contract for installation or maintenance."
+study:
+  question: How much of a turbine order becomes GE Vernova revenue this year?
+  answer: Equipment and long-term services reach the customer at different times, and contracted work still to be delivered is recorded in remaining performance obligations (RPO). Check the expected recognition schedule and the equipment–services split before attributing the entire contract to the current year.
+  source: https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/gev-20251231.htm
 ---
 
 GE Vernova supplies power-generation equipment and services, wind turbines and grid equipment used to transmit and distribute electricity. Utilities, grid operators, industrial users and project developers buy capital equipment and contract for installation or maintenance.

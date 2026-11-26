@@ -1,6 +1,10 @@
 ---
 title: "AbbVie"
 description: "AbbVie sells medicines including Skyrizi, Rinvoq and Humira, as well as oncology, neuroscience and aesthetic products. Wholesalers and distributors buy medicines, while aesthetics products also reach specialist practices. Payers affect net realized revenue through coverage and rebates."
+study:
+  question: How would you measure AbbVie’s transition beyond Humira?
+  answer: Measure the year-on-year decline in Humira as it faces biosimilars, then compare it with the sales increases for Skyrizi and Rinvoq. The comparison shows how AbbVie’s immunology mix is changing, while individual patients’ switching decisions require separate data.
+  source: https://www.sec.gov/Archives/edgar/data/1551152/000155115226000008/abbv-20251231.htm
 ---
 
 AbbVie sells medicines including Skyrizi, Rinvoq and Humira, as well as oncology, neuroscience and aesthetic products. Wholesalers and distributors buy medicines, while aesthetics products also reach specialist practices. Payers affect net realized revenue through coverage and rebates.

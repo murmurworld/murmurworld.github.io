@@ -1,6 +1,10 @@
 ---
 title: "Shinhan Financial Group"
 description: "Shinhan Financial Group owns businesses including Shinhan Bank and Shinhan Card. Their lending, card and fee income contribute separately to group results."
+study:
+  question: Where do a Shinhan customer’s loan and credit card show up?
+  answer: A Shinhan Bank loan and a Shinhan Card account sit in separate operating segments. Compare segment operating profits for the same period, then check consolidation adjustments, including intercompany eliminations, before reconciling them to the group total.
+  source: https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001624
 ---
 
 Shinhan Financial Group owns businesses including Shinhan Bank and Shinhan Card. Their lending, card and fee income contribute separately to group results.

@@ -1,6 +1,10 @@
 ---
 title: "SpaceX"
 description: "SpaceX sells launch services and operates Starlink, a satellite network through which customers purchase internet connectivity. Commercial and government customers book launch services, subscribers pay for connectivity, and software customers purchase digital services."
+study:
+  question: When do a month of Starlink access and a satellite launch become revenue?
+  answer: SpaceX recognises broadband connectivity revenue over the service period and recognises its standard Launch Services revenue upon launch or deployment of the customer’s payload. Cash can come in during the same quarter while subscriptions and launch milestones produce different revenue patterns.
+  source: https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/spcx-20260930.htm
 ---
 
 SpaceX sells launch services and operates Starlink, a satellite network through which customers purchase internet connectivity. Commercial and government customers book launch services, subscribers pay for connectivity, and software customers purchase digital services.

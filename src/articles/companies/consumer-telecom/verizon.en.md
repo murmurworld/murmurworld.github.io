@@ -1,6 +1,10 @@
 ---
 title: "Verizon"
 description: "Verizon sells wireless and fixed broadband connectivity to consumers and businesses, with equipment sales alongside service revenue. Consumer and business customers buy wireless and wireline services directly or through sales partners. It also supplies wholesale connectivity."
+study:
+  question: What does a handset upgrade do to Verizon’s figures?
+  answer: Equipment revenue is generally recognized when the customer takes delivery, while service revenue is recognized as connectivity is provided. An existing customer can therefore lift equipment sales with an upgrade while leaving the line count unchanged.
+  source: https://www.sec.gov/Archives/edgar/data/732712/000073271226000007/vz-20251231.htm
 ---
 
 Verizon sells wireless and fixed broadband connectivity to consumers and businesses, with equipment sales alongside service revenue. Consumer and business customers buy wireless and wireline services directly or through sales partners. It also supplies wholesale connectivity.

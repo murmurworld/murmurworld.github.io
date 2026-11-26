@@ -1,6 +1,10 @@
 ---
 title: "Newmont"
 description: "Newmont mines and sells gold and produces other metals, including copper, at certain operations. Refiners, smelters and metal buyers take output in the form of doré or concentrate. Mine ownership and payable metal affect what the company recognizes."
+study:
+  question: Why does a bank appear in a gold miner’s customer list?
+  answer: Standard Chartered was a direct customer accounting for 27% of Newmont’s 2025 sales. That points to concentration in its sales channel, while the filing does not trace the metal to its eventual country or end use.
+  source: https://www.sec.gov/Archives/edgar/data/1164727/000110465926035231/nem-20251231xars.pdf
 ---
 
 Newmont mines and sells gold and produces other metals, including copper, at certain operations. Refiners, smelters and metal buyers take output in the form of doré or concentrate. Mine ownership and payable metal affect what the company recognizes.

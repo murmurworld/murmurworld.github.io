@@ -1,6 +1,10 @@
 ---
 title: "Microsoft"
 description: "Rents cloud infrastructure through Azure and licenses productivity, security and business software to organizations and individuals. Enterprises and governments buy cloud and software contracts, PC makers license Windows, and consumers buy subscriptions, devices and games."
+study:
+  question: How much of Intelligent Cloud can be read as Azure usage fees?
+  answer: Microsoft includes server software and enterprise services in Intelligent Cloud alongside Azure. Applying the separately disclosed growth rate for Azure and other cloud services to the entire segment mixes two different sets of businesses.
+  source: https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm
 ---
 
 Rents cloud infrastructure through Azure and licenses productivity, security and business software to organizations and individuals. Enterprises and governments buy cloud and software contracts, PC makers license Windows, and consumers buy subscriptions, devices and games.

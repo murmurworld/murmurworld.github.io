@@ -1,6 +1,10 @@
 ---
 title: "Novo Nordisk"
 description: "Novo Nordisk sells diabetes and obesity treatments including Ozempic and Wegovy. Approved uses and presentations differ across products and markets."
+study:
+  question: What do Novo Nordisk’s three major US wholesalers reveal?
+  answer: Three wholesalers distributing products in the US accounted for 23%, 18% and 14% of global net sales in 2025, or 55% together. An inventory adjustment by one distributor could move quarterly shipments, so prescription trends are useful when assessing underlying demand.
+  source: https://www.novonordisk.com/content/dam/nncorp/global/en/investors/irmaterial/annual_report/2026/novo-nordisk-annual-report-2025.pdf
 ---
 
 Novo Nordisk sells diabetes and obesity treatments including Ozempic and Wegovy. Approved uses and presentations differ across products and markets.

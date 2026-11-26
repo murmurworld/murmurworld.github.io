@@ -1,6 +1,10 @@
 ---
 title: "Merck & Co."
 description: "Merck & Co. sells pharmaceuticals including Keytruda and vaccines including Gardasil. Its Animal Health segment serves different customers."
+study:
+  question: Where would you look first if Keytruda sales slowed?
+  answer: Start with Keytruda’s dollar change in the product table, then calculate the changes in Gardasil vaccines and Animal Health separately. Oncology medicines, vaccines and animal-health products reach different buyers on different schedules, which makes the group growth rate a poor guide to the source of the change.
+  source: https://www.sec.gov/Archives/edgar/data/310158/000031015826000063/mrk-20251231.htm
 ---
 
 Merck & Co. sells pharmaceuticals including Keytruda and vaccines including Gardasil. Its Animal Health segment serves different customers.

@@ -1,6 +1,10 @@
 ---
 title: "Toyota"
 description: "Toyota makes and sells vehicles and components. Its financial services operations finance vehicles for dealers and customers."
+study:
+  question: Why does Toyota still care about a customer’s credit after selling a car?
+  answer: Toyota’s financial services business provides financing and leases and collects payments over the contract term. Alongside vehicle sales, look at finance receivables and their credit loss allowance to understand the risk left after a sale.
+  source: https://www.sec.gov/Archives/edgar/data/1094517/000119312526264811/d101983d20f.htm
 ---
 
 Toyota makes and sells vehicles and components. Its financial services operations finance vehicles for dealers and customers.

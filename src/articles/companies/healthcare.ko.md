@@ -1,6 +1,30 @@
 ---
 title: "헬스케어"
 description: "미국 약국에서 받은 약 한 상자는 제약사, 도매상, 약국을 거친다. 그 약에 보험을 적용할지, 누가 얼마를 받을지는 약 상자와 다른 길을 따라 정해진다."
+studyCase:
+  featured: LLY
+  title: 릴리의 약 한 상자, 누가 사고 누가 값을 정할까?
+  intro: 약국에서 마주치는 건 제품명이지만, 제약사 장부에는 도매상에 넘긴 금액과 돌려줄 할인액이 남는다. 마운자로와 젭바운드의 매출을 따라가면 제품 하나를 환자, 유통사, 보험자, 제조사의 네 자리에서 볼 수 있다.
+  lenses:
+  - label: 환자에게 가는 길
+    body: 미국에서 릴리 제품 대부분은 도매상을 거쳐 약국이나 병원으로 간다. 한편 보험자와 약제비관리회사(PBM)는 어떤 약을 보험으로 보장할지 정하고 할인을 협상한다. 도매상이 큰 거래처라는 말과 환자가 약값을 얼마나 부담한다는 말은 서로 다른 질문에 답한다.
+    source: https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm
+  - label: 국경을 건너면 달라지는 제품명
+    body: 두 브랜드의 주성분은 티르제파타이드다. 유럽연합에서는 마운자로라는 이름으로 당뇨병과 체중 관리 두 용도가 모두 허가됐다. 릴리와 노보 노디스크의 체중 관리 사업을 비교할 때는 국가별 허가와 공시의 분류가 어떻게 맞물리는지 먼저 살펴보자.
+    source: https://www.ema.europa.eu/en/medicines/human/EPAR/mounjaro
+  - label: 두 줄로 계산하는 매출 집중도
+    body: 2025년 전 세계 매출은 마운자로 229억 6,500만 달러, 젭바운드 135억 4,200만 달러였다. 둘을 더해 릴리 전체 매출 651억 7,900만 달러로 나누면 56.0%다. 같은 성분을 쓰는 두 브랜드가 회사 매출 절반 이상을 차지했다는 뜻이다. 질환별 환자 수를 구하려면 용도별 처방 자료가 더 필요하다.
+    source: https://investor.lilly.com/news-releases/news-release-details/lilly-reports-fourth-quarter-2025-financial-results-and-provides
+  - label: 더 많이 팔아도 할인은 남는다
+    body: 릴리의 2025년 4분기 전사 매출은 전년 동기보다 43% 늘었다. 회사가 나눠 본 성장 기여분은 물량 +46%, 실현가격 −5%, 나머지는 환율이었다. 다음 분기에 보험 보장이 넓어진다면 같은 표에서 물량 증가와 할인 후 가격이 각각 어느 방향으로 움직였는지 볼 수 있다.
+    source: https://investor.lilly.com/news-releases/news-release-details/lilly-reports-fourth-quarter-2025-financial-results-and-provides
+  exercise:
+    question: 두 브랜드의 매출 비중은 2024년에서 2025년 사이 얼마나 높아졌을까?
+    answer: 2024년 실적표의 단위는 백만 달러다. (11,540 + 4,926) ÷ 45,043 = 36.56%이고, 2025년의 56.01%와는 약 19.45%포인트 차이다. 릴리의 매출 구성이 그만큼 바뀐 것이며, 시장점유율을 계산하려면 경쟁사 매출까지 포함한 시장 전체 규모가 필요하다.
+    source: https://www.sec.gov/Archives/edgar/data/59478/000005947826000008/q425lillysalesandearningsp.htm
+  peers:
+  - NVO
+  - UNH
 ---
 
 <p class="lead">미국 약국에서 받은 약 한 상자는 제약사, 도매상, 약국을 거친다. 그 약에 보험을 적용할지, 누가 얼마를 받을지는 약 상자와 다른 길을 따라 정해진다.</p>

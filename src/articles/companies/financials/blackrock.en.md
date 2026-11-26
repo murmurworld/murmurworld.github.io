@@ -1,6 +1,10 @@
 ---
 title: "BlackRock"
 description: "BlackRock manages portfolios and funds for investors and charges fees for investment management and technology services. Pension funds, institutions, financial advisers and individuals invest through mandates and funds. Institutions also license technology."
+study:
+  question: How much of a rise in BlackRock’s assets came from client money?
+  answer: BlackRock reconciles changes in assets under management through net flows, market movements, foreign exchange and other factors. If inflows favor lower-fee products, growth in assets and growth in base fees can diverge.
+  source: https://www.sec.gov/Archives/edgar/data/2012383/000119312526071966/blk-20251231.htm
 ---
 
 BlackRock manages portfolios and funds for investors and charges fees for investment management and technology services. Pension funds, institutions, financial advisers and individuals invest through mandates and funds. Institutions also license technology.

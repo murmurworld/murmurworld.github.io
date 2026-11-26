@@ -1,6 +1,10 @@
 ---
 title: "UnitedHealth Group"
 description: "UnitedHealthcare provides coverage, while Optum includes care delivery, information services and pharmacy benefit management. Employers, public programs and individuals buy health benefits. Providers, payers and plan sponsors also contract for Optum services."
+study:
+  question: For every $100 of premium, how much went toward medical costs?
+  answer: UnitedHealth Group’s medical care ratio rose from 85.5% in 2024 to 89.1% in 2025. That puts medical costs $3.60 higher per $100 of premium on average, with operating expenses still to be covered from the balance.
+  source: https://www.sec.gov/Archives/edgar/data/731766/000073176626000062/unh-20251231.htm
 ---
 
 UnitedHealthcare provides coverage, while Optum includes care delivery, information services and pharmacy benefit management. Employers, public programs and individuals buy health benefits. Providers, payers and plan sponsors also contract for Optum services.

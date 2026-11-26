@@ -1,6 +1,10 @@
 ---
 title: "Seagate"
 description: "Seagate sells high-capacity disk drives to data-center and other buyers that need persistent, economical storage. Data center operators, equipment makers and distributors buy storage products. Capacity shipped in exabytes helps explain demand alongside the number of drives."
+study:
+  question: Do more exabytes shipped necessarily mean Seagate sold more drives?
+  answer: Exabytes shipped measures the total storage capacity delivered. For example, replacing 100 drives of 10 TB each with 60 drives of 20 TB each would cut the unit count but increase capacity from 1,000 TB to 1,200 TB.
+  source: https://www.sec.gov/Archives/edgar/data/1137789/000113778926000159/stx-20260703.htm
 ---
 
 Seagate sells high-capacity disk drives to data-center and other buyers that need persistent, economical storage. Data center operators, equipment makers and distributors buy storage products. Capacity shipped in exabytes helps explain demand alongside the number of drives.

@@ -1,6 +1,10 @@
 ---
 title: "Shell"
 description: "Shell produces and markets gas and LNG, alongside oil production, fuels and chemicals activities. Utilities, industrial users, traders, fuel distributors and motorists buy gas, electricity, chemicals and fuels at different points in the supply chain."
+study:
+  question: How can Shell sell more LNG than it liquefies?
+  answer: In 2025 Shell sold 72.94 million tonnes of LNG and reported 28.42 million tonnes of liquefaction volumes. Shell also markets LNG sourced elsewhere, so treating every tonne sold as a tonne from its own plants would overstate their output.
+  source: https://www.shell.com/investors/investor-presentations/_jcr_content/root/main/section_1529014047_c_540020954/tabs/tab_1774293805/text_copy_copy_16298/links/item1.stream/1770256401557/f1a8ad2e98a141f7a4ff0e5151d7014be79c4881/q4-2025-qra-document.pdf
 ---
 
 Shell produces and markets gas and LNG, alongside oil production, fuels and chemicals activities. Utilities, industrial users, traders, fuel distributors and motorists buy gas, electricity, chemicals and fuels at different points in the supply chain.

@@ -1,6 +1,10 @@
 ---
 title: "Texas Instruments"
 description: "Its analog chips manage power or read signals. Its embedded processors control functions in industrial equipment, vehicles and other devices."
+study:
+  question: Why does Texas Instruments care about 300 mm wafers?
+  answer: A larger wafer generally fits more chips of the same size. TI estimates that its unpackaged chip costs about 40% less to manufacture on a 300 mm wafer than on a 200 mm one, a comparison made before packaging costs.
+  source: https://www.sec.gov/Archives/edgar/data/97476/000009747626000059/txn-20251231.htm
 ---
 
 Its analog chips manage power or read signals. Its embedded processors control functions in industrial equipment, vehicles and other devices.

@@ -1,6 +1,10 @@
 ---
 title: "GE Aerospace"
 description: "GE Aerospace supplies aircraft engines and earns service revenue from spare parts, repairs and maintenance as engines accumulate flight hours. Aircraft and engine manufacturers, airlines, leasing companies and government agencies buy engines, components and long-term service support."
+study:
+  question: Where does GE’s Arkansas City site in Kansas fit in an engine’s life?
+  answer: At Strother, mechanics take engines apart, inspect and repair components, and assemble them again. Locating this site on the map prompts a question about when the existing fleet needs maintenance and how much work each visit requires.
+  source: https://careers.geaerospace.com/global/en/job/R5040720/Strother-Engine-Mechanic-2nd-shift
 ---
 
 GE Aerospace supplies aircraft engines and earns service revenue from spare parts, repairs and maintenance as engines accumulate flight hours. Aircraft and engine manufacturers, airlines, leasing companies and government agencies buy engines, components and long-term service support.

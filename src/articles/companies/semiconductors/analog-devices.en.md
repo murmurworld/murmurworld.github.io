@@ -1,6 +1,10 @@
 ---
 title: "Analog Devices"
 description: "Analog Devices makes chips that convert physical measurements to digital information, and devices that manage power in factories, vehicles and communications equipment. Designers of factories, vehicles, network equipment and instruments buy components through direct and distributor channels."
+study:
+  question: Why put an Analog Devices chip between a temperature sensor and a computer?
+  answer: If a sensor produces a continuously varying voltage, an analog-to-digital converter turns that signal into numbers a computer can process. An industrial designer needs enough precision to resolve small changes as well as enough speed to capture them.
+  source: https://www.sec.gov/Archives/edgar/data/6281/000000628125000153/adi-20251101.htm
 ---
 
 Analog Devices makes chips that convert physical measurements to digital information, and devices that manage power in factories, vehicles and communications equipment. Designers of factories, vehicles, network equipment and instruments buy components through direct and distributor channels.

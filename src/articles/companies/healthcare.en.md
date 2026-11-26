@@ -1,6 +1,30 @@
 ---
 title: "Healthcare"
 description: "A prescription in a US pharmacy has traveled from a manufacturer through distribution. A different chain of contracts decides coverage, reimbursement and what each side ultimately pays."
+studyCase:
+  featured: LLY
+  title: Who buys a box of Lilly medicine, and who shapes its price?
+  intro: Start at the pharmacy counter and follow a box back to Lilly’s books. Mounjaro and Zepbound look different from the perspective of a patient, a wholesaler, a health plan and the manufacturer.
+  lenses:
+  - label: The route to the patient
+    body: US wholesalers distribute most Lilly products to pharmacies and care providers. Insurers and pharmacy benefit managers negotiate discounts and coverage. Identifying the largest distributor tells you where shipments go. A patient's bill also depends on the terms of their coverage.
+    source: https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm
+  - label: A brand changes meaning across borders
+    body: Both brands contain tirzepatide. In the EU, Mounjaro is authorised for both diabetes and weight management. A comparison with Novo Nordisk’s weight-management business therefore starts with a country’s authorised uses and the way each company groups its sales.
+    source: https://www.ema.europa.eu/en/medicines/human/EPAR/mounjaro
+  - label: Two rows measure product concentration
+    body: In 2025, Mounjaro generated $22.965 billion worldwide and Zepbound $13.542 billion. Add them and divide by Lilly’s $65.179 billion total revenue to get 56.0%. That measures exposure to two brands sharing an ingredient. Estimating patient numbers by condition would require indication-level prescription data.
+    source: https://investor.lilly.com/news-releases/news-release-details/lilly-reports-fourth-quarter-2025-financial-results-and-provides
+  - label: Volume can rise while prices fall
+    body: In the fourth quarter of 2025, company-wide revenue rose 43% year on year. Lilly attributed 46 points of growth to volume, minus five to realised prices, with currency accounting for the remainder. If coverage expands, return to this table to see whether added volume came alongside deeper discounts.
+    source: https://investor.lilly.com/news-releases/news-release-details/lilly-reports-fourth-quarter-2025-financial-results-and-provides
+  exercise:
+    question: How much did the two brands’ combined share of revenue change from 2024 to 2025?
+    answer: In millions of dollars, the 2024 calculation is (11,540 + 4,926) ÷ 45,043 = 36.56%. The 2025 figure of 56.01% is about 19.45 percentage points higher. The denominator here is Lilly’s revenue. Measuring market share would also require sales across competing companies.
+    source: https://www.sec.gov/Archives/edgar/data/59478/000005947826000008/q425lillysalesandearningsp.htm
+  peers:
+  - NVO
+  - UNH
 ---
 
 <p class="lead">A prescription in a US pharmacy has traveled from a manufacturer through distribution. A different chain of contracts decides coverage, reimbursement and what each side ultimately pays.</p>

@@ -1,6 +1,10 @@
 ---
 title: "Broadcom"
 description: "Broadcom designs data-center switching chips and custom accelerators for large customers. Its infrastructure software business includes VMware."
+study:
+  question: How do two kinds of Broadcom data-center chip serve different jobs?
+  answer: A custom accelerator is designed around a particular customer’s computing workload. Ethernet switch chips route data between servers, so their deployment depends on the network layout even where the same facility also uses a custom accelerator.
+  source: https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/avgo-20251102.htm
 ---
 
 Broadcom designs data-center switching chips and custom accelerators for large customers. Its infrastructure software business includes VMware.

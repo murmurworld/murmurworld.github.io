@@ -1,6 +1,10 @@
 ---
 title: "Home Depot"
 description: "Home Depot sells building materials, home improvement goods and related services to households and professional contractors. Do-it-yourself shoppers, customers arranging installations and professional contractors buy through stores, distribution networks and online channels."
+study:
+  question: Can shoppers spend more per transaction while making fewer trips?
+  answer: Home Depot breaks comparable sales into transaction counts and average ticket. Bigger project purchases can lift the ticket while transactions fall, and a transaction count still cannot tell you how many distinct customers visited.
+  source: https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm
 ---
 
 Home Depot sells building materials, home improvement goods and related services to households and professional contractors. Do-it-yourself shoppers, customers arranging installations and professional contractors buy through stores, distribution networks and online channels.

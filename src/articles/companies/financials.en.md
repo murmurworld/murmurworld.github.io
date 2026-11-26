@@ -1,6 +1,31 @@
 ---
 title: "Financials & Banks"
 description: "A card issuer authorizes a purchase, a network routes the message and a merchant gets paid. Asset managers, custodians and stablecoin issuers earn money from different work."
+studyCase:
+  featured: V
+  title: Who earns what when you tap a credit card?
+  intro: Imagine paying for lunch abroad. One receipt marks a sale for the restaurant, a balance owed to the issuing bank and a transaction processed by the network. Following those three records makes Visa’s and a bank’s filings much easier to tell apart.
+  lenses:
+  - label: Trace the request for approval
+    body: The terminal sends an authorization request through the merchant’s acquirer and Visa’s network to the issuing bank. The issuer decides whether to approve and bills its customer. Visa earns revenue from network and processing services provided to participating institutions and other clients. If the cardholder later defaults, the lending exposure generally sits with the issuer.
+    source: https://www.sec.gov/Archives/edgar/data/1403161/000140316125000089/v-20250930.htm
+  - label: Read the same purchase as a lender
+    body: On a Chase-issued credit card, Visa can process the payment while Chase holds the receivable. If the borrower carries a balance, the bank can earn interest and still faces collection risk. In JPMorganChase’s card business, compare card sales volume, which accumulates over a period, with outstanding card loans measured at a point in time.
+    source: https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm
+  - label: Rebuild Visa’s $40 billion of net revenue
+    body: In the year ended September 30, 2025, Visa’s service, data processing, international transaction and other revenues totaled $55.751 billion. Subtract $15.751 billion in client incentives to reach the reported $40.000 billion of net revenue. The face value of card purchases never enters that sum. The table alone cannot reveal what a particular restaurant paid to accept the card.
+    source: https://www.sec.gov/Archives/edgar/data/1403161/000140316125000089/v-20250930.htm
+  - label: Test a travel rebound against the filing
+    body: A tourist using a foreign-issued card can generate a cross-border transaction. To test a travel rebound, compare cross-border volume growth with international transaction revenue. Cross-border online purchases also count, and currency conversion can affect revenue, so those figures cannot isolate what visitors spent on meals.
+    source: https://www.sec.gov/Archives/edgar/data/1403161/000140316125000089/v-20250930.htm
+  exercise:
+    question: Processed transactions rose, yet Visa’s net revenue grew at a different rate. Where would you look first?
+    answer: Start with data processing revenue, the closest match to transaction count. Then inspect service revenue linked to payment volume, the cross-border mix and client incentives. A change in any of these can move net revenue even with the same number of transactions.
+    source: https://www.sec.gov/Archives/edgar/data/1403161/000140316125000089/v-20250930.htm
+  peers:
+  - MA
+  - JPM
+  - BAC
 ---
 
 <p class="lead">A card issuer authorizes a purchase, a network routes the message and a merchant gets paid. Asset managers, custodians and stablecoin issuers earn money from different work.</p>

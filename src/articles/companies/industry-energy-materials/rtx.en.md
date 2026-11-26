@@ -1,6 +1,10 @@
 ---
 title: "RTX"
 description: "Pratt & Whitney supplies engines, Collins Aerospace supplies aircraft systems and Raytheon serves defense customers. Airframers, airline operators, governments and contractors buy commercial aerospace systems, propulsion and defense products under supply or service contracts."
+study:
+  question: Where would heavier airline traffic surface in RTX’s accounts?
+  answer: Pratt & Whitney supplies engines and Collins Aerospace supplies aircraft systems and components, so both have commercial aftermarket exposure. Compare original-equipment and aftermarket sales in each segment to separate the aircraft production cycle from maintenance demand in the flying fleet.
+  source: https://www.sec.gov/Archives/edgar/data/101829/000010182926000031/rtx-20260930.htm
 ---
 
 Pratt & Whitney supplies engines, Collins Aerospace supplies aircraft systems and Raytheon serves defense customers. Airframers, airline operators, governments and contractors buy commercial aerospace systems, propulsion and defense products under supply or service contracts.

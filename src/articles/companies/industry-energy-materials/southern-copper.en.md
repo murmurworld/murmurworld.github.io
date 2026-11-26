@@ -1,6 +1,10 @@
 ---
 title: "Southern Copper"
 description: "Southern Copper mines, processes and refines copper, also recovering by-products such as molybdenum. Smelters, refiners, industrial metal users and traders buy copper and by-products from the group's operations."
+study:
+  question: Can Southern Copper report a lower copper cost even with an unchanged power bill?
+  answer: Southern Copper reports a cash cost per pound of copper after deducting by-product revenue, including sales of molybdenum and silver. Stronger by-product receipts can reduce this figure, so check cost before those credits when evaluating operating efficiency.
+  source: https://www.sec.gov/Archives/edgar/data/1001838/000110465926021492/scco-20251231x10k.htm
 ---
 
 Southern Copper mines, processes and refines copper, also recovering by-products such as molybdenum. Smelters, refiners, industrial metal users and traders buy copper and by-products from the group's operations.

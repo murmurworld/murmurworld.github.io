@@ -1,6 +1,10 @@
 ---
 title: "PepsiCo"
 description: "PepsiCo sells packaged snacks and beverages through direct distribution, retailers and bottling arrangements. Retailers, distributors, food-service customers and bottling partners buy snacks or beverages. Some goods reach stores through direct-store delivery."
+study:
+  question: Where would a shift toward higher-priced packs show up?
+  answer: PepsiCo discusses unit volume separately from effective net pricing, which reflects the mix of products and packages sold. A positive pricing effect in North American foods can therefore include a shift in purchases across pack sizes.
+  source: https://www.sec.gov/Archives/edgar/data/77476/000007747626000007/pep-20251227.htm
 ---
 
 PepsiCo sells packaged snacks and beverages through direct distribution, retailers and bottling arrangements. Retailers, distributors, food-service customers and bottling partners buy snacks or beverages. Some goods reach stores through direct-store delivery.

@@ -1,6 +1,10 @@
 ---
 title: "Applied Materials"
 description: "Applied Materials makes and services equipment that deposits, removes, modifies and inspects layers on a wafer as chips are fabricated. Chip and display makers order capital equipment. Service customers purchase parts, maintenance and upgrades for their installed tools."
+study:
+  question: Why would a fab order deposition equipment from Applied Materials?
+  answer: Deposition equipment lays down thin, uniform films that form conducting or insulating layers. A fab may buy a new tool in one investment cycle and pay for parts or service later, so the equipment and services businesses deserve separate attention.
+  source: https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/amat-20251026.htm
 ---
 
 Applied Materials makes and services equipment that deposits, removes, modifies and inspects layers on a wafer as chips are fabricated. Chip and display makers order capital equipment. Service customers purchase parts, maintenance and upgrades for their installed tools.

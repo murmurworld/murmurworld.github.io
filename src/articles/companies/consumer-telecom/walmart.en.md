@@ -1,6 +1,10 @@
 ---
 title: "Walmart"
 description: "Buys and resells merchandise through stores, clubs and online channels, with additional income from membership and advertising services. Households buy groceries and general merchandise in stores and online. Third-party sellers and advertisers can also pay for marketplace and advertising services."
+study:
+  question: Does Walmart own every item sold on its website?
+  answer: Walmart holds inventory for its own retail sales and also hosts third-party sellers on its marketplace. A marketplace sale can generate a commission for Walmart, so two equally sized orders can contribute different amounts to its revenue.
+  source: https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm
 ---
 
 Buys and resells merchandise through stores, clubs and online channels, with additional income from membership and advertising services. Households buy groceries and general merchandise in stores and online. Third-party sellers and advertisers can also pay for marketplace and advertising services.

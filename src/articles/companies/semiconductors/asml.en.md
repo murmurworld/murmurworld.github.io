@@ -1,6 +1,10 @@
 ---
 title: "ASML"
 description: "ASML supplies machines that project circuit patterns onto silicon wafers, along with upgrades and service for installed systems. Chipmakers buy lithography systems to equip fabrication lines, then pay for parts, servicing or upgrades over the installed fleet's life."
+study:
+  question: Can an existing fab pay ASML without buying another scanner?
+  answer: A lithography scanner uses light to print patterns on wafers, and fabs maintain and upgrade these machines over many years. ASML reported about €8.2 billion of installed base management sales in 2025, distinguishing service and upgrades from new system sales.
+  source: https://ourbrand.asml.com/m/1a5a2a9d0491701c/original/2026_01_28-Presentation-ASML-Press-Conference-Q4FY2025_FINAL.pdf
 ---
 
 ASML supplies machines that project circuit patterns onto silicon wafers, along with upgrades and service for installed systems. Chipmakers buy lithography systems to equip fabrication lines, then pay for parts, servicing or upgrades over the installed fleet's life.
