@@ -34,6 +34,8 @@ Samsung Electronics manufactures DRAM and NAND, offers foundry services and sell
 
 Equipment distributors and consumers buy finished devices. Device companies also buy memory, displays or outsourced chip production.
 
+In the first nine months of 2026, Alphabet, Amazon, Apple, Hong Kong Techtronics and Supreme Electronics together accounted for approximately 24% of sales. The filing names the five buyers and gives their combined share without a percentage for each. [Quarterly filing](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001482)
+
 ## The numbers
 
 ### Annual consolidated results
@@ -63,7 +65,7 @@ Equipment distributors and consumers buy finished devices. Device companies also
 | Memory | 44.125 | 84.463 | 104.081 |
 | TVs and monitors | 30.375 | 30.932 | 30.861 |
 | Display panels | 30.975 | 29.158 | 29.842 |
-| Difference to reported total | 44.827 | 41.894 | 42.348 |
+| Difference to reported total (calculated) | 44.827 | 41.894 | 42.348 |
 
 ### Consolidated results for individual quarters
 

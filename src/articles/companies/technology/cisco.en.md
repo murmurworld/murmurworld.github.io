@@ -7,7 +7,7 @@ Cisco sells networking hardware and software that connect branch offices, enterp
 
 | Basic information | Details |
 | --- | --- |
-| Principal office | San Jose,, California |
+| Principal office | San Jose, California |
 | Operations | Engineering and sales offices, manufacturing partners and customer support |
 | Listing and symbol | Nasdaq · CSCO |
 | Reported business lines | Americas · Europe Middle East and Africa · Asia Pacific Japan and China |

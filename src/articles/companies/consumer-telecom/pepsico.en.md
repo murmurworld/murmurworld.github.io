@@ -34,6 +34,8 @@ PepsiCo sells packaged snacks and beverages through direct distribution, retaile
 
 Retailers, distributors, food-service customers and bottling partners buy snacks or beverages. Some goods reach stores through direct-store delivery.
 
+Walmart and its affiliates, including Sam’s Club, represented approximately 14% of PepsiCo’s 2025 consolidated net revenue. PepsiCo includes concentrate sold to independent bottlers when the finished beverages went to Walmart. [Customer and distribution disclosures](https://www.sec.gov/Archives/edgar/data/77476/000007747626000007/pep-20251227.htm)
+
 ### Revenue by geography
 
 | USD billion | 2023-12-30 | 2024-12-28 | 2025-12-27 |

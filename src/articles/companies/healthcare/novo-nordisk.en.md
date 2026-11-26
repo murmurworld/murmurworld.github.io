@@ -33,6 +33,8 @@ Novo Nordisk sells diabetes and obesity treatments including Ozempic and Wegovy.
 
 Wholesalers, pharmacies and health systems distribute medicines. Reimbursement and discounts mean the net sale can differ from the published list price.
 
+Three wholesalers distributing Novo Nordisk products in the U.S. accounted for 23%, 18% and 14% of 2025 global net sales. Those sales spanned both Obesity and Diabetes care and Rare disease. The note does not identify the wholesalers. [Customer and distribution disclosures](https://www.sec.gov/Archives/edgar/data/353278/000035327826000012/nvo-20251231_d2.htm)
+
 ### Sales by geography
 
 | DKK billion | 2023-12-31 | 2024-12-31 | 2025-12-31 |
@@ -96,7 +98,7 @@ Wholesalers, pharmacies and health systems distribute medicines. Reimbursement a
 | NovoSeven | 7.958 | 7.983 | 7.326 |
 | Haemophilia A | 2.422 | 2.454 | 2.414 |
 | Haemophilia B | 1.061 | 1.306 | 1.412 |
-| Other (difference to reported subtotal) | 0.335 | 0.395 | 0.803 |
+| Difference to reported total (calculated) | 0.335 | 0.395 | 0.803 |
 | Rare endocrine disorders | 3.836 | 4.993 | 5.959 |
 | Other Rare disease | 1.551 | 1.508 | 1.694 |
 | Other Diabetes care | 2.312 | 2.12 | 1.77 |
@@ -152,6 +154,7 @@ A subtotal can include the product lines beneath it. Segment, product and geogra
 - [20-F](https://www.sec.gov/Archives/edgar/data/353278/000035327826000012/0000353278-26-000012-index.htm) · 2026-02-04
 - [6-K](https://www.sec.gov/Archives/edgar/data/353278/000162828026069805/0001628280-26-069805-index.htm) · 2026-11-04
 - [Company results or filing](https://www.sec.gov/Archives/edgar/data/353278/000162828026069805/caq32026.htm) · 2026-11-04
+- [Customer and distribution disclosures](https://www.sec.gov/Archives/edgar/data/353278/000035327826000012/nvo-20251231_d2.htm)
 - [6-K](https://www.sec.gov/Archives/edgar/data/353278/000035327826000023/0000353278-26-000023-index.htm) · 2026-08-04
 - [6-K](https://www.sec.gov/Archives/edgar/data/353278/000035327825000005/0000353278-25-000005-index.htm) · 2025-11-05
 - [6-K](https://www.sec.gov/Archives/edgar/data/353278/000035327826000018/0000353278-26-000018-index.htm) · 2026-05-06

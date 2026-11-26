@@ -7,7 +7,7 @@ Visa connects issuing and acquiring financial institutions and charges for netwo
 
 | Basic information | Details |
 | --- | --- |
-| Principal office | San Francisco,, California |
+| Principal office | San Francisco, California |
 | Operations | Processing and network infrastructure plus regional service and sales offices |
 | Listing and symbol | NYSE · V |
 | Annual reporting date | 2026-09-30 |
@@ -31,6 +31,8 @@ Visa connects issuing and acquiring financial institutions and charges for netwo
 ## Who buys it
 
 Financial institutions, processors, merchants and partners use the network. The cardholder usually borrows from the issuing bank rather than the network operator.
+
+Visa reported one client at 11% of total net revenue in each of the fiscal years ended September 2026, 2025 and 2024. The filing did not identify the client. The percentage applies to Visa net revenue, not payments volume. [Customer and distribution disclosures](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000134/v-20260930.htm)
 
 ### Revenue by geography
 
@@ -101,11 +103,11 @@ A subtotal can include the product lines beneath it. Segment, product and geogra
 - [10-K](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000134/0001403161-26-000134-index.htm) · 2026-11-05
 - [Company results or filing](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000103/q32026earningsrelease.htm) · 2026-07-28
 - [Filing cover](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000104/v-20260630.htm) · 2026-07-29
+- [Customer and distribution disclosures](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000134/v-20260930.htm)
 - [10-K](https://www.sec.gov/Archives/edgar/data/1403161/000140316125000089/v-20250930.htm) · 2025-11-06
 - [10-Q](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000104/0001403161-26-000104-index.htm) · 2026-07-29
 - [10-Q](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000045/0001403161-26-000045-index.htm) · 2026-01-30
 - [10-Q](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000079/0001403161-26-000079-index.htm) · 2026-04-29
-- [Visa FY2026 10-K](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000134/v-20260930.htm)
 - [Mastercard 2025 10-K](https://www.sec.gov/Archives/edgar/data/1141391/000114139126000025/ma12312025-10xkasfiled.pdf)
 - [SEC company facts (XBRL)](https://data.sec.gov/api/xbrl/companyfacts/CIK0001403161.json)
 

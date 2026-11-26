@@ -34,6 +34,8 @@ AbbVie sells medicines including Skyrizi, Rinvoq and Humira, as well as oncology
 
 Wholesalers and distributors buy medicines, while aesthetics products also reach specialist practices. Payers affect net realized revenue through coverage and rebates.
 
+AbbVie says McKesson, Cardinal Health and Cencora accounted for substantially all of its U.S. pharmaceutical product sales in 2025. No wholesaler represented more than 43% of U.S. gross revenues. That domestic upper bound does not give an individual distributor’s share of global sales. [Customer and distribution disclosures](https://www.sec.gov/Archives/edgar/data/1551152/000155115226000008/abbv-20251231.htm)
+
 ### Revenue by geography
 
 | USD billion | 2023-12-31 | 2024-12-31 | 2025-12-31 |
@@ -98,7 +100,7 @@ Wholesalers and distributors buy medicines, while aesthetics products also reach
 | Ozurdex | 0.472 | 0.494 | 0.493 |
 | Lumigan Ganfort | 0.432 | 0.429 | 0.41 |
 | Alphagan Combigan | 0.272 | 0.248 | 0.197 |
-| Difference to reported total | 1.268 | 1.383 | 1.545 |
+| Difference to reported total (calculated) | 1.268 | 1.383 | 1.545 |
 
 ### Consolidated results for individual quarters
 

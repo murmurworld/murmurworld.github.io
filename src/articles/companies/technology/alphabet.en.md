@@ -30,7 +30,7 @@ Alphabet sells ad placements in Search and YouTube. Google Cloud charges for com
 
 | Reporting period | Company operating update |
 | --- | --- |
-| 2026 Q2 | Google Cloud revenue grew 82% year over year to USD 24.8 billion. [Company results or filing](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm) |
+| 2026 Q3 | Google Cloud revenue reached USD 30.709 billion, up 103% from a year earlier. Google attributed the increase to growth in its cloud infrastructure and platform and sales of TPU systems to customers. [Quarterly report](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/goog-20260930.htm) |
 
 ## Who buys it
 
@@ -72,7 +72,7 @@ No customer or group of affiliated customers exceeded 10% of revenue in 2023–2
 | Subscriptions Platforms and Devices Revenue | 34.688 | 40.34 | 48.03 |
 | Google Cloud | 33.088 | 43.229 | 58.705 |
 | All Other | 1.527 | 1.648 | 1.537 |
-| Difference to reported total | 0.236 | 0.211 | -0.127 |
+| Difference to reported total (calculated) | 0.236 | 0.211 | -0.127 |
 
 ### Consolidated results for individual quarters
 
@@ -125,8 +125,7 @@ A subtotal can include the product lines beneath it. Segment, product and geogra
 - [10-K](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm) · 2026-02-05
 - [10-Q](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm) · 2026-07-23
 - [10-Q](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/0001652044-26-000084-index.htm) · 2026-10-29
-- [Company results or filing](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm) · 2026-07-22
-- [Filing cover](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/goog-20260930.htm) · 2026-10-29
+- [Quarterly report](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/goog-20260930.htm) · 2026-10-29
 - [10-K](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/0001652044-26-000018-index.htm) · 2026-02-05
 - [10-Q](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/0001652044-26-000071-index.htm) · 2026-07-23
 - [10-Q](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000048/0001652044-26-000048-index.htm) · 2026-04-30

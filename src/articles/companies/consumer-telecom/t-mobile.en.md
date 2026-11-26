@@ -35,6 +35,8 @@ T-Mobile US sells wireless voice and data services and fixed wireless broadband,
 
 Individuals, families, businesses and wholesale partners pay for network access. Device sales and financing need to be separated from recurring service revenue.
 
+T-Mobile supplies network access to mobile virtual network operators as well as selling service directly. Its wholesale partners manage their own end-customer relationships. A wholesale connection and a subscriber signed in a T-Mobile store therefore have different billing relationships. [Customer and distribution disclosures](https://www.sec.gov/Archives/edgar/data/1283699/000128369926000010/tmus-20251231.htm)
+
 ## The numbers
 
 ### Annual consolidated results

@@ -35,6 +35,8 @@ Bank of America earns interest on lending funded partly by deposits and charges 
 
 Individuals use retail branches and digital accounts, affluent clients use advisers, and companies or institutions buy wholesale banking and market services.
 
+Bank of America serves households, small businesses, large companies and governments. Global Banking can originate a financing transaction for a corporate client that Global Markets executes and distributes. Several segments can therefore serve the same client transaction. [Customer and distribution disclosures](https://www.sec.gov/Archives/edgar/data/70858/000007085826000157/bac-20251231.htm)
+
 ### Revenue by geography
 
 | USD billion | 2023-12-31 | 2024-12-31 | 2025-12-31 |
@@ -65,7 +67,7 @@ Individuals use retail branches and digital accounts, affluent clients use advis
 | Global Banking | 24.555 | 23.748 | 24.108 |
 | Global Markets | 19.533 | 21.812 | 24.096 |
 | Corporate Reconciling Items and Eliminations | -3.888 | -3.45 | -3.054 |
-| Difference to reported total | -0.567 | -0.619 | -0.609 |
+| Difference to reported total (calculated, segments on a tax-equivalent basis) | -0.567 | -0.619 | -0.609 |
 
 ### Consolidated results for individual quarters
 

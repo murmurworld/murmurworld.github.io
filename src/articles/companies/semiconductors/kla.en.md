@@ -7,7 +7,7 @@ KLA supplies tools that find wafer defects and measure features during productio
 
 | Basic information | Details |
 | --- | --- |
-| Principal office | Milpitas,, California |
+| Principal office | Milpitas, California |
 | Operations | Process-control equipment development, manufacturing and field service |
 | Listing and symbol | Nasdaq · KLAC |
 | Reported business lines | Semiconductor Process Control · PCB and Component Inspection · Specialty Semiconductor Process · Corporate and Reconciling Items |

@@ -12,6 +12,7 @@ BHP produces iron ore and copper among other commodities. Company output can inc
 | Listing and symbol | Australian Securities Exchange, London, NYSE ADR (BHP) · BHP |
 | Annual reporting date | 2026-06-30 |
 | Annual consolidated revenue | 2026-06-30 · 58.76 USD billion |
+| Shares issued | Ordinary 5,081,391,706 · 2026-06-30 · [Filing](https://www.bhp.com/-/media/documents/investors/annual-reports/2026/260818_bhpannualreport2026.pdf) |
 | Filing | [20-F](https://www.sec.gov/Archives/edgar/data/811809/000119312526354647/0001193125-26-354647-index.htm) |
 
 ## What it sells
@@ -78,6 +79,7 @@ Quarterly operations reports describe mine production and shipments. The consoli
 
 - [20-F](https://www.sec.gov/Archives/edgar/data/811809/000119312526354647/0001193125-26-354647-index.htm) · 2026-08-18
 - [Company results or filing](https://www.sec.gov/Archives/edgar/data/811809/000119312526354647/bhp-20260630.htm) · 2026-08-18
+- [Filing](https://www.bhp.com/-/media/documents/investors/annual-reports/2026/260818_bhpannualreport2026.pdf) · 2026-08-18
 - [Original segment disclosure](https://www.sec.gov/Archives/edgar/data/811809/000119312526354647/R46.htm) · 2026-08-18
 - [SEC company facts (XBRL)](https://data.sec.gov/api/xbrl/companyfacts/CIK0000811809.json)
 

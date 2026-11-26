@@ -7,7 +7,7 @@ GE Vernova supplies power-generation equipment and services, wind turbines and g
 
 | Basic information | Details |
 | --- | --- |
-| Principal office | Cambridge,, MA |
+| Principal office | Cambridge, MA |
 | Operations | Power generation, grid equipment and wind manufacturing and service sites |
 | Listing and symbol | NYSE · GEV |
 | Annual reporting date | 2025-12-31 |

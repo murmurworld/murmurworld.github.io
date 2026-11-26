@@ -7,7 +7,7 @@ Caterpillar sells equipment such as excavators and mining trucks, engines, parts
 
 | Basic information | Details |
 | --- | --- |
-| Principal office | Irving,, Texas |
+| Principal office | Irving, Texas |
 | Operations | Machinery and engine plants, parts facilities and a worldwide independent dealer network |
 | Listing and symbol | NYSE · CAT |
 | Reported business lines | Aggregation Before Other Operating · All Other · Eliminations and Reconciling Items |
@@ -70,7 +70,7 @@ Independent dealers supply contractors, mines, transport operators and energy cu
 | Financial Products | 3.785 | 4.053 | 4.22 |
 | All Other | 0.363 | 0.344 | 0.327 |
 | Eliminations and Reconciling Items | -6.176 | -6.368 | -6.693 |
-| Difference to reported total | 0 | 0 | 0 |
+| Difference to reported total (calculated) | 0 | 0 | 0 |
 
 ### Products and services
 

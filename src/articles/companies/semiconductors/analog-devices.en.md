@@ -7,7 +7,7 @@ Analog Devices makes chips that convert physical measurements to digital informa
 
 | Basic information | Details |
 | --- | --- |
-| Principal office | Wilmington,, MA |
+| Principal office | Wilmington, MA |
 | Operations | Internal wafer facilities and external foundries, followed by assembly and test |
 | Listing and symbol | Nasdaq · ADI |
 | Reported business lines | Industrial · Automotive · Consumer · Communications |
@@ -32,7 +32,7 @@ Analog Devices makes chips that convert physical measurements to digital informa
 
 Designers of factories, vehicles, network equipment and instruments buy components through direct and distributor channels.
 
-Third-party distributors handled about 56% of revenue for the year ended November 1, 2025. [10-K](https://www.sec.gov/Archives/edgar/data/6281/000000628125000153/adi-20251101.htm)
+Third-party distributors handled about 56% of sales in the year ended November 1, 2025. Distributors 1 and 3 represented 24% and 13% of total revenue. The table does not name them. [10-K](https://www.sec.gov/Archives/edgar/data/6281/000000628125000153/adi-20251101.htm)
 
 ### Sales channels
 
@@ -41,7 +41,7 @@ Third-party distributors handled about 56% of revenue for the year ended Novembe
 | Sales Channel Through Intermediary | 7.535 | 5.5 | 6.1 |
 | Sales Channel Directly to Consumer | 4.603 | 3.773 | 4.719 |
 | Sales Channel Other | 0.167 | 0.148 | 0.156 |
-| Difference to reported total | 0 | 0.006 | 0.045 |
+| Difference to reported total (calculated) | 0 | 0.006 | 0.045 |
 
 ### Revenue by geography
 

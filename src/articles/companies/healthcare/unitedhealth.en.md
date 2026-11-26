@@ -7,7 +7,7 @@ UnitedHealthcare provides coverage, while Optum includes care delivery, informat
 
 | Basic information | Details |
 | --- | --- |
-| Principal office | Eden Prairie,, Minnesota |
+| Principal office | Eden Prairie, Minnesota |
 | Operations | Health plans, care delivery facilities, pharmacy and healthcare technology operations |
 | Listing and symbol | NYSE · UNH |
 | Reported business lines | UnitedHealthcare · OptumRx · OptumHealth · OptumInsight · Corporate Non · Intersegment Elimination |
@@ -34,6 +34,8 @@ UnitedHealthcare provides coverage, while Optum includes care delivery, informat
 ## Who buys it
 
 Employers, public programs and individuals buy health benefits. Providers, payers and plan sponsors also contract for Optum services.
+
+Premiums from the U.S. Centers for Medicare & Medicaid Services represented 44% of UnitedHealth Group’s consolidated 2025 revenue. Most arose in UnitedHealthcare Medicare & Retirement. The figure identifies the payer of the premiums, rather than the number of people receiving care. [Customer and distribution disclosures](https://www.sec.gov/Archives/edgar/data/731766/000073176626000062/unh-20251231.htm)
 
 ## The numbers
 

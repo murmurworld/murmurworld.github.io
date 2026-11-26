@@ -30,7 +30,7 @@ description: "광고, 구독·플랫폼·기기, Google Cloud로 수익을 내�
 
 | 회사 발표 기간 | 제품·사업 지표 |
 | --- | --- |
-| 2026년 2분기 | 구글 클라우드 매출은 248억 달러로 전년 같은 분기보다 82% 늘었다. [회사 실적 발표·공시](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm) |
+| 2026년 3분기 | Google Cloud 매출은 307억 900만 달러로 전년 동기보다 103% 늘었다. 구글은 클라우드 인프라·플랫폼 이용 증가와 고객에게 직접 판매한 TPU 시스템을 성장 요인으로 들었다. [분기보고서](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/goog-20260930.htm) |
 
 ## 누구에게 파나
 
@@ -72,7 +72,7 @@ description: "광고, 구독·플랫폼·기기, Google Cloud로 수익을 내�
 | 구독·플랫폼·기기 | 34.688 | 40.34 | 48.03 |
 | Google Cloud | 33.088 | 43.229 | 58.705 |
 | 기타 사업 (Other Bets) | 1.527 | 1.648 | 1.537 |
-| 헤지 손익 등 (합계와의 차이) | 0.236 | 0.211 | -0.127 |
+| 공시 합계와의 차이(계산) | 0.236 | 0.211 | -0.127 |
 
 ### 연결 손익 · 분기 3개월
 
@@ -125,8 +125,7 @@ description: "광고, 구독·플랫폼·기기, Google Cloud로 수익을 내�
 - [10-K](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm) · 2026-02-05
 - [10-Q](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm) · 2026-07-23
 - [10-Q](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/0001652044-26-000084-index.htm) · 2026-10-29
-- [회사 실적 발표·공시](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm) · 2026-07-22
-- [공시 표지](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/goog-20260930.htm) · 2026-10-29
+- [분기보고서](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/goog-20260930.htm) · 2026-10-29
 - [10-K](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/0001652044-26-000018-index.htm) · 2026-02-05
 - [10-Q](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/0001652044-26-000071-index.htm) · 2026-07-23
 - [10-Q](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000048/0001652044-26-000048-index.htm) · 2026-04-30

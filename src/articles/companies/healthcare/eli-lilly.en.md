@@ -35,6 +35,8 @@ Eli Lilly develops and sells prescription medicines including Mounjaro and Zepbo
 
 Wholesalers, health systems and other distributors supply medicines to patients. Insurers, pharmacy benefit managers and public programs influence coverage and net prices.
 
+Lilly identifies McKesson, Cencora and Cardinal Health as its three major U.S. wholesalers. Each represented between 16% and 24% of consolidated revenue in the three fiscal years through 2025. The disclosure gives a range rather than assigning a specific share to each company. [Customer and distribution disclosures](https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm)
+
 ### Revenue by geography
 
 | USD billion | 2023-12-31 | 2024-12-31 | 2025-12-31 |
@@ -75,7 +77,7 @@ Wholesalers, health systems and other distributors supply medicines to patients.
 | Other Immunology | 1.038 | 1.133 | 1.684 |
 | Neuroscience | 2.879 | 1.474 | 1.391 |
 | Other Product Total | 1.122 | 0.903 | 0.943 |
-| Difference to reported total | -0.001 | -0.001 | 0.001 |
+| Difference to reported total (calculated) | -0.001 | -0.001 | 0.001 |
 
 ### Consolidated results for individual quarters
 

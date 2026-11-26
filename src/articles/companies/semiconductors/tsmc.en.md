@@ -12,7 +12,8 @@ TSMC produces and packages chips designed by customers. A foundry earns manufact
 | Listing and symbol | Taiwan Stock Exchange (2330), NYSE ADR (TSM) · TSM |
 | Annual reporting date | 2025-12-31 |
 | Annual consolidated revenue | 2025-12-31 · 3,809.054 TWD billion |
-| Shares outstanding | American Depository Shares 1,062,700,000 · Ordinary Shares 5,313,600,000 · 2025-12-31 · [Filing](https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm) |
+| Fiscal year-to-date consolidated revenue | 2026-01-01 – 2026-09-30 · 3,898.727 TWD billion |
+| Shares issued | Ordinary (reported to the nearest thousand) 25,932,370,000 · 2026-09-30 · [Filing](https://investor.tsmc.com/sites/ir/financial-report/2026/TSMC%202026Q3%20Consolidated%20Financial%20Statements_E_0_0.pdf) |
 | Filing | [20-F](https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm) |
 
 ## What it sells
@@ -31,6 +32,8 @@ TSMC produces and packages chips designed by customers. A foundry earns manufact
 ## Who buys it
 
 Chip design companies and system makers supply their designs. TSMC manufactures wafers for those customers and offers packaging services.
+
+In 2025, customer A accounted for 19% of net revenue and customer B for 17%. The disclosure identifies them by letter. [20-F](https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm)
 
 ### Sales by geography
 
@@ -101,6 +104,14 @@ Amounts are estimates calculated from disclosed mix percentages and can differ t
 | Cash from operations | 1,241.967 | 1,826.177 | 2,274.976 |
 | Capital expenditure | 949.817 | 956.006 | 1,272.41 |
 
+### Consolidated year-to-date comparison
+
+| TWD billion | 2025-01-01 – 2025-09-30 | 2026-01-01 – 2026-09-30 |
+| --- | --- | --- |
+| Revenue | 2,762.964 | 3,898.727 |
+| Operating income | 1,371.189 | 2,302.014 |
+| Net income attributable to the parent | 1,212.139 | 2,042.106 |
+
 ## Its place in the sector
 
 TSMC manufactures customer designs. Samsung, SK hynix and Micron make memory, while Sandisk obtains flash wafers through ventures with Kioxia. Intel and Samsung also have foundry businesses. Texas Instruments manufactures most products in-house, while Analog Devices mixes internal and outsourced production.
@@ -132,7 +143,8 @@ A subtotal can include the product lines beneath it. Segment, product and geogra
 ## Sources
 
 - [20-F](https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm) · 2026-04-16
-- [6-K](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000726/a3q26e_withguidancexfinal.htm) · 2026-10-15
+- [Interim results](https://investor.tsmc.com/sites/ir/financial-report/2026/TSMC%202026Q3%20Consolidated%20Financial%20Statements_E_0_0.pdf) · 2026-11-10
+- [Company results or filing](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000726/a3q26e_withguidancexfinal.htm) · 2026-10-15
 - [20-F](https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/0001628280-26-025362-index.htm) · 2026-04-16
 - [6-K](https://www.sec.gov/Archives/edgar/data/1046179/000104617925000082/a2q25e_withguidancexfinal.htm) · 2025-07-17
 - [6-K](https://www.sec.gov/Archives/edgar/data/1046179/000104617925000116/a3q25e_withguidancexfinal.htm) · 2025-10-16
@@ -149,4 +161,4 @@ A subtotal can include the product lines beneath it. Segment, product and geogra
 - [Intel 2025 10-K](https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm)
 - [SEC company facts (XBRL)](https://data.sec.gov/api/xbrl/companyfacts/CIK0001046179.json)
 
-Original sources checked November 26, 2026 · [1](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000726/a3q26e_withguidancexfinal.htm) · [2](https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm)
+Original sources checked November 26, 2026 · [1](https://investor.tsmc.com/sites/ir/financial-report/2026/TSMC%202026Q3%20Consolidated%20Financial%20Statements_E_0_0.pdf) · [2](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000726/a3q26e_withguidancexfinal.htm) · [3](https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm)

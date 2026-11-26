@@ -94,7 +94,7 @@ Item 4 of Form 20-F describes the business and operating footprint. Item 5 discu
 ## Sources
 
 - [20-F](https://www.sec.gov/Archives/edgar/data/879764/000110465926035876/0001104659-26-035876-index.htm) · 2026-03-27
-- [Interim results](https://www.sec.gov/Archives/edgar/data/879764/000110465926120831/tm2628570d1_ex99-9.htm) · 2026-10-28
+- [Interim results](https://www.sec.gov/Archives/edgar/data/879764/000110465926120831/tm2628570d1_ex99-9.htm) · 2026-11-02
 - [Company results or filing](https://www.sec.gov/Archives/edgar/data/879764/000110465926119833/tm2628392d1_ex99-1.htm) · 2026-10-29
 - [Customer and distribution disclosures](https://totalenergies.com/system/files/documents/totalenergies_form-20-f-2025_2026_en.pdf)
 - [6-K](https://www.sec.gov/Archives/edgar/data/879764/000110465924082449/0001104659-24-082449-index.htm) · 2024-07-25

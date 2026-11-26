@@ -12,6 +12,8 @@ Shinhan Financial Group owns businesses including Shinhan Bank and Shinhan Card.
 | Listing and symbol | Korea Exchange (055550), NYSE ADR (SHG) · 055550 |
 | Reported business lines | Banking · Insurance · Credit cards · Securities · Other operations · Specialized credit finance |
 | Annual reporting date | 2025-12-31 |
+| Annual consolidated net interest income | 2025-12-31 · 11.694 KRW trillion |
+| Fiscal year-to-date consolidated net interest income | 2026-01-01 – 2026-09-30 · 9.349 KRW trillion |
 | Shares issued | Common 469,450,239 · 2026-09-30 · [Filing](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001624) |
 | Filing | [DART](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261007000218) |
 

@@ -7,7 +7,7 @@ Home Depot sells building materials, home improvement goods and related services
 
 | Basic information | Details |
 | --- | --- |
-| Principal office | Atlanta,, Georgia |
+| Principal office | Atlanta, Georgia |
 | Operations | Retail stores and distribution operations serving household and professional customers |
 | Listing and symbol | NYSE · HD |
 | Reported business lines | Primary · All Other |

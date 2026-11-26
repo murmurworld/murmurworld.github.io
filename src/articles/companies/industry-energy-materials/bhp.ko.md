@@ -12,6 +12,7 @@ description: "호주의 광산 회사다. 구리와 철광석이 중심이고 �
 | 상장·종목 | Australian Securities Exchange, London, NYSE ADR (BHP) · BHP |
 | 최근 연간 결산일 | 2026-06-30 |
 | 연간 매출(연결) | 2026-06-30 · 58.76 십억 달러 |
+| 발행주식 | 보통주 5,081,391,706 · 2026-06-30 · [공시](https://www.bhp.com/-/media/documents/investors/annual-reports/2026/260818_bhpannualreport2026.pdf) |
 | 공시 보는 곳 | [20-F](https://www.sec.gov/Archives/edgar/data/811809/000119312526354647/0001193125-26-354647-index.htm) |
 
 ## 무엇을 파나
@@ -78,6 +79,7 @@ BHP는 고객의 소재지를 기준으로 매출을 나눈다. 2026년 6월 결
 
 - [20-F](https://www.sec.gov/Archives/edgar/data/811809/000119312526354647/0001193125-26-354647-index.htm) · 2026-08-18
 - [회사 실적 발표·공시](https://www.sec.gov/Archives/edgar/data/811809/000119312526354647/bhp-20260630.htm) · 2026-08-18
+- [공시](https://www.bhp.com/-/media/documents/investors/annual-reports/2026/260818_bhpannualreport2026.pdf) · 2026-08-18
 - [부문 주석 원문](https://www.sec.gov/Archives/edgar/data/811809/000119312526354647/R46.htm) · 2026-08-18
 - [SEC 연결 재무 수치(XBRL)](https://data.sec.gov/api/xbrl/companyfacts/CIK0000811809.json)
 

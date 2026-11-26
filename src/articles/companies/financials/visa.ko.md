@@ -7,7 +7,7 @@ description: "결제 승인·청산·정산을 처리하는 Visa 네트워크를
 
 | 기본 정보 | 내용 |
 | --- | --- |
-| 본사·본점 | San Francisco,, California |
+| 본사·본점 | San Francisco, California |
 | 주요 사업장 | 결제 처리·네트워크 기반시설과 지역별 서비스·영업 거점 |
 | 상장·종목 | NYSE · V |
 | 최근 연간 결산일 | 2026-09-30 |
@@ -31,6 +31,8 @@ description: "결제 승인·청산·정산을 처리하는 Visa 네트워크를
 ## 누구에게 파나
 
 은행·프로세서·가맹점 측 사업자가 결제망을 이용한다. 카드 대출을 실행하는 발급 은행의 이자와 결제망 수수료는 다르다.
+
+비자는 2026년 9월 결산까지 최근 3개 회계연도에 각각 한 고객이 총순매출의 11%를 차지했다고 밝혔다. 주석은 고객 이름을 적지 않았다. 이 비율은 비자 카드 전체 결제액에서 그 고객이 차지한 몫과는 다르다. [고객·판매 경로 공시](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000134/v-20260930.htm)
 
 ### 지역별 매출
 
@@ -101,11 +103,11 @@ description: "결제 승인·청산·정산을 처리하는 Visa 네트워크를
 - [10-K](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000134/0001403161-26-000134-index.htm) · 2026-11-05
 - [회사 실적 발표·공시](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000103/q32026earningsrelease.htm) · 2026-07-28
 - [공시 표지](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000104/v-20260630.htm) · 2026-07-29
+- [고객·판매 경로 공시](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000134/v-20260930.htm)
 - [10-K](https://www.sec.gov/Archives/edgar/data/1403161/000140316125000089/v-20250930.htm) · 2025-11-06
 - [10-Q](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000104/0001403161-26-000104-index.htm) · 2026-07-29
 - [10-Q](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000045/0001403161-26-000045-index.htm) · 2026-01-30
 - [10-Q](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000079/0001403161-26-000079-index.htm) · 2026-04-29
-- [Visa FY2026 10-K](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000134/v-20260930.htm)
 - [Mastercard 2025 10-K](https://www.sec.gov/Archives/edgar/data/1141391/000114139126000025/ma12312025-10xkasfiled.pdf)
 - [SEC 연결 재무 수치(XBRL)](https://data.sec.gov/api/xbrl/companyfacts/CIK0001403161.json)
 

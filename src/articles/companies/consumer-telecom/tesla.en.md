@@ -35,6 +35,8 @@ Tesla sells electric vehicles, energy storage systems and related services. Vehi
 
 Individuals, commercial fleets, homeowners and utilities buy or lease vehicles, energy equipment and related services.
 
+Tesla reported that one customer represented over 10% of accounts receivable at September 30, 2026, all of it current. This captures unpaid invoices on a specific date, not that customer's share of sales over the year. [Customer and distribution disclosures](https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/tsla-20260930.htm)
+
 ### Revenue by geography
 
 | USD billion | 2023-12-31 | 2024-12-31 | 2025-12-31 |
@@ -75,7 +77,7 @@ Individuals, commercial fleets, homeowners and utilities buy or lease vehicles, 
 | Energy Generation and Storage Sales | 5.515 | 9.564 | 12.27 |
 | Energy Generation and Storage Leasing | 0.52 | 0.522 | 0.501 |
 | Services and Other | 8.319 | 10.534 | 12.53 |
-| Difference to reported total | 0 | 0 | 0 |
+| Difference to reported total (calculated) | 0 | 0 | 0 |
 
 ### Consolidated results for individual quarters
 

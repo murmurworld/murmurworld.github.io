@@ -7,7 +7,7 @@ Netflix earns revenue from streaming memberships and advertising. Content licens
 
 | Basic information | Details |
 | --- | --- |
-| Principal office | Los Gatos,, California |
+| Principal office | Los Gatos, California |
 | Operations | Global streaming infrastructure, production facilities and content operations |
 | Listing and symbol | Nasdaq · NFLX |
 | Reported business lines | Reportable |
@@ -33,6 +33,8 @@ Netflix earns revenue from streaming memberships and advertising. Content licens
 ## Who buys it
 
 Households pay for subscriptions. Advertisers also purchase access to audiences on eligible plans.
+
+Netflix earns most of its revenue from monthly membership fees. It also sells advertising, adding advertisers as a second paying customer group. Hours watched measure viewing, while the monthly subscription is what the member is billed. [Customer and distribution disclosures](https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/nflx-20251231.htm)
 
 ### Revenue by geography
 

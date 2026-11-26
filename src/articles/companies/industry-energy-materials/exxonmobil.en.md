@@ -54,7 +54,7 @@ Refineries, industrial companies, distributors and consumers buy different outpu
 | Specialty Products | 21.665 | 21.4 | 20.46 |
 | Intersegment Elimination | -126.451 | -130.359 | -121.005 |
 | Corporate Non | 1.664 | 1.853 | 1.034 |
-| Difference to reported total | 0 | 0 | 0 |
+| Difference to reported total (calculated) | 0 | 0 | 0 |
 
 ### Consolidated results for individual quarters
 

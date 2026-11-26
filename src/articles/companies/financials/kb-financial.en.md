@@ -12,6 +12,8 @@ KB Financial Group combines banking with securities, insurance and card operatio
 | Listing and symbol | Korea Exchange (105560), NYSE ADR (KB) · 105560 |
 | Reported business lines | Banking · Non-life insurance · Securities · Other · Credit cards · Life insurance |
 | Annual reporting date | 2025-12-31 |
+| Annual consolidated net interest income | 2025-12-31 · 13.073 KRW trillion |
+| Fiscal year-to-date consolidated net interest income | 2026-01-01 – 2026-09-30 · 9.985 KRW trillion |
 | Shares issued | Common 354,687,734 · 2026-09-30 · [Filing](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116002225) |
 | Filing | [DART interim filing](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814004200) |
 

@@ -35,6 +35,8 @@ Its insurers receive premiums and invest funds pending claims. The group also ow
 
 The operating businesses serve policyholders, freight shippers, utility users and buyers of industrial or consumer products. Insurance investments are distinct from the premiums customers pay.
 
+Berkshire’s operating companies serve different customers. Lubrizol reports that some of its major buyers can also be suppliers. No single customer exceeded 10% of Lubrizol’s 2025 revenue. The disclosure refers specifically to that subsidiary. [Customer and distribution disclosures](https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/brka-20251231.htm)
+
 ## The numbers
 
 ### Annual consolidated results
@@ -56,16 +58,16 @@ The operating businesses serve policyholders, freight shippers, utility users an
 | Grocery and Convenience Store Distribution | 31.524 | 31.841 | 30.697 |
 | Food and Beverage | 19.04 | 18.068 | 18.585 |
 | Service | 1.079 | 0.999 | 0.897 |
-| Other (difference to reported segment) | 0.964 | 0.999 | 0.819 |
+| Difference to reported total (calculated) | 0.964 | 0.999 | 0.819 |
 | Service and Retailing Businesses | 39.996 | 39.874 | 42.647 |
 | Pilot Travel Centers LLC | 51.739 | 46.891 | 42.198 |
 | Other Retail and Wholesale Distribution | 51.197 | 46.433 | 41.611 |
 | Service | 0.264 | 0.274 | 0.266 |
-| Other (difference to reported segment) | 0.278 | 0.184 | 0.321 |
+| Difference to reported total (calculated) | 0.278 | 0.184 | 0.321 |
 | Berkshire Hathaway Energy Company | 26.008 | 26.348 | 26.297 |
 | Burlington Northern Santa Fe Corporation | 23.876 | 23.572 | 23.533 |
 | Service | 23.724 | 23.278 | 23.256 |
-| Other (difference to reported segment) | 0.152 | 0.294 | 0.277 |
+| Difference to reported total (calculated) | 0.152 | 0.294 | 0.277 |
 | Corporate Reconciling Items and Eliminations | -0.171 | 0.541 | 3.072 |
 
 ### Revenue by product or service

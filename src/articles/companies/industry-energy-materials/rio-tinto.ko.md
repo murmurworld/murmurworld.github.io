@@ -13,7 +13,7 @@ description: "철광석·구리·알루미늄·리튬을 생산하는 광산 회
 | 최근 연간 결산일 | 2025-12-31 |
 | 연간 매출(연결) | 2025-12-31 · 57.638 십억 달러 |
 | 기간 누계 매출(연결) | 2026-01-01 – 2026-06-30 · 31.028 십억 달러 |
-| 유통주식 | 1,256,010,314 · 2025-12-31 · [공시](https://www.sec.gov/Archives/edgar/data/863064/000162828026009531/0001628280-26-009531-index.htm) |
+| 유통주식 | Rio Tinto plc 1,256,010,314 · Rio Tinto Limited 371,216,214 · 2025-12-31 · [공시](https://www.sec.gov/Archives/edgar/data/887028/000162828026009531/rio-20251231.htm) |
 | 공시 보는 곳 | [20-F](https://www.sec.gov/Archives/edgar/data/863064/000162828026009531/0001628280-26-009531-index.htm) |
 
 ## 무엇을 파나
@@ -87,8 +87,9 @@ description: "철광석·구리·알루미늄·리튬을 생산하는 광산 회
 
 - [20-F](https://www.sec.gov/Archives/edgar/data/863064/000162828026009531/0001628280-26-009531-index.htm) · 2026-02-19
 - [Interim results](https://www.sec.gov/Archives/edgar/data/863064/000162828026050377/rio-20260630_d2.htm) · 2026-07-29
+- [공시](https://www.sec.gov/Archives/edgar/data/887028/000162828026009531/rio-20251231.htm) · 2026-02-19
 - [고객·판매 경로 공시](https://www.sec.gov/Archives/edgar/data/863064/000162828026009531/rio-20251231.htm)
 - [부문 주석 원문](https://www.sec.gov/Archives/edgar/data/887028/000162828026009531/R57.htm) · 2026-02-19
 - [SEC 연결 재무 수치(XBRL)](https://data.sec.gov/api/xbrl/companyfacts/CIK0000863064.json)
 
-원문 대조 2026-11-26 · [1](https://www.sec.gov/Archives/edgar/data/863064/000162828026050377/rio-20260630_d2.htm) · [2](https://www.sec.gov/Archives/edgar/data/887028/000162828026009531/R57.htm)
+원문 대조 2026-11-26 · [1](https://www.sec.gov/Archives/edgar/data/863064/000162828026050377/rio-20260630_d2.htm) · [2](https://www.sec.gov/Archives/edgar/data/887028/000162828026009531/R57.htm) · [3](https://www.sec.gov/Archives/edgar/data/887028/000162828026009531/rio-20251231.htm)

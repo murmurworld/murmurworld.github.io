@@ -7,7 +7,7 @@ description: "건강 혜택을 제공하는 UnitedHealthcare와 진료·데이�
 
 | 기본 정보 | 내용 |
 | --- | --- |
-| 본사·본점 | Eden Prairie,, Minnesota |
+| 본사·본점 | Eden Prairie, Minnesota |
 | 주요 사업장 | 건강보험 운영 조직, 진료 시설, 약제·보건의료 기술 거점 |
 | 상장·종목 | NYSE · UNH |
 | 공시 사업 구분 | UnitedHealthcare · Optum Rx (약국 서비스) · Optum Health (진료·케어) · Optum Insight (데이터·기술) · 본사·부문 외 조정 · 부문 간 내부거래 제거 |
@@ -34,6 +34,8 @@ description: "건강 혜택을 제공하는 UnitedHealthcare와 진료·데이�
 ## 누구에게 파나
 
 고용주·정부 프로그램·개인이 건강 보장을 구입한다. 의료기관·보험자·급여 프로그램은 옵텀의 진료·약제·기술서비스도 이용한다.
+
+미국 정부기관 CMS로부터 들어온 보험료가 2025년 유나이티드헬스그룹 전체 연결 매출의 44%였다. 대부분이 유나이티드헬스케어의 메디케어·은퇴자 사업에서 발생했다. 보험을 이용한 가입자 수와 정부가 납부한 보험료 매출은 다른 기준이다. [고객·판매 경로 공시](https://www.sec.gov/Archives/edgar/data/731766/000073176626000062/unh-20251231.htm)
 
 ## 숫자로 보기
 

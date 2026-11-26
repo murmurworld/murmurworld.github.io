@@ -35,6 +35,8 @@ JPMorgan Chase collects deposits, makes loans, issues cards and processes paymen
 
 Households, businesses, institutions and government bodies borrow, deposit, make payments, raise capital or entrust assets to the group.
 
+JPMorgan Chase sells distinct services to cardholders and corporate clients. Card use creates payment activity and can generate lending income. A company hiring the investment bank for an issuance or merger can pay an advisory or underwriting fee. The entire purchase charged to a card is not bank revenue. [Customer and distribution disclosures](https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm)
+
 ### Revenue by geography
 
 | USD billion | 2023-12-31 | 2024-12-31 | 2025-12-31 |

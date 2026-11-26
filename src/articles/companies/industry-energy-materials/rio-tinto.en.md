@@ -13,7 +13,7 @@ Rio Tinto mines iron ore and copper and operates across the aluminum chain, from
 | Annual reporting date | 2025-12-31 |
 | Annual consolidated revenue | 2025-12-31 · 57.638 USD billion |
 | Fiscal year-to-date consolidated revenue | 2026-01-01 – 2026-06-30 · 31.028 USD billion |
-| Shares outstanding | 1,256,010,314 · 2025-12-31 · [Filing](https://www.sec.gov/Archives/edgar/data/863064/000162828026009531/0001628280-26-009531-index.htm) |
+| Shares outstanding | Rio Tinto plc 1,256,010,314 · Rio Tinto Limited 371,216,214 · 2025-12-31 · [Filing](https://www.sec.gov/Archives/edgar/data/887028/000162828026009531/rio-20251231.htm) |
 | Filing | [20-F](https://www.sec.gov/Archives/edgar/data/863064/000162828026009531/0001628280-26-009531-index.htm) |
 
 ## What it sells
@@ -87,8 +87,9 @@ Quarterly operations reports describe mine production and shipments. The consoli
 
 - [20-F](https://www.sec.gov/Archives/edgar/data/863064/000162828026009531/0001628280-26-009531-index.htm) · 2026-02-19
 - [Interim results](https://www.sec.gov/Archives/edgar/data/863064/000162828026050377/rio-20260630_d2.htm) · 2026-07-29
+- [Filing](https://www.sec.gov/Archives/edgar/data/887028/000162828026009531/rio-20251231.htm) · 2026-02-19
 - [Customer and distribution disclosures](https://www.sec.gov/Archives/edgar/data/863064/000162828026009531/rio-20251231.htm)
 - [Original segment disclosure](https://www.sec.gov/Archives/edgar/data/887028/000162828026009531/R57.htm) · 2026-02-19
 - [SEC company facts (XBRL)](https://data.sec.gov/api/xbrl/companyfacts/CIK0000863064.json)
 
-Original sources checked November 26, 2026 · [1](https://www.sec.gov/Archives/edgar/data/863064/000162828026050377/rio-20260630_d2.htm) · [2](https://www.sec.gov/Archives/edgar/data/887028/000162828026009531/R57.htm)
+Original sources checked November 26, 2026 · [1](https://www.sec.gov/Archives/edgar/data/863064/000162828026050377/rio-20260630_d2.htm) · [2](https://www.sec.gov/Archives/edgar/data/887028/000162828026009531/R57.htm) · [3](https://www.sec.gov/Archives/edgar/data/887028/000162828026009531/rio-20251231.htm)

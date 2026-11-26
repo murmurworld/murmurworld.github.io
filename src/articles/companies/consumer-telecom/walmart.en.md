@@ -33,6 +33,8 @@ Buys and resells merchandise through stores, clubs and online channels, with add
 
 Households buy groceries and general merchandise in stores and online. Third-party sellers and advertisers can also pay for marketplace and advertising services.
 
+Walmart U.S. sells consumer goods in stores, on its website and through its app. Sam's Club operates a membership-only format, pairing merchandise sales with a paid membership relationship. Brands shipping products into these stores are suppliers in that transaction. [Customer and distribution disclosures](https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm)
+
 ### Revenue by geography
 
 | USD billion | 2024-01-31 | 2025-01-31 | 2026-01-31 |
@@ -62,15 +64,15 @@ Households buy groceries and general merchandise in stores and online. Third-par
 | General Merchandise | 113.985 | 113.921 | 115.06 |
 | Health and Wellness | 54.898 | 62.092 | 69.547 |
 | Other Categories | 8.724 | 10.399 | 12.886 |
-| Other (difference to reported segment) | 1.985 | 2.594 | 2.624 |
+| Difference to reported total (calculated) | 1.985 | 2.594 | 2.624 |
 | Walmart International | 116.049 | 123.363 | 131.988 |
 | Sam's Club US | 88.23 | 92.561 | 95.54 |
 | Grocery | 57.565 | 61.253 | 64.706 |
 | Fuel and Other | 13.707 | 12.96 | 11.57 |
 | General Merchandise | 10.947 | 11.215 | 11.549 |
 | Health and Wellness | 3.96 | 4.81 | 5.19 |
-| Other (difference to reported segment) | 2.051 | 2.323 | 2.525 |
-| Difference to reported total | 0.044 | 0.052 | 0.036 |
+| Difference to reported total (calculated) | 2.051 | 2.323 | 2.525 |
+| Difference to reported total (calculated) | 0.044 | 0.052 | 0.036 |
 
 ### Consolidated results for individual quarters
 

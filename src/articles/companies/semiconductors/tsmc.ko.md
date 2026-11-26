@@ -12,7 +12,8 @@ description: "고객이 설계한 반도체를 위탁 제조하는 전문 파운
 | 상장·종목 | Taiwan Stock Exchange (2330), NYSE ADR (TSM) · TSM |
 | 최근 연간 결산일 | 2025-12-31 |
 | 연간 매출(연결) | 2025-12-31 · 3,809.054 십억 대만 달러 |
-| 유통주식 | American Depository Shares 1,062,700,000 · Ordinary Shares 5,313,600,000 · 2025-12-31 · [공시](https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm) |
+| 기간 누계 매출(연결) | 2026-01-01 – 2026-09-30 · 3,898.727 십억 대만 달러 |
+| 발행주식 | 보통주(천 주 단위 공시) 25,932,370,000 · 2026-09-30 · [공시](https://investor.tsmc.com/sites/ir/financial-report/2026/TSMC%202026Q3%20Consolidated%20Financial%20Statements_E_0_0.pdf) |
 | 공시 보는 곳 | [20-F](https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm) |
 
 ## 무엇을 파나
@@ -31,6 +32,8 @@ description: "고객이 설계한 반도체를 위탁 제조하는 전문 파운
 ## 누구에게 파나
 
 설계 회사와 시스템 업체가 설계도를 맡기고 생산 대가를 낸다. 같은 공정이라도 고객 제품은 스마트폰 칩일 수도, 서버 칩일 수도 있다.
+
+2025년 순매출 가운데 공시상 고객 A는 19%, 고객 B는 17%를 차지했다. TSMC는 이 표에 두 고객의 이름을 넣지 않았다. [20-F](https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm)
 
 ### 고객 본사 소재지별
 
@@ -101,6 +104,14 @@ description: "고객이 설계한 반도체를 위탁 제조하는 전문 파운
 | 영업현금흐름 | 1,241.967 | 1,826.177 | 2,274.976 |
 | 설비투자(유형자산 취득) | 949.817 | 956.006 | 1,272.41 |
 
+### 같은 기간 누계 · 연결
+
+| 십억 대만 달러 | 2025-01-01 – 2025-09-30 | 2026-01-01 – 2026-09-30 |
+| --- | --- | --- |
+| 매출 | 2,762.964 | 3,898.727 |
+| 영업이익 | 1,371.189 | 2,302.014 |
+| 순이익(지배주주) | 1,212.139 | 2,042.106 |
+
 ## 섹터 안에서
 
 메모리·위탁 생산·자기 공장의 세 갈래를 본다.
@@ -132,7 +143,8 @@ description: "고객이 설계한 반도체를 위탁 제조하는 전문 파운
 ## 출처
 
 - [20-F](https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm) · 2026-04-16
-- [6-K](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000726/a3q26e_withguidancexfinal.htm) · 2026-10-15
+- [Interim results](https://investor.tsmc.com/sites/ir/financial-report/2026/TSMC%202026Q3%20Consolidated%20Financial%20Statements_E_0_0.pdf) · 2026-11-10
+- [회사 실적 발표·공시](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000726/a3q26e_withguidancexfinal.htm) · 2026-10-15
 - [20-F](https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/0001628280-26-025362-index.htm) · 2026-04-16
 - [6-K](https://www.sec.gov/Archives/edgar/data/1046179/000104617925000082/a2q25e_withguidancexfinal.htm) · 2025-07-17
 - [6-K](https://www.sec.gov/Archives/edgar/data/1046179/000104617925000116/a3q25e_withguidancexfinal.htm) · 2025-10-16
@@ -149,4 +161,4 @@ description: "고객이 설계한 반도체를 위탁 제조하는 전문 파운
 - [Intel 2025 10-K](https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm)
 - [SEC 연결 재무 수치(XBRL)](https://data.sec.gov/api/xbrl/companyfacts/CIK0001046179.json)
 
-원문 대조 2026-11-26 · [1](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000726/a3q26e_withguidancexfinal.htm) · [2](https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm)
+원문 대조 2026-11-26 · [1](https://investor.tsmc.com/sites/ir/financial-report/2026/TSMC%202026Q3%20Consolidated%20Financial%20Statements_E_0_0.pdf) · [2](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000726/a3q26e_withguidancexfinal.htm) · [3](https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm)

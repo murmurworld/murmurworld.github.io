@@ -7,7 +7,7 @@ AWS charges for computing, storage and database services. Retail sales, third-pa
 
 | Basic information | Details |
 | --- | --- |
-| Principal office | Seattle,, Washington |
+| Principal office | Seattle, Washington |
 | Operations | Fulfillment and delivery facilities, physical stores and AWS data centers |
 | Listing and symbol | Nasdaq · AMZN |
 | Reported business lines | North America · International · Amazon Web Services |
@@ -29,11 +29,13 @@ AWS charges for computing, storage and database services. Retail sales, third-pa
 
 | Reporting period | Company operating update |
 | --- | --- |
-| 2026 Q2 | AWS sales reached USD 42.2 billion, compared with consolidated net sales of USD 200.6 billion. [Company results or filing](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/) |
+| 2026 Q3 | AWS revenue reached USD 45.984 billion, up 39% from a year earlier. This segment collects fees from businesses that use cloud computing, storage and databases. [Quarterly report](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/amzn-20260930.htm) |
 
 ## Who buys it
 
 Shoppers, marketplace merchants, advertisers and cloud customers each purchase a different service from the same group.
+
+When an independent seller sells through Amazon, the seller is the merchant of record. Amazon earns a commission and, when applicable, fulfillment and shipping fees. The gross merchandise purchase and Amazon's recognized seller-service revenue measure different things. [Customer and distribution disclosures](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm)
 
 ### Revenue by geography
 
@@ -128,8 +130,7 @@ A subtotal can include the product lines beneath it. Segment, product and geogra
 - [10-K](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm) · 2026-02-06
 - [10-Q](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm) · 2026-07-31
 - [10-Q](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/0001018724-26-000040-index.htm) · 2026-10-30
-- [Company results or filing](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/) · 2026-07-30
-- [Filing cover](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/amzn-20260930.htm) · 2026-10-30
+- [Quarterly report](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/amzn-20260930.htm) · 2026-10-30
 - [10-K](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/0001018724-26-000004-index.htm) · 2026-02-06
 - [10-Q](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/0001018724-26-000026-index.htm) · 2026-07-31
 - [10-Q](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/0001018724-26-000014-index.htm) · 2026-04-30

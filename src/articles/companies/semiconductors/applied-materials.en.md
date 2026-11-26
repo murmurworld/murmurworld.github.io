@@ -31,6 +31,8 @@ Applied Materials makes and services equipment that deposits, removes, modifies 
 
 Chip and display makers order capital equipment. Service customers purchase parts, maintenance and upgrades for their installed tools.
 
+Two unnamed customers contributed approximately 20% and 14% of revenue for the nine months ended July 26, 2026. No other individual customer exceeded 10%. [10-Q](https://www.sec.gov/Archives/edgar/data/6951/000162828026058235/amat-20260726.htm)
+
 ### Revenue by geography
 
 | USD billion | 2023-10-29 | 2024-10-27 | 2025-10-26 |

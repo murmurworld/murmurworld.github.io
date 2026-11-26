@@ -69,7 +69,7 @@ The installed base includes about 50,000 commercial engines and 30,000 military 
 | Service | 4.961 | 5.27 | 5.426 |
 | Product | 4 | 4.208 | 5.128 |
 | Corporate Reconciling Items and Eliminations | 2.532 | 2.343 | 1.987 |
-| Difference to reported total | 0 | 0 | 0 |
+| Difference to reported total (calculated) | 0 | 0 | 0 |
 
 ### Revenue by product or service
 

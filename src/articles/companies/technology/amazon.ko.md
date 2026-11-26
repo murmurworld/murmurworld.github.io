@@ -7,7 +7,7 @@ description: "온라인·오프라인 매장에서 상품을 팔고, 외부 판�
 
 | 기본 정보 | 내용 |
 | --- | --- |
-| 본사·본점 | Seattle,, Washington |
+| 본사·본점 | Seattle, Washington |
 | 주요 사업장 | 풀필먼트센터·배송 거점·매장·AWS 데이터센터 |
 | 상장·종목 | Nasdaq · AMZN |
 | 공시 사업 구분 | 북미 · 해외 · AWS (아마존 웹 서비스) |
@@ -29,11 +29,13 @@ description: "온라인·오프라인 매장에서 상품을 팔고, 외부 판�
 
 | 회사 발표 기간 | 제품·사업 지표 |
 | --- | --- |
-| 2026년 2분기 | AWS 매출은 422억 달러였다. 이 기간 아마존 연결 순매출은 2,006억 달러였다. [회사 실적 발표·공시](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/) |
+| 2026년 3분기 | AWS 매출은 459억 8,400만 달러로 전년 동기보다 39% 늘었다. 이 부문 매출에는 기업이 빌려 쓰는 서버와 저장 공간, 데이터베이스 등 클라우드 서비스 이용료가 들어간다. [분기보고서](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/amzn-20260930.htm) |
 
 ## 누구에게 파나
 
 소비자는 상품과 멤버십을, 입점 판매자는 중개·물류를, 광고주는 광고를, 기업 고객은 클라우드를 구매한다.
+
+아마존에서 제3자 판매자가 올린 물건을 사면 상품을 판 당사자는 그 판매자다. 아마존은 판매자에게 수수료를 청구하고 배송·물류를 대신한 경우 관련 서비스 비용도 받는다. 주문 총액이 그대로 아마존 매출에 잡히는 직접판매와 구분되는 지점이다. [고객·판매 경로 공시](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm)
 
 ### 지역별 매출
 
@@ -128,8 +130,7 @@ description: "온라인·오프라인 매장에서 상품을 팔고, 외부 판�
 - [10-K](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm) · 2026-02-06
 - [10-Q](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm) · 2026-07-31
 - [10-Q](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/0001018724-26-000040-index.htm) · 2026-10-30
-- [회사 실적 발표·공시](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/) · 2026-07-30
-- [공시 표지](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/amzn-20260930.htm) · 2026-10-30
+- [분기보고서](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/amzn-20260930.htm) · 2026-10-30
 - [10-K](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/0001018724-26-000004-index.htm) · 2026-02-06
 - [10-Q](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/0001018724-26-000026-index.htm) · 2026-07-31
 - [10-Q](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/0001018724-26-000014-index.htm) · 2026-04-30

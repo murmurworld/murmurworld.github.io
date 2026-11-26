@@ -7,7 +7,7 @@ Mastercard processes payment messages between participating banks and supplies f
 
 | Basic information | Details |
 | --- | --- |
-| Principal office | Purchase,, NY |
+| Principal office | Purchase, NY |
 | Operations | Payment network processing, technology and customer service centers |
 | Listing and symbol | NYSE · MA |
 | Reportable segments | One reportable segment |

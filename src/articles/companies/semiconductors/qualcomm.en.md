@@ -34,6 +34,8 @@ Qualcomm sells application processors and cellular modems to device makers. A se
 
 Device makers buy chips through the semiconductor business and license cellular technology through a separate business.
 
+Customer/licensee x generated 22% of FY2026 revenue and y generated 20%. Qualcomm uses letters for the counterparties. A handset producer can buy chips and also pay licensing fees. [10-K](https://www.sec.gov/Archives/edgar/data/804328/000080432826000128/qcom-20260927.htm)
+
 ## The numbers
 
 ### Annual consolidated results
@@ -55,7 +57,7 @@ Device makers buy chips through the semiconductor business and license cellular 
 | Automotive | 1.872 | 2.91 | 3.957 |
 | QTL | 5.306 | 5.572 | 5.582 |
 | QSI | 0.028 | 0.018 | 0 |
-| Difference to reported total | 0.104 | 0.176 | 0.335 |
+| Difference to reported total (calculated) | 0.104 | 0.176 | 0.335 |
 
 ### Consolidated results for individual quarters
 

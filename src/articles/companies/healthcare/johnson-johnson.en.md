@@ -33,6 +33,8 @@ Innovative Medicine sells prescription products. MedTech sells devices used in s
 
 Drug wholesalers and health systems buy medicines, while hospitals, surgeons' organizations and distributors are important buyers of medical technology.
 
+Three wholesalers distributing products from both segments represented approximately 21.8%, 15.5% and 11.1% of Johnson & Johnson's 2025 gross revenues. The note does not name them. The denominator is gross revenue, before adjustments used to reach net sales. [Customer and distribution disclosures](https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/jnj-20251228.htm)
+
 ### Revenue by geography
 
 | USD billion | 2023-12-31 | 2024-12-29 | 2025-12-28 |
@@ -65,7 +67,7 @@ Drug wholesalers and health systems buy medicines, while hospitals, surgeons' or
 | ZYTIGA | 0.887 | 0.631 | 0.502 |
 | TALVEY | 0.063 | 0.287 | 0.463 |
 | Other Oncology | 0.328 | 0.317 | 0.376 |
-| Other (difference to reported subtotal) | 0.395 | 0.549 | 0.67 |
+| Difference to reported total (calculated) | 0.395 | 0.549 | 0.67 |
 | Immunology | 18.052 | 17.828 | 15.728 |
 | Stelara | 10.858 | 10.361 | 6.078 |
 | Tremfya | 3.147 | 3.67 | 5.155 |

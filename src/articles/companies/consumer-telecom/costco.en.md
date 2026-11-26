@@ -33,6 +33,8 @@ Costco sells goods through membership warehouses. Merchandise sales and membersh
 
 Members pay a recurring fee for access and then buy goods in warehouses or through digital channels. Membership income is a separate line from merchandise sales.
 
+A Costco member pays for two different things. Merchandise purchases generate sales. The annual fee buys ongoing access and is recognized over the membership period. A shopping basket and a membership renewal therefore enter different revenue lines. [Customer and distribution disclosures](https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm)
+
 ## The numbers
 
 ### Annual consolidated results
