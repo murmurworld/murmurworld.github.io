@@ -16,10 +16,10 @@ We signed up for the Bespoke AI Steam Ultra (VR90F01AAG) through Samsung AI Subs
 
 With the robot docked, it’s 444 mm wide, 520 mm high and 510 mm deep. Samsung also makes a similarly named version that hooks up to a water supply and drain. [Samsung dock features](https://www.samsung.com/sec/vacuum-cleaners/jetbot-vr90f01aa-d2c/VR90F01AAG/) · [Water hookup model specs](https://www.samsung.com/sec/support/model/VR90F01SAG/)
 
-## Models AI helped us find
+## Models we considered
 
 <div class="guide-panel">
-  <table aria-label="Robot vacuums AI helped us find and the model we chose" aria-describedby="robot-candidate-note">
+  <table aria-label="Robot vacuums we considered and the model we chose" aria-describedby="robot-candidate-note">
     <colgroup><col style="width: 35%"><col style="width: 22%"><col></colgroup>
     <thead><tr><th scope="col">Model</th><th scope="col">Buy outright</th><th scope="col">Height and features</th></tr></thead>
     <tbody>
@@ -32,7 +32,7 @@ With the robot docked, it’s 444 mm wide, 520 mm high and 510 mm deep. Samsung 
   <p class="guide-note" id="robot-candidate-note">Prices are rounded public online prices for buying a single unit in Korea, recorded in July and August 2026. For a subscription, multiply the monthly payment by the term and check what care it includes.</p>
 </div>
 
-AI looked for models assuming 12 cm of space under a bed. The Samsung we chose won’t fit under the sofa we ordered, either. If you want yours to clean under furniture, measure the lowest point inside as well as the opening.
+When comparing models, we assumed 12 cm of clearance under the bed. The Samsung we chose won’t fit under the sofa we ordered. If you want yours to clean under furniture, measure the lowest point inside as well as the opening.
 
 ## What we’ll check at setup
 

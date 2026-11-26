@@ -23,7 +23,7 @@ This model connects to the water supply and filters water as it dispenses it. Sa
 The HAF-HIM replacement set has two filter cartridges. Samsung recommends a 12-month interval and says to change both when the replacement alert appears.
 
 <section>
-  <h2 id="purifier-comparison">Models we found with AI</h2>
+  <h2 id="purifier-comparison">Models we considered</h2>
   <p>The ice-making model took up more counter space and cost more upfront. Some of the other models came up as rentals, so the table shows which figures are monthly and which are outright prices.</p>
   <div class="guide-panel">
     <table aria-labelledby="purifier-comparison" aria-describedby="purifier-size-note">

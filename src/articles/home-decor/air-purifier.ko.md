@@ -14,10 +14,10 @@ description: "쓰던 삼성 AX40 계열과 같이 쓸 삼성 인피니트 AI 33�
 
 우리가 고른 S 필터형은 극세필터, 집진필터, 숯 탈취필터를 한 세트로 교체한다. 같은 33㎡여도 리유저블형은 집진부를 꺼내 씻어 쓴다. 100㎡ 리유저블형 설명서에는 씻은 집진부를 직사광선이 닿지 않는 곳에서 12시간 이상 말리라고 되어 있다. [삼성 리유저블 필터 관리 안내](https://www.samsung.com/sec/air-cleaner/air-purifier-ap90h10198dd-d2c/AP90H10198EDD/)
 
-## AI로 찾아 둔 후보
+## 미리 찾아본 후보
 
 <div class="guide-panel">
-  <table aria-label="AI로 찾아 둔 공기청정기 후보와 최종 모델" aria-describedby="air-purifier-specs">
+  <table aria-label="비교한 공기청정기 후보와 계약 모델" aria-describedby="air-purifier-specs">
     <colgroup><col style="width: 34%"><col style="width: 22%"><col></colgroup>
     <thead><tr><th scope="col">제품</th><th scope="col">구매가</th><th scope="col">청정면적과 관리</th></tr></thead>
     <tbody>

@@ -86,7 +86,7 @@ The LG has a grade 1 energy rating and the Samsung a grade 2 rating. On the manu
 
 The refrigerator figure in [our five-appliance energy estimate](/en/blog/home/decor/energy/#our-appliances) is Samsung’s listed 38.5 kWh.
 
-## Options We Found with AI
+## Models we considered
 
 The 800-liter models offered more storage. The shallower 600-liter models would stick out less from the cabinets. The two with recorded prices were also more expensive.
 

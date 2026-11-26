@@ -23,7 +23,7 @@ description: "얼음 기능을 뺀 삼성 비스포크 AI 정수기를 주문했
 교체용 HAF-HIM은 필터 두 개가 한 세트다. 제조사 권장 교체 주기는 12개월이고, 알림이 오면 두 개를 함께 바꾼다.
 
 <section>
-  <h2 id="purifier-comparison">AI로 찾아 둔 후보</h2>
+  <h2 id="purifier-comparison">미리 찾아본 후보</h2>
   <p>얼음정수기는 폭도 가격도 차이가 컸다. 일반 정수기 중에는 렌탈 후보도 있어서 일시불 가격과 월 납입액을 따로 표시했다.</p>
   <div class="guide-panel">
     <table aria-labelledby="purifier-comparison" aria-describedby="purifier-size-note">
