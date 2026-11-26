@@ -16,10 +16,10 @@ description: "쓰던 청소기로도 충분하다는 짝꿍과 로봇청소기�
 
 로봇을 도크에 댄 상태로 폭 444mm, 높이 520mm, 깊이 510mm다. 비슷한 이름으로 수도와 배수관에 연결하는 모델도 있다. [삼성 도크 설명](https://www.samsung.com/sec/vacuum-cleaners/jetbot-vr90f01aa-d2c/VR90F01AAG/) · [자동 급배수 모델 사양](https://www.samsung.com/sec/support/model/VR90F01SAG/)
 
-## AI로 찾아 둔 후보
+## 미리 찾아본 후보
 
 <div class="guide-panel">
-  <table aria-label="AI로 찾아 둔 로봇청소기 후보와 최종 모델" aria-describedby="robot-candidate-note">
+  <table aria-label="비교한 로봇청소기 후보와 계약 모델" aria-describedby="robot-candidate-note">
     <colgroup><col style="width: 35%"><col style="width: 22%"><col></colgroup>
     <thead><tr><th scope="col">모델</th><th scope="col">구매가</th><th scope="col">높이와 특징</th></tr></thead>
     <tbody>
@@ -32,7 +32,7 @@ description: "쓰던 청소기로도 충분하다는 짝꿍과 로봇청소기�
   <p class="guide-note" id="robot-candidate-note">구매가는 2026년 7~8월 조사 때 기록한 국내 공개 온라인 단품가를 반올림했다. 구독으로 비교할 땐 월 요금에 계약 개월 수를 곱하고 관리 범위도 함께 본다.</p>
 </div>
 
-AI는 침대 아래에 12cm가 비었다고 가정하고 후보를 추렸다. 실제로 주문한 소파 아래에도 우리가 고른 삼성 모델은 들어가지 않는다. 가구 밑을 청소할 거라면 입구와 안쪽에서 가장 낮은 부분을 먼저 재는 게 좋다.
+후보를 추릴 때는 침대 아래에 12cm 여유가 있다고 가정했다. 실제로 주문한 소파 아래로는 우리가 고른 삼성 모델이 들어가지 않는다. 가구 밑을 청소할 거라면 입구와 안쪽에서 가장 낮은 부분을 먼저 재는 게 좋다.
 
 ## 설치할 때 확인할 것
 

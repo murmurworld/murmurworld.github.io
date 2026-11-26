@@ -14,10 +14,10 @@ We’re taking the Samsung AX40-series purifier we already use to our new place.
 
 Our model uses a replaceable S filter that combines a prefilter, a particle filter and a charcoal filter. The other 33 m² model has a particle collector you take out and wash. Samsung specifies at least 12 hours of drying out of direct sunlight for the 100 m² model’s washable collector. [Samsung’s instructions for the reusable filter](https://www.samsung.com/sec/air-cleaner/air-purifier-ap90h10198dd-d2c/AP90H10198EDD/)
 
-## Models AI helped us find
+## Models we considered
 
 <div class="guide-panel">
-  <table aria-label="Air purifiers AI helped us find and the model we chose" aria-describedby="air-purifier-specs">
+  <table aria-label="Air purifiers we considered and the model we chose" aria-describedby="air-purifier-specs">
     <colgroup><col style="width: 34%"><col style="width: 22%"><col></colgroup>
     <thead><tr><th scope="col">Model</th><th scope="col">Buy outright</th><th scope="col">Rated area and upkeep</th></tr></thead>
     <tbody>

@@ -3,7 +3,7 @@ title: "Why We Bought Our Appliances at a Department Store"
 description: "How we chose five appliances for our first home, with the models and prices we compared and how to weigh buying outright against a subscription."
 ---
 
-My partner had used AI to put together a list of appliances. The department store quoted us less for a bundle of five. I liked the Kitchen Fit fridge. My partner was still on the fence about the robot vacuum. We already had a vacuum at home, after all.
+My partner had put together a list of appliances. The department store quoted us less for a bundle of five. I liked the Kitchen Fit fridge. My partner was still on the fence about the robot vacuum. We already had a vacuum at home, after all.
 
 <figure class="guide-photo">
   <img src="/media/newsroom/samsung-kfm-showcase-couple.jpg" width="1000" height="735" alt="Two people stand beside a Kitchen Fit Max refrigerator with its Food Showcase door open" fetchpriority="high" decoding="async">
@@ -18,7 +18,7 @@ My partner had used AI to put together a list of appliances. The department stor
   </dl>
 </aside>
 
-<h2 id="appliance-comparison">Shortlist from AI research</h2>
+<h2 id="appliance-comparison">Models we considered</h2>
 <p>In summer 2026, we found standalone prices online of about ₩1.63 million for the LG side-by-side fridge and ₩600,000 for the Ecovacs robot vacuum. Each appliance below links to the prices we found, the trade-offs and what we ordered.</p>
 
 <div class="guide-panel">

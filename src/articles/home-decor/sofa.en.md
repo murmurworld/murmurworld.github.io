@@ -1,29 +1,50 @@
 ---
-title: "Why I Had One Side of Our Sofa Made Longer"
-description: "We ordered an ivory Monocus Leel from the Yongsan I’Park Mall showroom. I compare the prices, covers and dimensions we noted for three other sofas."
+title: "The Monocus Leel Sofa We Had Made for Our First Home"
+description: "We picked ivory faux leather for our Monocus Leel at Yongsan I’Park Mall and had one side made longer. Here’s how we chose the 2.9 m layout and the upholstery also used on the Loyce."
 ---
 
-There was a promotion on when we visited the Monocus showroom at Yongsan I’Park Mall. The black Leel on display was the first thing I noticed. I loved how it looked. For our place, I chose ivory in a faux leather the store had just introduced.
+There was a promotion on when we visited Monocus at Yongsan I’Park Mall. The black **Leel** on display caught my eye as soon as I walked in. I kept coming back to the black, but for our place I ordered the ivory faux leather the showroom had just introduced. [Official Leel photos and product details](https://monocus.co.kr/product/?idx=3)
 
-Pen marks wiped off cleanly, with no visible trace on the surface. The manager told us the upholstery was designed to hold up well to cat and dog claws. The goose-filled seat cushions felt more luxurious than our bed. The sofa also comes with three generous back cushions in the same faux leather.
+## One side to sit on, one to stretch out on
 
-My favorite part was **getting to make room to lie down**. We ordered ours about 2.9 m wide, with one short section and one long enough for me to stretch out. I had plenty of questions about the material and the lengths of the two sections. The manager took the time to go through them with us.
+What I liked most about the Leel was that we could choose the lengths of its two sections separately. We went with an overall width of **about 2.9 m**, with one short section and one long enough for me to stretch out with my legs straight. The three large back cushions are covered in the same ivory faux leather.
 
-<h2 id="sofa-options">Sofas We Found with AI</h2>
-<p>My partner used AI to shortlist light-colored modular fabric sofas before we went to the showroom. We looked at whether we could wash the covers, how much floor space each sofa would take and whether our robot vacuum might fit underneath.</p>
+At first, I wanted the robot vacuum to fit under the sofa. We gave up that clearance with the layout we chose. The showroom staff talked us through the upholstery and the length of each section, which made it easier to pick where the long side would go.
 
-<div class="guide-panel">
-  <table aria-labelledby="sofa-options" aria-describedby="sofa-price-note">
-    <colgroup><col style="width: 32%"><col><col></colgroup>
-    <thead><tr><th scope="col">Model and price at the time</th><th scope="col">What worked</th><th scope="col">What to check</th></tr></thead>
-    <tbody>
-      <tr><th scope="row"><a href="https://www.ikea.com/kr/ko/p/jaettebo-2-5-seat-mod-sofa-w-chaise-longue-left-axvall-off-white-s29617417/">IKEA JÄTTEBO</a><br>2.5 seats + chaise<br>About ₩1.5–1.6m</th><td>Storage under the seats. The off-white <a href="https://www.ikea.com/kr/ko/p/jaettebo-cover-1-5-seat-module-with-storage-axvall-off-white-50622370/">bouclé cover</a> is washable and sold separately.</td><td>The chaise is 160 cm deep, so it takes up room in front of the sofa.</td></tr>
-      <tr><th scope="row"><a href="https://www.ikea.com/kr/ko/p/soederhamn-3-seat-sofa-viarp-beige-brown-s29305699/">IKEA SÖDERHAMN</a><br>3 seats<br>About ₩800,000</th><td>Washable cover and 14 cm of clearance underneath.</td><td>The seat is 40 cm high. The frame package is 192 cm long, so check if it can turn through the entryway.</td></tr>
-      <tr><th scope="row"><a href="https://jacksonchameleon.co.kr/product/pebble-sofa-fabric/4819/">Jackson Chameleon Pebble</a><br>2-seater B<br>Estimated ₩2m</th><td>Rounded modules and a range of fabrics. The 2-seater B is 198 cm wide.</td><td>Care instructions and the quote depend on the fabric.</td></tr>
-      <tr><th scope="row"><a href="https://monocus.co.kr/product/?idx=3">Monocus Leel</a><br>Custom ivory<br>Store quote</th><td>We chose the roughly 2.9 m width and made one side longer. I liked the goose-filled cushions.</td><td>Our robot vacuum won’t fit under the configuration we ordered.</td></tr>
-    </tbody>
-  </table>
-  <p class="guide-note" id="sofa-price-note">These are the online prices and configuration estimates we noted in August 2026. Fabric, module choices and delivery affect the total.</p>
+## The faux leather also used on the Loyce
+
+The showroom told me the faux leather I picked for our Leel is also used on the **Loyce**. In the showroom, the pen mark wiped off cleanly without leaving a visible trace. The staff also said the material holds up well to cat and dog claws.
+
+<div class="sofa-figures">
+  <figure class="guide-photo">
+    <img src="/media/monocus-sofa/loyce-profile.webp" width="596" height="242" alt="A dark brown Loyce sofa with an extended seat on the right and a cushion at each arm" loading="lazy" decoding="async">
+    <figcaption>The dark brown Loyce with a chaise-like extension. Excerpt from the <a href="https://monocus.co.kr/product/?idx=5">Monocus Loyce guide</a>.</figcaption>
+  </figure>
+  <figure class="guide-photo">
+    <img src="/media/monocus-sofa/loyce-layouts.webp" width="354" height="248" alt="Diagrams and product views of the four-seat and five-seat Loyce layouts" loading="lazy" decoding="async">
+    <figcaption>Four-seat and five-seat Loyce layouts. Excerpt from the <a href="https://monocus.co.kr/product/?idx=5">Monocus Loyce guide</a>.</figcaption>
+  </figure>
 </div>
 
-The ready-made sofas with a chaise also looked appealing. I ordered the Leel because I could choose the color and size each section for our living room. I think I’ll be claiming the long side first.
+## How the goose-fill cushion felt
+
+The goose-fill seat cushion had a soft give when I sat down. For a moment it felt more luxurious than the bed we were using. In the Monocus cushion guide, you can see a layer of high-density foam sitting between two layers of goose fill blended with fiber.
+
+<div class="sofa-figures">
+  <figure class="guide-photo">
+    <img src="/media/monocus-sofa/cushion-demo.webp" width="534" height="400" alt="Side-by-side views of a brown seat cushion being pressed and released" loading="lazy" decoding="async">
+    <figcaption>The cushion under a hand, then after the pressure is released. Excerpt from the Monocus cushion guide.</figcaption>
+  </figure>
+  <figure class="guide-photo">
+    <img src="/media/monocus-sofa/cushion-layers.webp" width="248" height="266" alt="A cutaway showing high-density foam between two layers of goose fill and fiber" loading="lazy" decoding="async">
+    <figcaption>The goose-fill and fiber layers around the foam. Excerpt from the Monocus cushion guide.</figcaption>
+  </figure>
+</div>
+
+<h2 id="sofa-options">Other sofas from Monocus</h2>
+
+- **Loyce** has clean lines and a broad seat. The catalog also shows a layout with an extended seat. [Official Loyce photos](https://monocus.co.kr/product/?idx=5)
+- **Stella** has softer curves and a backrest shaped to support you as you sit. [Official Stella photos](https://monocus.co.kr/product/?idx=4)
+- **Lily** is a rounded modular sofa inspired by the lily flower. [Official Lily photos](https://monocus.co.kr/product/?idx=6)
+
+The owner of Monocus also runs a bed business, so we bought our bed from them as well.

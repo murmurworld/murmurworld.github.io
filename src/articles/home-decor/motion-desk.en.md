@@ -11,7 +11,7 @@ When two people share a desk, the height that feels right changes along with the
 
 The desks also differed in how high they could go. The Fiture E2 was the least expensive option. The IKEA MITTZON offered an 80 cm-deep top and two presets for just under ₩500,000. If you want to fit a monitor and a laptop on the same desk, check the depth as well as the width.
 
-## Models we found with AI
+## Models we considered
 
 <div class="guide-panel">
   <table aria-label="Height-adjustable desks we considered and the desk we chose" aria-describedby="motion-desk-note">

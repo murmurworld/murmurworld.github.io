@@ -12,9 +12,9 @@ There was enough room in the utility room to stack a dryer on top of the washer.
 
 We ordered the Samsung Bespoke AI Combo WD90H25AHY. It holds up to 25 kg for washing and 20 kg for drying. The door can open as soon as the cycle ends or five minutes later. You can switch the feature off as well. [Samsung’s Auto Open Door settings](https://www.samsung.com/sec/laundry-combo/combo-wd90h25ahy-d2c/WD90H25AHY/)
 
-## Options We Found with AI
+## Models we considered
 
-The AI shortlist gave us one stacked set and three combos to compare. All three combos could wash 25 kg, but their drying limits ranged from 15 to 20 kg. The drying limit is the one that matters if you want the whole load to go straight through.
+We compared one stacked set and three combos. All three combos could wash 25 kg, but their drying limits ranged from 15 to 20 kg. The drying limit is the one that matters if you want the whole load to go straight through.
 
 <div class="guide-panel">
   <table aria-label="Washer-dryer options and the model we ordered" aria-describedby="washer-price-note">
