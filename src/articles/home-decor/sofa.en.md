@@ -30,7 +30,7 @@ They told us it was a new material they also used on the Loyce, and that it held
 <div class="sofa-figures">
   <figure class="guide-photo">
     <img src="/media/monocus-sofa/leel-ivory-front.webp" width="636" height="552" alt="An ivory Leel in a bright living room, with three matching back cushions across its wide seats." loading="lazy" decoding="async">
-    <figcaption>The Leel in ivory, seen from the front. For ours, we ordered three large back cushions in the same faux leather as the sofa.</figcaption>
+    <figcaption>The Leel in ivory, seen from the front. Ours came with three large back cushions in the same faux leather as the sofa.</figcaption>
   </figure>
   <figure class="guide-photo">
     <img src="/media/monocus-sofa/leel-camel-arm.webp" width="544" height="421" alt="The low arm of a camel-colored Leel beside the stitched edge of its thick seat cushion." loading="lazy" decoding="async">
