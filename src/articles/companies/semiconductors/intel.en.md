@@ -33,7 +33,9 @@ Intel designs PC and server CPUs and runs wafer factories. Intel Foundry also of
 
 | Reporting period | Company operating update |
 | --- | --- |
-| 2026 Q3 | Data Center and AI generated USD 7.3 billion and Client Computing and Graphics USD 8.1 billion. [Company results or filing](https://www.sec.gov/Archives/edgar/data/50863/000005086326000191/intc-20260926.htm) |
+| 2026 Q3 | Data Center and AI generated USD 7.3 billion and the Client Computing and Physical AI Group (CCPG, formerly CCG) generated USD 8.1 billion. [Company results or filing](https://www.sec.gov/Archives/edgar/data/50863/000005086326000191/intc-20260926.htm) |
+
+A Xeon 6 package connects compute dies made on Intel 3 with I/O dies made on Intel 7. For some other products Intel turns to TSMC to fabricate individual dies. In the third quarter of 2026, Intel Foundry reported $6.7 billion in revenue, of which $411 million came from external customers. [Intel annual filing on manufacturing](https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm) · [Quarterly filing on foundry revenue](https://www.intc.com/filings-reports/all-sec-filings/content/0000050863-26-000191/intc-20260926.htm)
 
 ## Who buys it
 

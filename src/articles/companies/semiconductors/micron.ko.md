@@ -30,7 +30,7 @@ DRAM(HBM 포함)·NAND·NOR 메모리와 SSD를 만들어 데이터센터·PC·�
 | NAND·SSD | NAND는 전원을 꺼도 데이터를 보존하는 플래시 칩이다. SSD는 이 칩에 읽기·쓰기를 관리하는 컨트롤러를 더한 저장장치다. |
 | NOR 플래시 | 자동차와 산업 기기가 켜질 때 쓰는 작은 메모리다. |
 
-엔비디아 H200에 들어가는 마이크론 HBM3E는 DRAM 8장을 쌓은 24GB 제품이다. 베라 루빈(Vera Rubin)용 HBM4는 12장을 쌓아 36GB를 담고, 2026년 1분기에 양산 출하를 시작했다. 여기서 24GB와 36GB는 각각 메모리 스택 한 개의 용량이다. [H200용 HBM3E](https://www.micron.com/products/memory/hbm/hbm3e) · [베라 루빈용 HBM4 출하 발표](https://investors.micron.com/news/press-release/2026/Micron-in-High-Volume-Production-of-HBM4-Designed-for-NVIDIA-Vera-Rubin-PCIe-Gen6-SSD-and-SOCAMM2-03-16-2026/default.aspx)
+엔비디아 H200에 들어가는 마이크론 HBM3E는 DRAM 8장을 쌓은 24GB 제품이다. 베라 루빈(Vera Rubin)용 HBM4는 12장을 쌓아 36GB를 담고, 2026년 1분기에 양산 출하를 시작했다. 24GB와 36GB는 각각 스택 하나의 용량이다. H200 SXM 사양표에 나오는 141GB는 여러 스택을 합쳐 GPU 한 개가 쓸 수 있는 용량이다. [마이크론의 H200용 HBM3E 양산 발표](https://investors.micron.com/news/press-release/2024/Micron-Commences-Volume-Production-of-Industry-Leading-HBM3E-Solution-to-Accelerate-the-Growth-of-AI-02-26-2024/default.aspx) · [엔비디아 H200 SXM 사양](https://docs.nvidia.com/enterprise-reference-architectures/hgx-ai-factory-h100-h200-b200/latest/components.html) · [베라 루빈용 HBM4 출하 발표](https://investors.micron.com/news/press-release/2026/Micron-in-High-Volume-Production-of-HBM4-Designed-for-NVIDIA-Vera-Rubin-PCIe-Gen6-SSD-and-SOCAMM2-03-16-2026/default.aspx)
 
 | 회사 발표 기간 | 제품·사업 지표 |
 | --- | --- |

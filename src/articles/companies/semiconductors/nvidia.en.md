@@ -48,6 +48,8 @@ NVIDIA names Samsung Electronics, SK hynix and Micron as memory suppliers in its
 | Vera Rubin | Micron HBM4 | Micron reported volume shipments of its 12-high, 36 GB stack designed for Rubin in the first quarter of 2026. [Micron shipment announcement](https://investors.micron.com/news/press-release/2026/Micron-in-High-Volume-Production-of-HBM4-Designed-for-NVIDIA-Vera-Rubin-PCIe-Gen6-SSD-and-SOCAMM2-03-16-2026/default.aspx) |
 | GeForce RTX 3090 | Micron GDDR6X | This gaming GPU reads graphics data such as textures from GDDR6X. The 24 GB specification is the total graphics memory on one card. [Supplier announcement and card specifications](/en/stocks/?company=NVDA&case=micron-geforce-gddr6x#case-micron-geforce-gddr6x) |
 
+Follow the connections from memory to the server board. In TSMC’s CoWoS-S packaging, a silicon interposer carries dense wiring between GPU and HBM. Beneath it, the package substrate carries connections out to the board. Samsung Electro-Mechanics announced a contract for package substrates; Samsung Electronics makes HBM that holds the data. The substrate announcement does not name the H200. [TSMC packaging cross-section](https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/cowos.htm) · [Samsung Electro-Mechanics agreement](https://www.samsungsem.com/global/newsroom/news/view.do?id=10614)
+
 ## Who buys it
 
 Cloud operators, server manufacturers, enterprise buyers and PC graphics partners use different parts of the platform.

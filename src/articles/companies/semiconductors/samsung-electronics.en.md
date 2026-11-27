@@ -34,7 +34,7 @@ Samsung Electronics designed its HBM4 for NVIDIA’s Vera Rubin platform and put
 
 | Reporting period | Company operating update |
 | --- | --- |
-| 2026 Q3 | Device Solutions represented 71.2% of consolidated revenue for January–September, compared with 39.0% for full-year 2025. [Company results or filing](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001482) |
+| 2026 Q3 | Device Solutions revenue rose to KRW 356.3 trillion in January–September from KRW 86.1 trillion a year earlier. Segment sales include dealings within Samsung, which are eliminated in consolidated revenue. [Filing · operating segments](https://dart.fss.or.kr/report/viewer.do?rcpNo=20261116001482&dcmNo=11660641&eleId=52&offset=1445787&length=127943&dtd=dart4.xsd) |
 
 ## Who buys it
 

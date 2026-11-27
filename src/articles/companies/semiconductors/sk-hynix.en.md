@@ -30,7 +30,7 @@ The Vera Rubin superchip SK hynix exhibited carried two kinds of memory. A 12-hi
 
 **NAND flash and SSDs.** NAND retains data without power. A solid-state drive combines flash with a controller that manages reads and writes. Phone and IT equipment makers, SSD manufacturers and memory card makers buy these products. SK hynix reports developing 321-layer quad-level-cell NAND, which stores four bits per memory cell. It also serves the enterprise SSD market with its subsidiary Solidigm.
 
-**Foundry.** A foundry manufactures chips designed by other companies. The filing mentions this activity without breaking out its revenue.
+**Foundry.** SK hynix system ic and SK keyfoundry make chips designed by their customers. SK hynix also takes the customer role: its HBM4 memory stack uses TSMC logic technology for the base die at the bottom. [SK hynix filing on its foundry business](https://www.sec.gov/Archives/edgar/data/2120882/000119312526299963/d32785d424b4.htm) · [SK hynix and TSMC on HBM4](https://news.skhynix.com/en/sk-hynix-partners-with-tsmc-to-strengthen-hbm-technological-leadership/)
 
 ### Volume and pricing, July–September 2026
 

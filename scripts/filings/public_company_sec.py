@@ -11,6 +11,7 @@ from pathlib import PurePosixPath
 from urllib.parse import quote, urlsplit
 from xml.etree import ElementTree
 import re
+from issuer_alphabet import alphabet_tables, segment_dimension
 
 
 SEC = "https://data.sec.gov"
@@ -47,6 +48,10 @@ CURRENCIES = {"USD":"미 달러", "EUR":"유로", "CNY":"위안", "JPY":"엔", "
 
 
 def sec_cik(report):
+    if report["ticker"] == "XOM":
+        # July 1, 2026 successor registrant. Earlier annual reports belong to CIK 34088.
+        # https://www.sec.gov/Archives/edgar/data/2115436/000119312526291990/d71068d8k12b.htm
+        return 2115436
     if report["ticker"] == "RIO":
         # Joint annual filing of Rio Tinto plc and Rio Tinto Ltd; RIO ADR is the plc.
         return 863064
@@ -208,12 +213,12 @@ def segment_observations(xml,cik,currency):
         if not entity.isdigit() or int(entity)!=cik:
             continue
         members=ctx.findall(".//"+DIM+"explicitMember")
-        if len(members)!=1 or ctx.find(".//"+DIM+"typedMember") is not None:
+        dimension = segment_dimension(members, cik)
+        if not dimension or ctx.find(".//"+DIM+"typedMember") is not None:
             continue
-        mx=members[0]
         a,b=iso(ctx.findtext(XL+"period/"+XL+"startDate")),iso(ctx.findtext(XL+"period/"+XL+"endDate"))
         if a and b:
-            contexts[ctx.get("id")]=((a,b),mx.get("dimension","").split(":")[-1],(mx.text or "").split(":")[-1])
+            contexts[ctx.get("id")]=((a,b), *dimension)
     data=defaultdict(lambda:defaultdict(set))
     for fact in doc:
         where=contexts.get(fact.get("contextRef"))
@@ -235,6 +240,10 @@ def segment_observations(xml,cik,currency):
 
 def segment_tables(report,filing,currency,spans,consolidated,dimensional):
     """Publish comparable known business/product slices only if every column ties to its filing total."""
+    if report["ticker"] == "GOOGL":
+        detailed = alphabet_tables(report, filing, currency, spans, consolidated, dimensional, amount, table_base)
+        if detailed:
+            return detailed
     results=[]
     for category,axes in IX_AXIS.items():
         reference=next((t for t in report["annual"] if t["id"]==category and t["measure"]=="revenue"),None)

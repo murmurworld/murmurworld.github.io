@@ -40,7 +40,7 @@ SK하이닉스가 공개한 베라 루빈 실물에는 두 가지 메모리가 �
 
 ### 파운드리
 
-다른 회사가 설계한 칩을 만들어 주는 사업이다. 공시에는 병행한다는 말만 있고 규모는 나오지 않는다.
+SK하이닉스시스템아이씨와 SK키파운드리가 고객이 설계한 칩을 대신 만든다. 한편 SK하이닉스가 자체 HBM4의 맨 아래에 쓰는 로직 칩은 TSMC 공정을 이용한다. 고객 주문을 받아 제조하는 일과 메모리 제조사가 외부 공정을 이용하는 일이 같은 그룹에서 함께 일어난다. [SK하이닉스의 사업 설명](https://www.sec.gov/Archives/edgar/data/2120882/000119312526299963/d32785d424b4.htm) · [SK하이닉스·TSMC 공동 발표](https://news.skhynix.com/en/sk-hynix-partners-with-tsmc-to-strengthen-hbm-technological-leadership/)
 
 ### 2026년 3분기에 판 것 (직전 분기 대비, 회사 설명)
 

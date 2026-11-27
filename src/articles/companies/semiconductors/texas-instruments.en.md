@@ -28,11 +28,13 @@ Its analog chips manage power or read signals. Its embedded processors control f
 | --- | --- |
 | Analog power management | Voltage regulators and related devices convert and distribute electricity at the levels each part of a system needs. |
 | Analog signal chain | Amplifiers and converters turn a sensor's continuously varying signal into usable data or drive an output from digital instructions. |
-| Embedded processing | Microcontrollers and processors run dedicated tasks inside appliances, vehicles and factory equipment. Other operations include calculators and products outside the two main segments. |
+| Embedded processing | Microcontrollers and processors run dedicated tasks inside appliances, vehicles and factory equipment. |
 
 | Reporting period | Company operating update |
 | --- | --- |
 | 2026 Q3 | Analog revenue grew 32% year over year and Embedded Processing grew 21%. [Company results or filing](https://www.sec.gov/Archives/edgar/data/97476/000009747626000165/q32026txnex99-eredgar.htm) |
+
+Consider an EV plugged into an AC charging point. Its onboard charger converts AC power to DC for the battery. In TI’s announced collaboration with Delta Electronics, gallium nitride (GaN) power devices switch current, while a C2000 microcontroller times the switching. At a DC fast charger the AC conversion takes place in the station. [TI and Delta collaboration](https://www.ti.com/en-us/about-ti/newsroom/news-releases/2024/2024-06-21-texas-instruments-and-delta-electronics-announce-collaboration-to-advance-electric-vehicle-onboard-charging) · [TI charging diagrams](https://www.ti.com/lit/ta/sszta03/sszta03.pdf)
 
 ## Who buys it
 

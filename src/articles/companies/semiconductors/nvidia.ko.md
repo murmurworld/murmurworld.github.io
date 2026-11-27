@@ -48,6 +48,8 @@ AI 학습·추론용 데이터센터 컴퓨팅·네트워킹 제품과 게이밍
 | 베라 루빈 | 마이크론 HBM4 | 마이크론은 루빈용으로 설계한 12단 36GB 스택을 2026년 1분기부터 양산 출하했다고 밝혔다. [마이크론 출하 발표](https://investors.micron.com/news/press-release/2026/Micron-in-High-Volume-Production-of-HBM4-Designed-for-NVIDIA-Vera-Rubin-PCIe-Gen6-SSD-and-SOCAMM2-03-16-2026/default.aspx) |
 | 지포스 RTX 3090 | 마이크론 GDDR6X | 게임용 그래픽카드에는 화면을 그릴 때 쓸 데이터를 GDDR6X에 둔다. RTX 3090의 24GB는 카드 한 장에 달린 그래픽 메모리의 총용량이다. [공급 발표와 카드 사양](/stocks/?company=NVDA&case=micron-geforce-gddr6x#case-micron-geforce-gddr6x) |
 
+서버에 꽂히기까지 여러 회사가 손을 거친다. TSMC의 CoWoS-S 구조를 보면 GPU와 HBM 사이의 촘촘한 배선은 실리콘 인터포저가 맡는다. 그 아래 패키지 기판은 패키지와 바깥 보드를 전기적으로 잇는다. 삼성전기가 공급 계약을 발표한 부품은 이 기판이고, 삼성전자가 만드는 HBM은 데이터를 담는 별도 부품이다. 발표에는 H200의 기판 공급사까지 나오지는 않는다. [TSMC 패키징 구조](https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/cowos.htm) · [삼성전기 공급 계약](https://www.samsungsem.com/global/newsroom/news/view.do?id=10614)
+
 ## 누구에게 파나
 
 클라우드 사업자와 서버 제조사는 데이터센터 플랫폼을, 그래픽카드 업체와 PC 제조사는 그래픽 칩을 구매한다.

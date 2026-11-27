@@ -34,6 +34,8 @@ study:
 | --- | --- |
 | 2026년 3분기 | 아날로그 부문 매출은 전년보다 32%, 임베디드 부문은 21% 증가했다. [회사 실적 발표·공시](https://www.sec.gov/Archives/edgar/data/97476/000009747626000165/q32026txnex99-eredgar.htm) |
 
+전기차의 완속 충전기를 보면 TI가 파는 부품의 차이가 보인다. 차 안의 충전기는 외부 교류 전력을 배터리가 받는 직류로 바꾼다. TI와 델타일렉트로닉스가 발표한 공동 연구에서 질화갈륨(GaN) 전력 반도체는 전류를 빠르게 스위칭하고, C2000 마이크로컨트롤러는 스위치가 언제 켜지고 꺼질지 제어한다. 급속 DC 충전 때는 교류를 직류로 바꾸는 장치가 차 밖 충전소에 있다. [TI·델타 공동 연구](https://www.ti.com/en-us/about-ti/newsroom/news-releases/2024/2024-06-21-texas-instruments-and-delta-electronics-announce-collaboration-to-advance-electric-vehicle-onboard-charging) · [TI의 충전 회로도](https://www.ti.com/lit/ta/sszta03/sszta03.pdf)
+
 ## 누구에게 파나
 
 산업용 장비·자동차·전자기기 업체가 직접 또는 유통사를 통해 부품을 산다. 하나의 장비에도 여러 종류의 칩이 들어간다.
