@@ -10,7 +10,7 @@ I had a cotton sofa in mind for our first home together. I figured if I spilled 
   <figcaption>The black Leel in this Monocus photo is the version I saw in the showroom. From the <a href="https://monocus.co.kr/product/?idx=3">official Monocus Leel page</a>.</figcaption>
 </figure>
 
-The black Leel had big stitched squares on the seat, each one plump in the middle. I liked that I could see their shape over the low arms. When I sat down, I noticed how deep the seat was, too.
+The black Leel had low arms and large squares stitched into the seat. When I sat down, I noticed how deep it was.
 
 ## Three other Monocus designs in photos
 
@@ -23,7 +23,7 @@ These three product photos are from the Monocus website.
   <figcaption><a href="https://monocus.co.kr/product/?idx=5">Official Monocus Loyce photo</a></figcaption>
 </figure>
 
-The Loyce has two wide, smooth seats where the Leel has its plump stitched squares. A loose cushion leans against each arm.
+The Loyce has two wide, smooth seats. A loose cushion leans against each arm.
 
 ### Stella
 
