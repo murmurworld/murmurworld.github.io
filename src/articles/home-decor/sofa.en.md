@@ -1,20 +1,27 @@
 ---
 title: "Why We Had One Side of Our Monocus Leel Sofa Made Longer"
-description: "I went looking for washable fabric and fell for a black sofa at Yongsan I’Park Mall. Here’s how we ended up with an ivory faux-leather Leel and a 2.9 m layout with room to stretch out."
+description: "The Leel I fell for in Yongsan was black. Ours is ivory. Two photos from our living room show how the color has held up and why we made the window seat longer."
 ---
 
-Almost every sofa I’d saved for our first home was upholstered in pale fabric. I had my heart set on ivory, so I liked the idea of a cover I could take off and wash. Then I walked into the Monocus showroom at Yongsan I’Park Mall and fell for a jet-black Leel.
+The Leel I fell for at Yongsan I’Park Mall was jet black. The one that came home with us was ivory. Looking at this photo of our living room, I’m glad I went with it. I love how those big squares on the seat look next to the round rug.
 
 <figure class="guide-photo">
-  <img src="/media/monocus-sofa/leel-black-front.webp" width="636" height="478" alt="Front view of a black Leel. Three back cushions sit between low arms, and the seat on the right extends into a chaise." decoding="async">
+  <img src="/media/monocus-sofa/leel-at-home.webp" width="1440" height="1080" alt="Our ivory Leel by the living room window, with a round rug in front and a small black side table." decoding="async">
+  <figcaption>Our Leel at home. The longer seat is the one by the window.</figcaption>
+</figure>
+
+My one worry about ivory was how quickly it might start to look grubby. Almost every sofa I’d saved had a fabric cover I could take off and wash. This one has turned out to be easier to look after than I expected. It’s still that lovely pale color you see in the photo.
+
+<figure class="guide-photo">
+  <img src="/media/monocus-sofa/leel-black-front.webp" width="636" height="478" alt="Front view of a black Leel. Three back cushions sit between low arms, and the seat on the right extends into a chaise." loading="lazy" decoding="async">
   <figcaption>Black was the color that caught my eye in the showroom. This styled photo comes from the <a href="https://monocus.co.kr/product/?idx=3">official Monocus Leel page</a>.</figcaption>
 </figure>
 
-The Leel is the brand’s signature modular sofa. It sits low at the back and arms, with deep seats stitched into big squares. To my eye, that pattern looked best in black. But when it came to picking a color for our own living room, I still wanted ivory. What held me back was the thought of keeping it clean.
+It was the seat that caught my eye in the showroom. Each stitched square puffed up in the middle, and the arms sat low enough that I could see the shape from the side. When I sat down, I noticed how deep the seat was, too.
 
 ## The pen mark that sold me on ivory
 
-Monocus offers both silicone leather and genuine leather on the Leel. The staff showed us a new faux leather they said was also available on the Loyce. They said it held up well to cat and dog claws, but what sold me was a little ink. I watched a pen mark wipe clean off the surface. I’d been picturing the whole business of stripping a cover off for the wash. For a mark like that, all it took was a wipe. I ordered the ivory faux leather.
+The staff showed us a new faux leather they said was also used on the Loyce. They told us it stood up well to cat and dog claws. What I remember is the pen demonstration. They drew a line, wiped it, and the ink came right off in front of me. That was when I felt comfortable ordering ivory. The Leel comes in genuine leather too, but it’s that faux leather we have at home.
 
 <div class="sofa-figures">
   <figure class="guide-photo">
@@ -29,14 +36,19 @@ Monocus offers both silicone leather and genuine leather on the Leel. The staff 
 
 ## Room to stretch out in 2.9 meters
 
-My favorite thing about the Leel was that the two sections could be different sizes. I wanted somewhere to lie down with my legs stretched out. One seat that deep would do. We ordered ours **about 2.9 m wide overall, with a shorter seat on one side and an extended seat on the side where I’d lie down**. I’d been hoping for enough clearance for the robot vacuum to clean underneath. With the Leel we chose, it won’t fit, and I’m happy with the trade for a spot to stretch out.
+We settled on **2.9 m across**. What I wanted was somewhere I could lie down and stretch my legs out. Monocus could make the two sections different depths, so we **extended the seat by the window** and kept the one by the side table short. Our robot vacuum can’t get underneath. Still, when I put my feet up by the window, I’m happy we picked this one.
+
+<figure class="guide-photo">
+  <img src="/media/monocus-sofa/leel-at-home-detail.webp" width="1440" height="900" alt="A closer view of our Leel. The right seat by the window extends beyond the left seat with the knot cushion on its arm." loading="lazy" decoding="async">
+  <figcaption>A little knot cushion on the left arm. The three big cushions beside it are the backrests, in the same faux leather as the seats.</figcaption>
+</figure>
 
 <figure class="guide-photo">
   <img src="/media/monocus-sofa/leel-ivory-side.webp" width="537" height="401" alt="Official side view of an ivory Leel. The near seat is shorter and the one farther away extends into the room." loading="lazy" decoding="async">
   <figcaption>The two seats look much the same head-on. From the side, you can see how much farther one reaches. Styled photo from Monocus.</figcaption>
 </figure>
 
-If you’re measuring your space, the depth on the Monocus drawings is worth a look. Its straight three-seater example is **290 cm wide, 104 cm deep and 65 cm tall**. The three-seat chaise is also 290 cm wide, but its long end is 160 cm deep. That’s **56 cm** farther into the room along the very same wall. I’d run the tape along the wall first, then out toward the coffee table on the side you want to lie on. Those are the brand’s example dimensions. For our order, we chose the overall width and asked for one section to extend farther than the other.
+On the Monocus drawing, the straight three-seater is **290 cm wide, 104 cm deep and 65 cm tall**. The chaise version has the same width, but the long end is 160 cm deep. That’s **an extra 56 cm** to mark out on the floor toward the coffee table. These are the brand’s example dimensions.
 
 <figure class="guide-photo">
   <img src="/media/monocus-sofa/leel-chaise-layouts.webp" width="551" height="180" alt="Two Leel chaise layouts viewed from the front. The long seat is on the left in the first image and on the right in the second." loading="lazy" decoding="async">
@@ -67,11 +79,11 @@ The Leel product page listed ₩6,000,000 when I checked in November 2026. There
   <figcaption><a href="https://monocus.co.kr/notice/?bmode=view&idx=171858101">The Yongsan I’Park Mall showroom, photographed for the Monocus opening announcement.</a></figcaption>
 </figure>
 
-If I went back for a quote, I’d take a photo of the living room with three notes on it. How much wall do we have? How far can the chaise come out and still leave a path past the table? Facing the sofa, do we want it on the left or the right? Our order was about 290 cm across, in ivory faux leather with three large matching back cushions. The salesperson talked us through the length of each seat. That helped turn “I’d like to lie down on it” into a layout we could actually order.
+The salesperson took the time to work through the two seat depths with us. I appreciated that. We’d walked in with little more than “I’d like to be able to lie down on it.”
 
 ## Three other Monocus designs in photos
 
-These are Monocus’s own product photos. Looking at the seats, backs and arms together helped me put a finger on which shapes suit the way I like to sit.
+These three photos are from Monocus. Even within one collection, the seats and arms give each sofa quite a different shape.
 
 ### Loyce
 
@@ -80,7 +92,7 @@ These are Monocus’s own product photos. Looking at the seats, backs and arms t
   <figcaption><a href="https://monocus.co.kr/product/?idx=5">Official Monocus Loyce photo</a></figcaption>
 </figure>
 
-The showroom told us the faux leather we picked for our Leel is also available on the Loyce. Put the two black sofas side by side in photos and the upholstery looks quite different. The Leel has stitched squares, while the Loyce leaves a broad, smooth surface across each seat. If you tend to lean sideways, try the angled cushions at the ends and see where your elbow lands.
+This is the Loyce, the other sofa the showroom said uses our faux leather. Its two wide seats leave that smooth surface on show, with a cushion leaning against each arm. It has quite a different look from the black Leel that caught my eye.
 
 ### Stella
 
@@ -89,7 +101,7 @@ The showroom told us the faux leather we picked for our Leel is also available o
   <figcaption><a href="https://monocus.co.kr/product/?idx=4">Official Monocus Stella photo</a></figcaption>
 </figure>
 
-The first thing I notice on the Stella is the little head cushion above the right-hand seat. If I spent more time sitting up to watch TV than lying down, I’d sit as I normally do and check where that cushion meets my neck. The slim legs also leave the floor in view. For a robot vacuum, I’d measure the clearance at the lowest point under the frame.
+The first thing I notice on the Stella is the little headrest peeking out above the right-hand seat. You can see the floor between those slim legs. Our Leel sits much closer to the ground.
 
 ### Lily
 
@@ -98,6 +110,6 @@ The first thing I notice on the Stella is the little head cushion above the righ
   <figcaption><a href="https://monocus.co.kr/product/?idx=6">Official Monocus Lily photo</a></figcaption>
 </figure>
 
-Monocus took the shape of the Lily from its namesake flower. You can see it in the ends that open outward like petals and in the vertical channels that curve from the back down the front of the seat. Those flared arms make the outside width especially useful to know. If I were fitting it between two pieces of furniture, I’d ask for the measurement from one arm tip to the other.
+The Lily takes its shape from the flower. The ends open out like petals, and the seams curve all the way from the back down to the front of the seat. The name suits it.
 
 The owner of Monocus also runs a bed business, so we bought our bed there too.
