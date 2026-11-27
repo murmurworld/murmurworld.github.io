@@ -10,7 +10,7 @@ I had a cotton sofa in mind for our first home together. I figured if I spilled 
   <figcaption>The black Leel in this Monocus photo is the version I saw in the showroom. From the <a href="https://monocus.co.kr/product/?idx=3">official Monocus Leel page</a>.</figcaption>
 </figure>
 
-The black Leel had low arms and large squares stitched into the seat. It feels supportive and really comfortable to lie on.
+The black Leel had low arms and big squares stitched into the seat. The salesperson suggested I try lying down. Once I did, I could hardly bring myself to get back up.
 
 ## Three other Monocus designs in photos
 
@@ -32,7 +32,7 @@ The Loyce has two wide, smooth seats. A loose cushion leans against each arm.
   <figcaption><a href="https://monocus.co.kr/product/?idx=4">Official Monocus Stella photo</a></figcaption>
 </figure>
 
-A little headrest peeks out above the right-hand seat. I liked the height of the Stella’s legs. It looked like our robot vacuum could fit underneath.
+A little headrest peeks over the back cushion on the right. The Stella looked high enough off the floor for our robot vacuum to get underneath. I liked that about it, but I still preferred the shape of the Leel.
 
 ### Lily
 
@@ -41,7 +41,7 @@ A little headrest peeks out above the right-hand seat. I liked the height of the
   <figcaption><a href="https://monocus.co.kr/product/?idx=6">Official Monocus Lily photo</a></figcaption>
 </figure>
 
-Monocus says a lily inspired this design. The arms open out like petals, and the seams run down the back to the front of the seat.
+Monocus says the Lily takes its shape from the flower. The arms flare out a little like petals. In the photo, you can follow the seams from the backrest all the way to the front of the sofa.
 
 <h2 id="why-the-sofa-felt-so-soft">Trying the Leel</h2>
 
@@ -50,7 +50,7 @@ When I sat down, the Leel felt even softer than our bed. The Monocus cutaway sho
 <div class="sofa-figures">
   <figure class="guide-photo">
     <img src="/media/monocus-sofa/cushion-demo.webp" width="534" height="400" alt="A brown seat cushion under a hand, alongside the same surface after the hand has been lifted." loading="lazy" decoding="async">
-    <figcaption>The seat pressed down and released. <a href="https://monocus.co.kr/product/?idx=3">Monocus product photo</a></figcaption>
+    <figcaption>How the seat springs back when you lift your hand. <a href="https://monocus.co.kr/product/?idx=3">Monocus product photo</a></figcaption>
   </figure>
   <figure class="guide-photo">
     <img src="/media/monocus-sofa/cushion-layers.webp" width="248" height="266" alt="Cross-section of the sofa seat with high-density foam between two layers of goose fill blended with fiber." loading="lazy" decoding="async">
@@ -77,14 +77,14 @@ The salesperson said it was a new material, also used on the Loyce, and that it 
 
 <h2 id="room-to-stretch-out-in-29-meters">A 2.9 m sofa</h2>
 
-We settled on a width of 2.9 m. I wanted to lie down and stretch out, so we ordered **a deeper seat by the window** and a shorter one by the side table. The salesperson helped us work out how deep to make each one. We’d hoped our robot vacuum would fit underneath, but the Leel sits too low for it.
+We settled on a width of 2.9 m. I wanted room to stretch out, so we had **the seat by the window made deeper** and kept the one by the side table shorter. The salesperson helped us work out the measurements. I’d hoped our robot vacuum would fit underneath, but the Leel sits too low for it.
 
 <figure class="guide-photo">
   <img src="/media/monocus-sofa/leel-ivory-side.webp" width="537" height="401" alt="Official side view of an ivory Leel. The near seat is shorter and the one farther away extends into the room." loading="lazy" decoding="async">
   <figcaption>The chaise seen from the side. <a href="https://monocus.co.kr/product/?idx=3">Monocus product photo</a></figcaption>
 </figure>
 
-We used the Monocus drawings to get a sense of the size. The straight three-seater is **290 cm wide, 104 cm deep and 65 cm tall**. The chaise version is the same width, with a 160 cm deep seat on one side. That puts its front edge **56 cm** farther out.
+We used the Monocus drawings to get a sense of the size. The straight three-seater is **290 cm wide, 104 cm deep and 65 cm tall**. The chaise version is just as wide, but measures 160 cm from back to front on the long side. That side sticks out **56 cm** farther than the straight version.
 
 <figure class="guide-photo">
   <img src="/media/monocus-sofa/leel-chaise-layouts.webp" width="551" height="180" alt="Two Leel chaise layouts viewed from the front. The long seat is on the left in the first image and on the right in the second." loading="lazy" decoding="async">
@@ -118,6 +118,6 @@ I fell for the black Leel in the showroom and put an ivory one by our window. I�
 
 ### Living with the Leel
 
-On nights when I can’t get to sleep in bed, I go out to the living room and sleep on the sofa. Those are the nights I’m glad we had one side made longer.
+Some nights I toss and turn in bed and end up sleeping on the sofa. That’s when I’m glad we made the window side longer.
 
-If I get something on the sofa, I wipe the spot with alcohol. Even on the ivory, I still can’t see any stains. Being able to wipe it clean on the spot makes it feel cleaner to me than fabric. I picked it for its looks and ended up liking that little convenience even more.
+If I spill something on it, I wipe the spot with a little alcohol. So far I haven’t noticed any stains on the ivory. A sofa I can wipe clean just feels fresher to me than a fabric one. I picked the Leel for its looks. These days I appreciate the easy cleanup even more.
