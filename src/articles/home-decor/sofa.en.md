@@ -3,12 +3,16 @@ title: "Why We Had One Side of Our Monocus Leel Sofa Made Longer"
 description: "The Leel I fell for in Yongsan was black. Ours is ivory. Two photos from our living room show how the color has held up and why we made the window seat longer."
 ---
 
-The Leel I fell for at Yongsan I’Park Mall was jet black. The one that came home with us was ivory. Looking at this photo of our living room, I’m glad I went with it. I love how those big squares on the seat look next to the round rug.
+I had a cotton sofa in mind for our first home together. I’d been going from showroom to showroom when a jet-black leather sofa caught my eye at Yongsan I’Park Mall. It was the Leel by Monocus.
 
 <figure class="guide-photo">
   <img src="/media/monocus-sofa/leel-at-home.webp" width="1440" height="1080" alt="Our ivory Leel by the living room window, with a round rug in front and a small black side table." decoding="async">
   <figcaption>Our Leel at home. The longer seat is the one by the window.</figcaption>
 </figure>
+
+I’d heard that a round piece looks good next to something boxy. We went with the Leel in ivory, and once I laid the round rug in front of those big squares on the seat, I could see what people meant. Looking at this photo, I’m glad this is the sofa we brought home.
+
+Here’s what changed my mind about cotton, along with a few other Monocus sofas that caught my eye along the way.
 
 My one worry about ivory was how quickly it might start to look grubby. Almost every sofa I’d saved had a fabric cover I could take off and wash. This one has turned out to be easier to look after than I expected. It’s still that lovely pale color you see in the photo.
 
@@ -55,9 +59,9 @@ On the Monocus drawing, the straight three-seater is **290 cm wide, 104 cm deep 
   <figcaption>The long seat can go on either side. Left and right here are as you face the sofa. <a href="https://monocus.co.kr/product/?idx=3">Monocus Leel layouts and dimensions</a>.</figcaption>
 </figure>
 
-## Sitting down on the goose-fill cushions
+## Why the sofa felt so soft
 
-The funny thing is, sitting on the Leel made me think of our bed. The seat was so soft that a sofa with goose fill in the cushions felt like more of a luxury than the bed we’d been sleeping on. The cutaway shows where that softness comes from. A blend of goose fill and fiber sits above and below a core of high-density foam. You feel the soft top layer as you sit down, with the foam underneath to support your weight.
+Sitting on the Leel made me think of our bed. I wondered if the sofa might actually be the softer of the two. The Monocus cutaway shows what’s inside the part you sit on. A blend of goose fill and fiber lies above and below a high-density foam core. The top layer gives when you sit down, and the foam underneath supports your weight.
 
 <div class="sofa-figures">
   <figure class="guide-photo">
@@ -65,8 +69,8 @@ The funny thing is, sitting on the Leel made me think of our bed. The seat was s
     <figcaption>This detail from Monocus shows how far the seat gives under a hand.</figcaption>
   </figure>
   <figure class="guide-photo">
-    <img src="/media/monocus-sofa/cushion-layers.webp" width="248" height="266" alt="Cushion cutaway showing high-density foam between two layers of goose fill blended with fiber." loading="lazy" decoding="async">
-    <figcaption>The pale layer in the middle is the foam. Seat cushion cutaway from Monocus.</figcaption>
+    <img src="/media/monocus-sofa/cushion-layers.webp" width="248" height="266" alt="Cross-section of the sofa seat with high-density foam between two layers of goose fill blended with fiber." loading="lazy" decoding="async">
+    <figcaption>A side view of the layers inside the seat. The pale layer in the middle is the foam that supports your weight. Image from Monocus.</figcaption>
   </figure>
 </div>
 
