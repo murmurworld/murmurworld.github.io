@@ -21,7 +21,7 @@ pnpm dev
 
 ## GitHub Pages 배포
 
-집꾸미기 글의 제목·요약·본문은 [블로그 관리 화면](https://murmurworld.github.io/admin/)에서 선택한 뒤 GitHub에 로그인해 고칠 수 있습니다. 저장소의 쓰기 권한이 있는 계정이 `src/articles/home-decor/`의 한·영 원고를 `main`에 저장하면 GitHub Actions가 공개 사이트를 다시 배포합니다. 검토가 필요하면 새 브랜치에 저장한 뒤 검토하고 `main`에 합칩니다.
+소유자가 보관한 바로가기로 블로그 관리 화면을 열고 수정할 글과 언어를 고릅니다. 저장소 쓰기 권한이 있는 GitHub 계정으로 원고를 `main`에 저장하면 GitHub Actions가 블로그를 다시 배포합니다. 관리 화면의 경로는 저장소의 Actions secret `MURMURWORLD_OWNER_ROUTE`로 설정합니다.
 
 디자인이나 기능을 바꿀 때는 `murmurworld/murmurworld.github.io` 저장소의 `murmurworld-source.zip`을 교체합니다. 새 ZIP을 풀고 나면 Actions가 저장소에 있는 집꾸미기 원고를 빌드 폴더에 복사합니다. 이후 원고 수정은 관리 화면에서 연결한 Markdown에 반영합니다.
 

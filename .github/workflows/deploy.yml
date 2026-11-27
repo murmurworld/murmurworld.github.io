@@ -33,6 +33,7 @@ jobs:
           done
       - uses: withastro/action@v6
         env:
+          MURMURWORLD_OWNER_ROUTE: ${{ secrets.MURMURWORLD_OWNER_ROUTE }}
           PUBLIC_CLOUDFLARE_WEB_ANALYTICS_TOKEN: ${{ vars.PUBLIC_CLOUDFLARE_WEB_ANALYTICS_TOKEN }}
         with:
           path: site
