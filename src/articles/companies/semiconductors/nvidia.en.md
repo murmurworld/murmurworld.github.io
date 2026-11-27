@@ -35,6 +35,19 @@ NVIDIA sells GPUs for training and running AI models, together with the networki
 | --- | --- |
 | FY2027 Q3 | Data Center generated USD 107.6 billion, about 93% of revenue. [Company results or filing](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27pr.htm) |
 
+<h3 id="memory-suppliers">Who makes the memory in an NVIDIA GPU?</h3>
+
+NVIDIA names Samsung Electronics, SK hynix and Micron as memory suppliers in its annual filing. To match one of them to a particular GPU, look for the board version and what the supplier actually disclosed. A production announcement and a photograph of an assembled board answer different questions. [NVIDIA annual filing, manufacturing and supply](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm)
+
+| NVIDIA product | Memory and supplier | What the companies disclosed |
+| --- | --- | --- |
+| H100 SXM | SK hynix HBM3 | SK hynix announced volume production for the H100. NVIDIA lists 80 GB of memory per H100 SXM GPU. [SK hynix announcement](https://news.skhynix.com/en/sk-hynix-to-supply-industrys-first-hbm3-dram-to-nvidia/) |
+| H200 SXM | Micron HBM3E | Micron’s eight-high stack for the H200 holds 24 GB. NVIDIA specifies 141 GB of memory per H200 SXM GPU. [Micron announcement](https://investors.micron.com/news/press-release/2024/Micron-Commences-Volume-Production-of-Industry-Leading-HBM3E-Solution-to-Accelerate-the-Growth-of-AI-02-26-2024/default.aspx) · [NVIDIA SXM specifications](https://docs.nvidia.com/enterprise-reference-architectures/hgx-ai-factory-h100-h200-b200/latest/components.html) |
+| Vera Rubin | Samsung Electronics HBM4 | Samsung said it was mass-producing HBM4 designed for the Rubin platform. It displayed the next generation, HBM4E, at the same event. [Samsung at GTC](https://news.samsung.com/global/samsung-unveils-hbm4e-showcasing-comprehensive-ai-solutions-nvidia-partnership-and-vision-at-nvidia-gtc-2026) |
+| Vera Rubin | SK hynix HBM4 and SOCAMM2 | On the board SK hynix exhibited, its 12-high, 36 GB HBM4 sat next to the Rubin GPU. Its 96 GB SOCAMM2 module served the Vera CPU. [Photograph and component identification](https://news.skhynix.com/en/tsmc-oip-conference-2026/) |
+| Vera Rubin | Micron HBM4 | Micron reported volume shipments of its 12-high, 36 GB stack designed for Rubin in the first quarter of 2026. [Micron shipment announcement](https://investors.micron.com/news/press-release/2026/Micron-in-High-Volume-Production-of-HBM4-Designed-for-NVIDIA-Vera-Rubin-PCIe-Gen6-SSD-and-SOCAMM2-03-16-2026/default.aspx) |
+| GeForce RTX 3090 | Micron GDDR6X | This gaming GPU reads graphics data such as textures from GDDR6X. The 24 GB specification is the total graphics memory on one card. [Supplier announcement and card specifications](/en/stocks/?company=NVDA&case=micron-geforce-gddr6x#case-micron-geforce-gddr6x) |
+
 ## Who buys it
 
 Cloud operators, server manufacturers, enterprise buyers and PC graphics partners use different parts of the platform.

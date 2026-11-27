@@ -29,6 +29,8 @@ study:
 | 스마트폰용 생산 | 스마트폰 두뇌 칩(AP)을 만든다. |
 | 첨단 패키징 | 칩 여러 개와 HBM을 한 덩어리로 묶는 뒷공정도 맡는다. |
 
+GPU 옆에 붙은 HBM으로 신호가 어떻게 건너갈까? TSMC의 CoWoS-S는 두 칩 아래에 넓은 실리콘 인터포저를 깔아 미세한 배선을 잇는다. CoWoS-L에서는 재배선층에 짧은 실리콘 연결 칩을 묻어, 배선이 특히 촘촘한 구간을 이어 준다. 엔비디아는 베라 루빈 NVL72에 TSMC의 CoWoS를 썼다고 밝혔다. [TSMC의 S형·L형 단면도](https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/cowos.htm) · [엔비디아 생산 발표](https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout)
+
 | 회사 발표 기간 | 제품·사업 지표 |
 | --- | --- |
 | 2026년 3분기 | 웨이퍼 매출의 79%가 7나노 이하 공정에서 나왔다. 3나노가 33%, 2나노가 8%였다. [회사 실적 발표·공시](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000726/a3q26e_withguidancexfinal.htm) |

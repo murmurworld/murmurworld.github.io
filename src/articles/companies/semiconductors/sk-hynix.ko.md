@@ -32,6 +32,8 @@ study:
 
 DRAM 칩을 여러 장 위로 쌓아 만든 메모리다. AI 가속기의 연산 칩 바로 옆에 붙어 데이터를 한꺼번에 많이 보낸다. 2026년 3분기 분기보고서는 DRAM 평균 판매가격이 HBM4 판매 비중이 늘면서 올랐다고 적었다.
 
+SK하이닉스가 공개한 베라 루빈 실물에는 두 가지 메모리가 눈에 띈다. 루빈 GPU 옆에는 연산할 데이터를 보관하는 12단 36GB HBM4가 붙고, 베라 CPU 쪽에는 주기억장치로 쓰는 96GB SOCAMM2 모듈이 달려 있다. SK하이닉스는 HBM4 스택 맨 아래에서 신호를 주고받는 베이스 다이에 TSMC의 로직 공정을 적용했다. [실물 사진과 두 메모리의 위치](https://news.skhynix.com/en/tsmc-oip-conference-2026/) · [베이스 다이 공정](https://news.skhynix.com/en/tsmc-technology-symposium-2026/)
+
 ### 낸드·SSD
 
 전원이 꺼져도 파일을 남기는 플래시 메모리다. 휴대폰 저장장치와 SSD에 들어간다. 고객은 휴대폰·IT 기기 회사와 SSD·메모리카드를 만드는 회사다. 회사는 321단 QLC 낸드를 세계 최초로 개발했다고 적었고, 데이터센터용 SSD는 자회사 솔리다임과 함께 대응한다고 설명한다.
@@ -140,6 +142,7 @@ DRAM 칩을 여러 장 위로 쌓아 만든 메모리다. AI 가속기의 연산
 
 ## 출처
 
+- [SK하이닉스 연구소의 메모리 패키징 구조](https://research.skhynix.com/research-areas/advanced-package/advanced-memory-package-architecture)
 - [SK하이닉스 2026년 3분기 분기보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001715) (2026-11-16)
 - [SK하이닉스 2026년 반기보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003509) (2026-08-14)
 - [SK하이닉스 2025년 사업보고서](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260317000635) (2026-03-17)

@@ -26,6 +26,8 @@ SK hynix makes memory chips. DRAM holds the data a computer or phone needs while
 
 **High bandwidth memory (HBM).** Stacking DRAM dies and placing them beside the processor lets an accelerator move large amounts of data at once. Management attributed part of the third-quarter increase in its average DRAM selling price to a higher share of HBM4 in the sales mix.
 
+The Vera Rubin superchip SK hynix exhibited carried two kinds of memory. A 12-high, 36 GB HBM4 stack beside the Rubin GPU holds data for its calculations. A 96 GB SOCAMM2 module serves as main memory for the Vera CPU. Within the HBM4 stack, SK hynix uses TSMC’s logic process for the base die that carries signals to and from the GPU. [SK hynix’s annotated exhibit](https://news.skhynix.com/en/tsmc-oip-conference-2026/) · [The base die process](https://news.skhynix.com/en/tsmc-technology-symposium-2026/)
+
 **NAND flash and SSDs.** NAND retains data without power. A solid-state drive combines flash with a controller that manages reads and writes. Phone and IT equipment makers, SSD manufacturers and memory card makers buy these products. SK hynix reports developing 321-layer quad-level-cell NAND, which stores four bits per memory cell. It also serves the enterprise SSD market with its subsidiary Solidigm.
 
 **Foundry.** A foundry manufactures chips designed by other companies. The filing mentions this activity without breaking out its revenue.
@@ -112,6 +114,7 @@ The Q3 filing cites IDC data published in August 2026 for DRAM and September 202
 
 ## Sources
 
+- [SK hynix Research on advanced memory packaging](https://research.skhynix.com/research-areas/advanced-package/advanced-memory-package-architecture)
 - [SK hynix Q3 2026 report, filed November 16, 2026](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001715)
 - [SK hynix H1 2026 report, filed August 14, 2026](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003509)
 - [SK hynix 2025 annual report, filed March 17, 2026](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260317000635)

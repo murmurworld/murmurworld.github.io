@@ -25,10 +25,12 @@ Micron sells DRAM, HBM and NAND, including solid-state drives built from NAND fo
 
 | Product or service | Use and users |
 | --- | --- |
-| DRAM | DDR supplies working memory for PCs and servers, LPDDR reduces power use in mobile devices, and GDDR feeds graphics processors. |
+| DRAM | DDR5 provides working memory for PC and server CPUs. LPDDR5X serves power-sensitive devices. GDDR7 feeds the GPU on a graphics card. |
 | HBM | Stacked DRAM placed near an accelerator moves data over a wide interface. Customers must qualify memory for their own systems. |
 | NAND and SSDs | NAND stores data without power. Solid-state drives add controllers and firmware to serve enterprise servers, PCs and other devices. |
 | NOR flash | Embedded devices use this nonvolatile memory for code that must survive a power cycle, including start-up code. |
+
+NVIDIA’s H200 uses Micron’s 24 GB HBM3E stack, built from eight DRAM dies. For Vera Rubin, Micron designed a 36 GB HBM4 stack with twelve dies and began volume shipments in the first quarter of 2026. Both capacities are per stack. A GPU package holds several of them. [Micron on H200 memory](https://www.micron.com/products/memory/hbm/hbm3e) · [Micron’s HBM4 shipment announcement](https://investors.micron.com/news/press-release/2026/Micron-in-High-Volume-Production-of-HBM4-Designed-for-NVIDIA-Vera-Rubin-PCIe-Gen6-SSD-and-SOCAMM2-03-16-2026/default.aspx)
 
 | Reporting period | Company operating update |
 | --- | --- |

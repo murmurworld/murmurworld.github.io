@@ -29,6 +29,8 @@ TSMC produces and packages chips designed by customers. A foundry earns manufact
 | Smartphone and other end markets | Application processors and supporting chips go into handsets. TSMC also reports platform categories for IoT, automotive, consumer electronics and other uses. |
 | Advanced packaging | CoWoS brings a processor and high-bandwidth memory together in one package. Chip-on-wafer technologies address the connections between separately manufactured dies. |
 
+How does a signal get from the GPU to the HBM stack beside it? In CoWoS-S, fine wiring crosses a large silicon interposer beneath the chips. In CoWoS-L, a redistribution layer contains small silicon bridges where the connections need to be especially dense. NVIDIA identifies CoWoS as a TSMC technology used for Vera Rubin NVL72. [TSMC’s S and L cross-sections](https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/cowos.htm) · [NVIDIA’s production announcement](https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout)
+
 | Reporting period | Company operating update |
 | --- | --- |
 | 2026 Q3 | Nodes at 7 nm and below accounted for 79% of wafer revenue. The 3 nm node contributed 33%, and 2 nm contributed 8%. [Company results or filing](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000726/a3q26e_withguidancexfinal.htm) |

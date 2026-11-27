@@ -30,6 +30,8 @@ Samsung Electronics manufactures DRAM and NAND, offers foundry services and sell
 | Devices and appliances | The DX division sells mobile devices, network equipment, televisions, monitors and home appliances through retail and business channels. |
 | Displays and Harman | Samsung Display supplies panels to device makers. Harman sells automotive electronics, connected systems and consumer or professional audio products. |
 
+Samsung Electronics designed its HBM4 for NVIDIA’s Vera Rubin platform and put it into mass production. DRAM dies store the data. Beneath them, a logic die made on a 4 nm process handles signals between the memory stack and the GPU. Samsung Electro-Mechanics is a separate company with an NVIDIA contract for compute-chip and network-switch package substrates. [Samsung Electronics on its HBM4](https://semiconductor.samsung.com/news-events/tech-blog/architecting-the-ai-era-samsung-electronics-and-nvidia-define-the-future-at-gtc-2026/) · [Samsung Electro-Mechanics substrate agreement](https://www.samsungsem.com/global/newsroom/news/view.do?id=10614)
+
 | Reporting period | Company operating update |
 | --- | --- |
 | 2026 Q3 | Device Solutions represented 71.2% of consolidated revenue for January–September, compared with 39.0% for full-year 2025. [Company results or filing](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001482) |

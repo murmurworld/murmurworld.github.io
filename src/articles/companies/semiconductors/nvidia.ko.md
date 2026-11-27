@@ -35,6 +35,19 @@ AI 학습·추론용 데이터센터 컴퓨팅·네트워킹 제품과 게이밍
 | --- | --- |
 | 2027 회계연도 3분기 | 데이터센터 매출은 1,076억 달러로 전체 매출의 약 93%였다. [회사 실적 발표·공시](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27pr.htm) |
 
+<h3 id="memory-suppliers">엔비디아 GPU에는 누구의 메모리가 들어갈까?</h3>
+
+엔비디아가 연차보고서에서 밝힌 메모리 공급사는 삼성전자, SK하이닉스, 마이크론이다. 세 회사를 한 제품의 부품표에 나란히 넣으면 오해가 생긴다. 어느 GPU인지, 회사가 양산을 발표했는지, 실제 탑재한 보드를 공개했는지를 함께 보면 관계가 선명해진다. [엔비디아 연차보고서 · 제조와 공급망](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm)
+
+| 엔비디아 제품 | 메모리와 공급사 | 어디까지 확인됐나 |
+| --- | --- | --- |
+| H100 SXM | SK하이닉스 HBM3 | SK하이닉스가 H100용 HBM3 양산을 발표했다. 엔비디아 사양에서 H100 SXM 한 개의 메모리는 80GB다. [SK하이닉스 발표](https://news.skhynix.com/en/sk-hynix-to-supply-industrys-first-hbm3-dram-to-nvidia/) |
+| H200 SXM | 마이크론 HBM3E | 마이크론이 H200용으로 양산한 8단 스택 하나는 24GB다. GPU 한 개에 표시되는 메모리 용량은 141GB다. [마이크론 발표](https://investors.micron.com/news/press-release/2024/Micron-Commences-Volume-Production-of-Industry-Leading-HBM3E-Solution-to-Accelerate-the-Growth-of-AI-02-26-2024/default.aspx) · [엔비디아 SXM 사양](https://docs.nvidia.com/enterprise-reference-architectures/hgx-ai-factory-h100-h200-b200/latest/components.html) |
+| 베라 루빈 | 삼성전자 HBM4 | 삼성전자는 루빈 플랫폼을 위해 설계한 HBM4를 양산 중이라고 밝혔다. 같은 행사에서 선보인 HBM4E는 후속 세대다. [삼성전자 GTC 발표](https://news.samsung.com/global/samsung-unveils-hbm4e-showcasing-comprehensive-ai-solutions-nvidia-partnership-and-vision-at-nvidia-gtc-2026) |
+| 베라 루빈 | SK하이닉스 HBM4와 SOCAMM2 | 공개한 실물에서 루빈 GPU 옆에는 12단 36GB HBM4가, 베라 CPU 쪽에는 96GB SOCAMM2 모듈이 달려 있다. 같은 보드에서 두 메모리가 서로 다른 프로세서를 맡는다. [실물 사진과 부품 설명](https://news.skhynix.com/en/tsmc-oip-conference-2026/) |
+| 베라 루빈 | 마이크론 HBM4 | 마이크론은 루빈용으로 설계한 12단 36GB 스택을 2026년 1분기부터 양산 출하했다고 밝혔다. [마이크론 출하 발표](https://investors.micron.com/news/press-release/2026/Micron-in-High-Volume-Production-of-HBM4-Designed-for-NVIDIA-Vera-Rubin-PCIe-Gen6-SSD-and-SOCAMM2-03-16-2026/default.aspx) |
+| 지포스 RTX 3090 | 마이크론 GDDR6X | 게임용 그래픽카드에는 화면을 그릴 때 쓸 데이터를 GDDR6X에 둔다. RTX 3090의 24GB는 카드 한 장에 달린 그래픽 메모리의 총용량이다. [공급 발표와 카드 사양](/stocks/?company=NVDA&case=micron-geforce-gddr6x#case-micron-geforce-gddr6x) |
+
 ## 누구에게 파나
 
 클라우드 사업자와 서버 제조사는 데이터센터 플랫폼을, 그래픽카드 업체와 PC 제조사는 그래픽 칩을 구매한다.

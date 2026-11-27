@@ -25,10 +25,12 @@ DRAM(HBM 포함)·NAND·NOR 메모리와 SSD를 만들어 데이터센터·PC·�
 
 | 제품·서비스 | 용도와 쓰는 사람 |
 | --- | --- |
-| DRAM(DDR·LPDDR·GDDR) | DDR은 PC·서버용, LPDDR은 휴대폰처럼 전기를 아껴야 하는 기기용, GDDR은 그래픽카드용 DRAM이다. |
+| DRAM(DDR·LPDDR·GDDR) | DDR5는 PC·서버 CPU의 작업용 메모리다. LPDDR5X는 저전력이 중요한 기기에 쓰이고, 그래픽카드의 GDDR7은 GPU에 데이터를 건넨다. |
 | HBM | AI 가속기 옆에 붙는, 층층이 쌓은 DRAM이다. |
-| NAND·SSD | 데이터센터·PC용 SSD와 휴대폰에 들어가는 저장 칩이다. |
+| NAND·SSD | NAND는 전원을 꺼도 데이터를 보존하는 플래시 칩이다. SSD는 이 칩에 읽기·쓰기를 관리하는 컨트롤러를 더한 저장장치다. |
 | NOR 플래시 | 자동차와 산업 기기가 켜질 때 쓰는 작은 메모리다. |
+
+엔비디아 H200에 들어가는 마이크론 HBM3E는 DRAM 8장을 쌓은 24GB 제품이다. 베라 루빈(Vera Rubin)용 HBM4는 12장을 쌓아 36GB를 담고, 2026년 1분기에 양산 출하를 시작했다. 여기서 24GB와 36GB는 각각 메모리 스택 한 개의 용량이다. [H200용 HBM3E](https://www.micron.com/products/memory/hbm/hbm3e) · [베라 루빈용 HBM4 출하 발표](https://investors.micron.com/news/press-release/2026/Micron-in-High-Volume-Production-of-HBM4-Designed-for-NVIDIA-Vera-Rubin-PCIe-Gen6-SSD-and-SOCAMM2-03-16-2026/default.aspx)
 
 | 회사 발표 기간 | 제품·사업 지표 |
 | --- | --- |

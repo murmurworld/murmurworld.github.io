@@ -30,6 +30,8 @@ TV·가전·스마트폰 같은 완제품과 메모리 반도체·OLED 패널·�
 | 스마트폰·TV·가전 | 갤럭시 스마트폰, TV·모니터, 냉장고·세탁기·에어컨 같은 완제품을 만든다. |
 | 디스플레이·하만 | 자회사 삼성디스플레이가 스마트폰용 OLED 패널을, 하만이 차량용 디지털 계기판과 카오디오를 만든다. |
 
+삼성전자가 엔비디아 베라 루빈용으로 설계해 양산한 HBM4에는 두 종류의 칩이 들어간다. 데이터를 담는 DRAM 층 아래에 4나노 공정으로 만든 베이스 다이가 있고, 이 칩이 GPU와 오가는 신호를 맡는다. 이름이 비슷한 삼성전기는 엔비디아와 연산 칩·네트워크 스위치용 패키지 기판을 공급하기로 계약한 별도 회사다. [삼성전자 HBM4 단면과 공정](https://semiconductor.samsung.com/news-events/tech-blog/architecting-the-ai-era-samsung-electronics-and-nvidia-define-the-future-at-gtc-2026/) · [삼성전기 기판 계약](https://www.samsungsem.com/global/newsroom/news/view.do?id=10614)
+
 | 회사 발표 기간 | 제품·사업 지표 |
 | --- | --- |
 | 2026년 3분기 | 1~9월 연결 매출에서 DS 부문이 차지한 비중은 71.2%였다. 2025년 한 해에는 39.0%였다. [회사 실적 발표·공시](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001482) |
