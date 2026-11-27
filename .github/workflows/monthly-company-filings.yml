@@ -1,0 +1,58 @@
+name: Monthly public company filings
+
+on:
+  schedule:
+    - cron: '43 0 1 * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/monthly-company-filings.yml'
+      - 'scripts/filings/**'
+
+permissions: {}
+concurrency:
+  group: monthly-company-filings
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    permissions:
+      contents: write
+    outputs:
+      revision: ${{ steps.commit.outputs.revision }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+      - name: Install the filing parser
+        run: python3 -m pip install 'lxml==6.0.2'
+      - name: Read SEC and OpenDART filings
+        run: python3 scripts/filings/refresh.py --sec-bulk
+      - name: Publish verified company data
+        id: commit
+        run: |
+          git add -- public/data/company-reports
+          if ! git diff --cached --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m "Refresh issuer data from public filings"
+            git pull --rebase origin main
+            git push origin HEAD:main
+            echo "revision=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+          fi
+
+  publish:
+    needs: refresh
+    if: needs.refresh.outputs.revision != ''
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/deploy.yml
+    with:
+      revision: ${{ needs.refresh.outputs.revision }}
+    secrets:
+      MURMURWORLD_OWNER_ROUTE: ${{ secrets.MURMURWORLD_OWNER_ROUTE }}

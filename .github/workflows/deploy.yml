@@ -4,6 +4,14 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  workflow_call:
+    inputs:
+      revision:
+        required: true
+        type: string
+    secrets:
+      MURMURWORLD_OWNER_ROUTE:
+        required: false
   schedule:
     - cron: '17 21 * * *'
 
@@ -21,6 +29,7 @@ jobs:
       - uses: actions/checkout@v7
         with:
           persist-credentials: false
+          ref: ${{ inputs.revision || github.sha }}
       - name: Extract the site template
         run: python3 -m zipfile -e murmurworld-source.zip site
       - name: Install published company filing data
