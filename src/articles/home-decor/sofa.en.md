@@ -32,7 +32,7 @@ The Loyce has two wide, smooth seats. A loose cushion leans against each arm.
   <figcaption><a href="https://monocus.co.kr/product/?idx=4">Official Monocus Stella photo</a></figcaption>
 </figure>
 
-The first thing I notice on the Stella is the little headrest peeking out above the right-hand seat. You can see the floor between those slim legs. The Leel sits much closer to the ground.
+A little headrest peeks out above the right-hand seat. I liked the height of the Stella’s legs. It looked like our robot vacuum could fit underneath.
 
 ### Lily
 
