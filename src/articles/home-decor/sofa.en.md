@@ -1,9 +1,9 @@
 ---
 title: "Why We Had One Side of Our Monocus Leel Sofa Made Longer"
-description: "The Leel I fell for in Yongsan was black. Ours is ivory. Two photos from our living room show how the color has held up and why we made the window seat longer."
+description: "I went looking for a cotton sofa and came home with an ivory Monocus Leel. Here’s what changed my mind in the showroom and why we ordered a longer seat by the window."
 ---
 
-I had a cotton sofa in mind for our first home together. I’d been going from showroom to showroom when a jet-black leather sofa caught my eye at Yongsan I’Park Mall. It was the Leel by Monocus.
+I had a cotton sofa in mind for our first home together. I figured if I spilled something, I could just take the cover off and wash it. I was still looking at fabric sofas when a jet-black leather one caught my eye at Yongsan I’Park Mall. It was the Leel by Monocus.
 
 <figure class="guide-photo">
   <img src="/media/monocus-sofa/leel-at-home.webp" width="1440" height="1080" alt="Our ivory Leel by the living room window, with a round rug in front and a small black side table." decoding="async">
@@ -14,8 +14,6 @@ I’d heard that a round piece looks good next to something boxy. We went with t
 
 Here’s what changed my mind about cotton, along with a few other Monocus sofas that caught my eye along the way.
 
-My one worry about ivory was how quickly it might start to look grubby. Almost every sofa I’d saved had a fabric cover I could take off and wash. This one has turned out to be easier to look after than I expected. It’s still that lovely pale color you see in the photo.
-
 <figure class="guide-photo">
   <img src="/media/monocus-sofa/leel-black-front.webp" width="636" height="478" alt="Front view of a black Leel. Three back cushions sit between low arms, and the seat on the right extends into a chaise." loading="lazy" decoding="async">
   <figcaption>Black was the color that caught my eye in the showroom. This styled photo comes from the <a href="https://monocus.co.kr/product/?idx=3">official Monocus Leel page</a>.</figcaption>
@@ -25,7 +23,9 @@ It was the seat that caught my eye in the showroom. Each stitched square puffed 
 
 ## The pen mark that sold me on ivory
 
-The staff showed us a new faux leather they said was also used on the Loyce. They told us it stood up well to cat and dog claws. What I remember is the pen demonstration. They drew a line, wiped it, and the ink came right off in front of me. That was when I felt comfortable ordering ivory. The Leel comes in genuine leather too, but it’s that faux leather we have at home.
+My biggest worry about ivory was how easily it might show dirt. In the showroom, the salesperson drew a line on the faux leather with a pen, then wiped it off right in front of us. Seeing the ink come off was what made me comfortable choosing ivory.
+
+They told us it was a new material they also used on the Loyce, and that it held up well to cat and dog claws. The Leel comes in genuine leather too. We ordered ours in the faux leather we’d seen in the showroom.
 
 <div class="sofa-figures">
   <figure class="guide-photo">
