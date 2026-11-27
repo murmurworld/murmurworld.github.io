@@ -17,7 +17,7 @@ concurrency:
 
 jobs:
   refresh:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 50
     permissions:
       contents: write
@@ -31,7 +31,7 @@ jobs:
         run: |
           python3 -m pip install 'lxml==6.0.2' 'playwright==1.60.0' 'pypdf==6.14.2'
           python3 -m playwright install --with-deps chromium --only-shell
-      - name: Read SEC and OpenDART filings
+      - name: Read filings and issuer financial statements
         env:
           SEC_CONTACT_EMAIL: ${{ secrets.SEC_CONTACT_EMAIL }}
         run: python3 scripts/filings/refresh.py --sec-bulk
