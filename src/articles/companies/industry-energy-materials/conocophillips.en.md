@@ -1,13 +1,13 @@
 ---
 title: "ConocoPhillips"
-description: "ConocoPhillips explores for, produces and sells oil, natural gas and natural gas liquids. Its business is concentrated upstream."
+description: "ConocoPhillips explores for oil and gas, develops fields, and transports and sells what it produces. Its portfolio includes Canadian oil sands bitumen and liquefied natural gas (LNG) from overseas projects."
 study:
   question: Does a barrel of oil equivalent also represent an equal dollar value?
   answer: For its reserves, ConocoPhillips converts 6,000 cubic feet of natural gas to one barrel of oil equivalent (BOE). This matches energy content, so estimating proceeds calls for separate oil and gas volumes and their respective realised prices.
   source: https://www.sec.gov/Archives/edgar/data/1163165/000116316526000009/cop-20251231.htm
 ---
 
-ConocoPhillips explores for, produces and sells oil, natural gas and natural gas liquids. Its business is concentrated upstream.
+ConocoPhillips explores for oil and gas, develops fields, and transports and sells what it produces. Its portfolio includes Canadian oil sands bitumen and liquefied natural gas (LNG) from overseas projects.
 
 | Basic information | Details |
 | --- | --- |
@@ -15,8 +15,8 @@ ConocoPhillips explores for, produces and sells oil, natural gas and natural gas
 | Operations | Oil and gas operations in North America and international producing regions |
 | Listing and symbol | NYSE · COP |
 | Annual reporting date | 2025-12-31 |
-| Annual consolidated revenue | 2025-12-31 · 58.944 USD billion |
-| Fiscal year-to-date consolidated revenue | 2026-01-01 – 2026-09-30 · 54.357 USD billion |
+| Annual consolidated sales and other operating revenues | 2025-12-31 · 58.944 USD billion |
+| Fiscal year-to-date consolidated sales and other operating revenues | 2026-01-01 – 2026-09-30 · 54.357 USD billion |
 | Shares issued | 2,256,255,427 · 2026-09-30 · [Filing](https://www.sec.gov/Archives/edgar/data/1163165/000116316526000045/0001163165-26-000045-index.htm) |
 | Shares outstanding | 1,182,335,057 · 2026-09-30 · [Filing](https://www.sec.gov/Archives/edgar/data/1163165/000116316526000045/0001163165-26-000045-index.htm) |
 | Filing | [10-K](https://www.sec.gov/Archives/edgar/data/1163165/000116316526000009/0001163165-26-000009-index.htm) |
@@ -45,8 +45,10 @@ ConocoPhillips’ Lower 48 segment sold approximately $5.3 billion to one unname
 
 | USD billion | 2023-12-31 | 2024-12-31 | 2025-12-31 |
 | --- | --- | --- | --- |
-| Revenue | 56.141 | 54.745 | 58.944 |
+| Sales and other operating revenues | 56.141 | 54.745 | 58.944 |
 | Net income attributable to the parent | 10.957 | 9.245 | 7.988 |
+
+In 2025, sales and other operating revenues totaled $58.944 billion. Equity earnings from affiliates, gains on dispositions and other income brought total revenues and other income to $61.548 billion. [Consolidated income statement](https://www.sec.gov/Archives/edgar/data/1163165/000116316526000009/cop-20251231.htm)
 
 ### Revenue by reported business segment
 
@@ -65,7 +67,7 @@ ConocoPhillips’ Lower 48 segment sold approximately $5.3 billion to one unname
 
 | USD billion | 2025-06-30 | 2025-09-30 | 2025-12-31 | 2026-03-31 | 2026-06-30 | 2026-09-30 |
 | --- | --- | --- | --- | --- | --- | --- |
-| Revenue | 14.004 | 15.031 | 13.392* | 15.761 | 19.161 | 19.435 |
+| Sales and other operating revenues | 14.004 | 15.031 | 13.392* | 15.761 | 19.161 | 19.435 |
 | Net income attributable to the parent | 1.971 | 1.726 | 1.442* | 2.183 | 3.931 | 4.001 |
 
 \* A marked quarter was calculated by subtracting the earlier cumulative amount.
@@ -82,7 +84,7 @@ ConocoPhillips’ Lower 48 segment sold approximately $5.3 billion to one unname
 
 | USD billion | 2025-01-01 – 2025-09-30 | 2026-01-01 – 2026-09-30 |
 | --- | --- | --- |
-| Revenue | 45.552 | 54.357 |
+| Sales and other operating revenues | 45.552 | 54.357 |
 | Net income attributable to the parent | 6.546 | 10.115 |
 | Cash from operations | 15.478 | 18.924 |
 | Share repurchases | 3.996 | 5.407 |

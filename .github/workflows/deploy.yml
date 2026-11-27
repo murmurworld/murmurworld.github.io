@@ -32,10 +32,11 @@ jobs:
           ref: ${{ inputs.revision || github.sha }}
       - name: Extract the site template
         run: python3 -m zipfile -e murmurworld-source.zip site
-      - name: Install published company filing data
+      - name: Install published company filings and fund holdings
         run: |
           mkdir -p site/public/data/company-reports
           cp public/data/company-reports/*.json site/public/data/company-reports/
+          cp public/data/etf-holdings.json site/src/site/etf-holdings.json
       - name: Add the latest article files
         shell: bash
         run: |

@@ -41,6 +41,8 @@ PC·데이터센터용 CPU 등을 설계·판매하고, 제조(인텔 파운드�
 
 PC 업체와 서버 운영자는 프로세서를 구매하고, 파운드리 고객은 생산이나 패키징을 맡긴다.
 
+같은 제온 6도 고객에 따라 다른 상품이 된다. 레노버의 ThinkSystem SR650 V4는 제온 6를 최대 두 개 넣고 메모리와 디스크를 더한 서버다. AWS는 전용 제온 6로 EC2 M8i를 운영한다. 앞쪽에선 회사가 장비 한 대를 사고, 뒤쪽에선 프로그램을 돌릴 컴퓨팅 용량을 빌린다. [레노버 서버 사양](https://lenovopress.lenovo.com/lp2127-thinksystem-sr650-v4-server) · [AWS의 M8i 출시 발표](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8i-and-m8i-flex-instances-generally-available/)
+
 2025년에는 고객 A가 연결 순매출의 19%, 고객 B와 C가 각각 12%를 차지했다. 공시는 세 곳을 기호로 표시한다. [10-K](https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm)
 
 ### 지역별 매출

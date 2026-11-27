@@ -41,6 +41,8 @@ A Xeon 6 package connects compute dies made on Intel 3 with I/O dies made on Int
 
 Computer manufacturers buy processors, cloud operators buy server platforms, and foundry customers contract for fabrication or packaging.
 
+The same Xeon generation can reach a customer in two different ways. Lenovo’s ThinkSystem SR650 V4 accepts up to two Xeon 6 processors and lets the buyer configure memory and storage. AWS runs EC2 M8i instances on a custom Xeon 6. A company can buy the Lenovo server for its own racks or rent computing capacity from AWS. [Lenovo system specifications](https://lenovopress.lenovo.com/lp2127-thinksystem-sr650-v4-server) · [AWS M8i announcement](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8i-and-m8i-flex-instances-generally-available/)
+
 The three largest customers accounted for 19%, 12% and 12% of 2025 consolidated net revenue. The filing identifies them as A, B and C. [10-K](https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm)
 
 ### Revenue by geography

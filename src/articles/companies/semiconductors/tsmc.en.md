@@ -24,7 +24,7 @@ TSMC produces and packages chips designed by customers. A foundry earns manufact
 
 | Product or service | Use and users |
 | --- | --- |
-| Advanced process foundry | A fabrication process determines which transistor and interconnect features a designer can use. Customers order wafer production rather than purchasing a TSMC-branded processor. |
+| Advanced chip manufacturing | Customers design processors for AI accelerators and phones, then order wafers from TSMC. N3 and N2 are names for successive manufacturing processes. In N2, the gate wraps around thin sheets of material to control the current flowing through them. [TSMC on its N2 transistors](https://research.tsmc.com/page/transistor-structure/59.html) |
 | High performance computing | The platform category covers foundry production for data center processors, accelerators, network and other high-performance devices. |
 | Smartphone and other end markets | Application processors and supporting chips go into handsets. TSMC also reports platform categories for IoT, automotive, consumer electronics and other uses. |
 | Advanced packaging | CoWoS brings a processor and high-bandwidth memory together in one package. Chip-on-wafer technologies address the connections between separately manufactured dies. |

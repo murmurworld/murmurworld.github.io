@@ -1,0 +1,508 @@
+{
+  "ticker": "SCHD",
+  "asOf": "2026-11-25",
+  "source": "https://www.schwabassetmanagement.com/allholdings/schd",
+  "holdings": [
+    {
+      "ticker": "PG",
+      "name": "PROCTER & GAMBLE",
+      "weight": 4.64
+    },
+    {
+      "ticker": "HD",
+      "name": "HOME DEPOT",
+      "weight": 4.48
+    },
+    {
+      "ticker": "KO",
+      "name": "COCA-COLA",
+      "weight": 4.37
+    },
+    {
+      "ticker": "TXN",
+      "name": "TEXAS INSTRUMENT",
+      "weight": 4.19
+    },
+    {
+      "ticker": "AMGN",
+      "name": "AMGEN INC",
+      "weight": 4.19
+    },
+    {
+      "ticker": "PEP",
+      "name": "PEPSICO",
+      "weight": 4.05
+    },
+    {
+      "ticker": "CVX",
+      "name": "CHEVRON",
+      "weight": 3.94
+    },
+    {
+      "ticker": "QCOM",
+      "name": "QUALCOMM",
+      "weight": 3.92
+    },
+    {
+      "ticker": "COP",
+      "name": "CONOCOPHILLIPS",
+      "weight": 3.88
+    },
+    {
+      "ticker": "ABT",
+      "name": "ABBOTT LABORATORIES",
+      "weight": 3.86
+    },
+    {
+      "ticker": "VZ",
+      "name": "VERIZON COMMUNICATIONS INC",
+      "weight": 3.72
+    },
+    {
+      "ticker": "MRK",
+      "name": "MERCK & CO INC",
+      "weight": 3.66
+    },
+    {
+      "ticker": "ACN",
+      "name": "ACCENTURE PLC CLASS A",
+      "weight": 3.52
+    },
+    {
+      "ticker": "UNH",
+      "name": "UNITEDHEALTH GROUP",
+      "weight": 3.42
+    },
+    {
+      "ticker": "MO",
+      "name": "ALTRIA GROUP",
+      "weight": 3.05
+    },
+    {
+      "ticker": "ADP",
+      "name": "AUTOMATIC DATA PROCESSING",
+      "weight": 3.01
+    },
+    {
+      "ticker": "BMY",
+      "name": "BRISTOL MYERS SQUIBB",
+      "weight": 3.01
+    },
+    {
+      "ticker": "LMT",
+      "name": "LOCKHEED MARTIN",
+      "weight": 2.91
+    },
+    {
+      "ticker": "CMCSA",
+      "name": "COMCAST CLASS A",
+      "weight": 2.18
+    },
+    {
+      "ticker": "BX",
+      "name": "BLACKSTONE",
+      "weight": 2.14
+    },
+    {
+      "ticker": "UPS",
+      "name": "UNITED PARCEL SERVICE INC CLASS B",
+      "weight": 2.0
+    },
+    {
+      "ticker": "TGT",
+      "name": "TARGET CORP",
+      "weight": 1.87
+    },
+    {
+      "ticker": "EOG",
+      "name": "EOG RESOURCES",
+      "weight": 1.86
+    },
+    {
+      "ticker": "SLB",
+      "name": "SLB",
+      "weight": 1.72
+    },
+    {
+      "ticker": "FAST",
+      "name": "FASTENAL",
+      "weight": 1.45
+    },
+    {
+      "ticker": "OKE",
+      "name": "ONEOK",
+      "weight": 1.3
+    },
+    {
+      "ticker": "F",
+      "name": "FORD MOTOR",
+      "weight": 1.14
+    },
+    {
+      "ticker": "FITB",
+      "name": "FIFTH THIRD BANCORP",
+      "weight": 1.12
+    },
+    {
+      "ticker": "DVN",
+      "name": "DEVON ENERGY",
+      "weight": 1.12
+    },
+    {
+      "ticker": "PAYX",
+      "name": "PAYCHEX",
+      "weight": 0.91
+    },
+    {
+      "ticker": "KMB",
+      "name": "KIMBERLY CLARK",
+      "weight": 0.87
+    },
+    {
+      "ticker": "ADM",
+      "name": "ARCHER DANIELS MIDLAND",
+      "weight": 0.77
+    },
+    {
+      "ticker": "ARES",
+      "name": "ARES MANAGEMENT CLASS A",
+      "weight": 0.72
+    },
+    {
+      "ticker": "CINF",
+      "name": "CINCINNATI FINANCIAL",
+      "weight": 0.71
+    },
+    {
+      "ticker": "DRI",
+      "name": "DARDEN RESTAURANTS",
+      "weight": 0.66
+    },
+    {
+      "ticker": "HSY",
+      "name": "HERSHEY FOODS",
+      "weight": 0.64
+    },
+    {
+      "ticker": "RF",
+      "name": "REGIONS FINANCIAL",
+      "weight": 0.57
+    },
+    {
+      "ticker": "TROW",
+      "name": "T ROWE PRICE GROUP",
+      "weight": 0.53
+    },
+    {
+      "ticker": "BR",
+      "name": "BROADRIDGE FINANCIAL SOLUTIONS INC",
+      "weight": 0.51
+    },
+    {
+      "ticker": "PFG",
+      "name": "PRINCIPAL FINANCIAL GROUP INC",
+      "weight": 0.51
+    },
+    {
+      "ticker": "BBY",
+      "name": "BEST BUY",
+      "weight": 0.49
+    },
+    {
+      "ticker": "GIS",
+      "name": "GENERAL MILLS INC",
+      "weight": 0.46
+    },
+    {
+      "ticker": "SNA",
+      "name": "SNAP ON INC",
+      "weight": 0.45
+    },
+    {
+      "ticker": "EWBC",
+      "name": "EAST WEST BANCORP",
+      "weight": 0.41
+    },
+    {
+      "ticker": "APA",
+      "name": "APA",
+      "weight": 0.38
+    },
+    {
+      "ticker": "DINO",
+      "name": "HF SINCLAIR",
+      "weight": 0.32
+    },
+    {
+      "ticker": "FNF",
+      "name": "FIDELITY NATIONAL FINANCIAL INC",
+      "weight": 0.28
+    },
+    {
+      "ticker": "AFG",
+      "name": "AMERICAN FINANCIAL GROUP",
+      "weight": 0.26
+    },
+    {
+      "ticker": "WSO",
+      "name": "WATSCO",
+      "weight": 0.26
+    },
+    {
+      "ticker": "BAH",
+      "name": "BOOZ ALLEN HAMILTON HOLDING CLASS",
+      "weight": 0.25
+    },
+    {
+      "ticker": "ORI",
+      "name": "OLD REPUBLIC INTERNATIONAL",
+      "weight": 0.22
+    },
+    {
+      "ticker": "COLB",
+      "name": "COLUMBIA BANKING SYSTEM INC",
+      "weight": 0.2
+    },
+    {
+      "ticker": "ALV",
+      "name": "AUTOLIV",
+      "weight": 0.19
+    },
+    {
+      "ticker": "ERIE",
+      "name": "ERIE INDEMNITY CLASS A",
+      "weight": 0.17
+    },
+    {
+      "ticker": "M",
+      "name": "MACYS",
+      "weight": 0.15
+    },
+    {
+      "ticker": "NXST",
+      "name": "NEXSTAR MEDIA GROUP INC",
+      "weight": 0.14
+    },
+    {
+      "ticker": "MTN",
+      "name": "VAIL RESORTS",
+      "weight": 0.12
+    },
+    {
+      "ticker": "OZK",
+      "name": "BANK OZK",
+      "weight": 0.12
+    },
+    {
+      "ticker": "MSM",
+      "name": "MSC INDUSTRIAL CLASS A",
+      "weight": 0.12
+    },
+    {
+      "ticker": "MUR",
+      "name": "MURPHY OIL",
+      "weight": 0.1
+    },
+    {
+      "ticker": "FHI",
+      "name": "FEDERATED HERMES INC CLASS B",
+      "weight": 0.1
+    },
+    {
+      "ticker": "RHI",
+      "name": "ROBERT HALF INC",
+      "weight": 0.09
+    },
+    {
+      "ticker": "MC",
+      "name": "MOELIS CLASS A",
+      "weight": 0.09
+    },
+    {
+      "ticker": "KFY",
+      "name": "KORN FERRY",
+      "weight": 0.09
+    },
+    {
+      "ticker": "PAG",
+      "name": "PENSKE AUTOMOTIVE GROUP VOTING INC",
+      "weight": 0.09
+    },
+    {
+      "ticker": "CWEN",
+      "name": "CLEARWAY ENERGY INC CLASS C",
+      "weight": 0.09
+    },
+    {
+      "ticker": "CVBF",
+      "name": "CVB FINANCIAL CORP",
+      "weight": 0.09
+    },
+    {
+      "ticker": "IPAR",
+      "name": "INTERPARFUMS INC",
+      "weight": 0.06
+    },
+    {
+      "ticker": "APAM",
+      "name": "ARTISAN PARTNERS ASSET MANAGEMENT",
+      "weight": 0.06
+    },
+    {
+      "ticker": "BANR",
+      "name": "BANNER CORP",
+      "weight": 0.06
+    },
+    {
+      "ticker": "MZTI",
+      "name": "MARZETTI",
+      "weight": 0.05
+    },
+    {
+      "ticker": "OFG",
+      "name": "OFG BANCORP",
+      "weight": 0.05
+    },
+    {
+      "ticker": "WU",
+      "name": "WESTERN UNION",
+      "weight": 0.05
+    },
+    {
+      "ticker": "CHCO",
+      "name": "CITY HOLDING",
+      "weight": 0.05
+    },
+    {
+      "ticker": "CNS",
+      "name": "COHEN & STEERS INC",
+      "weight": 0.05
+    },
+    {
+      "ticker": "GABC",
+      "name": "GERMAN AMERICAN BANCORP INC",
+      "weight": 0.04
+    },
+    {
+      "ticker": "NSP",
+      "name": "INSPERITY",
+      "weight": 0.04
+    },
+    {
+      "ticker": "STBA",
+      "name": "S AND T BANCORP INC",
+      "weight": 0.04
+    },
+    {
+      "ticker": "NBHC",
+      "name": "NATIONAL BANK HOLDINGS CORP CLASS",
+      "weight": 0.04
+    },
+    {
+      "ticker": "AGM",
+      "name": "FEDERAL AGRICULTURAL MORTGAGE NON",
+      "weight": 0.04
+    },
+    {
+      "ticker": "SRCE",
+      "name": "1ST SOURCE",
+      "weight": 0.04
+    },
+    {
+      "ticker": "LKFN",
+      "name": "LAKELAND FINANCIAL CORP",
+      "weight": 0.04
+    },
+    {
+      "ticker": "WEN",
+      "name": "WENDYS",
+      "weight": 0.03
+    },
+    {
+      "ticker": "BKE",
+      "name": "BUCKLE",
+      "weight": 0.03
+    },
+    {
+      "ticker": "PFBC",
+      "name": "PREFERRED BANK",
+      "weight": 0.03
+    },
+    {
+      "ticker": "FLO",
+      "name": "FLOWERS FOODS INC",
+      "weight": 0.03
+    },
+    {
+      "ticker": "CNA",
+      "name": "CNA FINANCIAL CORP",
+      "weight": 0.03
+    },
+    {
+      "ticker": "USD",
+      "name": "US DOLLAR",
+      "weight": 0.02
+    },
+    {
+      "ticker": "CPF",
+      "name": "CENTRAL PACIFIC FINANCIAL CORP",
+      "weight": 0.02
+    },
+    {
+      "ticker": "HAFC",
+      "name": "HANMI FINANCIAL CORP",
+      "weight": 0.02
+    },
+    {
+      "ticker": "ORRF",
+      "name": "ORRSTOWN FINANCIAL SERVICES INC",
+      "weight": 0.02
+    },
+    {
+      "ticker": "IBCP",
+      "name": "INDEPENDENT BANK CORP",
+      "weight": 0.02
+    },
+    {
+      "ticker": "THFF",
+      "name": "FIRST FINANCIAL CORPORATION CORP",
+      "weight": 0.02
+    },
+    {
+      "ticker": "CCBG",
+      "name": "CAPITAL CITY BANK INC",
+      "weight": 0.02
+    },
+    {
+      "ticker": "VRTS",
+      "name": "VIRTUS INVESTMENT PARTNERS",
+      "weight": 0.02
+    },
+    {
+      "ticker": "EBF",
+      "name": "ENNIS INC",
+      "weight": 0.01
+    },
+    {
+      "ticker": "OXM",
+      "name": "OXFORD INDUSTRIES INC",
+      "weight": 0.01
+    },
+    {
+      "ticker": "AMSF",
+      "name": "AMERISAFE INC",
+      "weight": 0.01
+    },
+    {
+      "ticker": "ETD",
+      "name": "ETHAN ALLEN INTERIORS",
+      "weight": 0.01
+    }
+  ],
+  "coverage": {
+    "complete": true,
+    "disclosedPositions": 102,
+    "equityPositions": 99,
+    "sourceUrl": "https://www.schwabassetmanagement.com/allholdings/schd"
+  }
+}

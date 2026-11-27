@@ -27,13 +27,16 @@ Shell produces and markets gas and LNG, alongside oil production, fuels and chem
 | Integrated Gas | Natural gas production, LNG liquefaction, trading and marketing connect producers to distant importing markets. |
 | Upstream | Conventional oil and gas exploration and production supply crude oil and natural gas. |
 | Marketing | Retail sites, lubricants and commercial customers form distinct routes to the end user. |
-| Chemicals and Products, and power activities | Refining, chemical production and trading involve buying or producing feedstocks and selling finished products. Check separately reported power and renewables activities. |
+| Chemicals and Products | Refineries turn crude oil into products such as fuels. Shell also makes and trades chemicals. |
+| Renewables and Energy Solutions | Shell generates renewable power and trades electricity and pipeline gas, including energy it buys from other suppliers. |
 
 | Reporting period | Company operating update |
 | --- | --- |
 | 2026 Q3 | Production averaged 2.574 million barrels of oil equivalent per day, compared with 2.821 million a year earlier. [Company results or filing](https://www.sec.gov/Archives/edgar/data/1306965/000162828026068044/quarterlyexhibit992-q32026.htm) |
 
 ## Who buys it
+
+Following a barrel from the oil field to the filling station shows why Shell separates outside customers from its own businesses. In the third quarter of 2026, the group earned $92.848 billion in revenue from outside customers. Marketing, which includes fuel retail and lubricants, accounted for $39.366 billion. Upstream also recorded $11.784 billion in sales to other Shell businesses. Those internal sales are excluded from the group total. [Shell third-quarter results, page 23](https://www.shell.com/investors/investor-presentations/_jcr_content/root/main/section_1529014047_c_540020954/tabs/tab_1774293805/text_copy_copy_copy__900772623/links/item1.stream/1793238865458/4bc70d25b73a07e71802c547bf6df9afbb724171/q3-2026-qra-document.pdf#page=23)
 
 Utilities, industrial users, traders, fuel distributors and motorists buy gas, electricity, chemicals and fuels at different points in the supply chain.
 

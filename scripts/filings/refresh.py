@@ -24,13 +24,22 @@ from issuer_filings import DIRECTORIES, ISSUER_HOSTS, refresh_issuer
 from issuer_international import INTERNATIONAL_HOSTS, INTERNATIONAL_TICKERS, refresh_international
 from issuer_native import NATIVE_HOSTS, NATIVE_TICKERS, refresh_native
 from issuer_q4 import DIRECTORIES as Q4_DIRECTORIES, HOSTS as Q4_HOSTS, refresh_q4
+from issuer_berkshire import HOST as BERKSHIRE_HOST, refresh_berkshire
+from issuer_additional import ADDITIONAL_HOSTS, ADDITIONAL_TICKERS, refresh_additional
+from issuer_technology import TECHNOLOGY_HOSTS, TECHNOLOGY_TICKERS, refresh_technology
+from issuer_novo import HOST as NOVO_HOST, refresh_novo
+from issuer_shell import HOST as SHELL_HOST, refresh_shell
+from issuer_electronics import ELECTRONICS_HOSTS, ELECTRONICS_TICKERS, refresh_electronics
 
 ALLOWED = (
-    {"www.sec.gov", "data.sec.gov", "dart.fss.or.kr", "opendart.fss.or.kr"}
+    {"www.sec.gov", "data.sec.gov", "dart.fss.or.kr", "opendart.fss.or.kr", BERKSHIRE_HOST, NOVO_HOST, SHELL_HOST}
     | ISSUER_HOSTS
     | Q4_HOSTS
     | NATIVE_HOSTS
     | INTERNATIONAL_HOSTS
+    | ADDITIONAL_HOSTS
+    | TECHNOLOGY_HOSTS
+    | ELECTRONICS_HOSTS
 )
 SEC_BULK = {
     "submissions": "https://www.sec.gov/Archives/edgar/daily-index/bulkdata/submissions.zip",
@@ -169,6 +178,12 @@ def issuer_fallback(ticker):
         (Q4_DIRECTORIES, refresh_q4),
         (NATIVE_TICKERS, refresh_native),
         (INTERNATIONAL_TICKERS, refresh_international),
+        ({"BRK.B"}, refresh_berkshire),
+        (ADDITIONAL_TICKERS, refresh_additional),
+        (TECHNOLOGY_TICKERS, refresh_technology),
+        ({"NVO"}, refresh_novo),
+        ({"SHEL"}, refresh_shell),
+        (ELECTRONICS_TICKERS, refresh_electronics),
     ):
         if ticker in directory:
             return read
@@ -176,7 +191,8 @@ def issuer_fallback(ticker):
 
 
 def source_provider(sources):
-    providers = {"TWSE" if urlsplit(s["url"]).hostname == "openapi.twse.com.tw" else "Issuer IR" for s in sources}
+    channels = {"openapi.twse.com.tw": "TWSE", "www.prnewswire.com": "Issuer release"}
+    providers = {channels.get(urlsplit(s["url"]).hostname, "Issuer IR") for s in sources}
     return " + ".join(sorted(providers)) or "Issuer IR"
 
 
@@ -186,7 +202,7 @@ def supplement_sec(packet, status, read, cik, fetch):
         return packet, status, "SEC"
     missing = status.get("warnings", [])
     latest = {item["kind"]: item for item in status["latest"]}
-    if not (missing or (packet["ticker"] in INTERNATIONAL_TICKERS and "foreign-report" in latest)):
+    if not (missing or (packet["ticker"] in INTERNATIONAL_TICKERS | {"NVO"} and "foreign-report" in latest)):
         return packet, status, "SEC"
     try:
         candidate, checked = read(packet, cik, fetch)
@@ -300,6 +316,7 @@ def main():
                 tmp.write_text(
                     json.dumps(updated, ensure_ascii=False, allow_nan=False, separators=(",", ":")) + "\n",
                     encoding="utf-8",
+                    newline="\n",
                 )
                 tmp.replace(path)
     summary = " · ".join(f"{provider}: {n}" for provider, n in counts.items()) or "0 verified"

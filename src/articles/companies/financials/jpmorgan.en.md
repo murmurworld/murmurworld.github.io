@@ -14,10 +14,10 @@ JPMorgan Chase collects deposits, makes loans, issues cards and processes paymen
 | Principal office | New York, New York |
 | Operations | Branch network, institutional banking centers, market operations and technology facilities |
 | Listing and symbol | NYSE · JPM |
-| Reported business lines | Commercial and Investment Bank · Consumer Community Banking · Asset and Wealth Management · Corporate Non · Material Reconciling Items |
+| Reportable segments | Commercial & Investment Bank · Consumer & Community Banking · Asset & Wealth Management. Corporate activities are presented separately. |
 | Annual reporting date | 2025-12-31 |
-| Annual consolidated revenue | 2025-12-31 · 182.447 USD billion |
-| Fiscal year-to-date consolidated revenue | 2026-01-01 – 2026-09-30 · 157.355 USD billion |
+| Annual consolidated net revenue | 2025-12-31 · 182.447 USD billion |
+| Fiscal year-to-date consolidated net revenue | 2026-01-01 – 2026-09-30 · 157.355 USD billion |
 | Shares issued | 4,104,933,895 · 2026-09-30 · [Filing](https://www.sec.gov/Archives/edgar/data/19617/000162828026069523/jpm-20260930.htm) |
 | Shares outstanding | 2,655,609,509 · 2026-09-30 · [Filing](https://www.sec.gov/Archives/edgar/data/19617/000162828026069523/jpm-20260930.htm) |
 | Filing | [10-K](https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm) |
@@ -41,14 +41,14 @@ Households, businesses, institutions and government bodies borrow, deposit, make
 
 JPMorgan Chase sells distinct services to cardholders and corporate clients. Card use creates payment activity and can generate lending income. A company hiring the investment bank for an issuance or merger can pay an advisory or underwriting fee. The entire purchase charged to a card is not bank revenue. [Customer and distribution disclosures](https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm)
 
-### Revenue by geography
+### Net revenue by geography
 
 | USD billion | 2023-12-31 | 2024-12-31 | 2025-12-31 |
 | --- | --- | --- | --- |
 | EMEA | 20.974 | 22.353 | 24.478 |
 | Asia Pacific | 10.605 | 11.995 | 14.065 |
 | Latin America | 3.294 | 3.885 | 4.215 |
-| Total International | 34.873 | 38.233 | 42.758 |
+| International subtotal (three regions above) | 34.873 | 38.233 | 42.758 |
 | North America | 123.231 | 139.323 | 139.689 |
 
 [10-K](https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm)
@@ -62,15 +62,17 @@ JPMorgan Chase sells distinct services to cardholders and corporate clients. Car
 | Revenue, net of interest expense | 158.104 | 177.556 | 182.447 |
 | Net income attributable to the parent | 49.552 | 58.471 | 57.048 |
 
-### Reported business lines
+### Net revenue by segment and the adjustment to GAAP
 
 | USD billion | 2023-12-31 | 2024-12-31 | 2025-12-31 |
 | --- | --- | --- | --- |
 | Commercial and Investment Bank | 64.353 | 70.114 | 78.454 |
-| Consumer Community Banking | 70.148 | 71.507 | 76.029 |
+| Consumer & Community Banking | 70.148 | 71.507 | 76.029 |
 | Asset and Wealth Management | 19.827 | 21.578 | 24.073 |
-| Corporate Non | 8.038 | 17.394 | 7.025 |
-| Material Reconciling Items | -4.262 | -3.037 | -3.134 |
+| Corporate | 8.038 | 17.394 | 7.025 |
+| Remove fully taxable-equivalent adjustments | -4.262 | -3.037 | -3.134 |
+
+In 2025 the three businesses and Corporate together generated $185.581 billion of net revenue on a managed basis. This measure puts tax-exempt income on a comparable taxable basis. Removing the $3.134 billion adjustment gives $182.447 billion of reported GAAP net revenue. [2025 annual report](https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm)
 
 ### Consolidated results for individual quarters
 

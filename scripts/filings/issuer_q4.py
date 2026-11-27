@@ -6,10 +6,13 @@ from io import BytesIO
 from urllib.parse import urlsplit
 from zipfile import BadZipFile, ZipFile
 import re
+import time
 
 from playwright.sync_api import Error as BrowserError, sync_playwright
 from lxml import etree
 from issuer_filings import issuer_tables
+from issuer_multiperiod import META_CDN, fourth_quarter, merck_annual, meta_quarter, pdf_pages
+from pypdf.errors import PdfReadError
 
 
 DIRECTORIES = {
@@ -39,7 +42,7 @@ DIRECTORIES = {
     "DIS": "https://investors.thewaltdisneycompany.com/financials/sec-filings/default.aspx",
 }
 CDN = "d18rn0p25nwr6d.cloudfront.net"
-HOSTS = {urlsplit(u).hostname for u in DIRECTORIES.values()} | {CDN}
+HOSTS = {urlsplit(u).hostname for u in DIRECTORIES.values()} | {CDN, META_CDN}
 DATE = re.compile(
     r"\b(?:\d{4}-\d{2}-\d{2}|\d{1,2}/\d{1,2}/(?:\d{4}|\d{2})|[A-Za-z]{3,9}\.?\s+\d{1,2},?\s+\d{4})\b"
 )
@@ -104,13 +107,19 @@ def listing(page, form, host, archive_cik):
 
 
 def select_financials(page, form):
-    group = "annual" if form == "10-K" else "quarterly"
+    group = {"10-K": "annual", "10-Q": "quarterly", "8-K": "current"}[form]
     for select in page.locator("select:visible").all():
         options = select.locator("option").evaluate_all(
             "opts=>opts.map(o=>({label:o.label.trim(),value:o.value}))"
         )
         for option in options:
-            if option["label"].lower() in {group, group + " filings", group + " reports", form.lower()}:
+            if option["label"].lower() in {
+                group,
+                group + " filings",
+                group + " reports",
+                group + " report",
+                form.lower(),
+            }:
                 select.select_option(value=option["value"], timeout=3500)
                 for ancestor in ("ancestor::*[contains(@class,'filter')][1]", "ancestor::form[1]"):
                     controls = (
@@ -122,6 +131,119 @@ def select_financials(page, form):
                         controls.click(timeout=3500)
                         break
                 return
+
+
+def meta_latest(page, fetch):
+    rows = page.locator(".Quarter").evaluate_all(
+        """nodes=>nodes.map(node=>({
+      year:node.querySelector('.year')?.textContent.trim(), q:node.querySelector('.title')?.textContent.trim(),
+      link:[...node.querySelectorAll('a[href]')].find(a=>a.textContent.trim()==='Earnings Release')?.href
+    }))"""
+    )
+    entries = {
+        (int(r["year"]), int(r["q"][0]), r.get("link") or "")
+        for r in rows
+        if re.fullmatch(r"20\d\d", r.get("year") or "") and re.fullmatch(r"[1-4]Q", r.get("q") or "")
+    }
+    if not entries:
+        raise ValueError("Meta quarterly archive is empty")
+    year, q, url = max(entries)
+    p = urlsplit(url)
+    if (
+        p.scheme != "https"
+        or p.hostname != META_CDN
+        or not re.fullmatch(r"/399680738/files/[^?#]+\.pdf", p.path, re.I)
+    ):
+        raise ValueError("Meta did not publish a directly identifiable latest quarterly statement")
+    return meta_quarter(pdf_pages(fetch(url)), year, q, url)
+
+
+CURRENT_REPORTS = r"""()=>Array.from(document.querySelectorAll('a[href]')).flatMap(a=>{
+  if(!/\.pdf$/i.test(a.pathname)) return [];
+  const row=a.closest('tr,.module_item,.ModuleItem,[role="row"],.evergreen-sec-filings-item');
+  if(!row)return [];
+  const nodes=document.createTreeWalker(row,NodeFilter.SHOW_TEXT), parts=[];
+  while(nodes.nextNode())parts.push(nodes.currentNode.textContent.trim());
+  if(!parts.some(s=>s.toUpperCase().replace(/^FORM\s+/,'')==='8-K'))return [];
+  return [{url:a.href,date:parts.join(' ')}];
+})"""
+
+
+def year_end_release(page, ticker, cik, annual, fetch):
+    select_financials(page, "8-K")
+    expected = date.fromisoformat(annual["periodEnd"])
+    until = annual["filed"]
+    eligible = []
+
+    def scan():
+        for row in page.evaluate(CURRENT_REPORTS):
+            filed = filing_date(row["date"])
+            url = urlsplit(row["url"])
+            if (
+                filed
+                and annual["periodEnd"] < filed <= until
+                and url.scheme == "https"
+                and url.hostname == CDN
+                and re.fullmatch(rf"/CIK-0*{cik}/[\da-f-]+\.pdf", url.path, re.I)
+            ):
+                eligible.append((filed, row["url"]))
+
+    # A prior filter may still have other 8-K rows while the new list loads.
+    # Wait for the expected fiscal year instead of accepting those stale rows.
+    deadline = time.monotonic() + 7
+    while not eligible:
+        scan()
+        if eligible or time.monotonic() >= deadline:
+            break
+        page.wait_for_timeout(250)
+    for filed, url in sorted(set(eligible), reverse=True)[:8]:
+        try:
+            return fourth_quarter(ticker, pdf_pages(fetch(url)), filed, url, expected)
+        except (ValueError, PdfReadError):
+            continue
+    raise ValueError("No current 8-K earnings exhibit for the verified fiscal year end")
+
+
+def add_period_releases(page, report, output, latest, warnings, cik, fetch):
+    ticker = report["ticker"]
+    if ticker not in {"COST", "MU", "META", "MRK"}:
+        return
+    by_kind = {src["kind"]: src for src in latest}
+    section = "annual" if ticker == "MRK" else "interim"
+    if ticker in {"COST", "MU"}:
+        annual = by_kind.get("annual")
+        if not annual or by_kind.get("interim", {}).get("periodEnd", "") >= annual["periodEnd"]:
+            return
+    elif section in by_kind:
+        return
+    try:
+        if ticker == "MRK" and cik == 310158:
+            source, tables = merck_annual(fetch)
+        elif ticker == "META" and cik == 1326801:
+            source, tables = meta_latest(page, fetch)
+        elif (ticker, cik) in {("COST", 909832), ("MU", 723125)}:
+            source, tables = year_end_release(page, ticker, cik, annual, fetch)
+        else:
+            raise ValueError("Unexpected earnings-release CIK")
+        last = max((p.get("end") or "" for t in output[section] for p in t["periods"]), default="")
+        if source["periodEnd"] < last:
+            raise ValueError("Issuer release predates stored reporting period")
+        ids = {t["id"] for t in tables}
+        output[section] = tables + [t for t in output[section] if t["id"] not in ids]
+        latest[:] = [s for s in latest if s["kind"] != section] + [source]
+        warnings[:] = [w for w in warnings if not w.startswith(section + "-unavailable")]
+    except (
+        BrowserError,
+        OSError,
+        ValueError,
+        KeyError,
+        IndexError,
+        TypeError,
+        etree.Error,
+        PdfReadError,
+    ) as error:
+        if not any(w.startswith(section + "-unavailable") for w in warnings):
+            warnings.append(f"{section}-release-unavailable ({str(error).splitlines()[0][:140]})")
 
 
 def open_archive(fetch, url):
@@ -173,6 +295,7 @@ def refresh_q4(report, cik, fetch):
                         latest.append(src)
                     except (BrowserError, OSError, ValueError, KeyError, BadZipFile, etree.Error) as error:
                         warnings.append(f"{section}-unavailable ({str(error).splitlines()[0][:140]})")
+                add_period_releases(page,report,output,latest,warnings,cik,fetch)
             finally:
                 browser.close()
     except BrowserError as error:

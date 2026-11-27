@@ -33,6 +33,7 @@ Home Depot sells building materials, home improvement goods and related services
 | Reporting period | Company operating update |
 | --- | --- |
 | FY2026 Q2 | Comparable sales rose 1.7% companywide and 1.3% in the United States. [Company results or filing](https://ir.homedepot.com/news-releases/2026/08-18-2026-110040463) |
+| FY2026 Q3 | Comparable sales rose 2.2% year over year both companywide and in the U.S. On November 1, Home Depot had 2,372 retail stores. SRS operated more than 1,320 locations supplying trade customers. [Third-quarter results](https://ir.homedepot.com/news-releases/2026/11-17-2026-110221331) |
 
 ## Who buys it
 
@@ -44,8 +45,8 @@ No customer exceeded 10% of revenue in any of the three fiscal years covered by 
 
 | USD billion | 2024-01-28 | 2025-02-02 | 2026-02-01 |
 | --- | --- | --- | --- |
-| US | 140.083 | 147.007 | 152.17 |
-| Non Us | 12.586 | 12.507 | 12.513 |
+| United States | 140.083 | 147.007 | 152.17 |
+| Outside the United States | 12.586 | 12.507 | 12.513 |
 
 [10-K](https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm)
 
@@ -61,6 +62,8 @@ No customer exceeded 10% of revenue in any of the three fiscal years covered by 
 | Net income attributable to the parent | 15.143 | 14.806 | 14.156 |
 
 ### Reported business lines
+
+Departments such as plumbing and lumber are included in their product-line subtotal. The comparison uses the revised fiscal 2025 product groups across all three years and covers 52 weeks in fiscal 2025 and 53 in fiscal 2024. [10-K](https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm)
 
 | USD billion | 2024-01-28 | 2025-02-02 | 2026-02-01 |
 | --- | --- | --- | --- |
