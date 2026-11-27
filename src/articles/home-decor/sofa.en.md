@@ -116,4 +116,8 @@ I fell for the black Leel in the showroom and put an ivory one by our window. I�
   <figcaption>The knot cushion sits on the left arm. The three big back cushions came with the sofa, in the same ivory faux leather.</figcaption>
 </figure>
 
-I took these two photos after we’d been using the sofa for a while. I still can’t spot a stain on the ivory. Every time I see it in our living room, I’m glad we picked it.
+### Living with the Leel
+
+On nights when I can’t get to sleep in bed, I go out to the living room and sleep on the sofa. Those are the nights I’m glad we had one side made longer.
+
+If I get something on the sofa, I wipe the spot with alcohol. Even on the ivory, I still can’t see any stains. Being able to wipe it clean on the spot makes it feel cleaner to me than fabric. I picked it for its looks and ended up liking that little convenience even more.
