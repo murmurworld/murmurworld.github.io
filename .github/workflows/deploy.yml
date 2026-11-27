@@ -4,6 +4,8 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  schedule:
+    - cron: '17 21 * * *'
 
 permissions:
   contents: read
@@ -21,6 +23,10 @@ jobs:
           persist-credentials: false
       - name: Extract the site template
         run: python3 -m zipfile -e murmurworld-source.zip site
+      - name: Install published company filing data
+        run: |
+          mkdir -p site/public/data/company-reports
+          cp public/data/company-reports/*.json site/public/data/company-reports/
       - name: Add the latest article files
         shell: bash
         run: |
@@ -31,6 +37,15 @@ jobs:
             test -f "$source"
             cp -- "$source" "$template"
           done
+      - name: Refresh headline dates and publishers
+        env:
+          TRIGGER: ${{ github.event_name }}
+        run: |
+          if [ "$TRIGGER" = "push" ]; then
+            python3 site/scripts/refresh-market-news.py --site site --published-cache --cache-only
+          else
+            python3 site/scripts/refresh-market-news.py --site site --published-cache
+          fi
       - uses: withastro/action@v6
         env:
           MURMURWORLD_OWNER_ROUTE: ${{ secrets.MURMURWORLD_OWNER_ROUTE }}
