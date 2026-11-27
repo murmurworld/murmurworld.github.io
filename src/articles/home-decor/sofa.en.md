@@ -10,7 +10,7 @@ I had a cotton sofa in mind for our first home together. I figured if I spilled 
   <figcaption>The black Leel in this Monocus photo is the version I saw in the showroom. From the <a href="https://monocus.co.kr/product/?idx=3">official Monocus Leel page</a>.</figcaption>
 </figure>
 
-The black Leel had low arms and large squares stitched into the seat. When I sat down, I noticed how deep it was.
+The black Leel had low arms and large squares stitched into the seat. It feels supportive and really comfortable to lie on.
 
 ## Three other Monocus designs in photos
 
