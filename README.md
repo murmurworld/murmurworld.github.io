@@ -40,4 +40,10 @@ pnpm dev
 
 방문 통계는 Cloudflare Web Analytics 사이트 토큰을 GitHub Actions 저장소 변수 `PUBLIC_CLOUDFLARE_WEB_ANALYTICS_TOKEN`에 등록하고 워크플로를 다시 실행하면 집계됩니다.
 
+## 기업 지도의 도로와 건물
+
+전국 지도와 기업 거점은 사이트에 들어 있습니다. 거리를 확대하면 브라우저가 OpenFreeMap의 [현재 지도 목록](https://tiles.openfreemap.org/planet)에서 해당 구역을 찾아 도로, 건물 윤곽과 도로명을 그립니다. 제공처가 지도를 갱신하면 새로 연 지도에서도 새 데이터를 받습니다. 지도 키나 결제 계정은 필요 없습니다. 기업 표시는 공개 자료에서 확인한 도시를 가리킵니다.
+
+GitHub Actions의 **Check stock atlas street maps**는 매달 2일 한국 시간 오전 10시 27분에 실행하도록 예약되어 있습니다. 오스틴·앵커리지·호놀룰루의 도로 데이터와 도로명, 한·영 사이트의 지도 연결을 확인합니다. 직접 점검하려면 같은 화면에서 **Run workflow**를 누르세요. 제공처 장애가 발생하면 전국 지도와 기업 설명을 계속 읽을 수 있고, 지도 안에서 도로를 다시 불러올 수 있습니다. [OpenFreeMap 서비스 안내](https://openfreemap.org/)
+
 [Astro GitHub Pages 공식 안내](https://docs.astro.build/en/guides/deploy/github/)

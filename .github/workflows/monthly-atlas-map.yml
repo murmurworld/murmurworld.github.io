@@ -1,0 +1,31 @@
+name: Check stock atlas street maps
+
+on:
+  schedule:
+    - cron: '27 1 2 * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/monthly-atlas-map.yml'
+      - 'scripts/maps/**'
+
+permissions:
+  contents: read
+
+jobs:
+  streets:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - name: Install the vector tile decoder
+        run: |
+          python3 -m pip install --only-binary=:all: 'mapbox-vector-tile==2.2.0'
+      - name: Check public street geometry, names and browser access
+        run: python3 scripts/maps/check_streets.py
+      - name: Check the published Korean and English maps
+        if: github.event_name != 'push'
+        run: python3 scripts/maps/check_streets.py --site-only
