@@ -35,6 +35,8 @@ UnitedHealthcare provides coverage, while Optum includes care delivery, informat
 | --- | --- |
 | 2026 Q3 | The medical care ratio was 88.4%. It measures medical costs as a share of premium revenue. [Company results or filing](https://www.sec.gov/Archives/edgar/data/731766/000073176626000255/earningsrelease3q26unh.htm) |
 
+UnitedHealthcare buys services from Optum, its sister business. Optum records those sales in its own revenue. In the third quarter of 2026, UnitedHealthcare reported $86.330 billion in revenue and Optum reported $66.883 billion. Adding the two and subtracting $40.519 billion in transactions within the group gives the $112.694 billion in consolidated revenue that UnitedHealth Group reported. [UnitedHealth Group third-quarter earnings release](https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2026/unh-reports-third-quarter-2026-results.pdf)
+
 ## Who buys it
 
 Employers, public programs and individuals buy health benefits. Providers, payers and plan sponsors also contract for Optum services.

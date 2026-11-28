@@ -30,6 +30,8 @@ from issuer_technology import TECHNOLOGY_HOSTS, TECHNOLOGY_TICKERS, refresh_tech
 from issuer_novo import HOST as NOVO_HOST, refresh_novo
 from issuer_shell import HOST as SHELL_HOST, refresh_shell
 from issuer_electronics import ELECTRONICS_HOSTS, ELECTRONICS_TICKERS, refresh_electronics
+from issuer_mining import MINING_HOSTS, MINING_TICKERS, refresh_mining
+from issuer_unitedhealth import HOST as UNITEDHEALTH_HOST, refresh_unitedhealth
 
 ALLOWED = (
     {"www.sec.gov", "data.sec.gov", "dart.fss.or.kr", "opendart.fss.or.kr", BERKSHIRE_HOST, NOVO_HOST, SHELL_HOST}
@@ -40,6 +42,8 @@ ALLOWED = (
     | ADDITIONAL_HOSTS
     | TECHNOLOGY_HOSTS
     | ELECTRONICS_HOSTS
+    | MINING_HOSTS
+    | {UNITEDHEALTH_HOST}
 )
 SEC_BULK = {
     "submissions": "https://www.sec.gov/Archives/edgar/daily-index/bulkdata/submissions.zip",
@@ -184,6 +188,8 @@ def issuer_fallback(ticker):
         ({"NVO"}, refresh_novo),
         ({"SHEL"}, refresh_shell),
         (ELECTRONICS_TICKERS, refresh_electronics),
+        (MINING_TICKERS, refresh_mining),
+        ({"UNH"}, refresh_unitedhealth),
     ):
         if ticker in directory:
             return read
@@ -202,7 +208,7 @@ def supplement_sec(packet, status, read, cik, fetch):
         return packet, status, "SEC"
     missing = status.get("warnings", [])
     latest = {item["kind"]: item for item in status["latest"]}
-    if not (missing or (packet["ticker"] in INTERNATIONAL_TICKERS | {"NVO"} and "foreign-report" in latest)):
+    if not (missing or (packet["ticker"] in INTERNATIONAL_TICKERS | MINING_TICKERS | {"NVO", "SHEL"} and "foreign-report" in latest)):
         return packet, status, "SEC"
     try:
         candidate, checked = read(packet, cik, fetch)

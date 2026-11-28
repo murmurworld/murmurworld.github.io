@@ -33,6 +33,8 @@ Rio Tinto mines iron ore and copper and operates across the aluminum chain, from
 | --- | --- |
 | 2026 H1 | The average realized Pilbara iron ore price was USD 85.2 per wet metric tonne. The copper price was 591 US cents per pound. [Company results or filing](https://www.sec.gov/Archives/edgar/data/863064/000162828026050377/rio-20260630_d2.htm) |
 
+A copper mine can sell gold, too. In the first half of 2026, Rio Tinto reported $4.052 billion in consolidated copper sales and $1.546 billion in gold sales. Turn to the business segments in the same report and Copper shows $8.622 billion in revenue. That figure also includes other metals sold by the copper operations and Rio Tinto’s share of sales from equity-accounted mines. To see what customers paid for copper itself, look for the copper row in the consolidated sales table by product. [Rio Tinto half-year results, page 44](https://cdn-rio.dataweavers.io/-/media/content/documents/invest/financial-news-and-performance/results/2026/2026-half-year-results.pdf?rev=a679d7cf629e4f9bb065bee92ddc0f84#page=44)
+
 ## Who buys it
 
 Steel, aluminum and copper supply chains buy ores, refined metals or intermediate materials. The same group can both extract and process a material.
