@@ -32,6 +32,8 @@ from issuer_shell import HOST as SHELL_HOST, refresh_shell
 from issuer_electronics import ELECTRONICS_HOSTS, ELECTRONICS_TICKERS, refresh_electronics
 from issuer_mining import MINING_HOSTS, MINING_TICKERS, refresh_mining
 from issuer_unitedhealth import HOST as UNITEDHEALTH_HOST, refresh_unitedhealth
+from issuer_nvidia import NVIDIA_HOSTS, refresh_nvidia
+from issuer_tesla import HOST as TESLA_HOST, refresh_tesla
 
 ALLOWED = (
     {"www.sec.gov", "data.sec.gov", "dart.fss.or.kr", "opendart.fss.or.kr", BERKSHIRE_HOST, NOVO_HOST, SHELL_HOST}
@@ -43,7 +45,8 @@ ALLOWED = (
     | TECHNOLOGY_HOSTS
     | ELECTRONICS_HOSTS
     | MINING_HOSTS
-    | {UNITEDHEALTH_HOST}
+    | {UNITEDHEALTH_HOST, TESLA_HOST}
+    | NVIDIA_HOSTS
 )
 SEC_BULK = {
     "submissions": "https://www.sec.gov/Archives/edgar/daily-index/bulkdata/submissions.zip",
@@ -190,6 +193,7 @@ def issuer_fallback(ticker):
         (ELECTRONICS_TICKERS, refresh_electronics),
         (MINING_TICKERS, refresh_mining),
         ({"UNH"}, refresh_unitedhealth),
+        ({"TSLA"}, refresh_tesla),
     ):
         if ticker in directory:
             return read
@@ -200,6 +204,27 @@ def source_provider(sources):
     channels = {"openapi.twse.com.tw": "TWSE", "www.prnewswire.com": "Issuer release"}
     providers = {channels.get(urlsplit(s["url"]).hostname, "Issuer IR") for s in sources}
     return " + ".join(sorted(providers)) or "Issuer IR"
+
+
+def nvidia_earnings_update(packet, status, provider, cik, fetch):
+    # NVIDIA can publish its earnings exhibit before its next periodic filing appears in the directory.
+    try:
+        candidate, release = refresh_nvidia(packet, cik, fetch)
+    except (OSError, ValueError, KeyError, TypeError, RuntimeError):
+        if not status['latest']:
+            raise
+        return packet, {**status, 'warnings': [*status.get('warnings', []), 'earnings-release-unavailable']}, provider
+    disclosure = next(s for s in release['latest'] if s['kind'] == 'interim')
+    end = disclosure['periodEnd']
+    if any(s['kind'] == 'interim' and (s.get('periodEnd') or '') > end for s in status['latest']):
+        return packet, status, provider
+    previous = [s for s in status['latest'] if s['kind'] != 'interim' or s.get('periodEnd') == end]
+    if not any(s['url'] == disclosure['url'] for s in previous):
+        previous.append(disclosure)
+    warnings = [w for w in status.get('warnings', []) if not w.startswith(('interim-unavailable','interim-financials-unavailable'))]
+    channels = set(provider.split(' + ')) if status['latest'] else set()
+    channels.add(source_provider([disclosure]))
+    return candidate, {'latest': previous, 'warnings': [*warnings, *release.get('warnings', [])]}, ' + '.join(sorted(channels))
 
 
 def supplement_sec(packet, status, read, cik, fetch):
@@ -291,12 +316,19 @@ def main():
                         if not fallback:
                             raise
                         provider = "SEC + Issuer IR"
-                        updated, status = fallback(original, cik, reader.bytes)
+                        try:
+                            updated, status = fallback(original, cik, reader.bytes)
+                        except (OSError, ValueError, RuntimeError, BadZipFile):
+                            if ticker != 'NVDA':
+                                raise
+                            updated, status = original, {'latest': [], 'warnings': ['annual-unavailable']}
                         provider = source_provider(status["latest"])
                     else:
                         updated, status, provider = supplement_sec(
                             updated, status, fallback, cik, reader.bytes
                         )
+                    if ticker == 'NVDA':
+                        updated, status, provider = nvidia_earnings_update(updated, status, provider, cik, reader.bytes)
                 validate(original, updated, status)
                 updated = {
                     **updated,
