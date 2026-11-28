@@ -71,7 +71,7 @@ description: "코튼 소파를 보러 다니다 용산에서 검은 모노커스
   </figure>
   <figure class="guide-photo">
     <img src="/media/monocus-sofa/leel-camel-arm.webp" width="544" height="421" alt="카멜색 르엘의 낮은 팔걸이와 앉는 자리 가장자리를 따라 이어진 봉제선" loading="lazy" decoding="async">
-    <figcaption>카멜색에서는 가장자리의 바느질이 잘 보인다. <a href="https://monocus.co.kr/product/?idx=3">모노커스 공식 사진</a></figcaption>
+    <figcaption> 클래식의 멋이 있는 느낌. <a href="https://monocus.co.kr/product/?idx=3">모노커스 공식 사진</a></figcaption>
   </figure>
 </div>
 
