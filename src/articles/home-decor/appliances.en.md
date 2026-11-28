@@ -1,9 +1,11 @@
 ---
 title: "Why We Bought Our Appliances at a Department Store"
-description: "How we chose five appliances for our first home, with the models and prices we compared and how to weigh buying outright against a subscription."
+description: "My partner had priced an LG fridge and an Ecovacs robot vacuum separately. Then a department store offered us a better deal on five Samsung appliances."
 ---
 
-My partner had put together a list of appliances. The department store quoted us less for a bundle of five. I liked the Kitchen Fit fridge. My partner was still on the fence about the robot vacuum. We already had a vacuum at home, after all.
+We ended up getting all five appliances for our first home from the Samsung counter at a department store. My partner had priced them one by one, with an LG fridge on the list and an Ecovacs robot vacuum. The store’s quote for all five came in well below that combination, and it included the Kitchen Fit fridge I liked.
+
+My partner still had doubts about the robot vacuum. Did we really need a second vacuum when we already had one at home? On the quote we got, a subscription worked out cheaper for the robot vacuum, so that’s the option we took.
 
 <figure class="guide-photo">
   <img src="/media/newsroom/samsung-kfm-showcase-couple.jpg" width="1000" height="735" alt="Two people stand beside a Kitchen Fit Max refrigerator with its Food Showcase door open" fetchpriority="high" decoding="async">
@@ -19,7 +21,7 @@ My partner had put together a list of appliances. The department store quoted us
 </aside>
 
 <h2 id="appliance-comparison">Models we considered</h2>
-<p>In summer 2026, we found standalone prices online of about ₩1.63 million for the LG side-by-side fridge and ₩600,000 for the Ecovacs robot vacuum. Each appliance below links to the prices we found, the trade-offs and what we ordered.</p>
+<p>When we looked in summer 2026, the LG side-by-side fridge was about ₩1.63 million on its own and the Ecovacs robot vacuum was about ₩600,000. The appliance names below link to the models and prices on our shortlist.</p>
 
 <div class="guide-panel">
   <table aria-labelledby="appliance-comparison">
@@ -36,11 +38,11 @@ My partner had put together a list of appliances. The department store quoted us
   </table>
 </div>
 
-## Comparing a store quote with online prices
+<h2 id="comparing-a-store-quote-with-online-prices">What the bundle price tells me</h2>
 
-For the three appliances we bought outright, add delivery and installation to the price of the exact model. For a water purifier, budget for replacement filters as well. Check which store discounts come off the bill and which are paid back later so you can see how much you pay on the day.
+Our fridge is a good example. We had priced an 832 L side-by-side online, but the store quoted us for a 609 L Kitchen Fit. The bundle cost less overall. I still couldn’t tell you how much of it we paid for the fridge alone. Even two offers for the same model are easier to compare once both prices include delivery and installation.
 
-For the robot vacuum and air purifier, multiply the monthly payment by the number of months in the contract. If the rate changes partway through, add up each period separately. Check whether filters and service visits are included before comparing that total with the upfront price.
+A subscription looks inexpensive if you only look at the first month. With an air purifier, it helps to know what the full term costs and whether that covers filters and service visits. If the first few months are discounted, add those months and the remaining ones separately. On a store quote, a rebate paid later also makes a difference to what you actually owe on the day.
 
 <h2>Electricity use</h2>
 <p>See what our five appliances use in a month and estimate your household’s bill with the <a href="/en/blog/home/decor/energy/#our-appliances">Monthly Home Electricity Bill Calculator</a>.</p>

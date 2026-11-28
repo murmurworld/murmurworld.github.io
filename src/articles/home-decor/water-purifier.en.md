@@ -1,11 +1,11 @@
 ---
 title: "Why We Chose a Water Purifier Without an Ice Maker"
-description: "We chose a Samsung Bespoke AI water purifier, and I picked Satin Greige. Here are the counter dimensions and filter details."
+description: "My fiancé liked getting ice from the dispenser at work. I wanted to know how we’d clean it. We settled on a hot and cold water purifier in Satin Greige."
 ---
 
-My fiancé often used a water purifier with an ice dispenser at work and found it handy. When we were choosing ours, I brought up concerns about mold in ice dispensers.
+When we started looking at water purifiers, my fiancé mentioned the one he used at work. He liked being able to hold a glass under the dispenser and get ice. I kept wondering how we’d clean the ice outlet. Until I brought it up, he hadn’t given mold a thought.
 
-We ordered the Samsung Bespoke AI Countertop Water Purifier RWP70F15ANW. It dispenses hot, chilled and room-temperature filtered water. I picked Satin Greige.
+In the end we skipped the ice maker and ordered the Samsung Bespoke AI Countertop Water Purifier (RWP70F15ANW). It gives us hot, chilled and room-temperature filtered water. I picked the color, Satin Greige.
 
 <figure class="guide-photo">
   <img src="/media/newsroom/samsung-water-purifier-countertop.jpg" width="1000" height="562" alt="A Samsung Bespoke AI Countertop Water Purifier on a kitchen counter" decoding="async">
@@ -14,17 +14,17 @@ We ordered the Samsung Bespoke AI Countertop Water Purifier RWP70F15ANW. It disp
 
 ## Counter space
 
-Samsung’s ice-making model in the table is 24 cm wide. Ours is 17 cm wide, saving 7 cm across the counter, and its body is still 48 cm deep. Samsung’s installation specs list two 10 mm holes in the countertop.
+Our model is only 17 cm wide, compared with 24 cm for Samsung’s ice dispenser. The measurement that surprised me was the depth. It needs 48 cm front to back for the unit alone. The Coway Icon 3 is just 1 cm narrower than ours, yet it leaves over 11 cm more space in front. Samsung’s installation specs also call for two 10 mm holes in the countertop.
 
 ## Filters and spout
 
-This model connects to the water supply and filters water as it dispenses it. Samsung says it runs an electrolytic sanitizing cycle in the water line every three days and drains leftover water every four hours when the machine is idle. The spout tip comes off for washing.
+Even without the ice maker, I still wanted to know how I’d clean the part the water comes out of. The tip of the spout comes off for washing. Inside, the purifier filters tap water on demand. Samsung says the water line runs an electrolytic sanitizing cycle every three days and drains any water left in the line every four hours when the unit is idle.
 
-The HAF-HIM replacement set has two filter cartridges. Samsung recommends a 12-month interval and says to change both when the replacement alert appears.
+When the filter alert comes on, both cartridges get changed together. HAF-HIM is the part number for the pair. Samsung recommends changing them every 12 months.
 
 <section>
   <h2 id="purifier-comparison">Models we considered</h2>
-  <p>The ice-making model took up more counter space and cost more upfront. Some of the other models came up as rentals, so the table shows which figures are monthly and which are outright prices.</p>
+  <p>Several prices I found were around ₩30,000 a month on a six-year rental. The ₩1.22 million for our Samsung was the online price to buy it outright. We bought ours as part of a larger appliance order at the store.</p>
   <div class="guide-panel">
     <table aria-labelledby="purifier-comparison" aria-describedby="purifier-size-note">
       <colgroup><col style="width: 32%"><col style="width: 25%"><col></colgroup>

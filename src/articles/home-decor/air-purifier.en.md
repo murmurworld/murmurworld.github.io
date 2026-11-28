@@ -1,18 +1,22 @@
 ---
 title: "One More Air Purifier to Go with the One We Have"
-description: "We signed up for a 33 m² Samsung Infinite AI to use alongside our existing AX40-series purifier. Here are the models and filters we considered."
+description: "Our Samsung AX40 is coming with us. For our second purifier we chose a 33 m² Infinite AI. Samsung makes two versions that size, and cleaning the filter is a different job on each."
 ---
+
+We already have a Samsung AX40-series air purifier. It’s coming with us when we move, and I thought we could use the new one alongside it.
+
+One model on our list was rated for 100 m². We signed up for the smaller **Samsung Infinite AI, rated for 33 m² (AP90H03163UGD)**, through Samsung AI Subscription. That’s about 355 square feet.
 
 <figure class="guide-photo">
   <img src="/media/newsroom/samsung-air-purifier-infinite-2024.jpg" width="1000" height="636" alt="Four Infinite Line air purifiers against a white background" fetchpriority="high" decoding="async">
   <figcaption>Photo from <a href="https://news.samsung.com/kr/삼성전자-ai-기능-프리미엄-공기청정기-비스포크-큐브">Samsung Newsroom</a>, from the Infinite Line’s 2024 launch. We signed up for the 2026 version of the smaller 33 m² model, so some details may differ.</figcaption>
 </figure>
 
-We’re taking the Samsung AX40-series purifier we already use to our new place. We signed up for one more, a 33 m² Samsung Infinite AI (AP90H03163UGD), through Samsung AI Subscription. The plan is to use both.
+<h2 id="filters">Same coverage, different filters</h2>
 
-## Filters
+Samsung lists two 33 m² models with almost the same name. The difference shows up when it’s time to clean them. Ours takes the replaceable S filter. The dust filters and the charcoal odor filter come out as one set. On the reusable version, you take out the dust collector, wash it and put it back once it’s dry.
 
-Our model uses a replaceable S filter that combines a prefilter, a particle filter and a charcoal filter. The other 33 m² model has a particle collector you take out and wash. Samsung specifies at least 12 hours of drying out of direct sunlight for the 100 m² model’s washable collector. [Samsung’s instructions for the reusable filter](https://www.samsung.com/sec/air-cleaner/air-purifier-ap90h10198dd-d2c/AP90H10198EDD/)
+Drying time depends on the model. For the 100 m² unit in the table below, Samsung says to leave the washed collector out of direct sunlight for at least 12 hours. That’s half a day before it can go back in. [Samsung’s instructions for the reusable filter](https://www.samsung.com/sec/air-cleaner/air-purifier-ap90h10198dd-d2c/AP90H10198EDD/)
 
 ## Models we considered
 
@@ -31,6 +35,6 @@ Our model uses a replaceable S filter that combines a prefilter, a particle filt
   <p class="guide-note" id="air-purifier-specs">Coverage comes from the manufacturers’ specs. The 33 m² S-filter model and the Blue Sky use public online prices recorded in August 2026. The other prices are rounded from public manufacturer listings checked in November. All five figures are for buying one unit outright.</p>
 </div>
 
-If you already have a purifier, start with the space the new one will serve and treat rooms with closed doors separately. For a replaceable filter, add the cost of replacements. If you’re considering a subscription, check how often the plan sends a new filter.
+Bigger wasn’t always more expensive. Both living-room models, the 62 m² LG and the 60 m² Samsung Blue Sky, cost less to buy outright than our 33 m² model. Bringing the AX40 means we can put one purifier in each room and run both with the door closed.
 
 [Monthly electricity use for the appliances we chose](/en/blog/home/decor/energy/#our-appliances)

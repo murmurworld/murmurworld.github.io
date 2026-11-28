@@ -37,7 +37,11 @@ JPMorgan Chase collects deposits, makes loans, issues cards and processes paymen
 
 ## Who buys it
 
-Households, businesses, institutions and government bodies borrow, deposit, make payments, raise capital or entrust assets to the group.
+When FedEx approves a vendor’s invoice, the vendor can wait until payment is due or collect early through J.P. Morgan. FedEx is the buyer using the program. Its vendor receives the advance. J.P. Morgan and Oracle built the financing option into the accounting software where buyers handle invoices, Oracle Fusion Cloud ERP. [J.P. Morgan on the Oracle integration and its use at FedEx](https://www.jpmorgan.com/about-us/corporate-news/2025/jpm-payments-launches-cutting-edge-supply-chain-finance-solution-with-oracle)
+
+The group’s Chase business issues the United MileagePlus credit cards. A cardholder can earn miles on purchases and redeem them for flights through United Airlines. The two partners refreshed the benefits on these existing cards in March 2025. [Chase and United’s announcement](https://media.chase.com/news/united-refresh-2025)
+
+Apple Card shows how issuing a card differs from running its payment network. On January 7, 2026, Apple and Chase announced that Chase would take over as issuer. They expected the transition to take about 24 months. Goldman Sachs continues to service cardholders until the handover. Mastercard will still run the payment network afterward. [Apple’s announcement](https://www.apple.com/newsroom/2026/01/chase-to-become-new-issuer-of-apple-card/) · [Apple Card transition FAQ](https://learn.applecard.apple/transition) · [Explore JPMorgan Chase’s relationships](/en/stocks/?company=JPM#relationships)
 
 JPMorgan Chase sells distinct services to cardholders and corporate clients. Card use creates payment activity and can generate lending income. A company hiring the investment bank for an issuance or merger can pay an advisory or underwriting fee. The entire purchase charged to a card is not bank revenue. [Customer and distribution disclosures](https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm)
 

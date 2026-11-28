@@ -37,7 +37,11 @@ study:
 
 ## 누구에게 파나
 
-가계·기업·기관은 예금·대출, 결제, 자금 조달, 자산관리를 이용한다. 이자와 수수료는 발생하는 거래가 다르다.
+페덱스가 납품업체의 송장을 승인하면 업체는 결제일까지 기다리거나 JP모건을 통해 대금을 먼저 받을 수 있다. 이때 페덱스는 서비스를 도입한 구매 기업이고, 먼저 돈을 받는 쪽은 납품업체다. JP모건은 이 공급망 금융 서비스를 오라클의 기업 회계 시스템(Fusion Cloud ERP)에 연결했다. [JP모건·오라클의 연동과 페덱스 도입 사례](https://www.jpmorgan.com/about-us/corporate-news/2025/jpm-payments-launches-cutting-edge-supply-chain-finance-solution-with-oracle)
+
+유나이티드항공과는 마일리지플러스 제휴카드를 운영한다. 신용카드는 JP모건의 체이스가 발급하고, 고객이 카드로 쌓은 마일은 유나이티드 항공권을 예약할 때 쓸 수 있다. 두 회사는 2025년 3월 기존 카드의 여행 혜택을 개편했다. [체이스·유나이티드 공동 발표](https://media.chase.com/news/united-refresh-2025)
+
+애플 카드는 발급사를 바꿔도 같은 결제망을 쓴다. 애플과 체이스는 2026년 1월 7일 체이스가 새 발급사가 되기로 합의했고, 전환에 약 24개월이 걸릴 것으로 내다봤다. 그때까지 기존 카드 고객은 골드만삭스가 계속 담당한다. 결제망은 발급사가 바뀐 뒤에도 마스터카드가 맡는다. [애플 발표](https://www.apple.com/newsroom/2026/01/chase-to-become-new-issuer-of-apple-card/) · [애플 카드 전환 안내](https://learn.applecard.apple/transition) · [JP모건 기업 관계도](/stocks/?company=JPM#relationships)
 
 JP모건체이스에서는 카드 결제 고객과 기업금융 고객이 사는 서비스가 다르다. 개인이 신용카드를 쓰면 카드 사업에 결제·대출 활동이 생기고, 기업이 증권 발행이나 인수합병 자문을 맡기면 투자은행 수수료가 발생한다. 카드 결제액 전체가 은행 매출로 들어가지는 않는다. [고객·판매 경로 공시](https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm)
 

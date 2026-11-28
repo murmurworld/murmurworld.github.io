@@ -1,20 +1,22 @@
 ---
 title: "Why We Chose a Washer-Dryer Combo"
-description: "We chose a Samsung combo that washes and dries in one drum. Compare prices, drying capacities, and door features for four machines and sets."
+description: "We had room for a stacked washer and dryer. What won me over was being able to put a load in and leave it there until it was dry."
 ---
 
-There was enough room in the utility room to stack a dryer on top of the washer. That was our plan until we pictured lifting wet laundry into the upper drum every time. A single drum sounded easier. At the store, we were told the door could open on its own at the end of the cycle. That sounded handy for days when we couldn’t unload it right away.
+We were going to stack a dryer on top of the washer. Our utility room had the height for it. Then I started thinking how nice it would be to put the laundry in just once. The salesperson also told us the door could open by itself when the drying cycle finished. I didn’t see it happen in the store, but I liked the idea of letting any lingering moisture out even if I wasn’t there to open it.
 
 <figure class="guide-photo">
   <img src="/media/newsroom/samsung-ai-combo-utility-2024.jpg" width="1000" height="563" alt="A Samsung Bespoke AI Laundry Combo next to a laundry room cabinet" fetchpriority="high" decoding="async">
   <figcaption>Launch photo of the 2024 Bespoke AI Laundry Combo. It shows an earlier model, so the color and details may differ from the 2026 model we ordered. <a href="https://news.samsung.com/kr/삼성전자-올인원-세탁∙건조기-비스포크-ai-콤보-출">Samsung Newsroom</a></figcaption>
 </figure>
 
-We ordered the Samsung Bespoke AI Combo WD90H25AHY. It holds up to 25 kg for washing and 20 kg for drying. The door can open as soon as the cycle ends or five minutes later. You can switch the feature off as well. [Samsung’s Auto Open Door settings](https://www.samsung.com/sec/laundry-combo/combo-wd90h25ahy-d2c/WD90H25AHY/)
+We ordered the Samsung Bespoke AI Combo WD90H25AHY. I looked up the door setting we’d heard about in the store. It can open as soon as drying finishes, open five minutes later, or stay closed. [Samsung’s Auto Open Door settings](https://www.samsung.com/sec/laundry-combo/combo-wd90h25ahy-d2c/WD90H25AHY/)
 
 ## Models we considered
 
-We compared one stacked set and three combos. All three combos could wash 25 kg, but their drying limits ranged from 15 to 20 kg. The drying limit is the one that matters if you want the whole load to go straight through.
+The stacked pair we’d first looked at had a lot going for it. It was the least expensive option, and we could start a second wash while the first load dried. I’d still have to come back and lift the wet laundry into the dryer, though. That was the part I wanted to skip.
+
+All three combos had “25 kg” next to the model name. That’s how much they can wash. The LG can dry 15 kg, and the two Samsungs can dry 18 and 20 kg. If I want to put a load in and come back when it’s dry, it’s that second number I need.
 
 <div class="guide-panel">
   <table aria-label="Washer-dryer options and the model we ordered" aria-describedby="washer-price-note">
@@ -44,6 +46,6 @@ We compared one stacked set and three combos. All three combos could wash 25 kg,
   <p class="guide-note">The space estimates include extra clearance for planning. <a href="https://www.samsung.com/sec/support/model/WD90H25AHY/">Samsung’s machine dimensions</a></p>
 </div>
 
-At 145 kg, getting it from the front door to the utility room mattered as much as the space where it would sit. A narrow doorway or a raised threshold along the way can make delivery tricky.
+The machine weighs 145 kg, so the tight spot could be a doorway well before it reaches the utility room. The 70.6 cm doorway in the table allows 2 cm beyond the machine’s 68.6 cm width.
 
 [How we bought five appliances at once](/en/blog/home/decor/appliances/) · [Monthly energy use for the five appliances](/en/blog/home/decor/energy/#our-appliances)

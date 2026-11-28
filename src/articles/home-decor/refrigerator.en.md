@@ -1,9 +1,9 @@
 ---
 title: "The Samsung 609 L Kitchen Fit Fridge We Bought"
-description: "I liked the Samsung 609 L Kitchen Fit Max, and the bundle with it cost less. Here’s how it compared with the 832 L LG in depth, freezer space, and rated electricity use."
+description: "My partner had found an 832 L LG side-by-side. I liked the 609 L Samsung Kitchen Fit. They’re just 1 mm apart in width, but the difference is easy to see from the side."
 ---
 
-I liked the Samsung Kitchen Fit. My fiancé wasn’t especially attached to the LG option. The Samsung was part of the less expensive bundle, so that’s what we went with.
+My partner had found an LG side-by-side with 832 liters of space, including a generous 308-liter freezer. I liked the Samsung Kitchen Fit better. The department store could give us a better price with the Kitchen Fit in our appliance bundle, and my partner wasn’t set on the LG. So we ordered the 609 L Samsung.
 
 <figure class="guide-photo">
   <img src="/media/newsroom/samsung-kfm-showcase-closed.jpg" width="1000" height="719" fetchpriority="high" decoding="async" alt="Two people stand beside a white Samsung four-door Kitchen Fit Max refrigerator fitted between cabinets">
@@ -19,7 +19,9 @@ I liked the Samsung Kitchen Fit. My fiancé wasn’t especially attached to the 
   </dl>
 </aside>
 
-## Size
+<h2 id="size">The extra 23 cm is at the front</h2>
+
+The two fridges are only 1 mm apart in width. I wondered where all that extra room in the LG came from. The side view makes it obvious. Line them up at the back and the LG doors sit 23 cm farther out.
 
 <figure class="guide-panel">
   <div class="fridge-profile" aria-hidden="true">
@@ -30,7 +32,7 @@ I liked the Samsung Kitchen Fit. My fiancé wasn’t especially attached to the 
     <strong class="fridge-profile-difference">23&nbsp;cm</strong>
     <span class="fridge-profile-label fridge-profile-label--samsung">Samsung<small>68.3&nbsp;cm</small></span>
   </div>
-  <figcaption>Side profiles drawn at the same scale, aligned at the back and bottom. The LG is 91.3 cm deep and the Samsung is 68.3 cm deep.</figcaption>
+  <figcaption>Side profiles drawn to scale from the manufacturers’ measurements, lined up at the back and bottom.</figcaption>
 </figure>
 
 <div class="guide-panel">
@@ -48,7 +50,9 @@ I liked the Samsung Kitchen Fit. My fiancé wasn’t especially attached to the 
 
 Samsung’s example for one fridge leaves 4 mm on each side and 20 mm above. With the width of the fridge, the opening in that example comes to 920 mm. [Samsung’s installation example](https://www.samsung.com/sec/refrigerators/french-door-rm80h64s2a-d2c/RM80H64S2A/)
 
-## Capacity
+<h2 id="capacity">How much freezer space do we give up?</h2>
+
+The Kitchen Fit has 233 liters of freezer space. That’s 75 liters less than the LG side-by-side in the freezer alone. If you like to stock up on frozen food, that figure is worth a closer look.
 
 <figure class="guide-photo">
   <img src="/media/newsroom/samsung-kfm-showcase-inside.jpg" width="1000" height="690" loading="lazy" decoding="async" alt="Open Samsung Kitchen Fit Max fridge showing its shelves and door storage">
@@ -68,9 +72,9 @@ Samsung’s example for one fridge leaves 4 mm on each side and 20 mm above. Wit
   <p class="guide-note">The table uses manufacturer figures. The Korea Energy Agency lists 834 L for the LG and 611.5 L for the Samsung.</p>
 </div>
 
-## Electricity
+<h2 id="electricity">Grade 1 for LG, grade 2 for Samsung</h2>
 
-The LG has a grade 1 energy rating and the Samsung a grade 2 rating. On the manufacturers’ figures, the Samsung uses 1.7 kWh less per month.
+The grades made it sound as if the LG would use less electricity. The manufacturers list 40.2 kWh a month for the LG and 38.5 kWh for the Samsung. The smaller Samsung comes in 1.7 kWh lower. These are the figures available to shoppers. Our own bill will depend on how we use the fridge.
 
 <div class="guide-panel">
   <h3 id="fridge-electricity">Rated electricity use per month</h3>
@@ -88,7 +92,7 @@ The refrigerator figure in [our five-appliance energy estimate](/en/blog/home/de
 
 ## Models we considered
 
-The 800-liter models offered more storage. The shallower 600-liter models would stick out less from the cabinets. The two with recorded prices were also more expensive.
+The bigger fridges actually cost less when we looked online. Samsung’s 852 L side-by-side was around ₩1.10–1.24 million, while its 623 L Kitchen Fit was about ₩2.66 million. We only have a bundle price for the 609 L model we ordered.
 
 <div class="guide-panel">
   <table aria-label="Fridge options and the model we bought" aria-describedby="fridge-candidate-note">
@@ -105,15 +109,13 @@ The 800-liter models offered more storage. The shallower 600-liter models would 
   <p class="guide-note" id="fridge-candidate-note">Approximate standalone prices from Korean online listings recorded in July–August 2026. Capacity and size are manufacturer figures. Depth excludes the rear handle on both Samsung Kitchen Fit Max models.</p>
 </div>
 
-## After the move
+<h2 id="after-the-move">A place for a kimchi fridge after we move</h2>
 
 <figure class="guide-photo">
   <img src="/media/newsroom/samsung-kimchi-kfm.jpg" width="1000" height="561" loading="lazy" decoding="async" alt="Samsung Kitchen Fit Max kimchi refrigerator fitted between white cabinets">
   <figcaption>A 2025 press photo of a Kitchen Fit Max kimchi fridge. <a href="https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%ED%82%A4%EC%B9%9C%ED%95%8F-%EB%A7%A5%EC%8A%A4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%A0%81%EC%9A%A9%ED%95%9C-%EA%B9%80%EC%B9%98%EB%83%89%EC%9E%A5%EA%B3%A0-%EC%8B%A0">Samsung Newsroom</a></figcaption>
 </figure>
 
-- Measure the space for both fridges side by side.
-- Look for a kimchi fridge with a similar finish and size.
-- Check the space for opening both sets of doors and drawers.
+In our next home, I’d love to put a kimchi fridge beside this one. A similar finish would look lovely, especially if the two sets of doors lined up. I’ll pick a model once we’ve moved and can measure the space. Both fridges have to fit, with room to swing the doors open and pull the drawers all the way out.
 
 [How we bought five appliances at once](/en/blog/home/decor/appliances/)

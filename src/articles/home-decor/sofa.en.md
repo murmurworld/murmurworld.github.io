@@ -3,7 +3,7 @@ title: "Why We Had One Side of Our Monocus Leel Sofa Made Longer"
 description: "I went to Yongsan looking for a cotton sofa and fell for a black Monocus Leel. We ordered ours in ivory, with a deeper seat by the window so I could stretch out."
 ---
 
-I had a cotton sofa in mind for our first home together. I figured if I spilled something, I could just take the cover off and wash it. A few showrooms later, I fell for the jet-black Leel at Monocus in Yongsan I’Park Mall.
+I had a cotton sofa in mind for our first home together. Leather felt expensive, and I thought we might just get something we could replace after a few years. Then I walked into Monocus at Yongsan I’Park Mall and saw the jet-black Leel. I couldn’t take my eyes off it.
 
 <figure class="guide-photo">
   <img src="/media/monocus-sofa/leel-black-front.webp" width="636" height="478" alt="Front view of a black Leel. Three back cushions sit between low arms, and the seat on the right extends into a chaise." loading="eager" decoding="async">
@@ -23,7 +23,7 @@ These three product photos are from the Monocus website.
   <figcaption><a href="https://monocus.co.kr/product/?idx=5">Official Monocus Loyce photo</a></figcaption>
 </figure>
 
-The Loyce has two wide, smooth seats. A loose cushion leans against each arm.
+The Loyce has two wide, smooth seats. A loose cushion leans against each arm. It has a clean, modern look.
 
 ### Stella
 
@@ -41,11 +41,11 @@ A little headrest peeks over the back cushion on the right. The Stella looked hi
   <figcaption><a href="https://monocus.co.kr/product/?idx=6">Official Monocus Lily photo</a></figcaption>
 </figure>
 
-Monocus says the Lily takes its shape from the flower. The arms flare out a little like petals. In the photo, you can follow the seams from the backrest all the way to the front of the sofa.
+Monocus says the Lily takes its shape from the flower. The arms flare out a little like petals, and the seams run from the backrest all the way to the front. I could picture it in a designer boutique.
 
 <h2 id="why-the-sofa-felt-so-soft">Trying the Leel</h2>
 
-When I sat down, the Leel felt even softer than our bed. The Monocus cutaway shows a high-density foam core with goose fill and fiber above and below it.
+When I sat down, the Leel felt even softer than our bed. I got curious and looked up the cutaway on the Monocus website. There’s a high-density foam core with goose fill and fiber above and below it. Maybe that’s what I was feeling.
 
 <div class="sofa-figures">
   <figure class="guide-photo">
@@ -62,7 +62,7 @@ When I sat down, the Leel felt even softer than our bed. The Monocus cutaway sho
 
 I worried ivory would show dirt. In the showroom, the salesperson drew a line on the faux leather with a pen, then wiped it off right in front of us. Once I saw the ink come off, I felt comfortable choosing ivory.
 
-The salesperson said it was a new material, also used on the Loyce, and that it held up well to cat and dog claws. Monocus offered genuine leather too. We ordered the faux leather we’d seen in the showroom.
+The salesperson said it was a new faux leather, also used on the Loyce, and that it held up well to cat and dog claws. Genuine leather tends to be the prized option here in Korea, and we could have ordered it on the Leel. The salesperson thought this material would be easier to look after. After seeing the ink wipe off, I was happy to go with it.
 
 <div class="sofa-figures">
   <figure class="guide-photo">
@@ -71,13 +71,13 @@ The salesperson said it was a new material, also used on the Loyce, and that it 
   </figure>
   <figure class="guide-photo">
     <img src="/media/monocus-sofa/leel-camel-arm.webp" width="544" height="421" alt="The low arm of a camel-colored Leel beside the stitched edge of its thick seat cushion." loading="lazy" decoding="async">
-    <figcaption>The stitching around the edge stands out in camel. <a href="https://monocus.co.kr/product/?idx=3">Monocus product photo</a></figcaption>
+    <figcaption>The camel has a classic look. <a href="https://monocus.co.kr/product/?idx=3">Monocus product photo</a></figcaption>
   </figure>
 </div>
 
 <h2 id="room-to-stretch-out-in-29-meters">A 2.9 m sofa</h2>
 
-We settled on a width of 2.9 m. I wanted room to stretch out, so we had **the seat by the window made deeper** and kept the one by the side table shorter. The salesperson helped us work out the measurements. I’d hoped our robot vacuum would fit underneath, but the Leel sits too low for it.
+We settled on a width of 2.9 m. I wanted room to stretch out, so we had **the seat by the window made deeper** and kept the one by the side table shorter. The salesperson helped us work out the measurements. I’d hoped our robot vacuum would fit underneath. It can’t, but I like the way the Leel sits close to the floor. It makes the sofa look more settled in the room.
 
 <figure class="guide-photo">
   <img src="/media/monocus-sofa/leel-ivory-side.webp" width="537" height="401" alt="Official side view of an ivory Leel. The near seat is shorter and the one farther away extends into the room." loading="lazy" decoding="async">
@@ -93,7 +93,7 @@ We used the Monocus drawings to get a sense of the size. The straight three-seat
 
 <h2 id="sofa-options">Price</h2>
 
-Monocus listed the Leel at ₩6,000,000 in November 2026. The website didn’t list a price for our custom size, so we got a quote at the showroom. The Yongsan I’Park Mall store was running a sale that day. [Official Leel product page](https://monocus.co.kr/product/?idx=3)
+Monocus listed the Leel at ₩6,000,000 in November 2026. The price depends on the size, and there can be a showroom discount too. Yongsan I’Park Mall had a sale on the day we went. We got a quote there because the website didn’t give a price for extending just one side. [Official Leel product page](https://monocus.co.kr/product/?idx=3)
 
 <figure class="guide-photo">
   <img src="/media/monocus-sofa/yongsan-showroom.webp" width="1026" height="893" alt="A sofa and cushions in front of the pink curved Monocus sign in the Yongsan showroom" loading="lazy" decoding="async">
@@ -109,7 +109,7 @@ We also bought our mattress through the owner of Monocus.
   <figcaption>Our living room.</figcaption>
 </figure>
 
-I fell for the black Leel in the showroom and put an ivory one by our window. I’d heard that something round goes well with square furniture. Seeing our round rug in front of the boxy sofa, I think so too.
+I fell for the black Leel in the showroom and put an ivory one by our window. I’d heard something round goes well with square furniture. Looking at our round rug in front of the boxy sofa, I think so too. Ivory furniture can be hard to find. Ours has kept its shape, and I still love the colour.
 
 <figure class="guide-photo">
   <img src="/media/monocus-sofa/leel-at-home-detail.webp" width="1440" height="900" alt="A closer view of our ivory Leel by the window, with a knot cushion on the left arm." loading="lazy" decoding="async">
@@ -120,4 +120,4 @@ I fell for the black Leel in the showroom and put an ivory one by our window. I�
 
 Some nights I toss and turn in bed and end up sleeping on the sofa. That’s when I’m glad we made the window side longer.
 
-If I spill something on it, I wipe the spot with a little alcohol. So far I haven’t noticed any stains on the ivory. A sofa I can wipe clean just feels fresher to me than a fabric one. I picked the Leel for its looks. These days I appreciate the easy cleanup even more.
+If I spill something on it, I wipe the spot with a little alcohol. So far I haven’t noticed any stains on the ivory. A sofa I can wipe clean just feels fresher to me than a fabric one. I picked the Leel for its looks. These days I appreciate the easy cleanup even more. The long and short sections come apart, too, so we can move them separately.
