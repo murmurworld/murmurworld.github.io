@@ -7,7 +7,7 @@ study:
   source: https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm
 ---
 
-Eli Lilly develops and sells prescription medicines including Mounjaro and Zepbound, as well as oncology and immunology products. Wholesalers, health systems and other distributors supply medicines to patients. Insurers, pharmacy benefit managers and public programs influence coverage and net prices.
+Eli Lilly develops and sells prescription medicines including Mounjaro and Zepbound, as well as oncology and immunology products.
 
 | Basic information | Details |
 | --- | --- |
@@ -122,9 +122,12 @@ Obesity medicines · Wegovy from [Novo Nordisk](/en/blog/companies/healthcare/no
 
 ## Where to look in the filing
 
-Item 1 of Form 10-K describes the business and its customers. Item 7 explains changes in results. Item 8 contains the consolidated statements and segment notes. In Form 10-Q, the starting and ending dates distinguish a quarter from fiscal year to date.
+- **10-K, Item 1** · Business and customers
+- **Item 7** · Management’s explanation of changes in results
+- **Item 8** · Consolidated statements and segment notes
+- **10-Q** · Compare the start and end dates to distinguish a quarter from fiscal year to date
 
-A subtotal can include the product lines beneath it. Segment, product and geographic views may describe the same underlying sales.
+Subtotals may include the product lines below them. The same sales can appear by segment, product and region.
 
 ## Sources
 

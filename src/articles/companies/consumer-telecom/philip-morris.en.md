@@ -7,7 +7,7 @@ study:
   source: https://www.sec.gov/Archives/edgar/data/1413329/000162828026005939/pm-20251231.htm
 ---
 
-Philip Morris International sells cigarettes and smoke-free products such as heated-tobacco devices and consumables and oral nicotine products. Distributors and retailers sell tobacco and nicotine products to adult consumers in markets where permitted. Devices and repeat consumables have different shipment measures.
+Philip Morris International sells cigarettes and smoke-free products such as heated-tobacco devices and consumables and oral nicotine products.
 
 | Basic information | Details |
 | --- | --- |
@@ -100,7 +100,10 @@ Companies in this group · [Procter & Gamble](/en/blog/companies/consumer-teleco
 
 ## Where to look in the filing
 
-Item 1 of Form 10-K describes the business and its customers. Item 7 explains changes in results. Item 8 contains the consolidated statements and segment notes. In Form 10-Q, the starting and ending dates distinguish a quarter from fiscal year to date.
+- **10-K, Item 1** · Business and customers
+- **Item 7** · Management’s explanation of changes in results
+- **Item 8** · Consolidated statements and segment notes
+- **10-Q** · Compare the start and end dates to distinguish a quarter from fiscal year to date
 
 ## Sources
 

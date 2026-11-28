@@ -7,7 +7,7 @@ study:
   source: https://www.sec.gov/Archives/edgar/data/70858/000007085826000157/bac-20251231.htm
 ---
 
-Bank of America earns interest on lending funded partly by deposits and charges fees for payments, securities services and wealth management. Individuals use retail branches and digital accounts, affluent clients use advisers, and companies or institutions buy wholesale banking and market services.
+Bank of America earns interest on lending funded partly by deposits and charges fees for payments, securities services and wealth management.
 
 | Basic information | Details |
 | --- | --- |
@@ -106,11 +106,14 @@ Companies in this group · [JPMorgan Chase](/en/blog/companies/financials/jpmorg
 
 ## Where to look in the filing
 
-Item 1 of Form 10-K describes the business and its customers. Item 7 explains changes in results. Item 8 contains the consolidated statements and segment notes. In Form 10-Q, the starting and ending dates distinguish a quarter from fiscal year to date.
+- **10-K, Item 1** · Business and customers
+- **Item 7** · Management’s explanation of changes in results
+- **Item 8** · Consolidated statements and segment notes
+- **10-Q** · Compare the start and end dates to distinguish a quarter from fiscal year to date
 
 Net interest income deducts the cost of funding from interest on loans and securities. No operating margin is calculated for periods without a separately reported operating income figure.
 
-A subtotal can include the product lines beneath it. Segment, product and geographic views may describe the same underlying sales.
+Subtotals may include the product lines below them. The same sales can appear by segment, product and region.
 
 ## Sources
 

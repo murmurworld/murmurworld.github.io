@@ -7,7 +7,7 @@ study:
   source: https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/gev-20251231.htm
 ---
 
-GE Vernova supplies power-generation equipment and services, wind turbines and grid equipment used to transmit and distribute electricity. Utilities, grid operators, industrial users and project developers buy capital equipment and contract for installation or maintenance.
+GE Vernova supplies power-generation equipment and services, wind turbines and grid equipment used to transmit and distribute electricity.
 
 | Basic information | Details |
 | --- | --- |
@@ -112,7 +112,10 @@ Companies in this group · [Caterpillar](/en/blog/companies/industry-energy-mate
 
 ## Where to look in the filing
 
-Item 1 of Form 10-K describes the business and its customers. Item 7 explains changes in results. Item 8 contains the consolidated statements and segment notes. In Form 10-Q, the starting and ending dates distinguish a quarter from fiscal year to date.
+- **10-K, Item 1** · Business and customers
+- **Item 7** · Management’s explanation of changes in results
+- **Item 8** · Consolidated statements and segment notes
+- **10-Q** · Compare the start and end dates to distinguish a quarter from fiscal year to date
 
 ## Sources
 

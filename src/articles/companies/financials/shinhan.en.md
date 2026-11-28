@@ -112,11 +112,13 @@ Companies in this group · [JPMorgan Chase](/en/blog/companies/financials/jpmorg
 
 ## Where to look in the filing
 
-In the DART business report, Business Overview sets out principal products, services and sales. The consolidated notes cover segments and major customers. Interim income statements distinguish the three-month column from year to date.
+- **DART Business Overview** · Principal products, services and sales
+- **Consolidated notes** · Segments and major customers
+- **Interim income statement** · Separate columns for three months and year to date
 
 The segment tables distinguish operating profit from net income. Consolidation adjustments include intragroup transactions. The measure in each heading governs comparisons across banking, brokerage and insurance.
 
-A subtotal can include the product lines beneath it. Segment, product and geographic views may describe the same underlying sales.
+Subtotals may include the product lines below them. The same sales can appear by segment, product and region.
 
 ## Sources
 

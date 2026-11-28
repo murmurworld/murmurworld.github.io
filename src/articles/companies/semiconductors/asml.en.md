@@ -7,7 +7,7 @@ study:
   source: https://ourbrand.asml.com/m/1a5a2a9d0491701c/original/2026_01_28-Presentation-ASML-Press-Conference-Q4FY2025_FINAL.pdf
 ---
 
-ASML supplies machines that project circuit patterns onto silicon wafers, along with upgrades and service for installed systems. Chipmakers buy lithography systems to equip fabrication lines, then pay for parts, servicing or upgrades over the installed fleet's life.
+ASML supplies machines that project circuit patterns onto silicon wafers, along with upgrades and service for installed systems.
 
 | Basic information | Details |
 | --- | --- |
@@ -116,7 +116,10 @@ Companies in this group · [Applied Materials](/en/blog/companies/semiconductors
 
 ## Where to look in the filing
 
-Item 4 of Form 20-F describes the business and operating footprint. Item 5 discusses operating and financial results. The consolidated notes distinguish geographical and product disclosures. Interim releases furnished on Form 6-K specify the period each table covers.
+- **20-F, Item 4** · Business and operating footprint
+- **Item 5** · Operating and financial results
+- **Consolidated notes** · Geographic and product disclosures
+- **6-K** · Each table in the interim release gives its reporting period
 
 ## Sources
 

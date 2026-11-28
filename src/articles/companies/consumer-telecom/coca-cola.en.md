@@ -7,7 +7,7 @@ study:
   source: https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231.htm
 ---
 
-Coca-Cola supplies beverage concentrates and syrups to bottlers and also sells finished beverages in parts of its network. Bottlers, distributors and retail or food-service channels connect the company to consumers. Selling concentrate and selling a finished bottle generate different sale values.
+Coca-Cola supplies beverage concentrates and syrups to bottlers and also sells finished beverages in parts of its network.
 
 | Basic information | Details |
 | --- | --- |
@@ -105,7 +105,10 @@ Beverages · [PepsiCo](/en/blog/companies/consumer-telecom/pepsico/) identifies 
 
 ## Where to look in the filing
 
-Item 1 of Form 10-K describes the business and its customers. Item 7 explains changes in results. Item 8 contains the consolidated statements and segment notes. In Form 10-Q, the starting and ending dates distinguish a quarter from fiscal year to date.
+- **10-K, Item 1** · Business and customers
+- **Item 7** · Management’s explanation of changes in results
+- **Item 8** · Consolidated statements and segment notes
+- **10-Q** · Compare the start and end dates to distinguish a quarter from fiscal year to date
 
 ## Sources
 

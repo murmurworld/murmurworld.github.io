@@ -7,7 +7,7 @@ study:
   source: https://www.sec.gov/Archives/edgar/data/2023554/000162828026057406/sndk-20260703.htm
 ---
 
-Turns flash memory into data-center SSDs, embedded storage and removable products such as memory cards. Enterprise storage buyers, device makers and retail customers buy products with different controllers, form factors and support requirements.
+Turns flash memory into data-center SSDs, embedded storage and removable products such as memory cards.
 
 | Basic information | Details |
 | --- | --- |
@@ -120,11 +120,14 @@ DRAM, HBM and NAND · Samsung, SK hynix and Micron overlap in DRAM and HBM. Sand
 
 ## Where to look in the filing
 
-Item 1 of Form 10-K describes the business and its customers. Item 7 explains changes in results. Item 8 contains the consolidated statements and segment notes. In Form 10-Q, the starting and ending dates distinguish a quarter from fiscal year to date.
+- **10-K, Item 1** · Business and customers
+- **Item 7** · Management’s explanation of changes in results
+- **Item 8** · Consolidated statements and segment notes
+- **10-Q** · Compare the start and end dates to distinguish a quarter from fiscal year to date
 
 The October filing cover predates the 8-for-1 share split in November.
 
-A subtotal can include the product lines beneath it. Segment, product and geographic views may describe the same underlying sales.
+Subtotals may include the product lines below them. The same sales can appear by segment, product and region.
 
 ## Sources
 

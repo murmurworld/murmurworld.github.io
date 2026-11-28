@@ -7,7 +7,7 @@ study:
   source: https://www.sec.gov/Archives/edgar/data/1551152/000155115226000008/abbv-20251231.htm
 ---
 
-AbbVie sells medicines including Skyrizi, Rinvoq and Humira, as well as oncology, neuroscience and aesthetic products. Wholesalers and distributors buy medicines, while aesthetics products also reach specialist practices. Payers affect net realized revenue through coverage and rebates.
+AbbVie sells medicines including Skyrizi, Rinvoq and Humira, as well as oncology, neuroscience and aesthetic products.
 
 | Basic information | Details |
 | --- | --- |
@@ -152,9 +152,12 @@ Adalimumab biologics · The FDA identifies Amgen’s Amjevita as a biosimilar to
 
 ## Where to look in the filing
 
-Item 1 of Form 10-K describes the business and its customers. Item 7 explains changes in results. Item 8 contains the consolidated statements and segment notes. In Form 10-Q, the starting and ending dates distinguish a quarter from fiscal year to date.
+- **10-K, Item 1** · Business and customers
+- **Item 7** · Management’s explanation of changes in results
+- **Item 8** · Consolidated statements and segment notes
+- **10-Q** · Compare the start and end dates to distinguish a quarter from fiscal year to date
 
-A subtotal can include the product lines beneath it. Segment, product and geographic views may describe the same underlying sales.
+Subtotals may include the product lines below them. The same sales can appear by segment, product and region.
 
 ## Sources
 

@@ -16,21 +16,36 @@ SK hynix makes memory chips. DRAM holds the data a computer or phone needs while
 | Listing | Korea Exchange, KOSPI market (000660). Depositary receipts also trade on Nasdaq and the Luxembourg Stock Exchange. |
 | Reportable segment | Semiconductors |
 | Financial year-end | December |
-| Consolidated revenue | KRW 97.1467 trillion in 2025 and KRW 236.5105 trillion in January–September 2026 |
+| Annual consolidated revenue | KRW 97.1467 trillion in 2025 |
+| Fiscal year-to-date consolidated revenue | KRW 236.5105 trillion in January–September 2026 |
+| Latest quarter sales and operating profit | Q3 2026 revenue of KRW 104.6 trillion and operating profit of KRW 83.3 trillion, calculated from cumulative results |
 | Shares issued | 730,492,365 at September 30, 2026 |
 | Filings | Annual, half-year and quarterly reports on Korea's DART disclosure system |
 
 ## What it sells
 
-**DRAM.** A working memory chip holds data while a processor uses it. Switch off the power and that data is lost. Phones, PCs and servers all use DRAM. The filing identifies mobile and computing equipment companies as customers.
+### DRAM
 
-**High bandwidth memory (HBM).** Stacking DRAM dies and placing them beside the processor lets an accelerator move large amounts of data at once. Management attributed part of the third-quarter increase in its average DRAM selling price to a higher share of HBM4 in the sales mix.
+This is the working memory in a phone, PC or server. It holds data while the processor uses it and loses that data when the power goes off. The filing identifies mobile and computing equipment makers as customers.
 
-The Vera Rubin superchip SK hynix exhibited carried two kinds of memory. A 12-high, 36 GB HBM4 stack beside the Rubin GPU holds data for its calculations. A 96 GB SOCAMM2 module serves as main memory for the Vera CPU. Within the HBM4 stack, SK hynix uses TSMC’s logic process for the base die that carries signals to and from the GPU. [SK hynix’s annotated exhibit](https://news.skhynix.com/en/tsmc-oip-conference-2026/) · [The base die process](https://news.skhynix.com/en/tsmc-technology-symposium-2026/)
+### High bandwidth memory (HBM)
 
-**NAND flash and SSDs.** NAND retains data without power. A solid-state drive combines flash with a controller that manages reads and writes. Phone and IT equipment makers, SSD manufacturers and memory card makers buy these products. SK hynix reports developing 321-layer quad-level-cell NAND, which stores four bits per memory cell. It also serves the enterprise SSD market with its subsidiary Solidigm.
+Stacking DRAM dies beside the processor lets an accelerator move large amounts of data at once. Management attributed part of the third-quarter increase in the average DRAM selling price to selling a larger share of HBM4.
 
-**Foundry.** SK hynix system ic and SK keyfoundry make chips designed by their customers. SK hynix also takes the customer role: its HBM4 memory stack uses TSMC logic technology for the base die at the bottom. [SK hynix filing on its foundry business](https://www.sec.gov/Archives/edgar/data/2120882/000119312526299963/d32785d424b4.htm) · [SK hynix and TSMC on HBM4](https://news.skhynix.com/en/sk-hynix-partners-with-tsmc-to-strengthen-hbm-technological-leadership/)
+Two different memories appear on the Vera Rubin superchip that SK hynix exhibited.
+
+- **Beside the Rubin GPU,** a 12-high, 36 GB HBM4 stack holds data for the GPU’s calculations. The base die carries signals between the stack and the processor. SK hynix uses TSMC’s logic process for that die.
+- **On the Vera CPU side,** a 96 GB SOCAMM2 module serves as main memory.
+
+[SK hynix’s annotated exhibit](https://news.skhynix.com/en/tsmc-oip-conference-2026/) · [The base die process](https://news.skhynix.com/en/tsmc-technology-symposium-2026/)
+
+### NAND flash and SSDs
+
+NAND retains data without power. A solid-state drive combines flash with a controller that manages reads and writes. Phone and IT equipment makers, SSD manufacturers and memory card makers buy these products. SK hynix reports developing 321-layer quad-level-cell NAND, which stores four bits per memory cell. It also serves the enterprise SSD market with its subsidiary Solidigm.
+
+### Foundry
+
+SK hynix system ic and SK keyfoundry make chips designed by their customers. SK hynix also takes the customer role: its HBM4 memory stack uses TSMC logic technology for the base die at the bottom. [SK hynix filing on its foundry business](https://www.sec.gov/Archives/edgar/data/2120882/000119312526299963/d32785d424b4.htm) · [SK hynix and TSMC on HBM4](https://news.skhynix.com/en/sk-hynix-partners-with-tsmc-to-strengthen-hbm-technological-leadership/)
 
 ### Volume and pricing, July–September 2026
 
@@ -101,9 +116,13 @@ The Q3 filing cites IDC data published in August 2026 for DRAM and September 202
 
 ## Its place in semiconductors
 
-[Samsung Electronics](/en/blog/companies/semiconductors/samsung-electronics/) and [Micron](/en/blog/companies/semiconductors/micron/) also sell DRAM, HBM and NAND. [Sandisk](/en/blog/companies/semiconductors/sandisk/) competes in flash storage. Micron's competitive conditions discussion identifies Samsung, SK hynix, Kioxia, Sandisk and CXMT.
+**Competitors.** [Samsung Electronics](/en/blog/companies/semiconductors/samsung-electronics/) and [Micron](/en/blog/companies/semiconductors/micron/) also sell DRAM, HBM and NAND. [Sandisk](/en/blog/companies/semiconductors/sandisk/) competes in flash storage. Micron lists Samsung, SK hynix, Kioxia, Sandisk and CXMT among its rivals. SK hynix says the industry is concentrating around a few producers with the technology and cost position to compete.
 
-[NVIDIA](/en/blog/companies/semiconductors/nvidia/) names SK hynix as a memory supplier and describes using [TSMC](/en/blog/companies/semiconductors/tsmc/)'s CoWoS advanced packaging. CoWoS can place the processor and HBM together in one package. At the factory end, [Lam Research](/en/blog/companies/semiconductors/lam-research/) names SK hynix among its significant customers. SK hynix buys 300 mm wafers from suppliers with plants in Japan, Korea, Germany and the US. It sources printed circuit boards from six companies in Korea and Greater China.
+**Memory buyers and packaging.** [NVIDIA](/en/blog/companies/semiconductors/nvidia/) identifies SK hynix as a memory supplier and describes using [TSMC](/en/blog/companies/semiconductors/tsmc/)'s CoWoS advanced packaging to place the processor and HBM in the same package.
+
+**Equipment.** [Lam Research](/en/blog/companies/semiconductors/lam-research/) names SK hynix among its significant customers. ASML, Applied Materials and KLA also sell tools to chip factories. The filings cited here do not identify a transaction between these three companies and SK hynix.
+
+**Materials.** SK hynix buys 300 mm wafers from suppliers with plants in Japan, Korea, Germany and the US. It buys substrates that carry chips and sources printed circuit boards from six companies in Korea and Greater China.
 
 ## Where to look in the filings
 

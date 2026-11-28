@@ -7,7 +7,7 @@ study:
   source: https://www.sec.gov/Archives/edgar/data/2012383/000119312526071966/blk-20251231.htm
 ---
 
-BlackRock manages portfolios and funds for investors and charges fees for investment management and technology services. Pension funds, institutions, financial advisers and individuals invest through mandates and funds. Institutions also license technology.
+BlackRock manages portfolios and funds for investors and charges fees for investment management and technology services.
 
 | Basic information | Details |
 | --- | --- |
@@ -100,7 +100,10 @@ US large-cap index products · [BlackRock](/en/blog/companies/financials/blackro
 
 ## Where to look in the filing
 
-Item 1 of Form 10-K describes the business and its customers. Item 7 explains changes in results. Item 8 contains the consolidated statements and segment notes. In Form 10-Q, the starting and ending dates distinguish a quarter from fiscal year to date.
+- **10-K, Item 1** · Business and customers
+- **Item 7** · Management’s explanation of changes in results
+- **Item 8** · Consolidated statements and segment notes
+- **10-Q** · Compare the start and end dates to distinguish a quarter from fiscal year to date
 
 ## Sources
 

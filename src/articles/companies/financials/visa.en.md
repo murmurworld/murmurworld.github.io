@@ -7,7 +7,7 @@ study:
   source: https://www.sec.gov/Archives/edgar/data/1403161/000140316125000089/v-20250930.htm
 ---
 
-Visa connects issuing and acquiring financial institutions and charges for network and related services. Financial institutions, processors, merchants and partners use the network. The cardholder usually borrows from the issuing bank rather than the network operator.
+Visa connects issuing and acquiring financial institutions and charges for network and related services.
 
 | Basic information | Details |
 | --- | --- |
@@ -98,9 +98,12 @@ Card payment networks · [Visa](/en/blog/companies/financials/visa/) and [Master
 
 ## Where to look in the filing
 
-Item 1 of Form 10-K describes the business and its customers. Item 7 explains changes in results. Item 8 contains the consolidated statements and segment notes. In Form 10-Q, the starting and ending dates distinguish a quarter from fiscal year to date.
+- **10-K, Item 1** · Business and customers
+- **Item 7** · Management’s explanation of changes in results
+- **Item 8** · Consolidated statements and segment notes
+- **10-Q** · Compare the start and end dates to distinguish a quarter from fiscal year to date
 
-A subtotal can include the product lines beneath it. Segment, product and geographic views may describe the same underlying sales.
+Subtotals may include the product lines below them. The same sales can appear by segment, product and region.
 
 ## Sources
 

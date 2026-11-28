@@ -7,7 +7,7 @@ study:
   source: https://www.sec.gov/Archives/edgar/data/732712/000073271226000007/vz-20251231.htm
 ---
 
-Verizon sells wireless and fixed broadband connectivity to consumers and businesses, with equipment sales alongside service revenue. Consumer and business customers buy wireless and wireline services directly or through sales partners. It also supplies wholesale connectivity.
+Verizon sells wireless and fixed broadband connectivity to consumers and businesses, with equipment sales alongside service revenue.
 
 | Basic information | Details |
 | --- | --- |
@@ -98,7 +98,10 @@ Fixed wireless broadband · [T-Mobile US](/en/blog/companies/consumer-telecom/t-
 
 ## Where to look in the filing
 
-Item 1 of Form 10-K describes the business and its customers. Item 7 explains changes in results. Item 8 contains the consolidated statements and segment notes. In Form 10-Q, the starting and ending dates distinguish a quarter from fiscal year to date.
+- **10-K, Item 1** · Business and customers
+- **Item 7** · Management’s explanation of changes in results
+- **Item 8** · Consolidated statements and segment notes
+- **10-Q** · Compare the start and end dates to distinguish a quarter from fiscal year to date
 
 ## Sources
 

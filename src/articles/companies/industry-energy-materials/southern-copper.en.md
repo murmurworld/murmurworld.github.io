@@ -7,7 +7,7 @@ study:
   source: https://www.sec.gov/Archives/edgar/data/1001838/000110465926021492/scco-20251231x10k.htm
 ---
 
-Southern Copper mines, processes and refines copper, also recovering by-products such as molybdenum. Smelters, refiners, industrial metal users and traders buy copper and by-products from the group's operations.
+Southern Copper mines, processes and refines copper, also recovering by-products such as molybdenum.
 
 | Basic information | Details |
 | --- | --- |
@@ -97,7 +97,10 @@ Companies in this group · [BHP](/en/blog/companies/industry-energy-materials/bh
 
 ## Where to look in the filing
 
-Item 1 of Form 10-K describes the business and its customers. Item 7 explains changes in results. Item 8 contains the consolidated statements and segment notes. In Form 10-Q, the starting and ending dates distinguish a quarter from fiscal year to date.
+- **10-K, Item 1** · Business and customers
+- **Item 7** · Management’s explanation of changes in results
+- **Item 8** · Consolidated statements and segment notes
+- **10-Q** · Compare the start and end dates to distinguish a quarter from fiscal year to date
 
 ## Sources
 

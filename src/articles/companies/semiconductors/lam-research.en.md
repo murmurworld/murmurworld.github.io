@@ -7,7 +7,7 @@ study:
   source: https://www.sec.gov/Archives/edgar/data/707549/000070754926000037/lrcx-20260628.htm
 ---
 
-Lam Research supplies wafer-processing tools that remove material or add precisely controlled films, and supports tools already in fabs. Memory and logic manufacturers buy tools for their fabs and purchase support for systems already installed.
+Lam Research supplies wafer-processing tools that remove material or add precisely controlled films, and supports tools already in fabs.
 
 | Basic information | Details |
 | --- | --- |
@@ -117,9 +117,12 @@ Deposition and etch equipment · Applied Materials and Lam Research sell tools f
 
 ## Where to look in the filing
 
-Item 1 of Form 10-K describes the business and its customers. Item 7 explains changes in results. Item 8 contains the consolidated statements and segment notes. In Form 10-Q, the starting and ending dates distinguish a quarter from fiscal year to date.
+- **10-K, Item 1** · Business and customers
+- **Item 7** · Management’s explanation of changes in results
+- **Item 8** · Consolidated statements and segment notes
+- **10-Q** · Compare the start and end dates to distinguish a quarter from fiscal year to date
 
-A subtotal can include the product lines beneath it. Segment, product and geographic views may describe the same underlying sales.
+Subtotals may include the product lines below them. The same sales can appear by segment, product and region.
 
 ## Sources
 

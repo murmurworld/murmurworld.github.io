@@ -7,7 +7,7 @@ study:
   source: https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/spcx-20260930.htm
 ---
 
-SpaceX sells launch services and operates Starlink, a satellite network through which customers purchase internet connectivity. Commercial and government customers book launch services, subscribers pay for connectivity, and software customers purchase digital services.
+SpaceX sells launch services and operates Starlink, a satellite network through which customers purchase internet connectivity.
 
 | Basic information | Details |
 | --- | --- |
@@ -95,7 +95,10 @@ Companies in this group · [GE Aerospace](/en/blog/companies/industry-energy-mat
 
 ## Where to look in the filing
 
-Item 1 of Form 10-K describes the business and its customers. Item 7 explains changes in results. Item 8 contains the consolidated statements and segment notes. In Form 10-Q, the starting and ending dates distinguish a quarter from fiscal year to date.
+- **10-K, Item 1** · Business and customers
+- **Item 7** · Management’s explanation of changes in results
+- **Item 8** · Consolidated statements and segment notes
+- **10-Q** · Compare the start and end dates to distinguish a quarter from fiscal year to date
 
 ## Sources
 

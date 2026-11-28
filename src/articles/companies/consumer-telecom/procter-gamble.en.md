@@ -7,7 +7,7 @@ study:
   source: https://www.sec.gov/Archives/edgar/data/80424/000008042426000250/fy2627q1jas8-kexhibit991.htm
 ---
 
-Procter & Gamble sells branded cleaning, grooming, hygiene and personal care products through retailers and other distribution channels. The group sells branded everyday goods through retailers, distributors and e-commerce. Consumers use the products while retailers often place the orders.
+Procter & Gamble sells branded cleaning, grooming, hygiene and personal care products through retailers and other distribution channels.
 
 | Basic information | Details |
 | --- | --- |
@@ -105,7 +105,10 @@ Buyer [Walmart](/en/blog/companies/consumer-telecom/walmart/) and affiliates · 
 
 ## Where to look in the filing
 
-Item 1 of Form 10-K describes the business and its customers. Item 7 explains changes in results. Item 8 contains the consolidated statements and segment notes. In Form 10-Q, the starting and ending dates distinguish a quarter from fiscal year to date.
+- **10-K, Item 1** · Business and customers
+- **Item 7** · Management’s explanation of changes in results
+- **Item 8** · Consolidated statements and segment notes
+- **10-Q** · Compare the start and end dates to distinguish a quarter from fiscal year to date
 
 ## Sources
 

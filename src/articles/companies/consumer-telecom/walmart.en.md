@@ -7,7 +7,7 @@ study:
   source: https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm
 ---
 
-Buys and resells merchandise through stores, clubs and online channels, with additional income from membership and advertising services. Households buy groceries and general merchandise in stores and online. Third-party sellers and advertisers can also pay for marketplace and advertising services.
+Buys and resells merchandise through stores, clubs and online channels, with additional income from membership and advertising services.
 
 | Basic information | Details |
 | --- | --- |
@@ -122,9 +122,12 @@ Buyer [Walmart](/en/blog/companies/consumer-telecom/walmart/) and affiliates · 
 
 ## Where to look in the filing
 
-Item 1 of Form 10-K describes the business and its customers. Item 7 explains changes in results. Item 8 contains the consolidated statements and segment notes. In Form 10-Q, the starting and ending dates distinguish a quarter from fiscal year to date.
+- **10-K, Item 1** · Business and customers
+- **Item 7** · Management’s explanation of changes in results
+- **Item 8** · Consolidated statements and segment notes
+- **10-Q** · Compare the start and end dates to distinguish a quarter from fiscal year to date
 
-A subtotal can include the product lines beneath it. Segment, product and geographic views may describe the same underlying sales.
+Subtotals may include the product lines below them. The same sales can appear by segment, product and region.
 
 ## Sources
 

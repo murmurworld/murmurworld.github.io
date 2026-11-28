@@ -7,7 +7,7 @@ study:
   source: https://www.sec.gov/Archives/edgar/data/101829/000010182926000031/rtx-20260930.htm
 ---
 
-Pratt & Whitney supplies engines, Collins Aerospace supplies aircraft systems and Raytheon serves defense customers. Airframers, airline operators, governments and contractors buy commercial aerospace systems, propulsion and defense products under supply or service contracts.
+Pratt & Whitney supplies engines, Collins Aerospace supplies aircraft systems and Raytheon serves defense customers.
 
 | Basic information | Details |
 | --- | --- |
@@ -104,7 +104,10 @@ A320neo-family engines · CFM’s LEAP-1A ([GE Aerospace](/en/blog/companies/ind
 
 ## Where to look in the filing
 
-Item 1 of Form 10-K describes the business and its customers. Item 7 explains changes in results. Item 8 contains the consolidated statements and segment notes. In Form 10-Q, the starting and ending dates distinguish a quarter from fiscal year to date.
+- **10-K, Item 1** · Business and customers
+- **Item 7** · Management’s explanation of changes in results
+- **Item 8** · Consolidated statements and segment notes
+- **10-Q** · Compare the start and end dates to distinguish a quarter from fiscal year to date
 
 ## Sources
 

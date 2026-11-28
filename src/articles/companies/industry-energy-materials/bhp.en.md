@@ -75,7 +75,10 @@ Companies in this group · [Rio Tinto](/en/blog/companies/industry-energy-materi
 
 ## Where to look in the filing
 
-Item 4 of Form 20-F describes the business and operating footprint. Item 5 discusses operating and financial results. The consolidated notes distinguish geographical and product disclosures. Interim releases furnished on Form 6-K specify the period each table covers.
+- **20-F, Item 4** · Business and operating footprint
+- **Item 5** · Operating and financial results
+- **Consolidated notes** · Geographic and product disclosures
+- **6-K** · Each table in the interim release gives its reporting period
 
 Quarterly operations reports describe mine production and shipments. The consolidated financial statements cover half-year and full-year periods.
 

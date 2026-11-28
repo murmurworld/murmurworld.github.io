@@ -7,7 +7,7 @@ study:
   source: https://totalenergies.com/newsroom/singapore-totalenergies-supply-sembcorp-08-mtpa-lng-16-years/?lang=eng
 ---
 
-TotalEnergies produces oil and gas, sells LNG, refines fuels and has an integrated power business. Industrial users, utilities, trading partners and consumers purchase hydrocarbons, refined products and electricity.
+TotalEnergies produces oil and gas, sells LNG, refines fuels and has an integrated power business.
 
 | Basic information | Details |
 | --- | --- |
@@ -93,7 +93,10 @@ Liquefied natural gas · [Shell](/en/blog/companies/industry-energy-materials/sh
 
 ## Where to look in the filing
 
-Item 4 of Form 20-F describes the business and operating footprint. Item 5 discusses operating and financial results. The consolidated notes distinguish geographical and product disclosures. Interim releases furnished on Form 6-K specify the period each table covers.
+- **20-F, Item 4** · Business and operating footprint
+- **Item 5** · Operating and financial results
+- **Consolidated notes** · Geographic and product disclosures
+- **6-K** · Each table in the interim release gives its reporting period
 
 ## Sources
 
